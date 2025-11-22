@@ -9,7 +9,7 @@
 -- BƯỚC 1: LOAD LIBRARY
 -- ============================================================
 
-local SeaMinhUI = loadstring(game:HttpGet("your_script_url_here"))()
+local SeaMinhUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sea-MinhHub/Sea-Ui-roblox/main/Main.lua"))()
 
 -- ============================================================
 -- BƯỚC 2: TẠO WINDOW (CỬA SỔ CHÍNH)
