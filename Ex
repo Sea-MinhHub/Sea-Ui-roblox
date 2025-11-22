@@ -1,3 +1,546 @@
-local Sea = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sea-MinhHub/Sea-Ui-roblox/refs/heads/main/Sea"))()
-local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sea-MinhHub/Sea-Ui-roblox/refs/heads/main/SaveManager"))()
-local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sea-MinhHub/Sea-Ui-roblox/refs/heads/main/InterfaceManager"))()
+--[[
+    ╔═══════════════════════════════════════════════════════╗
+    ║       SEA MINH UI - HƯỚNG DẪN SỬ DỤNG ĐẦY ĐỦ         ║
+    ║              Complete Usage Guide v1.5                 ║
+    ╚═══════════════════════════════════════════════════════╝
+]]--
+
+-- ============================================================
+-- BƯỚC 1: LOAD LIBRARY
+-- ============================================================
+
+local SeaMinhUI = loadstring(game:HttpGet("your_script_url_here"))()
+
+-- ============================================================
+-- BƯỚC 2: TẠO WINDOW (CỬA SỔ CHÍNH)
+-- ============================================================
+
+local Window = SeaMinhUI:CreateWindow({
+    Title = "Sea Minh Hub",              -- Tiêu đề (BẮT BUỘC)
+    SubTitle = "Premium Script v2.0",    -- Phụ đề (TÙY CHỌN)
+    Size = UDim2.fromOffset(580, 460),   -- Kích thước (MẶC ĐỊNH: 580x460)
+    TabWidth = 150,                      -- Độ rộng tab (MẶC ĐỊNH: 150)
+    Theme = "Dark",                      -- Theme: Dark, Light, Aqua, etc (MẶC ĐỊNH: Dark)
+    Acrylic = true,                      -- Hiệu ứng nền mờ (MẶC ĐỊNH: false)
+    MinimizeKey = Enum.KeyCode.RightControl, -- Phím minimize (MẶC ĐỊNH: LeftControl)
+    
+    -- ICON (TÙY CHỌN)
+    Icon = "crown",                      -- Tên icon hoặc Asset ID
+    IconSize = 24                        -- Kích thước icon (MẶC ĐỊNH: 20)
+})
+
+-- ============================================================
+-- BƯỚC 3: TẠO TAB (TRANG)
+-- ============================================================
+
+local MainTab = SeaMinhUI:AddTab(Window, {
+    Title = "Main",                      -- Tiêu đề tab (BẮT BUỘC)
+    Icon = "home"                        -- Icon tab (TÙY CHỌN)
+})
+
+local CombatTab = SeaMinhUI:AddTab(Window, {
+    Title = "Combat",
+    Icon = "sword"
+})
+
+local PlayerTab = SeaMinhUI:AddTab(Window, {
+    Title = "Player",
+    Icon = "user"
+})
+
+local SettingsTab = SeaMinhUI:AddTab(Window, {
+    Title = "Settings",
+    Icon = "settings"
+})
+
+-- ============================================================
+-- BƯỚC 4: THÊM CÁC ELEMENTS
+-- ============================================================
+
+-- ───────────────────────────────────────────────────────────
+-- 4.1: BUTTON (NÚT BẤM)
+-- ───────────────────────────────────────────────────────────
+
+SeaMinhUI:AddButton(MainTab, {
+    Title = "Auto Farm",                 -- Tiêu đề (BẮT BUỘC)
+    Description = "Farm coins automatically", -- Mô tả (TÙY CHỌN)
+    Callback = function()
+        print("Auto Farm activated!")
+        -- Code của bạn ở đây
+    end
+})
+
+-- ───────────────────────────────────────────────────────────
+-- 4.2: TOGGLE (CÔNG TẮC BẬT/TẮT)
+-- ───────────────────────────────────────────────────────────
+
+local AutoFarmToggle = SeaMinhUI:AddToggle(MainTab, {
+    Title = "Auto Farm",                 -- Tiêu đề (BẮT BUỘC)
+    Description = "Enable auto farm",    -- Mô tả (TÙY CHỌN)
+    Default = false,                     -- Giá trị mặc định (MẶC ĐỊNH: false)
+    Callback = function(value)
+        print("Auto Farm:", value)
+        
+        if value then
+            print("Auto Farm enabled!")
+            -- Bật auto farm
+        else
+            print("Auto Farm disabled!")
+            -- Tắt auto farm
+        end
+    end
+})
+
+-- Thay đổi giá trị Toggle từ code:
+AutoFarmToggle.SetValue(true)  -- Bật
+AutoFarmToggle.SetValue(false) -- Tắt
+
+-- ───────────────────────────────────────────────────────────
+-- 4.3: SLIDER (THANH TRƯỢT)
+-- ───────────────────────────────────────────────────────────
+
+local SpeedSlider = SeaMinhUI:AddSlider(PlayerTab, {
+    Title = "Walk Speed",                -- Tiêu đề (BẮT BUỘC)
+    Description = "Adjust your speed",   -- Mô tả (TÙY CHỌN)
+    Min = 16,                           -- Giá trị nhỏ nhất (BẮT BUỘC)
+    Max = 100,                          -- Giá trị lớn nhất (BẮT BUỘC)
+    Default = 16,                       -- Giá trị mặc định (BẮT BUỘC)
+    Rounding = 0,                       -- Làm tròn (0 = số nguyên, 1 = 1 chữ số thập phân)
+    Callback = function(value)
+        print("Speed set to:", value)
+        
+        -- Set speed
+        local player = game.Players.LocalPlayer
+        if player.Character and player.Character:FindFirstChild("Humanoid") then
+            player.Character.Humanoid.WalkSpeed = value
+        end
+    end
+})
+
+-- Thay đổi giá trị Slider từ code:
+SpeedSlider.SetValue(50)
+
+-- ───────────────────────────────────────────────────────────
+-- 4.4: INPUT (Ô NHẬP LIỆU)
+-- ───────────────────────────────────────────────────────────
+
+local UsernameInput = SeaMinhUI:AddInput(SettingsTab, {
+    Title = "Target Username",           -- Tiêu đề (BẮT BUỘC)
+    Description = "Enter target name",   -- Mô tả (TÙY CHỌN)
+    Default = "",                        -- Giá trị mặc định (MẶC ĐỊNH: "")
+    Placeholder = "Type here...",        -- Placeholder (MẶC ĐỊNH: "Enter text...")
+    Callback = function(text)
+        print("Username entered:", text)
+        
+        -- Xử lý text
+        if text ~= "" then
+            print("Target set to:", text)
+        end
+    end
+})
+
+-- Thay đổi giá trị Input từ code:
+UsernameInput.SetValue("NewUsername")
+
+-- ───────────────────────────────────────────────────────────
+-- 4.5: DROPDOWN (MENU THẢ XUỐNG)
+-- ───────────────────────────────────────────────────────────
+
+local WeaponDropdown = SeaMinhUI:AddDropdown(CombatTab, {
+    Title = "Select Weapon",             -- Tiêu đề (BẮT BUỘC)
+    Description = "Choose your weapon",  -- Mô tả (TÙY CHỌN)
+    Values = {"Sword", "Gun", "Bow", "Magic Staff"}, -- Danh sách giá trị (BẮT BUỘC)
+    Default = "Sword",                   -- Giá trị mặc định (MẶC ĐỊNH: giá trị đầu tiên)
+    Callback = function(value)
+        print("Weapon selected:", value)
+        
+        -- Equip weapon
+        if value == "Sword" then
+            print("Equipped Sword!")
+        elseif value == "Gun" then
+            print("Equipped Gun!")
+        end
+    end
+})
+
+-- Thay đổi giá trị Dropdown từ code:
+WeaponDropdown.SetValue("Gun")
+
+-- ============================================================
+-- VÍ DỤ HOÀN CHỈNH: SCRIPT AUTO FARM
+-- ============================================================
+
+-- Load UI
+local SeaMinhUI = loadstring(game:HttpGet("url"))()
+
+-- Tạo Window
+local Window = SeaMinhUI:CreateWindow({
+    Title = "🌊 Sea Minh Farm Hub",
+    SubTitle = "Premium Edition v2.5",
+    Size = UDim2.fromOffset(600, 480),
+    TabWidth = 160,
+    Theme = "Aqua",
+    Acrylic = true,
+    MinimizeKey = Enum.KeyCode.RightControl,
+    Icon = "crown",
+    IconSize = 26
+})
+
+-- ═══════════════════════════════════════════════════════════
+-- TAB 1: FARMING
+-- ═══════════════════════════════════════════════════════════
+
+local FarmTab = SeaMinhUI:AddTab(Window, {
+    Title = "⚡ Farming",
+    Icon = "zap"
+})
+
+-- Variables
+local autoFarmEnabled = false
+local farmSpeed = 16
+local selectedMob = "Bandit"
+
+-- Auto Farm Toggle
+local FarmToggle = SeaMinhUI:AddToggle(FarmTab, {
+    Title = "Auto Farm",
+    Description = "Automatically farm selected mob",
+    Default = false,
+    Callback = function(value)
+        autoFarmEnabled = value
+        
+        if value then
+            print("✅ Auto Farm Started!")
+            
+            -- Auto Farm Loop
+            spawn(function()
+                while autoFarmEnabled do
+                    -- Farming logic here
+                    print("Farming", selectedMob, "...")
+                    wait(1)
+                end
+            end)
+        else
+            print("❌ Auto Farm Stopped!")
+        end
+    end
+})
+
+-- Select Mob
+SeaMinhUI:AddDropdown(FarmTab, {
+    Title = "Select Mob",
+    Description = "Choose mob to farm",
+    Values = {"Bandit", "Boss", "Elite Guard", "Dragon"},
+    Default = "Bandit",
+    Callback = function(value)
+        selectedMob = value
+        print("🎯 Target:", value)
+    end
+})
+
+-- Farm Speed
+SeaMinhUI:AddSlider(FarmTab, {
+    Title = "Farm Speed",
+    Description = "How fast to farm",
+    Min = 1,
+    Max = 10,
+    Default = 5,
+    Rounding = 0,
+    Callback = function(value)
+        farmSpeed = value
+        print("⚡ Speed:", value)
+    end
+})
+
+-- ═══════════════════════════════════════════════════════════
+-- TAB 2: COMBAT
+-- ═══════════════════════════════════════════════════════════
+
+local CombatTab = SeaMinhUI:AddTab(Window, {
+    Title = "⚔️ Combat",
+    Icon = "sword"
+})
+
+-- Kill Aura
+SeaMinhUI:AddToggle(CombatTab, {
+    Title = "Kill Aura",
+    Description = "Auto attack nearby enemies",
+    Default = false,
+    Callback = function(value)
+        print("Kill Aura:", value)
+    end
+})
+
+-- Attack Range
+SeaMinhUI:AddSlider(CombatTab, {
+    Title = "Attack Range",
+    Description = "Range to attack enemies",
+    Min = 5,
+    Max = 50,
+    Default = 15,
+    Rounding = 0,
+    Callback = function(value)
+        print("Attack Range:", value)
+    end
+})
+
+-- ═══════════════════════════════════════════════════════════
+-- TAB 3: PLAYER
+-- ═══════════════════════════════════════════════════════════
+
+local PlayerTab = SeaMinhUI:AddTab(Window, {
+    Title = "👤 Player",
+    Icon = "user"
+})
+
+-- Walk Speed
+local SpeedSlider = SeaMinhUI:AddSlider(PlayerTab, {
+    Title = "Walk Speed",
+    Description = "Change your walking speed",
+    Min = 16,
+    Max = 200,
+    Default = 16,
+    Rounding = 0,
+    Callback = function(value)
+        local player = game.Players.LocalPlayer
+        if player.Character and player.Character:FindFirstChild("Humanoid") then
+            player.Character.Humanoid.WalkSpeed = value
+        end
+    end
+})
+
+-- Jump Power
+SeaMinhUI:AddSlider(PlayerTab, {
+    Title = "Jump Power",
+    Description = "Change your jump height",
+    Min = 50,
+    Max = 200,
+    Default = 50,
+    Rounding = 0,
+    Callback = function(value)
+        local player = game.Players.LocalPlayer
+        if player.Character and player.Character:FindFirstChild("Humanoid") then
+            player.Character.Humanoid.JumpPower = value
+        end
+    end
+})
+
+-- God Mode
+SeaMinhUI:AddToggle(PlayerTab, {
+    Title = "God Mode",
+    Description = "Take no damage",
+    Default = false,
+    Callback = function(value)
+        local player = game.Players.LocalPlayer
+        if player.Character and player.Character:FindFirstChild("Humanoid") then
+            if value then
+                player.Character.Humanoid.MaxHealth = math.huge
+                player.Character.Humanoid.Health = math.huge
+            else
+                player.Character.Humanoid.MaxHealth = 100
+                player.Character.Humanoid.Health = 100
+            end
+        end
+    end
+})
+
+-- ═══════════════════════════════════════════════════════════
+-- TAB 4: TELEPORT
+-- ═══════════════════════════════════════════════════════════
+
+local TeleportTab = SeaMinhUI:AddTab(Window, {
+    Title = "🚀 Teleport",
+    Icon = "rocket"
+})
+
+-- Teleport to locations
+local locations = {
+    ["Spawn"] = Vector3.new(0, 10, 0),
+    ["Shop"] = Vector3.new(100, 10, 100),
+    ["Boss Area"] = Vector3.new(-200, 50, -200),
+    ["Safe Zone"] = Vector3.new(500, 20, 500)
+}
+
+for name, position in pairs(locations) do
+    SeaMinhUI:AddButton(TeleportTab, {
+        Title = "Teleport to " .. name,
+        Description = "Click to teleport",
+        Callback = function()
+            local player = game.Players.LocalPlayer
+            if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+                player.Character.HumanoidRootPart.CFrame = CFrame.new(position)
+                print("✈️ Teleported to", name)
+            end
+        end
+    })
+end
+
+-- ═══════════════════════════════════════════════════════════
+-- TAB 5: SETTINGS
+-- ═══════════════════════════════════════════════════════════
+
+local SettingsTab = SeaMinhUI:AddTab(Window, {
+    Title = "⚙️ Settings",
+    Icon = "settings"
+})
+
+-- Theme Selection
+SeaMinhUI:AddDropdown(SettingsTab, {
+    Title = "UI Theme",
+    Description = "Change the UI theme",
+    Values = {"Dark", "Light", "Aqua", "Amethyst", "Rose", "Darker"},
+    Default = "Aqua",
+    Callback = function(value)
+        SeaMinhUI:SetTheme(value)
+        print("🎨 Theme changed to:", value)
+    end
+})
+
+-- Discord Username
+SeaMinhUI:AddInput(SettingsTab, {
+    Title = "Discord Username",
+    Description = "Enter your Discord username",
+    Default = "",
+    Placeholder = "username#1234",
+    Callback = function(text)
+        print("Discord:", text)
+    end
+})
+
+-- Save Config
+SeaMinhUI:AddButton(SettingsTab, {
+    Title = "Save Configuration",
+    Description = "Save current settings",
+    Callback = function()
+        print("💾 Configuration saved!")
+        SeaMinhUI:Notify({
+            Title = "Sea Minh UI",
+            Content = "Configuration saved!",
+            Duration = 3
+        })
+    end
+})
+
+-- Destroy UI
+SeaMinhUI:AddButton(SettingsTab, {
+    Title = "Unload UI",
+    Description = "Destroy the UI",
+    Callback = function()
+        SeaMinhUI:Destroy()
+        print("🗑️ UI destroyed!")
+    end
+})
+
+-- ============================================================
+-- NOTIFICATION EXAMPLES
+-- ============================================================
+
+-- Simple notification
+SeaMinhUI:Notify({
+    Title = "Welcome!",
+    Content = "Sea Minh UI loaded successfully!",
+    Duration = 5
+})
+
+-- Notification with subcontent
+SeaMinhUI:Notify({
+    Title = "Auto Farm",
+    Content = "Started farming",
+    SubContent = "Target: Bandit",
+    Duration = 3
+})
+
+-- ============================================================
+-- THEME EXAMPLES
+-- ============================================================
+
+-- Change theme anytime
+SeaMinhUI:SetTheme("Dark")      -- Theme tối
+SeaMinhUI:SetTheme("Light")     -- Theme sáng
+SeaMinhUI:SetTheme("Aqua")      -- Theme xanh nước
+SeaMinhUI:SetTheme("Amethyst")  -- Theme tím
+SeaMinhUI:SetTheme("Rose")      -- Theme hồng
+SeaMinhUI:SetTheme("Darker")    -- Theme tối hơn
+
+-- ============================================================
+-- ICON EXAMPLES
+-- ============================================================
+
+--[[
+    DANH SÁCH ICONS CÓ SẴN:
+    
+    🏠 General:
+    - home, settings, search, activity, airplay
+    
+    👤 Users:
+    - user, users
+    
+    ⭐ Badges:
+    - star, crown, trophy, shield, gem
+    
+    ❤️ Emotions:
+    - heart
+    
+    🎮 Gaming:
+    - gamepad, sword
+    
+    ⚡ Effects:
+    - zap (sét)
+    
+    🚀 Others:
+    - rocket
+    
+    ✅ UI:
+    - check, x (đóng), minus (minimize), chevron-down
+]]--
+
+-- Dùng icon trong Window
+local Window = SeaMinhUI:CreateWindow({
+    Title = "My Hub",
+    Icon = "crown",          -- Icon vương miện
+    IconSize = 24
+})
+
+-- Dùng icon trong Tab
+local Tab = SeaMinhUI:AddTab(Window, {
+    Title = "Home",
+    Icon = "home"            -- Icon nhà
+})
+
+-- Dùng Asset ID riêng
+local Window2 = SeaMinhUI:CreateWindow({
+    Title = "Custom Hub",
+    Icon = "rbxassetid://123456789",
+    IconSize = 22
+})
+
+-- ============================================================
+-- LƯU Ý QUAN TRỌNG
+-- ============================================================
+
+--[[
+    ✅ TIPS:
+    
+    1. Luôn lưu reference của Toggle/Slider/Input/Dropdown
+       nếu bạn muốn thay đổi giá trị từ code
+    
+    2. Dùng Description để giải thích rõ chức năng
+    
+    3. Theme tốt nhất: Dark, Aqua, Amethyst
+    
+    4. MinimizeKey mặc định: LeftControl (Ctrl trái)
+    
+    5. Kích thước Window tốt nhất: 580x460 đến 600x480
+    
+    6. TabWidth tốt nhất: 150-170
+    
+    7. Icon size tốt nhất: 20-28
+    
+    8. Callback sẽ chạy mỗi khi giá trị thay đổi
+    
+    9. Dùng spawn() hoặc task.spawn() cho các loops
+    
+    10. Luôn kiểm tra Character tồn tại trước khi modify
+]]--
+
+print("✅ Sea Minh UI đã load thành công!")
+print("📖 Xem hướng dẫn đầy đủ trong code")
