@@ -1,6 +1,4703 @@
---[[
+-- Soucre Fluent ui Thanks 
 
-obfuscated @ discord.gg/25ms
 
---]]
-return(function(...)local I={"i/IhtKV=","ZKcEqVE=";"wZ0=","T4H+";"dhb9/WE=";"2Ld=";"2lCDzh==","tie1Osg=";"23kLVX5=","DSapAh==";"cqCu8J9=";"vqTEner=";"qGJeYcr=";"XhpXv2==";"CwLv2Lr=";"m/He9eE=";"MWXKZ5==";"b8m5","5WO=","G79pC5==";"FxCO";"o2lOhW5=";"1mAE/Md=","rzr0VO0=";"Rfh4";"oUvkGV==","jiv6lQk=","AD0TbId=","nCr=","9V==";"0eK4";"EbORo2==";"NgI84h==","r18iuR9=";"H9JlBh==","50Xzjh==";"N1dq+NE=";"EfUcj5==","Ny+rKLl=","dj7kcYd=";"VpHim4+=","29Px";"XHpK+Il=","TZ/Y2X0=";"6WXE22==","WlYwArd=","vo3=";"RoHOWZ0=";"iQ+4M5==";"5x2Nk5==","140nv7r=";"O5h=";"3q30xKl=","Y8h=";"LMy9Yq3=";"dIGy4z0=","gJ8ngGr=","1t0dtM0=","kAY1S/O=","a+LRIV==";"YNQj";"wOOjGuE=";"cBkbU/h=";"OtWvFfg=","ph==","d60AMgE=","o9WLZhr=","VpTn/39=","1Lokfeh=";"SAE=";"Zz0+dA9=";"zSwu8Zl=","Rdh=","xo1ZJid=";"YYIt6ur=","Orauh5==";"dtroR2==","UGOy6Nk=";"1EabeM2=","0h==";"7BSjs2==";"5FF6vF+=","CoEG+L3=","GzsvpnX=","3Zr=";"1TBzQxX=";"X7TTTrr=";"CKsz+v3=";"RKprdA0=";"Fp8bFol=","3x7Cwed=","UHTJ4dX=","RIlH0Dl=","v322iK5=";"WbGnUyE=";"8MvPyHg=";"Nwhi7B3=";"S00Bj5==","96fMpI+=","HjU802==";"3tYzO5==","QPmbgM0=";"LsoiiWE=";"9wnDLE5=";"izCgAoE=";"XGxsovX=","7Y6/IUX=";"ZbOkuH3=";"r6wHBEO=","cLz3B4V=","ROX=";"DdbqUGO=","Bzg=";"Kci9eV==","fX+m","tafuxW2=","9pqOF5==","ZO5=";"I7qTKT5=","FIbtss0=","0rlyXlV=";"TKeK";"yTSDlC5=","IDag+dk=";"CK4XJAV=","SReJPK5=";"QLJMt2==";"W42=","sW4IKKk=";"J9exk25=";"zpOnPVl=";"5MD5p92=";"07H3uU5=";"boWhnV==";"1oTQ","2wV=";"LRr=","FZ6Oc+E=";"R2==";"FCh=","Hf2CG69=","AoB+nsV=","wJJEgnE=","aEYGDyh=";"PMokr5==","iXPUKCX=";"v6qePal=";"zH+ByK+=","DY6atJr=","HmXgSuX=","hXeFsl3=";"OXLXZC5=";"8qqK","02w96ak=","O76BvAE=","j8gvicg=","0V33DV==","8uKAdmX=";"DDKuJOl=";"tpVhVRO=","kuhTk4r=","diFXOSd=";"aF1t","VjvQWnr=","gb4dqE5=","1CvOISk=","n2OJ","wSkeZC3=";"GZCiw2l=","TaTTj2==";"GEDZjhg=";"65wjT2==","Dk+=","cC9obhX=","V+dqJB0=";"iWUwzV==","JUIfCoO=";"yH1Zfgl=","mamT";"erupkE+=";"Dzz7Kag=","+a+=","R5PGLMr=","FU2iP4g=","yW7H95==","k6JDvQk=";"6vcl8/9=";"Di5WPV==","fGCO2r2=","3U3eLA5=","FtbqMRg=";"k6zEYP3=","YpSIPWh=","6u8VHZh=";"1IavMV==","pk6JYOg=","lbxIHoV=","duPyC10=","wz6K";"GHk=";"Gcv7";"Eoz5LIE=","3NfSYJX=";"IM5XRfV=";"8FFH","y/0=";"GF2=","xXkJ3rg=";"2aOvu2==";"vx9NlR5=","Zxo6kh==";"+g8KvVd=";"tQJS","Z6/Vlql=","k0tWOV==";"vUJy";"OBZ5h2==";"2SPiTAV=";"Z4MeNR+=","KLujGw+=","pV==";"1CKE1cE=";"j7/8cFh=";"3VpoyWl=";"0R2uLPE=","5MWx";"Gj57EV==","+5==","DH3tnN9=";"76TTVRl=","DDI5aLO=";"mm1b6p5=";"tjsWK9l=";"z2f9l05=","QyIfz8+=";"U5QHORl=";"RecbnQr=","YjkDeV==";"FdCq6Dk=";"QY7yElO=","yZ+EYcV=","RifwZV==";"BDoBgV==","nkmzEc9=","13MPl1h=";"/Bhe","+BdKxdr=","hV==","W8oPQO9=","ImAZ8ZE=","atO=";"FibsK7r=","qIl=";"Iyk=";"jhrDXd2=";"zwEnDpd=","BPVZJh==";"ogF4Cz3=","Jd0=","zQZA";"oHr771h=";"o7StMh==","BwBY/5==","Chd=","2w0pic0=","1jC9","zWpOjfE=";"IVM2";"j8yjMp3=","r54X/dh=","PFqTy5==";"H/IvKW0=";"AcxG","mS9L8wg=";"4f34";"9AJuITX=","e4/yYV==";"l0MW+q+=";"ZI7e+2==";"6A1atqE=";"bWlFuch=";"en05Nr5=","vqnt95g=","Z/9xLQ3=","jvUiACV=","/uCJvh==";"M2==";"4P0qpdE=","GrYjaDV=","+sqktZV=";"DYUfWE0=";"oTQE6L2=","I6mF9WV=";"CiKz";"VE6P6Og=","sI2cD2==";"rYNJ";"9p9/","XXMKiV0=";"YK+E02==","sD3v3A5=","MBX=";"knypmv5=","aNcoRmV=";"WI+wuZE=";"wKVliud=","z7CBNHE=";"w2==","/5==","jGmtAGg=";"WO0=";"US/0";"0GVei8d=","qSr8ieO=","skFru2==","pINpjh==","HND/SVr=","4V23XQl=","dS75WC5=","JYPGE82=","Dbcc","npxJlV==","p05HgbX=";"bh==";"+sM7Z+l=";"OtdN56V=","FOYP","TQ4EKh5=","Oft4trX=","Y0OIAV==";"RG0tf5==","cQBT8GV=";"d8Z8";"6O3=";"WjUVUEr=","5vcc","Df41","YHYB";"rQgt8Jk=","2X0e7mh=","9D9=";"DpjmF15=","X5==";"GJ3=";"b8rfSPX=";"AVlf+5==";"XLOk02E=","6h==","4r6Ayr+=","5U8kLOr=","4ry1kD9=";"dDw9AId=","D8Wglh==","EQ6BJBk=";"olKnmb9=","88mvxVE=","Al+0M7V=";"fjL8a2==","VvRkTh==","PGEaMk5=";"ZcXoDV==";"ob0c7Bl=";"t5==","zfKESH+=","yiW9a2==","Novv";"JQG8","/YqNo7g=";"y4LhAg+=","jl7q0Id=";"RiNk","kFMym2==";"7/zMt23=";"Gz4pbwh=";"sDlY2N3=";"kig=","1QE=";"u/e/2h==";"3DuSvh==","m6DWmG0=";"ByH2/fr=","AP+=","9QLo","6PO0GG0=";"kVbFp8r=";"2Q0mqWV=";"g93LjXO=";"3R87","XVT97Ah=","lsHAN7+=";"g8k=";"A++=","B+t7BV==";"7rO/pRE=","C2==","42tiSKV=";"B/j4eCh=","tJ61","YIbu","sIk595E=";"+YZcO20=";"aUTeHV==","jN4aZah=","OXQVpu9=","SbC8Hy0=";"z3wjl5==","P0RkQ2k=","eb7y","B3hctpX=";"8HrCJd9=";"t8nvo5+=";"NYrgXV2=";"OzIp","w+tuyV==";"+8l/D7X=";"45h5CEE=","sAnWhh==";"Xxg=","roAgQph=";"5bENigl=";"LMsKa/k=","r0V32F+=","Mg4LDa0=";"vW+ZwLg=","74Q+vhO=";"flYG6oE=";"be/vQor=";"kMPXCh==";"q5==","eJd=";"lY1X8V5=","Qo2FEO+=";"P93VIRk=";"bNfzKDr=","0LtXxV9=";"cg31XV==";"Om5Rqh==","LWMJn1X=";"oUZCxlV=";"Bz2xb5==";"hMA+42==","wD61mmk=";"WowR1V==";"g+3Z";"2G5R";"trMe4KE=","WMLS3uk=";"jAoV";"QK2ZYGO=","f3ym8U9=";"04K8gh==";"DfJKoV==","fapDx3k=","mLx+","80+yVJO=";"9mXba8h=","ty2ty+r=";"HEerj5E=";"OCnD513=";"onnAFNh=";"tHnuz2==";"wo3ioO2=";"QxIkxmg=";"lbhTC2==";"Vq8Huh==","nyD3Xx+=";"YKE=","HrPgK1l=";"8Ww994+=";"iHW6dz3=","ogV=","pLVqXXV=";"7J/cIE2=","/NcZQR3=","CDd9XxX=";"w83fu2g=";"loKx+q9=";"eWGpy5E=","L3m5";"SMie2Qk=";"AhFCAwd=","+H5s";"gjZ0kgO=","bSy6mkl=","x6N26n0=","2sH5A5k=";"jLA80o2=";"0E/wBz3=","5sL4Y7h=";"MF9=";"FJ9zFhk=";"ltwaol0=","oWitDBO=";"32xfl5==","nU6LbSX=","7rmyOrX=";"dmhaV0r=";"xiB6t43=","VYvKwjO=";"L5Vhq1g=";"XFprmbE=","halw4Rg=","Sqqrkgl=";"qKHuHbr=";"6ovQwKE=";"ylltWsO=";"R8tge2==","rNx3xV==";"+seF61O=","Nh==","QP9=","VkjxfNV=","h2==","LT/8Uh==","JxkB4a0=";"nNVC2vh=";"cXEUCKO=","binPZE0=";"mOor","rF1ZSw3=";"sLoJGQ2=";"w5==";"srraAPE=";"zTwnAek=";"bDysgV5=","2COsWQd=","nNCD","LpDyrgO=";"dOl=";"QJAEYLl=","QRJZ45==","6pGB+0k=";"fNwG";"8i4Y8M9=";"TJFait+=";"IXF9aVh=";"1nwwJV==";"YiBt";"4IuzSdh=";"6Hsy0vr=";"krwZq00=";"oK9uLKX=","qb1ftIh=";"uEaUr5==";"qUh=","iwW2M2==";"ABlF","exPFR65=","Nr6P","DMvPLQeKbZfVkj1lbD7wLaymLnPJbZ5p9weXLGvWEI+JEw1ZkKvPbwhp";"G8/ZPgE=","/uIo","4Wix","ELUx";"kDeuSG5=","yBer87X=";"XVEZHid=";"rW+Okrd=";"B34whh2=","SBuu";"DH2BqiX=","z90wc9k=","nkQL","lh7QOjX=";"6yxH3y5=";"9qG6";"tcLK95==","P8ciwh==";"0nvN2tX=";"UYE=","tMx0gh==";"uWpT","eBAIHV==";"rYLFWh==";"g36PjG+=";"z09zWSr=","TKQ4";"ZJfwwdE=";"b7RpVh==";"Bw1ViWh=","AJI4WCh=","S/5Z025=","NjlqPF2=","nulNbxX=","CH2Cukd=";"aN2jJ5g=","wi+=";"NT2=","81E=";"ca5zXgX=","iosYwd5=";"2k9xV2==";"0uwABh==";"W4V+x5==";"OplArg0=";"6ah=";"vB9ATX3=","+0GWLUg=";"hb9TlUE=";"bxTGgI9=";"y1k3","5WeZ";"3GE=","9uihZDr=","oW0tR2==","F3/OIV==","WsuqFI9=";"MDSKQ2==";"ZVdZdDr=","EuD4IW9=";"WbzBaV==","JcozbV==","SAZwzn9=","z5Qj3lk=";"gDLxWng=";"iLMJ";"fKiAb60=","zJtAjH0=","W3XjI2==";"gW1kcsh=","SyOi55==";"/7RO0Jr=","1f9hDPO=","Tbwa","BeuB","CpVL";"H5/I";"29Yh","cYS/a3g=";"LuO=";"1acr5sE=","G8jaZ5==";"RXEBwLV=";"YKO6URk=","EVXtV7X=","tMvAJTk=";"KVKdlal=";"JFG0LSX=";"1Z1T5h==";"Ws64+D0=";"c2s+zqE=";"xAO=";"U6/bZ8l=","hWGxmHE=";"Bfqo5F3=","GerivO2=";"z0IGH4r=","KePFNed=";"U53z","JIO=","ueCD","bnH/v0k=","hfThmgg=";"aShPukO=";"3h==","Zud=","mQW4Oh==","s6I9o1r=","i0akBfE=";"n0XMsvV=","4/sMjy0=";"0COjaNl=","+uTT7ZE=";"M6zR07r=";"BGLba5==";"3UzzEV==";"yeqEJKO=","9t/mwQk=","wkuIwPh=";"2YzstCX=","";"N4IjZnV=","6aUK";"j1msngX=","ZtMv","giNi8zV=","Tc72";"snZqOuh=","AV==","gAl=","d6T3QL3=","9Numow2=";"7a0=","PB2UQRd=";"TNIVZL2=","ZOvd";"bdYLxnk=";"/XuN4s9=";"IaTYd5==","+0nZ";"Tz6q","nQmiC5==";"Cm+e6h==","v2hraDd=";"vqNkTvh=","lIV=","YzIa1pg=";"pg11Jd2=","IZE+h7E=";"5qW2/Il=","HnLJh+5=";"yz8fopl=","LqvKaZO=","TW4PGcd=","PeePPeE=","YWgSPZX=","ArbCEcd=";"CG5=";"ada6QRE=";"8DX=","MxUByZd=","Xkx+LSO=";"E6CYFHX=","fNBJgV==","0SI405==","5V==","Oh==";"H/s6","CX2yN+g=";"AcRXzoh=","WXvl65==","32==","phezGdh=";"yisW";"sCVg9Gg=";"l9M6bul=","dkegSXh=","BLiEZ13=";"bVIxKV==","Zuy0F5==","u1O=","L9LTI1E=";"1kOI8sk=";"Oy9ZnLd=","3diJHYE=";"o5sMrV0=";"szuRbml=";"edL349O=","s93jEQV=";"tt7gBh==";"7MQd";"iSCF4zg=";"H7Yd+oh=","Ikh=","YcvvZbd=";"guAKuU0=";"Fp6/+mV=";"XXBP9Q3=","Omgx29d=";"xGewtsh=";"wV==";"u6n8kFg=","xD9=","zAffAME=","O5gkqPh=","75==","lEcUn/g=","fUm6QSO=","tW3RZI2=","W2==";"mP9G8NX=";"I+9=";"Jy6UgJg=","Ude5Wh==";"jMPKMB2=","XJtZ5b5=","GLCCOor=","HhOU5Bg=","bf0=";"PSqeXv3=","jd7tL2d=","qA+nIZk=","MrUrKMk=","ySe3kok=","JYUQhjg=","Z20j";"ZV9=","o/dJ8Hk=";"CTgX3ir=";"WR3DmVg=","vlnnXHV=","gmv34iV=","jsTQyq3=","s75=","2VwZ3Qr=","b+YlobE=";"VwNZzV==","S9ijeMX=";"ENUPrYO=";"IKpN";"Y65+lVO=";"MGjNZO3=","l9mK3GO=";"v5==","07cVx5==","1WqPox3=","Bdd2","oBbaYv3=";"BNgT48k=","wg16G2+=";"Pih8pld=";"grHJke2=","BeLHqUg=";"+sjOLV==";"fjjGPhX=","I0JcHV==","ZklG";"uqARAGg=","MgBn3Z5=","z0mg/1E=","nc1wx72=","aAnCVpE=","Lbd=","C+ee+BE=";"8Ywbetr=";"WC3lmh==";"AmKRRfX=";"CwEUVTd=";"U6jA";"u0aG","t13RQV==","LMWLm2==";"c29=";"ybHdZ/g=","c8IT","tT+=";"2G+=";"fuV=";"6sJw";"7amg9M+=","1jg=";"uMtkt5==";"mpzrPx2=","DSvB","rFl=";"xBh=","YDybuI5=";"ARJmn5==","75iJHZ9=","FpybZGh=","3+s1j9O=";"6YB6qh==","kV==","y1kNgM2=";"1XBl+ur=";"fm6qllO=";"KOPE7P2=";"S3grprh=";"Q3Bnx5==";"3FdKLPg=";"A1T+gXE=","CbOO4Ql=","GIqZ03d=","9L3wkY0=";"ZkyiByV=";"c7mOsEk=","JBjDjqE=";"rJc3vV+=";"9URRe2==";"ex234i5=";"Pn2=";"WFr=","r7lW8kV=";"h5gAfFd=","/8QCKPE=","0nLv4S2=","lwOa49h=";"Sf3=";"r3+BVlr=";"Yvd0jmr=","Q7wrDiO=","+fAuV/g=";"fm4w","nYCGLh==","mcV1","6VqXsDO=";"Dc2BarO=","Rn2=","muTwL0V=","3if2";"y41JH+r=";"hEGz12==";"MrhlxaO=","kt+=","bIg=","a/LQ";"zQucfzV=";"BzrK+u5=","sXxv";"wDlz","u4zh";"JLHRFh==","Wh==","IThKurO=","PSbeW80=";"ngE=","QvdI2h==","vK52/U2=","FQcf7k0=","NOpK6i5=","9KqSdg5=";"blx0";"ex06fUV=";"J0YRfD9=","2ijHWvg=","ihcLlF9=";"fnvg/xk=","8KVn9QV=";"QTmK+Yr=";"Qu0HGCE=","apS3","p1kEF5==","XnUonD0=";"q55nu2==";"kM2=","n1gA0m2=","IXNKuL9=","FNUWuk9=";"psMnaD+=";"AUusgGr=","mCmowh==";"zth=";"Iq2F8K+=","y2f7Md+=","kj7795==";"KavBRlV=","GiALevV=","ZkMQ","s8+Yv3O=","R2k=","ezh=","d0sl","eEnJ3h==","qVVZfX2=","neQcwhE=";"xbnKUP5=";"keTGAkh=","ENo9R25=","RE3=";"JV+/sBd=","DMlAcpl=","v32=","AM0EhW3=";"EoRAKF2=";"TX1yRYl=";"Dyh=","VJ7SlO5=";"uvN0PV==","lD7Qf5==";"SV==";"kxFVHir=","g01g+K2=";"ql+3";"oX3=";"W73m","WFoCqDO=";"fKl4hL3=";"/k2=";"fQqW";"gfE=","2R3=";"YgTiGqO=";"GDOSq5+=","kxsgoy5=";"dmUhgrX=";"1vji3D2=";"ZgInE+X=";"MuitxLg=";"933zbV==";"wElnYV==","6K5aXeh=";"dVloj5==";"sRzlMYl=","5nOHG5==";"84t88yV=","ZpQEqeg=","Z0MsGb+=";"RT0uyV==";"cuN50F+=","my+kRQ+=";"EstH";"VQNsi0l=";"FVaTOGr=","AiqjJV==","e5==","J2==","qDnENPV=";"dbto";"31IKMiV=";"Nqm+6i5=";"vy87Ah==";"Nu7R","D9My";"h10OOFl=","CDOAYb5=","KEC36DX=";"akKM35==";"2CicNH0=","rAf3r2==";"d1mGr6h=","Q3T2mBX=","FJ+UavV=","OB1VBAO=";"u9D3bXl=";"oI3+VoE=","vMsL";"YnZXaHl=";"873=";"GV89fh==","LyvxHEE=";"u3dI","mWm8";"yy9OOh==";"mtLyMpX=";"59I2OA2=","9gI9kWO=","9yXAyx9=";"T2==","JjE=","u5Yj","tJEXyw+=";"yw/BUal=";"DPnJOvO=";"YUaKu4l=";"IXBaCDk=","spGTPV+=","orj2U2==","fAFDqFk=","nItmhT9=";"YTuRqJl=","ynuz3gX=";"pMIafXg=","I8NSr1r=","NUqf";"jQ0OUdV=";"WCjPuFE=","2XTksc9=","Jus62/O=","Qh==","OW+l","rgHQ","0YEVJk3=";"5FeLKm5=","yPCj9yO=";"8ow7TXV=","w6sBFYl=";"yvcQ4h==","dZ/7rQ9=","UGYMJ2==","Fpk=";"FSMzhlg=","Fzu+dv+=";"SeGEb1l=","yPwM","aAs+";"Hw/krM9=";"9bl8OR2=";"pInhNSO=";"V2==","k8zT","AGfe4eh=";"4Pyc";"Px3dYzk=";"ZfFYXkO=","MMXaCo5=";"ccpVj3l=";"2sNIMC5=";"GLIJ08k=","gGyKFdV=","BD91a/X=","kgy59Wd=","8VzOSv9=","rp91lP5=";"SgsVzS+=","Kywv";"CBQXZM2=","KSxtQEr=","969Sicd=";"S52=","VpdhW5==","K2==";"RXEs5kh=";"+djKwAX=","1eLV1o+=","8y1HVGO=";"L19=";"Q7sg7El=";"BV==";"bEO=","EKE=";"67n3LQk=","jIWYUKh=","wJM9Apd=";"06qT9Rg=","q/r=";"Kk45dnE=","yKEjS5==","UZ8O9h+=";"wzeGQ5V=";"Zs4SLiO=";"0HA/mEr=";"jcjdz0O=";"4rIRkkX=";"XXSCc3r=","/IXk4V==";"sj8YStl=";"c4BcA90=","c5==";"jUaUBl3=","YhlP","Eylyqo3=","2WH3ccX=","/OjaKA5=","T1u9wW3=","n35t","bj3yhV==";"sV==";"GcEQYZk=","cJEjFHk=","mnJY","jf0W75==","fEKtZs2=";"ITz1UJl=";"amYRHBr=";"RGH3rf3=","fC7JZt+=";"dTeVXJr=","abRMZh==";"SbuGHtd=";"sPqAETX=","zcfW3EX=","wvDidy2=";"xJoq5h==";"C8O=";"x55SpAO=","YVg=";"Jkx+jr2=";"cptDE2==";"BZoJ","A2==";"xLO=","ETVdLyh=";"rhJbte+=","dkpCzV==";"4WXR","091AcJh=";"C1yisgr=","+dMiaK2=";"LJK4rZV=","2y/1","br4B0pg=","+Hit","PoJe","ZEjv";"5fbsd6X=";"98mrMLh=";"AZBR3b0=","vzY5GVd=","X3w3","rQg=";"KrQW";"d5==","6krnzWE=";"Rtasoy2=","sc70";"SmSS";"Zhhjy7E=";"TQ3V7Y0=","s+RX","XV7z35==";"pXiR","ddKgGXE=","rWZWEV==","QSRc810=";"Tgbx4mg=","HQaN05==";"EXuErV0=";"g81pr23=","Xbe4T2==","L2==";"rThjAh==","cH3=";"6d7z/j3=";"SjLkoAr=","D2Jg","zpX=";"LLAHhh==","qK1E";"fOBu99d=";"3TXnA7d=","Wo5=";"Kh==";"ARhhZP0=","FrC7TfV=","YCCd1h==","2tYOWCX=";"wPwyrH0=";"MUd3mSX=";"vTMzZzV=","1xeNax0=";"86p1yAO=","ywfKlKh=";"G/77vxd=";"11XXefO=";"c2/gyk0=";"0PLQ";"rMrbuzd=","OI9/w5==";"9zoPoD+=","zsOv9UX=","ztxEuvE=","Ab07BmX=";"LUTy";"u5ygMBd=";"wFbTj4X=";"PPTk6b2=","q9O=";"unzD","4xSyRCd=";"BWOinTg=","Pa8q";"GPSlGh==","on3=";"hWuybdr=";"rh7h","ReEMRek=";"atZXYeO=","wmq8T2==";"m7TqIR9=","23CfeBg=";"CQe+X9r=";"lplA02g=";"H4nn";"vn9T4h==";"I6qWzh==","sXb6Gak=";"P8TAbUh=";"ge2C";"fJxj6A9=";"Bs5tcvX=","Ylibp2==";"eJX=";"oySlVO0=";"Ez8vyh==";"qX2Q";"K/g=","jV4X6Td=";"2nTYb5==";"xkc7F4l=";"y9yt";"GPTh1g0=";"D4dfCH+=","n9K+J55=";"J84ZnHk=";"HEWA7mr=";"TqtIimX=";"/OnRP2==";"6SF8DB2=";"cPHB8V==";"fcJX";"ZG4c";"Yzhctl2=","GTs5mEV=";"m9zDOzg=";"NIqqcdh=","Ep9=","v+fJlFX=";"AOrL";"JAz0ugr=";"rYv6";"Ul3HQqd=";"aVjMzh==";"eaoOjJg=";"gGJSA5==","AGyk/V==";"JcX=","z2dD2Ug=";"1uRu1BE=","7PX73Pl=";"TAKcyz+=";"n5==","xV==","xLrtUA2=","fzRoM5==","+BNuKU9=","3nLu8Ah=","OHZgp2==","de2=","+7aJG5==";"eW5qHh==","VVrUyi5=";"DIxugR9=";"e2==","YZXXGWd=";"SG9l5U0=";"sd+gA5==","kA8fBgl=","NEG1xd5=";"nDE5ZBV=","YeI0g+0=";"zmKaZ82=";"oh==";"Uwm2BfV=","mYthpR5=","1OUP";"41uTx25=","+NJhFBd=","U9wHQx+=";"pYS1+5==";"VNx1w5==","FxalfUX=";"Sw2i";"LvCH5ag=","aznU8ik=","M4HQv5==","weQLQ1k=";"lNW9","1be/8zl=","JV==";"lC4EkJd=";"jpKt3c5=","+mSA";"dSzXhh==";"gX5tarV=";"Afli","hUNXhT5=";"ZJTYsSd=";"hzh=";"UZrqSv2=";"XRuz";"C1iZd62=";"G9T0FnE=","RwgP","n4Iz";"MlbAUHl=","euKFwxk=","yfsFnV==","fNEy+h==";"t13qeZk=";"nIBzBMX=","/qwLzuh=","osMm","W8dc2o2=","+s6jsw3=";"yZpYX5==","+V==","sYCMU5==";"pZwP2zd=","WRTX72==";"eJHulZd=","WV3zAB+=";"uaQoWr9=","Eao3hg3=","u3h98mO=","6be/C2V=","7IJStP3=";"tkQ0rY2=";"Xtdh","CAgm5TX=";"z50=","Xc5=";"56I+r1V=";"JO+=","dTcA";"gSjl","iTd=";"VHTJKG3=";"h2mKBtk=";"x27Yxh==";"cpEB65==","JHC5KA9=","WGUI";"DWdw2v0=";"8nNXah==";"9aJvCvV=","ziBvZTr=","aW5Byw0=","L5==";"HvbTf8V=","ny3=","7iQ/","RuYtA5==";"J/mhaPr=";"+08Hx7O=","Z/Z1rh==";"tWFePwO=";"2BhzVV==";"U3d=","t7D64WV=","MeZav9E=","57k=","eVKGB9E=","rYXxe4g=";"6pPihd2=","sfElzSO=","2V==","KtOlbPg=","w4rIQf9=","9w1WCn3=","6Nwnm/k=";"sqE=";"EJ8q","Y3yd4r0=","/bp5Ihd=","8U8k";"1ShAch==";"nH7FC2O=";"6fEgiZ0=","6o2Daxr=";"3VB/5Kk=","EeAO25==","CwtJ";"y+yJrx2=","eAZrs2==","djS9C9d=";"3eNCZid=","g3YHxGk=","QRhg32==";"kVV=","egX5","uBmRtS9=";"Jk5Tch==","kh39qDg=";"nfRoeQV=";"pnofc2E=";"uyBA0HO=","FrTQx5==";"Vw9VOV==","7ez3Chr=","gV==";"kxg9vBX=","CoQc8z2=";"QSWNxnO=","RDWe0K0=","UM4SZVk=";"muQWaah=","Fw8Wl8E=";"+kPlYq+=";"eI9=";"4GHYI0k=","3D5=";"0ZNQV2==";"AItEhrE=";"B5r=","Qkloy3E=";"5/0e6+5=";"VBemR/3=","w42HN+O=","AgOMmv2=","Oq9+LOV=";"u2opLu2=";"hj9s","dhLOwI0=","x7dsXe3=";"sKxz2vh=","Lj5SOv2=","P/0dr5==","7/e9HW3=","Vrx3WZ5=","I2zdfT+=","mZSxKD9=";"PrZV10O=","1Ik=","N4VmYHO=";"j59=";"7e7I/od=","F2==","CsYqKH0=";"aPcfcfk=";"Ph==","ItEFzh==";"UsOJ2U9=";"JVbt/1r=","d2==","3jk=";"yc98kUr=","lkoXf8V=";"zbR/bZ2=","Mn6z24k=";"kqWqLmk=";"LfSR";"X3tb8Y+=";"I6DS+Nh=","S4eEvTd=";"m+5=";"PMV=","018RoNg=";"KyyXKwk=","XKq+54g=","8dd=";"0EEecEg=";"HaQK+h==","WZS/","KjsvmA0=","S2==";"sgiDfw+=";"5p7/";"L8X=","htjXzZE=","O7k=";"5e3=";"lnr0ba2=","XqjW8jr=","8m/eAmk=","RB0P+H9=","B2==","TJe0A2==","K78uHKV=";"Kx2RYug=";"1ovZPV==","Gud5UXE=","npP/vGl=","nwgxma+=";"94gZ3Qk=","6p+E3BE=";"VHHvQh==","H6Q+asg=","nfNn5U+=","ta33VG5=","79US","Ogj+dh9=","KGExvv3=";"pAksdQ+=","Nhk=";"9Fy2ah==";"AtQW/Cd=","lxYTu5==","QJB5tv9=";"ppkmTyV=";"KARmnO3=","Mw9E5pV=","/XjSSU2=";"7AO=","Rt71";"Bvg=";"dYRg5W2=";"E9LSFV==","3Q8xfnd=";"/RLtaI0=";"zOqVBTO=","MqX3rBX=","wdKCIW5=";"NjX=","KTSf1bE=";"nQVU","SP+r62==";"N67a";"q8wfVEX=","yAyfPq3=";"yODwDwr=";"6ZjGxq5=","ofBZSF2=";"wjE=","R2owABr=","Phfn","7jrrb5==";"9fha";"0M9=";"qc8My9k=";"eT2dNKk=";"PNO=";"+4Yo";"eTGOx20=";"FUD5","kj4Wkj1X";"JhpEqMd=","hLZDSvO=";"wZrwTO+=","KV==","7kF4";"UP1y6iO=";"Xh==","KCx5qRg=","suDvTNE=";"4qj4eSg=";"x47vt0l=","AFzPKgX=","IP8D","DzIzqvO=","5Bb0kUE=";"NLk=";"psfpnx2=";"+vHv","GFKhBpd=","wQkppME=";"xeg=","vekKJ02=","FxGR","SB9=","G/WJTOr=";"P4iiOGg=","oB5aBOO=","rqpZfV==";"VJeOSH+=";"wsdj402=","PRLL525=";"vT0lIr3=";"ZH7+zRk=","WV==";"IbRCJV==","G1YfVB0=","0Tg3WPV=";"jgSa8h2=";"1eUv";"wCBJBh==","g5Vo";"vh==";"2sJ/oO2=","kMj1LV==","h68jCEk=";"5VrH","HCnqKpX=";"E+O=","JTNu/xO=","3LdYtJh=";"bQaO";"BP/D","L39=";"lFxwl/r=","gbb2TTE=";"mcjtoy2=";"3FyoI+h=","cBgIz4h=","osaaVUk=","CiUq0Pl=";"1txHFh==";"E7COEk9=","Ov8TXq9=","OiVGBHl=","rb93Nok=","ZXZRZU0=","gjamUMg=";"P5uAnzk=";"fjz0XC0=","7nBQ","hSHZC5==";"fYl=";"Qoo71l+=","hHQx52==","P1InRZ9=","e1Tnd33=","R0EUT5==","sqUoV60=";"bunYp6E=";"Ir2VXmg=";"yZEqmbg=";"sfKx","u5==";"nyAn","pqQBDSO=";"lsX=","4KqVlA3=","SbTIQB5=","tqpaOl0=";"cdzZuk5=","hqdabZr=";"y2==","qZ9m8UO=";"jbqk+5X=","eW9ALH3=";"dQaxSv2=","El2rs2==";"2nzJv5==";"r/JM0h==";"PD5KgR3=","sVL4ErX=","2p+bEs5=";"oxrc";"zqX2tN0=","qapF72==","Z2fKLg2=","7K0mCh==";"VNgr","Fj0=","FqB4G+3=","syAXrhE=","7bLjlxV=","DjQGaKd=";"Pufy82E=";"mSspgOl=";"qTg=","qgNRA9X=","PAFWTV==";"cXCObog=","kWRAkfd=";"tr4Hh9X=";"1o3i","WtnnjeV=","ePG5o4+=","NFQF","86KMAyX=";"26kc";"2wyU9pE=";"3aZzaT0=";"9GJo";"E/Wp";"EIH9cH3=","xG+=";"8MT/Il2=";"at5a9L9=","HQH/Hug=","4T/CZFg=","R2F3";"7+aYkwV=";"Rh2=";"9Yr7QD0=";"fWNDMFX=","1T/dSV==","Ksh=","qTYBvEh=","aZyQHd5=";"NpTuoy+=","tneSIjr=";"Lsr3/c3=";"25Ohl/d=";"OmGNdUO=";"hYU7JE5=";"/FB8tu3=";"fJBfvi0=","oUOgOX+=","DVaEXNX=","uUNkI93=";"dJG+";"o3vM","GBNJ3Qh=";"Dm1JjC+=","hh==";"5ua/","3/dpukO=","0OZOhOh=";"1T5=";"Y55tbl0=";"0ti2LV==";"T23YRb0=";"OHO=","rEBmkh==","JweRWCg=";"2t/XFPr=","sVZQWV==","thnVV2==","9oX=","G87Moc0=";"gXlicmr=";"nhUuMcE=","8rO6Ja+=","T+HV","nW0=";"0RuzCKX=","FEXEI5==","skpqZ5==","f/pH2kh=";"XTz231+=";"5L+=";"TakJNoE=","fZF0aV==","L+DBI63=";"4fcmfWE=";"AHxtn7k=","oBocik3=";"/0O=","OPvM3V==";"ynctn6V=","2mrn35==","OOAU9/V=";"+LEN9Ng=","9bEFmV==";"IvzQ","lv2=";"sARF1Qh=";"qzE0LG2=","dmeR9KfYkGd5NneKCT2/Hh==","P6PZt0O=";"xBul";"4X0=";"zmX=","iAN4lxg=","rucGCbV=";"T4toNUE=","8EkVkV==","wpaeB85=";"n6W3","4hWMlKE=","LMO=","FxDuPEX=","+czqh2==","cro6gCl=","ODSTTzg=","8Wa3","ncD9dUh=","bkZP92g=";"+Gl=";"ztB5JP5=","J9na";"g2IM3h==","tuGWxe0=","BGkB4a+=";"wHdHaY+=";"Kbm2g5==";"RX8xVT3=";"ovB7iV==","6aIEpX2=";"FUMfI+9=","NiJw/2==";"Zd7J5CE=","RT6YD5==";"XEXxHR9=","2Ebd";"r+mhku3=","IC5jXmd=","eSVzuKX=";"+gBo1ld=";"MsPqjQE=","6pQP","NMsCBx2=";"uX1s/m+=","vJKL4U5=";"SRbJG6X=";"6kyVdO9=";"L8V=";"+DO5ixV=";"8Z8B3Xh=";"45==","aYo38ol=","a0dxS6O=","ZqOgkyE=","K5==";"qqhXyMg=","0pf9";"QhNcK2==","O25q","qcTY";"Cjk=","Bppq+Uh=";"JuMF","DqsGBE5=","E/AAgVh=";"2W50h1r=";"HwCcs5==";"rL1s";"q3yZu00=","B8llL2E=";"1/JpW2==","8N1qPIg=";"LmJdauh=";"SX6ZP2==","RYAjBz3=";"7HB/Msr=";"44En","vAtVae0=","q2==","fwqdPK9=";"B4cIXV==";"WkFH4zk=","ieIysh==","EoNbMOE=";"DYDVqel=","iqOFMBV=","KB7GXdk=","oyx21zO=";"ithzEmh=","8h==";"VgT+9c5=";"rwX=","A00=","HZLS";"vV==";"Gz4RCGh=";"4GmG3Wl=","5dD3xbg=";"8xHRk2==","TVMiPsh=";"GV==","X1xqXq+=";"4JyAwh==","u5znfV2=","HV==","C7kXzT9=","c+J+Ybd=","tikV","x+PC3bk=";"qCJfVNk=","dh==","56Wx";"dNvUs5==";"09h=";"cV==","Ti/bj0k=";"61wvnUV=";"+pbMWeV=","JhkyP23=","IiG+E8g=","OGZYPT2=";"l1T5bFd=";"CpuXm5+=";"1Cl7yQd=","Y9/itFl=";"MxpN","m9AMlCO=","CwtJbYE=";"LAhqb/5=";"qjFXPQO=";"q+xpced=","igX=","z6uxwVr=";"NoyN7NE=";"vycKSJl=","pfay++r=","TImjclO=";"z0Jdz8r=";"Ej+Y","EN3=","ExbUou2=","c0jdvvh=","kl0qYu2=","M2JgWh==","uQ9u","Vbx6Ct0=";"7V0qFs3=";"QGVT","TA4ctul=";"9vnhMHl=","Ni2Xh9k=","1x8SIE5=";"DIRygpl=","dLbfujE=","sLgeU5==","aDEN";"ma6y7Q3=";"grLkuKl=";"tn1YTYh=","pGD2","yPgCwh==";"XEd=";"RA9cC5==","3ipwR0X=","+TWz";"jNSw01O=","NvWD","rQ2=","pysRT2==","Cs2nzHV=";"xDc70A9=";"6T0fR19=","H5==";"2aA0RGX=","xMNPQR0=","bV==";"OBdVs5==";"heH3tNO=";"uY8OUE5=";"m+7r";"IBDt";"J5==";"kziswMh=";"du+i039=";"A6cVSAO=";"ZaWt0V==","pB/aGRg=","Dt7elwO=","YoqaJs3=","Z2==","fxqJqK2=","mnO=","XGUGMCX=","okBj0V==","UnPig3l=","kqHV";"E375roV=","4h==","xwfSRh==";"6xb70Y3=","ngnA";"xM5=","JcNADDO=";"LEahhV==";"d4pHOl+=";"bat8/H2=";"90fq/0l=","rBhnl1X=","P5==";"9h==";"AfAVKD3=";"MjBr";"Z5==";"RPwLKI5=";"jUZGCFO=";"uh==";"SYVU+t9=";"4SjIKYr=";"a+IY+sV=";"n2Xi","bC3s","9Y3=","TN+0imV=","Q3l=","Ah==";"anB8723=";"i8wHEr5=","QafOL52=";"50rbUDl=";"+miIjh==","OkmhVV==","+61j";"QZkpedl=";"ytczHVV=","5WmCJF+=","5DGe+hl=","EONLbqd=","gjDOfjX=";"1OJHX9O=";"LayVka8q";"5aIx","IaY+0uV=","mal9";"Cz+Qk2==","g5==";"DtxPAh+=","gSLqob5=";"W/rAtj0=","D4gEj3k=";"hhDBW2==";"6vdA62==";"ggd=","xL2l";"+39MoU3=","w093TV==";"ASm6GRd=";"kgO3","Kw+ur2==","yKX=";"WUih+6g=";"YNkd3u+=";"l5tCF5==";"FQazUd5=";"T5==","73UUZoV=";"Z4aG";"kledtVO=";"8V==";"VZX=";"g+0a+wl=";"aAtdKrk=";"LXJne2==";"f2==","W7cYiNE=";"HBHLlwV=";"IsTApIk=";"5Laj95V=","1nzNOb5=","qrUixxV=";"bn47C2==","i50B";"paIOPh==";"55==";"G5==","f3+O","xlUyTV9=","3wvT","hOzJGk2=","yjcf","CJ9=","DqF+h29=";"uTIfiBO=";"Hutux9h=";"ZP+=","J/mCi2==","qc4IPjE=","DIC8","fXWdbh5=";"EvkRmgd=";"IwIw","vg9=","jYnLiml=","melT1Md=","1YV0kY5=","2Q64Hrd=";"7wSnC2==";"UnyX","AfcHWV==","sOMn/42=","oZns+KO=";"8wyC","etQX/V==";"aV==";"O5==";"rjql3Qg=";"fuV3Z2==";"C26oSch=";"1KrVr2==";"PoVpNL+=","x3Ps+V==";"jj8Kjkr=","4E5ECEk=";"cXa+GCX=","A7MZPa0=";"0SE=";"iiz8";"Jf57d2==";"mdiTtkh=","yTun6g5=","+v56mt5=";"P5WZo5==";"XukhLQr=";"AwKVbKk=","vYBsqG0=","7h==";"4Ca5M/2=";"FvQo3vr=";"xrYup5g=","zrUx0Y3=","RJHG1M0=","0Oquj7l=";"4AQJfV==";"yAOzom0=";"lH3coKX=","/XHY";"VTiY2UV=";"oYNld2==","E7Wq";"g5r8pzg=","wUVKfz3=","4FPAe9E=","X7tK7l+=";"srot","IbmIjmg=";"jKBOo5==";"BsCm","lrA3C8d=";"iasWWOk=","VJ5H+ih=";"X++mW2h=","E9ZZ1h==","AQcWGh==";"TQ/jcJX=";"RAcC";"rK9SUJk=";"PPWz/W5=";"DFzVxs9=";"Zrv0yuh=";"Fv1Z2d2=","wh==";"wd8Wg+d=";"CStE+rO=","dTX8u2==";"1eK0bFX=";"5HKvwg9=";"imEdyJh=","k+t/";"zRblch==","bbptAb2=";"9dSOo1O=";"XkWy","NzloBql=","EXdqytO=";"KfBvi2==","GQdMu59=","qXr=","lxCxQFg=";"GUFc","nA+=";"Ak7lp7X=","uo+WVrO=","Hvg=","Nc07iT+=";"8lnfQlg=";"pAd=";"mfLc4OO=";"2PZG0jV=";"rJypB5==","ycOOdRg=","toJNyKl=";"1ePfk7r=";"0IzmA5==";"sm8EyV==","9WaKHvg=","PV==";"oSNvYQ5=","87xHf5k=";"n2BeAP3=";"Vsz6Jc5=";"BB/a","pOnW8vl=","7hEGu4O=";"/B3Woyk=";"xxFfz5==","pzsi","ahuJ0A+=";"hNcFEkh=","d2pMsV==","KY+=","ZEkui1g=","cVjj","6seGwBl=";"dZiw";"H/ub9Z2=";"jZdym7O=","JhOm/7O=","QLZX";"pZ93m6E=";"ksuzqWO=","yT0jWyd=";"UHhygdO=","r+mshd5=";"VQQrW2==";"KffZEu+=","+MqY";"IMFL3Wl=","nqj+";"xdl8nR+=";"rkTFO+9=","V20e21g=","Z26dN2==";"UY+=","GkhzdU5=";"tUP+9ig=";"rHDHblk=","mYU4aQ3=";"1OOL";"DZes2Mk=","JUrD";"vnX5uOV=","LEoC";"KQY/REk=";"hpxFUk3=","m/WdFBV=";"7Bgeni0=";"W5ou","3MiR+Eg=","l2==","/h==","JpUFOzE=","NKPvvTk=";"ZbiWc2==","Cn/qEV2=";"mrO=","M+K5C2==";"vvuYhhO=","PXy1Mwg=";"tXhK";"NAnRg40=","3DvgBh==";"6YwUTb5=";"Jud=","XgQRLYr=","C+Vf","g+XI32==","jBJ1lZE=","XEzf0y5=","Lr3qTh==","DsIfN1r=","dWeCunk=";"A5==","rF6v6hd=","/+tlxV==","Sfda","jlYnTC2=";"5+Ju/Cd=";"FlGbclg=","6E+=";"QUO=","1MuGTph=";"gqLLsM+=","QVrGiME=";"L9Tq9o+=";"tXvYo+X=","fAer","wccpxO5=";"wSjV7D9=","+FjFZnE=","+8l=";"fzXrX5==","TlQmXu0=","i5==","nBV=";"x0r0IV==","n2==";"yhPR3Z5=","5EF7r5==","Sz01";"qMy4skg=","Q7BAviO=";"Fl1sE3g=";"ZVB5ouk=";"w/D0JRO=","zV==";"4JIK","BMu96Q+=";"uLIujZ0=";"XKab","RgbK";"fh==","SbBfrnV=","zh==";"KPAXQxE=";"BFTT";"VFjiYV==";"oWwoEw5=";"zxIv0O+=";"HUrs";"1H46pD+=","uBsETa9=","H4ayIn9=";"kS15goX=","fclPwfh=","ygrW0gd=";"dWeyRFg=";"5suSUH+=","uT1mc5==","bcmEPLr=";"dwQoYh==";"1Na12Tg=";"qbzxYUg=","AI2y","ih==","O4ggEDl=","+GOB";"/+Vzhz2=","oRNX99g=";"smLylh==";"y4cppu9=";"4V==","WZ0=";"BEvUt2==";"QLF80ir=";"NbC9Bpd=","DSv04Q5=","nVyarv5=","vUSMqkg=","PSmHV92=","7HIIDeV=","QmAdPV==";"frtFOOO=","6e5zmcX=";"giwNHZr=";"D0JlGYg=","eCsFdy5=","UkfLME3=";"iV==","bG3N","9weRbYk=";"OLLb";"AN++Kc+=";"6GN6FMO=";"I+Pp","ROpR1mk=";"hS2=";"78j79Z2=","zuzHwJV=","Uh==";"yBRmm5==","PLjbC1X=","3s3w5u3=";"QB/ZAYE=","GFVR2l+=","6J0XDq0=";"ZyZ72ml=","RbtKOC5=";"aQWNM5==";"bxZ8TW2=";"vIQ4ktg=","CBf4vid=";"ECDK";"a5==";"czOMVq2=","Az9CYuX=";"mvTV20h=";"+opwI2==";"9mCOxwP88rLWCjvM","X/ubX2==","mAEYeXX=","7A1W7e5=","YhheBZV=","syEby/X=";"fnfulHg=";"/ATN";"HvWMKaO=";"R60=","Yyd=";"6h9M","MUcS0Jg=","1wAhsLk=","Q49=","kSDVGX3=";"GGcWVT+=";"XTFSpvd=","MIszTgl=","+dllWbO=";"ZT1y/59=";"5/CFWdX=","eppTqh==","ntVXPKX=","XepZKy2=","b3dg","ro5=";"TSt+";"hWeNhh==","nL9t","AAeriTd=","6m2+ajO=";"cGib";"EtNDoJ+=","0V==","ONUdbH+=";"QhQy";"0q+c4hr=","ExDKqRX=","yJVRNS0=","OGBK0K9=";"Zqgt","nxVoRe3=";"coPmnN2=";"XwcLA2==","OCaH";"8A+=";"dLBZZdh=","RAM2E25=","MjNJ","tmN3rur=","O2==","SFcD","qoRbx2==";"yWA84P5=","BO1b";"Hfdg";"JVHQAV==","jV==","A6Yg","rZ2bgO2=";"aX0=";"ZGeONbk=","LWg=";"JZd1m7O=";"lTWi8yl=","5Ei3AJ+=";"Qj3n1kr=","X0d4yU9=";"yIFoSyh=","yAl=","lHUIB3g=","6Zq0","Gz0pgcd=";"zSWhw5==";"RwG+qh==";"uYRggbE=","7rolQv+=","GpeWeN5=";"Owq7qnl=";"oRqcX5r=";"ptVYaHX=";"9nb2hc2=","OH5tjH5=";"Hh==";"eyy4Q8V=","Ks3=";"g8VIQE+=","XK9=","TcHide+=";"8Iduov0=";"oycmrM9=","ceFWFRE=";"W4NobNE=";"BdmmB5==";"a3srhIE=","RH7SmBr=";"YzGpg2==";"SiX=","tWqihfr=";"KJAzZ5h=","Oqg=";"9FzbzYk=";"Fpb9J2==","6lzL5P3=";"gh8cy1r=","c/iVe6+=","C1DeLu2=","pQR5";"CtXQOh==","r4cR2h==";"/bW/3rX=","CoieVV==","YgZ2nlO=";"fhL06B5=";"KoaRUR0=";"n5ncDKV=";"o6D2";"A/Ntbpk=";"uTGtLh==","0j79TYr=","Btyq809=","AC3i";"DPdT8G3=","aTHybIX=";"kA5Gt43=","Mt3Hv/5=","Z4fu","37OPpfh=";"6f+=";"NNnmT5==";"g1X=";"Qc2VMh==";"eGziWYX=","y88W6h==","z4HB5V==","PSI4xV==","NOrm","9HA9lzX=";"ko5rac0=","Bn0jJ89=";"ldFyKoV=";"Xo/2z5V=","PZU6uY5=";"JBZmcV==","pSr=";"rVv3R2==";"wv+=","6w2=";"wSNoBv5=","7RSkbt5=","vBxQxV==","Js27QCX=","x+v1Duh=";"BfQn","Ih==";"4l6M/P3=","n3k8Wx5=";"eh==","gFoyVZV=","YjkZDtk=","54PLl5l=";"82==","wiX=";"MLqHtZr=";"71/xoh==","crHi6h==","Dqadlal=","oUeS";"oWE=";"3TWoMKk=";"OxT3LLd=","qel=";"SqsQXb2=";"tf5=","D3kLt2==","FP28jEO=";"6Ji+h39=","5fVa","1eV=";"usm1Zmd=","B/FFwU9=";"a2swkh==";"j01GAMk=";"r8ci/Vd=";"vKCy+1g=";"gMrob5k=";"Q9n4ZG2=","b3DpQd5=";"eXjePqr=","8MX=","GV0EIh==";"Y7axB5==";"DUdDIh==";"sSTF";"ECmT/0+=","tueW3dh=";"NnSt";"11nps5==";"3FtfxK9=";"iuphjcd=","uqpcZC5=","Ri0a";"Viut0I+=","MjE/8Dg=","Gh==";"p5==";"Jl0=","oIcSbTg=","xk/b9Mk=";"vwQ6Wh==","d7HHTFg=","yGKBWW2=","6JJNCIE=","YK98mGd=","rYYISVd=","dL+50Ol=","yyX=";"4ATngc5=","OZKe25==";"1P1yVk+=","/6VJ";"fd5=";"YRah3oh=","ILofndg=","RAl2hV==";"Tsu3sh==","EgZb+eO=";"7/bEk5==";"wPwxKQd=";"N5==","rj4Y5U2=","64tXLx3=","YTEV5Q5=";"XdguEVg=";"/2KA/Dh=","s++=","M5qUw4X=";"bFjKVl3=";"qFS8px9=","cUCvqxh=";"akDjBrl=";"VIqnEyE=","cKk16V==","s45Od2==","g3CVvV5=","H1mZu2==","rgfBi5==","b9iKfYV=","xZZPhg2=";"KS+=","jSOKRB0=";"CYZBU50=";"yJbxY5==","62==";"wWbCJh==","E0NFLNg=","XySt+/+=","L9DIbZ2=";"HQG7CV==";"V+9/sY5=","rdV=","Qq+fB2==";"w9N1e8E=";"engutS3=","IsFcMSh=","1bl=";"5F+=","fZqdcSE=";"o/nBe95=","tEh=","/CXcF53=","ui2eE5==","jKlC+X0=","Lek=","4F56lZE=","p0Ap";"aaNl0Br=";"yXcv";"B2EanTh=";"Zq0+bl5=";"cZKwe2==";"gQEZu8d=";"d41aYZO=";"ZS3n930=";"eMkwBFk=","VzlEAid=","Um7fCh==","1jYHz9r=","EyfY","rcMfSv2=","av1DRpd=","EkF8w5==";"S9tCdh==","iVnxg6O=","bc2pliV=";"Jh==";"E5==","G+1YrGE=";"o5==","4ju1s5==","PSWM5Jk=","K8W500l=";"42==","az9=";"bhCO";"lsHxlsO=","WVxmWa2=","608Witk=";"n+rx5nr=","UuI59/0=";"9ADUpp+=","7rNH4zg=";"LkxusiO=";"RjJto49=";"b5ui";"tV==";"R7GJFlk=","8fnv";"LV==";"lt7wOxE=";"JQ6O/sr=","ZC8/r5==","vjAe4EX=";"E7IXs5==","Hjg=";"zm1FXh==","IMr6Sw9=";"ZZSsiC3=";"q77CFW+=";"PVSZjd+=","Y/5=";"c3Mjg8E=","YRrEpa3=","Npl7KCh=";"Q2==","M8kS2h==","rh/Kmhh=";"YDmqUAE=";"i12IE2==","8hgZkDk=";"9irsnX+=";"hHXUOPr=";"DRyxPg+=","tt5Kgh==";"3lSa","JhTR+zV=";"Ox4H2DV=","lehJR2==";"by8HaCd=","juKC";"Akh=","LQevoh==","bZcCfzr=";"CeFa65==","yFtDH45=";"vYkC";"p3HH","E9tEB19=";"OHQIh6d=","DunN","GJR/G9h=","uzl0qbd=";"b55L72==";"B/o8o2==";"ZqZT4Dk=","EV==";"ah==";"m41YeEg=","uJU2f4r=";"7nIBRBE=";"5l9BXG+=";"oQ+a3h0=","WZg6M5==","aJd=","ulvuLI9=";"phHxO2==";"Fg5XPh==","tprZ/Qk=","yZTy2Hk=";"s2==","Cr/R","lvOOOh==";"sUdMnj2=";"y3hk";"vJdW","dv9b1K2=","jGtUqKd=","/nGM7pE=";"Jc9mMSE=";"FkSh","QqjW46h=","Y3Y+z5k=","60+=";"Nb/KSzd=";"rVYrka2=";"I7AVTX3=","kfwahV==","AHXf";"+90WY3O=","qRRuRhg=","2UJq";"CyxA","nfSZ","Q+kolTO=";"iutu+O5=";"8zLqLW3=";"nW+=";"qlB/k2==","/2==";"lvr=";"2fvHRSE=";"F1sRQP9=";"nEWp/50=","vy3N","n9bqPcE=";"g2==";"k71sz22=","0NyyT6V=";"bg5rcQ9=";"UmlFMJE=";"h2D7";"0JGh";"xVQtUXr=","Oh0gXDl=";"QOvS7s3=","P1X=";"O17P";"cmgYnMO=","8N+f49d=";"GI3CGkO=","9fmj","LKUl5V==","GsCCC50=","/Jd9vTd=","GtBE","Sa9=","btQtg8V=","ntIb";"zgr=","r7ey62==";"/EZm0W+=";"uJpr1y0=","l6nQ12==","NV==";"9lzHyV==","axkX6g2=","xL8iW5==","oV75JPO=","Wlg=","5/fyw35=";"5h==";"LHKUmOO=","a21BmH3=","FraBGpO=","Yndus5==";"VjO=";"tJCWdK5=";"85==","UvqJw+5=";"Tfd=","7Ksul13=";"x6JPOFX=";"s8Nzy5==","skb8Ey9=";"3RVsW9X=";"uFpFsOh=";"gZYy7bV=";"VCysSV==";"IMXjRBr=","pN9ANU+=";"aKdfmy0=","tLg=","6O6Dc50=";"RvAfNsh=";"CGAC6z9=";"5q9=";"uB1yk1+=";"aNbvPV==";"aLP/Rkh=","PnOpdnh=";"SykBWBd=";"B+nFkr0=";"wstzpV==","nDQxldk=","UfT5zwg=";"O23=";"CIpGLEg=","IV==";"bBDiSvO=","Hfk=";"EJiW+O2=";"Ra7laV==","uosiyvr=","oZ8EwRX=","4NEjwA+=";"Mct68wO=";"LjKyQ/X=","V5==","229=";"1yVdX2==","U4AUUql=","WIknhwr=";"fspZe6V=","GUhwVql=";"Id+v79r=";"41ZvL9X=","nEQx2oX=";"PUiyQh==","aZK6qe3=","E2==","2aTltHE=","SEbF","fZ6r";"m5==","r2==","9M0cwRV=";"0W/LHfE=";"A4soZIh=","64BL8dX=","gD7F";"NDiYq5==","CSl0S3+=","7L/N";"LVn+y0h=","x7hC+5==","v8dD8uO=","72s6ZS+=","8Ux7dPh=";"XHmt";"5Z8We+l=","kmWSCA2=";"645=","bXc23w3=","O6CiNh==";"sUmLuIr=";"4Y79zdg=";"zlFgTHX=","b5==","V63=";"UjKjWn5=","2ij5xeh=";"plcta2E=","EyE=";"Bwr9KRV=";"K7bhvg2=","zkedy+g=";"qjNy","iP8nTLl=";"sNYLJU2=","iNjypwl=","ByEkCah=","/C5G","1YJQL2==","pPvFPcV=";"RaCx";"kCL/bLd=","89H6";"BSrF";"DVQxEHr=","jhSuP1d=";"oVpm7uh=";"Hvf1GV==";"rkNgEz9=";"QJTF26V=";"lV==","nM5HJc5=";"ql9aE12=","l+ihsFg=","z7wE";"qMtg","h5==";"ZiiyWh==";"p2P/JRO=","XO1LaV+=";"SYGuvtV=","n80=";"oZ5PCDgpo5==";"AQ2pn5==";"NcLdGlE=";"IIGYaz2=","bTVURh==";"bzh=","lh==";"sLbX";"WrZv","BVEol2==";"nrAW0NE=","RfBS","/AjLlRr=","GvtDcC3=";"1uiU+r3=";"NHGP4K0=","jbRR";"kZ9aLJr=","5KVe640=";"qpTjib0=","581POoE=";"oVem9uk=";"sOmR","r6jg7Nl=";"IGWb8Lg=";"BoGRDcd=";"hRZ8n3X=","/KIuPV==","CAE=";"vFOI","I5==";"TL7Vk2==","bRxYiCV=","Sh==","KvnE2p0=","p3Vnx1V=","bfxO3vd=","J0GSAc9=";"8t2Zc9V=";"1rbVqsE=","rV==","b9h=";"7aDBxV==";"Eaf1s4O=","h1bbT2==";"m3DSWod=";"13mu379=","ug2ibd3=";"dJNtdpl=";"iFFn","IgiiK5==","YfWEjBr=","Vh==","Ldl2Lh==";"qT86NT0=";"KFSBLog=";"Ib8xWbE=";"vWl=";"O/3CJrO=";"cKaQW29=";"VMxoHzr=";"3zwh";"OwhZiVk=","R2cvh10=";"lU0g+2==";"yj7f";"amj2DFr=";"8+gHg5==","2hUAzt+=";"vZNc","SN4YX33=";"GWxUpD5=","xFy76cg=","ODKorh==","C5==","REyUqV==";"XjK5Szk=","cGQGF5==","6Adspj9=";"M5==";"PBH0FV==";"Rvd=","hAOZ4al=","eWmWv5k=","/yIqYGX=","GVem9h==","MzJhUV==";"1ykI","9RJxTN5=";"FMxEVm3=";"q0yJzk+=";"Sxxddv3=","mfRhdok=";"7Da0mPd=";"j0ixt2==";"MV==","1A7OFjg=","yC892Wk=","s5==";"OqAy9V==";"yePdadr=";"/1JP15==";"MAgMzeh=";"oRd=";"UZxAifl=","TDGAdl9=","XAkprN0=","nwVKk2==","tI64","XwqGE5==";"siPiGVl=","VV==","25==","PR2FqxV=";"IO4GIGd=","ORRhtGh=";"9Vj8xjl=";"X2/gS5==";"Cjz7Ln8g";"01Jl55O=";"YMBoKr3=";"iivtCQd=","9LJxR2==";"mglc";"iG0YtqE=";"j0z7","p+c0UI2=";"xh==","fBDOHv9=","BamC";"tOu6","AosG";"Y/V=";"EI0=","oGL9";"xomOfZ5=","MvNixp+=";"Mzl=";"b1owNVk=";"xRl+SBE=";"tdia";"21GwpOO=","/B9zL5+=";"6AjnooE=","433gcCh=";"wDOoGPl=";"WZHH00+=","k153Bmr=";"EQbB";"Zmd=","6Vh1Ovk=";"4xG4Bel=","7O8hP5==","kLd=","BmSORF3=","TIFGOjV=","4zUP";"tfEp","Jros4Pl=","4xSo";"Dtr=","ZFh9d5E=","lockwD+=";"pPi5ePg=","8vZCcrl=";"m+T+9Nr=","lSKv7wk=","AM6d/Ah=","if+r","K9W8UtE=","mXwlFf2=","MuJrbh==","E1g=","LrFbb2==","RUcS3Z5=";"/VAnaSd=";"WVCreZl=","hCYhRMg=","ZSjolil=";"53WXWV==";"jZH7","rh==","y8HriuE=","ut5IHxO=","xP7u","34LBYC3=";"JFBulD+=";"FYFXeSh=","fwc7z43=","Mck1rh==";"fBeQoGk=","u2PRWNl=","VSdQZAr=","L0wD35==","6IK8Nl+=","akszl2==","JxlZxXr=","5wykmmO=","7VB4pS3=","ZKrX";"/ugrEF9=";"sQJFG32=","P+7ZJ2==";"5nS2cGE=","8WJN1HV=","TThoil0=","xxX=";"DQR0yGr=","DlquqgO=";"CShCfqX=","cCGdJ5==";"uFl=","DOvvye0=";"9IEzfXO=","aolBT5==";"fy6neCV=","mw0vDh==";"LKUS3Z0=","kakNbx5=","zIMnyN5=","yXuFTig=";"Jn5js5==","gfbfY7O=","svdyX9g=";"+lcSk2==","skaSCzk=","U+/S29X=";"AT7ERtl=";"c4XTD5==";"xEVk","/V==","kt1vhMX=","Jjrp4L3=";"cmW8h8r=","tHw5Ysg=","5cUbK+r=","2XB8AV==","HHJMI5V=","k2==","KT0Hr4V=";"XMJXkR3=";"RQlU","inVgzg3=";"UA5OuO5=","cLeR/j0=","lb1s","y7UK0MO=","CdvsYGd=","n7DmC1k=";"Lud=","VbURu7d=","LIlK1fV=","rgcloVO=","U1sW42==","HYDoKDV=","p/W2Ehl=","1+HV7y0=","z5==","ejjqwed=";"uHLmk9l=";"HJLL";"b2==";"lm5=","Jsgn","TsmVym0=";"05GM","98LbT2==";"EzqtjaV=","h9k=";"HMl=","JPE=";"VDFg7GX=","niP7oq3=";"/rPFQ6k=","CKCpxh==";"q8EQ","y31AMS9=";"dqzRTJ0=","H/E=";"UpoEfRh=","DefOqId=","K5AGcld=";"j3fU65==";"tG+xU85=";"SWoT+wg=";"5PZN";"ubswebV=","EoVfoR5=";"oAjWmRg=";"Hfvu";"RAxdI00=","L6jh4Kk=","Col2qh==","kf0VQh==","mTi1Ul3=";"t+X8XDE=";"SKsaV7h=";"rwIm","qQ8jrV==";"6bnn","MUdmoDr=","NItnoyh=";"hTPECth=","0H1gli3=";"f1hi0X9=","7SotH5==";"I+vNcP5=","IbsBZ1h=","Oz+=";"G2==","YQX=";"2bXgDsX=";"NPFk8R5=","LW5=","0j0=","RWnNpE9=";"3dhjShd=";"OJczchl=";"QlNomig=";"TIk9Mgk=","jHS3yz+=";"xgNTNq0=";"pV2u60k=","jSXwDyk=","T1jF";"p2X/m2==";"gqteZV==","Do6afeE=";"y4bvJM5=","fFG9";"PVxZ","aC6FPl5=";"43Jpo65=","XRKjmV==","vBGrJV==","72==";"ehcXJ25=","QZdh";"Mh==";"GIkgUGX=","05==","Jk4jlF3=","sJ9=","F8Qiah==","6r8RItl=","lVRaoo2=","r/X=","j8Es","zjlT","piNdqxk=";"Zlh9Sy5=";"Wj9z+8O=","fX4gL+r=";"OGLN","shE4/e2=";"NZZL";"TMmE/NX=","AdNv8U2=";"0m+ZAe+=","18ZA8wE=","xrAddC3=";"kkBXznO=","71zkf03=";"XW8X4b9=";"Z8+odV==","tc3M";"f3eNRSV=","+iZ2BM2=";"pNCwPnE=","ZUk0Kx2=";"gh==";"Ugig";"HUx4yh==","Cl3qVi9=","ie+ghOd=","67IPhh==";"zhZN","ihxyAR5=","nfque5==";"kGx7kwV=","C93ml++=","4PH8";"iN4lkVh=";"h70rH73=","ey8tBV==","0U0MGPr=";"tOIlkwg=","K7qi8U0=","QIk=","Q+Aduh==","6N4HFgO=";"OV==";"/IzJu22=","ow9NnI3=","yPBGtXk=","yQr=";"7goRB1X=","HpiWZV==","+cqaEzX=","HDEghg0=","r9CXL5==","9S8Byar=","fxr=","dnANhc+=";"zJGRXV==","wumA";"DGklidk=","iFr=";"84aM";"PsaUCgh=";"Z+AIeah=";"2TV=","+Bhn";"VwYQ/Qk=","R5==";"XRP+8eh=","EkzfF/+=";"EZ4D","8dpY","8MCIUAg=","YpdQY2==";"yRPRq+r=";"UHJvgld=","IMd=";"bn47CQ8X9wPWCV==";"u2==","Xh8k2f9=","b7GWih==","pWjzgz0=";"i9+eFA0=","aKFaCh==","QK5=";"pnr=";"d6egD5d=","ch==","cGCpk3E=";"t8I7bV==","F2XBRM3=","iNwMM1X=","nOFuMPk=","a3fo";"JOYqeAO=";"4+JYO5==";"tKA/ah==";"jsXqSD5=","cUNK","GElp3Jg=";"Psmuqxl=","6Vw/";"Y5==","q41dSwk=";"vOX=","4BZ24ph=","D0AT","d5tj";"K+bPMB5=","ZseN0Zh=";"0bn/KV9=";"uEKPZn0=","KDzpbTO=";"Dh==";"IuRT";"fD1pJgg=","LizMCEl=","dEyy8V==";"cF3=","f5==";"J/O/";"c3q0uA2=","dtw8QaX=";"4Z2xloV=","YXRcfoE=";"u4WrLnd=";"4XNKIFd=","9FJzcvk=";"/WLXd5V=","Ti1RCHk=","jmnHxSO=";"gt12lX+=","wNW2anE=","3lSeg2==";"lPg=","vwAzaFO=","dpl6lh==","u3vRgYO=";"QtLPYWl=";"zCeFNV==","KGwI85X=","7s5JP6d=";"AL7egrE=";"BXVlq0O=";"oxOh+xg=","kVmD75==";"ZV==";"dnEtBE0=","nNO=","F2hi3h==","cqaK1V==";"drZ6f5==";"1yatgA0=";"lGD/W2==","9za+";"d4/A7/V=","vV9=";"Gj49cV==","buAXEiV=","V575V2==";"a2==";"gNuw","VWk93VX=";"TC8Oca3=";"ODX=","msn1+UE=","sjRl";"r+isM5h=";"i41uR5==";"FUl5H6E=","f69k2Kr=";"PBFC","cgKY+5==";"R25oX2==","umwFum0=","ZBg9","BKPa6Qg=";"EzxIWV==";"Y/ts3i3=","uKdv","yJq6OY2=";"+pZ3wx9=","eWujH5==","wIeLzt9=";"lPO+","Lswhoq0=","7MLW4zV=";"ZQskB4k=";"e449th==","YfkDwL5=","YvpALRl=";"mPWDNIr=";"1ZTf";"bFOIZp+=";"1IUm70E=";"kNy9GMd=","EH4O","oiHxM2==","h2AIoo9=","b2dDwhg=";"M3968dk=","gFjG","Sj5=","QKAeecE=","NKegg2==";"GuTnRyk=","GLc12lX=","hGRhVHX=";"ZTIh","2HRaBh==","4Bk=";"uKze";"3u3+ZE0=","qsL07k0=","H1FY4Jd=";"l2yrY5==";"upfCl2==";"woKk54V=";"bAQre2==","Z3NuazX=";"17M+DGr=";"vl6W5k0=","8GAkEr+=","Y2==";"/+bwcf2=","AJbT8a5=";"tN3=";"35==";"7L0lZBV=","GIUOGuh=","1ldqhed=";"Pukgc5==","JwGO3i+=","bW0Cebh=";"lFjMI5==","6ur=","qWv0/H5=","+gf3pX5=","8iMa2/9=","4Wkp84g=","YyE=","Sd53Bh==","2qst1sO=";"Fo/GCFl=","Mx7ag5==","7kLC";"QCD6/k2=";"aoT1mV==";"tih=","dAVrSb3=","kitm";"D/Hh","oo0G","FqjKkGV=";"NKhmN5==";"7kdlrDr=";"MquUIkh=","cV45qXh=","WKKAQh==";"0Ler";"9O1S3cO=";"kZpguo+=";"A3+05h==","FDOvRQX=";"22==";"uPnIeGE=";"CZ5h";"fjel8wV=";"gLSY2Sd=";"dTi32kk=";"dTii","Cvyvx2l=","qoiVc3+=";"EtZZO+E=","npzqgCO=";"WGBRfIk=","65==";"ClGCt2==","f6s//2==";"p/eRk7O=","QnwrA2==";"ThgFb2+=";"UTMW";"dT9012==","2fBoCPO=","Ru+D","ICsP";"Ssfs","FzsSr+l=","XlyED7E=","SR/XpV==";"0XKnJNV=","/kLkYMh=";"RYHS","enfHSPO=","oXsWLu5=","NWx9E2==";"syO=","yEjm7g3=","8tmzp5==","UqK6S1r=";"jkcd6Bl=","76q4JMr=","b6iD2nh=";"0Gg=","bw9W93O=","fUK/icg=","PEg9Ehg=","jBm0NFE=","URUI0V==","eGeFpU2=","r7JG/5==";"yrDJ90+=","QP6bV/5=","D6E=";"X2==";"F6aP6zO=";"ATO/1Kr=";"o7Watbh=";"QxZ4Za9=","cqCLyuX=";"Hah3Ic2=","PMLRaQO=","y/jiBSE=";"aCHt","Fsuhe2==";"JCdI","kpIJeI2=";"fV==";"GfnefvO=","/+0C2Y0=";"YvOiZch=","YLXM0Er=";"jn+xih==";"zo2M4GO=";"CUOK1lE=";"wLr+zV0=";"THkWplO=";"kBNaQR5=";"bIYFMg9=","XcKmFF5=";"Cd25P3O=";"jAWsCxX=";"BZVv27+=","yyVPkfr=";"k9G3ZUV=","0Ln71yE=","rupFN5==";"x1Dtlkr=","FDPR","aVi/","M32TDk9=","qxfVZ69=";"mMFSrKr=","e11ZWxr=";"7fLX6h3=";"EVTcih==","iNigrll=";"eJxOT35=";"RV==","LeooRs9=";"8UMleZg=","NsfTQh==";"7Lae7V==";"oEaKjq2=","YMkk";"RiPj1r9=";"15==","wAAyqeX=";"YjIMVQ0=","mw1z6h==";"c6WrBO9=","OZgG4y5=","d8dHcI+=";"QGfqZf5=","xgzTTH+=","wrl=","fq5Xc2O=","/l/wU09=","0qkg060=";"Ljtbrel=","0qgrTT5=";"9MRphid=","IV1HVV9=";"1h==";"1lprIGh=";"A37Z","CNJ1Wpk=","UbjcGDX=";"G1s1UIV=";"xlqnUhX=","2uakcV==";"+nZCHzO=","ZUw+Wrh=";"wPRF","WM8TVt+=","xugUKHX=","eTcklih=","wuJDHbX=";"GnEWwN3=";"IHaaqh==","bVuVk2==","FrQFd5==","Man752==";"ddkZu9g=","76ZskW9=","n5ZNcmg=";"a9e/ru3=","QsQT5v9=";"HRaY";"YNBLXVr=";"kWzNag9=","sBmGMXr=","39+=","01Q70ml=";"EzdIw0g=";"CyaHXCh=","zORlkkX=","rOX/RO9=","9YGxpzh=";"0Hj+Z35=";"NMiVxW0=";"N7g=","EaDy","sweyK2==";"G5t/d5==","V0zw12==";"DV==";"TNWfn22=";"n/Us","+DRSR20=";"52==";"foG8IT2=","9cyQ","qyCY";"6V==";"1XJcTV==";"DXXDwLr=","sojGN5==";"0CIjiG2=";"u7/A";"nZJbA2+=","Lm9OD2==","qh==","d5/1";"bjZHiHV=";"MrT6IYE=";"rPT762==";"zn3ku2l=";"q/T72uh=","3QQJyXX=","BLVugT2=";"tf+3","/WAsw5==";"uKDLWpd=","+5h=";"PYItoV==";"OQ27Z8+=","/EFjW2d=","w46rjN0=","gELur5==";"sMts1J0=";"rK+CAN2=","a5+hMGg=";"EJrVO4g=";"/ocHD7r=";"TTfRCa4YEn+5bn4XEh==";"lTAwKkk=","KDO=","UOrq","ebB6mgh=";"28udUZ3=";"O8M69y2=","z56YFfE=","TgxGCl9=","gMO=";"eV==";"1IQ0";"2xAwHL0=","rqfEIyr=";"Vd4b";"tUAQHZ+=","IlpsD5==";"8JlL","whgwzJV=","OOcg/vX=","wKH+0V==";"CXWwPXd=";"46QFdHd=";"DSjvwah=","QKa89A5=";"EHo6BSh=";"rfPW","VXR1";"q8AkBm5=","0K5=";"QMd77Gh=";"CmE6qNg=","Dgj7t5==","k5uvIV==";"MMRV";"RzR7ut3=","mad=";"prl=";"dT9tCh9=";"L90=";"Ps3=","QvRGhr3=","i3pSYQ2=","9lTx4V==","6VMM","K56wEh==","2UKU0V==","QdwUx2==","0Og6gqh=";"D38T7ad=";"sDk=","nNFyyAh=","oLjVCX2=";"9weXLGvWEQfmkatlHnCzbw8XNa4WHDPKCGxz9w05dT3ZkavmEweWCDO=";"AJw0gxl=","tu3=","Ho2=";"NAqL/sd=";"eRmVi02=";"E8dcLo+=";"ddsR";"MkkY";"32d=";"fLO=";"OxSnih==","d+oteLE=","LmOKUh==","2TzO";"mk9=";"8U0mFcX=";"wXpqGLO=";"CC7o";"lEeW";"/Mw8","Cm71";"lPK/oX5=";"3qQS3+d=","CF6K2hk=";"yunyx+l=","cYiCtnV=","RNFlYI+=";"TcrDEdl=","W6dd0cd=";"afDWo2==";"MeRn8UE=","LyGcL23=","Cyg5GV==";"OJ93I+r=","SkNlFeE=","yo1/Hih=","hgdRKYV=";"Fs1Zhp3=";"RDXNZU3=","YaqkC6k=";"eorxJn2=","+AUAgvX=","zUJii5==","8GTnq4g=";"9w1WCn4R","F/fPTc2=";"zMSU","xuZ+te5=","s0V2Dcl=","RFKWzg5=","i10v","C9JwCP2=";"s7CvW5==","vMTt";"8BO29Yd=","+pe1UTg=","lpNqS2==";"8x5=";"XZpMlEg=";"ACQiZ+E=","j5==","Xultz5==","UEL1s/0=";"hntzbwrJbQe7Lh==";"+07TN9k=";"t2==","pA0=";"wIWCjh9=","QSoH","4pI0Hdg=";"gRbRi4h=","SEtfGV==";"+nqZiPl=","Ao5=";"AWjB";"I0p7K2==";"k5==";"1WYI1cl=","nWNR";"QrbYsFg=";"vwDYmRl=","Qcf9";"8xZnDll=","2Gmu9Mg=";"z2o4";"FpDUsN0=","og/3";"Obq1325=","njs9ch==","iF7u9bX=";"cpeLqI0=";"bbiuQNE=","OAKPilX=","Vx2=","Twxv";"le9m";"rfcvhkk=";"MM4R","DJDNrLX=";"Vp01S5E=";"OM2=","AfniBk3=","h45orKO=","xCQLEkg=";"C+9F+6g=","BfylNL2=","xgsCzTl=";"8qQUzY0=";"T9TM","Q9Fk7V3=";"gaUG0dk=";"KsFwlqh=","deN4379=","qzbTz5==";"EfqImf2=","p4TLIPg=","CTix7ig=";"+O4f","ii79uh==";"okBM";"MXz3A6+=","Dcqkdh==","k2B4","UbZZ1l3=","QqAZ5SX=","dBJ5Ruh=","xvpkRsk=";"G+VbBh==","Ch==";"ueh7wi9=";"KSxxK9+=";"fufMVDg=","rP1hC1gyCrP8rYvn8w5X";"lqEIVLV=","iljj9V==","lKuBss2=","r5==";"Dx9So2h=","RSdJ","m7HmgN9=";"azbPg0E=","XgE=";"B1aVsBr=";"3lrg8D2=";"H6j212==","nU9=";"YbWcTKr=";"/wt5Pok=","f8n1","Mi5wEwV=","VFXftV==";"nh==","ZYYS";"znj13C2=","r9iTv2==","j0JKj75=","B42=";"UxM7IZr=","PZN8Kxh=","i3zfVR5=","QW3qish=","Cq5=";"k3XD";"EAqF","FBGzG2==";"GVjY9yk=","WvjnCok=";"V5k=","/vxIEs3=","/tuf","FpOrQV==","9Hzg02==";"uK87oXr=","jn5F+b5=";"rM6q/Vk=","84ICZ2==";"EwghaI2=";"gtZTtcg=","qkMDJId=";"Va3GnV==";"dlQRqYX=";"x2JQwh==","wr3=";"YE2zJcd=","ckgwNpO=","Zwr=","qV==","+2==","wgg=","kOV=","8Hcc","Ggp08V==","phQ4ih==","GETvUI+=","af6lDRr=";"th==";"R6dxEK0=","m6fUpm0=","t7dB2V==","61gQ","mmV=","jl9Jsh==";"fSbg5LV=","Be9zPIr=","xNl=","T65=";"Hm76MU5=","Gd4sww3=","28w3pe5=","WgdraV==";"p2==";"wBAZQ1k=";"8XuL","oTi3";"HU2Qcvl=";"XfY7Ga3=","FqdQERg=";"BxGnt7E=","yZtRSeO=";"Tfed4nk=";"8OV=","vWQ2SO+=","zKncR2==","e2hl","/Fg=","MX6LOLg=","ZQoZoIX=";"sd0mX3h=";"GxFsGXO=";"bneW";"8iChz6h=","u9qZ";"aQ+J6+h=";"j2==";"6WonT2d=","rUtMikE=","KDDoh2==","O3Zc";"7L+IuD5=","m2U+C2k=","7V==","xYn/";"2uXKnP+=","+Uv0gFO="}for t,K in ipairs({{(972968+((((-60873+(303836-441422))+(-804157+(1895987-697088)))-(-141985))-(-228582-(-915074))))+-624743;94175-90120},{-256802-(((-980748+(((85904-306905)+1290538)-748677))+-352366)-((-1999-(-896104))+-1649556)),-130977-(-133858)},{-365422-(831177+((194188+-1397748)-(-127543-(-123464))));156531+(-428153-(-275677))}})do while(K)[519481-519480]<(K)[17910-17908]do(I)[(K)[-29479-(-29480)]],(I)[(K)[-548611-(235652-(607107+177158))]],(K)[946317+(-541980+-404336)],(K)[-88926-(-88928)]=(I)[(K)[-948980+948982]],(I)[(K)[-170257+170258]],(K)[(-924726+(868634+-582313))+638406]+(-90622-(-90623)),(K)[990726+(((832866+-595904)+612020)+-1839706)]-(997966-997965)end end local function z(t)return(I)[t+(248667-229826)]end do local t=table.insert local K=table.concat local M=type local z=string.char local b={["5"]=-988655-(-988687),P=-275275-(-939780-(-664468)),F=((692277+-202199)+-99304)-390711,U=818023-817972;u=-605691-(-605753),["+"]=-170339+(-904885+1075228),["4"]=-859763-(-859824),G=537690-537667,["7"]=-351394-(-351427),e=729807-729786,W=986060+-986014,["3"]=-788905+(730657-(-686038+627730));c=-446952-(-958381-(-511410));Z=-824458+(((-696258+1349652)+-527233)+(-99595+797926)),H=-986995-(-987005),T=63280-63262,["2"]=-989130+989130,t=-659994+660043;R=190160-190115,Q=-342849-(-458165+115309);D=-431609+431611,["9"]=-29678-(-29706),O=-611079-(-611115);I=820722+-820719;["8"]=-698491+698504,K=20805+-20755;["1"]=-391584-(-391589),z=-797293+797346,i=539862+(589030+-1128862),f=587361-587360,d=324763-324751,S=((192375-(((-1556986-(-918366))+1862386)-854761))-113961)-(402336-(-578086+1271028)),X=620135+-620083;b=98540-98513;A=206675+-206664;["0"]=(-792829+(1101831-896471))+587525;s=-581377-(-581408),V=887278+(-563155-324075),M=944034-943995,p=870461-870420;["6"]=-111349-(391750+-503141);l=-228098+228142;n=(1674654-996475)+-678173;C=(136671-(-811849))-948495,Y=(263859-248438)+-15366,L=-135581-(-135610);j=205618-205564,o=(66029+-353202)-(-287187),y=-71644-(-71701);J=(1557167-(860899+-177393))+-873614;g=-625040+625080;E=638106+-638098;r=-120051-(-120071);k=174851-174827;B=-23771-(-23830),a=840943-840921,N=413214+(492224+-905412),x=-800730+800747;h=-465323-(-465339),v=-433513+433522;q=1037736+-1037693;w=-165865-(-165903);m=-1025499+(-758788+1784322);["/"]=723797+-723739}local N=math.floor local j=string.len local k=I local n=string.sub for I=417818-417817,#k,(-1612868-(-778989))+833880 do local c=(k)[I]if M(c)=="string"then local M=j(c)local v={}local y=-91343+91344 local O=521024+-521024 local x=(-616931+1190039)+(-439912-133196)while y<=M do local K=n(c,y,y)local I=(b)[K]if I then O=O+I*(1013663+-1013599)^((348463+-348460)-x)x=x+(986975-986974)if x==((914601+-105420)+-1478234)+669057 then x=1019507+-1019507 local K=N(O/(-224408-(-289944)))local M=N((O%(444450-(-662350-(-1041264))))/(-581000-(-581256)))local I=O%(-231564+231820)t(v,z(K,M,I))O=(-483390+667743)-(-1017036+(2070919-869530))end elseif K=="="then t(v,z(N(O/(-294432+(983271-(-218955+(598265+243993)))))))if y>=M or n(c,y+(-932652-(-932653)),y+(-705685+(90340+615346)))~="="then t(v,z(N((O%(-786407+851943))/(-132147+132403))))end break end y=y+(((1236216-381726)-((1291332-678407)-(702146-(-56494))))-1000204)end;(k)[I]=K(v)end end end do local t=true pcall(function()((getgenv()))[z(622933-641177)]=function() end end)local K=(string)[z(235881-252833)]local M=function()error(z(-1062330-(-1046073)))end local I=false local b=pcall(function()I=true end)and I local N=(math)[z((978813-((((486496-(-172621))+187297)-(649469+-35471))+273773))-488783)]local j=(table)[z(-246761-(-228311))]local k=table and(table)[z(-573274+555270)]or unpack local n=N(79938+-79935,856036-855971)local c=265253+(-134260-(643531+-512538))local v=333027-333027 local y={pcall(function()local t=(4856244-28422)-z(882813-((1080837-659032)+478941))^(186928+16298614)return z(1015773-1033420)/t end)}local O=(y)[815049-815047]local x=tonumber((K(tostring(O),z(-264472-(-247402))))())for M=(533230+(-575516+374628))-(823012-490671),n,704751+-704750 do local I=(math)[z(353591-369750)](303090+-303089,693531+-693431)local b=N((-878655+600142)-((752580-159293)+-871800),-766104+766359)local j=N(-904378+(240094-(-664285)),I)local y=N(-226898+(84264+142635),-422400-(-422402))==660204+-660203 local s=O:gsub(z((-193616-(-155049))+21497),z(197925+-215273)..(tostring(N((-774822+81969)+692853,-991563-(-1001563)))..z((-759634-(-856206))-113920)))local q={pcall(function()if N(990016+-990015,-470702+(946110-((732593+-357864)-(124004-224681))))==436523+-436522 or M==n then local M=tonumber((K(tostring((({pcall(function()local t=((-2015350-(-1008669))+8609894)-z(578596-594667)^(65132+2112400)return z((-42961-(-429320))-402279)/t end)}))[-346591+346593]),z(-616447+599377)))())t=t and x==M end if y then error(s,669078-669078)end local c={}for t=-264279-(-264280),I,(-81892-(-62838-(-903571)))-(-922626)do(c)[t]=N(401069+-401069,-992850+993105)end;(c)[j]=b return k(c)end)}if y then t=t and((q)[-404623-(-404624)]==false and(q)[(892599-(-341714+764169))-470142]==s)else t=t and(q)[-887513-(-1485430-(-597916))]c=(c+(q)[j+(1013410+-1013409)])%((-1268885-((-728429-(-65682+-92198))+150484))-(-849076))v=(v+b)%(754473+(-798379-(-44162)))end end local s=loadstring or load or((getfenv(print)))[z(-461869-(-443905))]or((getfenv(print)))[z(957426-974072)]if not s then local t,K=pcall(function()return require(z(-882673-(-866533)))end)s=K and(K)[z(427731+-445695)]end local q=true if s then local t=tonumber((K(tostring((({(s(z(210657+(341488+-568349))))()}))[-329955-(-329957)]),z((291111-743884)+435703)))())local M=tonumber((K(tostring((({(s(z(967271-982681)))()}))[687595+((-509676+196859)+-374776)]),z(-6460-10610)))())q=t~=M end t=t and(c==v and q)local i=not t and M()if t then else repeat return(function()while true do l1,l2=l2,l1 M()end end)()until true while true do l2=N(900993-900992,198782-198776)if l2>139523-139521 then l2=tostring(l1)else l1=l2 end end return end end local M=function(t)local K=z((-548609-(-579761))-46441)for M=176280-176279,#t/(-20513-(-20515)),-37013+37014 do K=K..(t)[#t/(357947+-357945)+(t)[M]]end return K end local t,K do local I=(math)[z(290974+-309090)]local b=(math)[M({391229-391227;(1269104-(857413-(-19031)))+-392659;z(819812+-835448),z(558761-577377)})]local N=(table)[M({(-81183+-181230)-(-768439-(-506024));669273-669272;z(765489+(123817-905381));z(-103083-(-85408))})]local j=(string)[z(-81948-(-66913))]local k=-343453-(147642+-491095)local n=(576811+-1316221)+739412 local c={}local v={}local y=-70777+70777 local O={}for t=(-271798-(-140160))+131639,-865183+(69130+796309),753144-753143 do(O)[t]=t end repeat local t=b(-555372-(-555373),#O)local K=N(O,t);(v)[K]=j(K-(806254-806253))until#O==-651909+651909 local x={}local function s()if#x==1005391+-1005391 then k=(k*(-580533+580718)+(13233137331800-(822220+-737461)))%(35184373018703-929871)repeat n=(n*(-123177+123216))%(578611+-578354)until n~=-27846-(-27847)local t=n%(939994-939962)local K=(I(k/(501635-501633)^((796713+-796700)-(n-t)/(-559360-(-559392))))%((-690083-(-909350))+4294748029.0))/(-282665+282667)^t local b=I((K%(606971-(-365245-(-972215))))*((-1006203-(-94966))+4295878533.0))+I(K)local N=b%((290935-(-691977))-(-1027212+1944588))local j=(b-N)/(1004121+(-1921927-(-983342)))local c=N%(605911-605655)local v=(N-c)/(((116692-136553)+-557252)-(-577369))local y=j%(-621979+622235)local O=(j-y)/(965762-965506)x={c,v;y,O}end return(table)[M({-848410-(-848412);-35186+35187;z(404105-420180);z(-730357-(((-1042207+776387)-(-412601))+(116323+-975786)))})](x)end local q={}K=setmetatable({},{[M({(-571840+-396901)+968743,-115608+115609,z(926311+-941563);z(-919409-(-463450+(41605+-481978)))})]=q;[M({-154833-(-154836);1007373-1007372;368074+(-1237649-(-869577));z(-837975-(-821284));z((-926900+793760)-((-1172143-(-123710+-591431))-(-339937)));z((391829-(-647207-(-327120)))-730064)})]=nil})function t(K,M)local I=q if(I)[M]then else x={}local t=v k=M%(-82475+35184372171307)n=M%(789843-789588)+(-761803+((1300238-491087)+-47346))local b=(string)[z(896118-912092)](K);(I)[M]=z(2315+-17604)local N=-862118+862176 for b=-1028005-(-1028006),b,-766308-(-766309)do N=(((string)[z(442055+(-635121-(-177534)))](K,b)+s())+N)%(924730-924474);(I)[M]=(I)[M]..(t)[N+(((((-729137-(-976245))+1663270)-921163)+-949582)-39632)]end end return M end end return(function(I,N,j,k,n,c,v,s,J,i,Q,m,b,Z,u,A,a,g,x,d,y,O,G,q,w,...)A,Q,u,Z,G,i,O,s,d,x,m,J,w,g,y,b,a,q=function(t,K,...)local M=q(K)local I=function(...)return b(t,{...},K,M)end return I end,function(t,...)(O)[t]=(O)[t]-(-161153-(-161154))if-344195+344195==(O)[t]then(O)[t],(y)[t]=nil,nil end end,function(t,K,...)local M=q(K)local I=function(I,z,N,j,k,...)return b(t,{I,z,N,j;k},K,M)end return I end,function(t,K,...)local M=q(K)local I=function(I,z,N,j,k,n,c,v,...)return b(t,{I;z,N;j,k,n;c,v},K,M)end return I end,function(t,K,...)local M=q(K)local I=function(I,z,...)return b(t,{I;z},K,M)end return I end,function(t,...)local K,M=-609781-(-609782),(t)[-469238+469239]while M do(O)[M],K=(O)[M]-(1009390-1009389),(-618732+618733)+K if(O)[M]==(816332-257789)+(-820247-(-261704))then(O)[M],(y)[M]=nil,nil end M=(t)[K]end end,{},383256-(457606+-74350),function(t,K,...)local M=q(K)local I=function(I,z,N,j,k,n,c,...)return b(t,{I;z;N;j;k;n,c},K,M)end return I end,function(...)s=(502362-502361)+s;(O)[s]=-64977-(-64978)return s end,function(t,K,...)local M=q(K)local I=function(I,z,N,j,...)return b(t,{I;z,N;j},K,M)end return I end,function(t,K,...)local M=q(K)local I=function(...)return b(t,{},K,M)end return I end,function(t,K,...)local M=q(K)local I=function(I,z,N,...)return b(t,{I,z,N},K,M)end return I end,function(t,K,...)local M=q(K)local I=function(I,...)return b(t,{I},K,M)end return I end,{},function(b,j,k,n,...)local Np,Jp,R,Gp,Lp,W,vp,Y,F,gp,jp,s,sp,e,Mp,q,Kp,S,xp,yp,L,O,up,mp,dp,Zp,ip,p,l,Ap,kp,Ip,np,o,X,zp,bp,U,tp,wp,cp,r,H,B,T,D,v,qp,lp,P,Op,C,Qp,E,V,ap,i,f,h while b do if b<(339141+434954)+(-692103+(750676+6873380))then if b<5097672-878147 then if b<1646930-(-384169)then if b<1043899+(-32723-(606604+(-1931742-(-1007943))))then if b<175817-(-582624)then if b<-393906+672304 then if b<294612-200981 then if b<-970931+1025196 then H,S=l(o,H)b=H and-1048089+6137196 or 778988+((((-633920+494872)+193751)+(940161+(-322367-(-231957+76257))))+5737744)else l=(K)[t(z((-213688+741364)+-543306),-365065+(209596+20090649598918))]v=962461+(-1860124-(-897673))b=v^q i=b H=85064+(-359804+274740.5)L=(I)[l]l=(K)[t(z((1045527-(1007167+-454964))+-509269),(-693294+81132)+(((1647514-777964)+10265732766284)-39795))]v=(L)[l]o=s*i l=o+H L=v(l)b=L/i v={b}b=(I)[(K)[t(M({-761308+761310;(-380190+380834)+-641;-777889+777890;z(1044686+-1062143);z((-1486892-(-1027881))-(-442631)),z((-749646-(-578921))-(-786425-(-592023+-41651)))}),563531+21167014130953)]]end else if b<364543-(-662827-(-808706))then b=(K)[t(M({72606-72604;-635324+635325,z(440735+-457827),z(-153203-(-385312+250359))}),396429+6739710134475)]v=true l=(K)[t(M({363910-363909;-397560+397562,z((-1031878+1195520)+-179735),z(487914+-506066)}),-59781+34403416324606)];(O)[b]=v v=(K)[t(z(-450597-(-875184-(-442081))),615604+9852397035484)]b=(I)[v]L=(y)[(k)[1034612+-1034611]]i=(L)[l]L={b(i)}b=13986115-787801 v=(L)[242573+-242572]q=(L)[(-733168-(-532445))+200726]s=(L)[(963006+-278501)+-684503]i=v else v=(K)[t(z((-276927+1141757)+-882883),1863830215174-(-679056))]b=(I)[v]L=(K)[t(M({-148685-(-148686),455262+-455260,z((-355648+883506)+-543445);z(-131391+115054)}),(-694660+(-370831+29858428342707))-185264)]i=(y)[(k)[(-287050+(327887-934899))+894063]]q=(i)[L]i={b(q)}b=(9316721-933997)-345531 s=(i)[((-101506+((145947+-207128)+-397323))+-78593)+638606]O=(i)[-570607+(162168+408441)]v=(i)[-543774-(-543775)]q=v end end else if b<((-94016+1469684)-172472)-(((476052+577244)-(-757296))-922410)then if b<-552486-(-850698)then i=(K)[t(M({-598679-(-598680),-1006911-(-1006913);z(563022+-578614),z(-412764-(-629568+232121))}),(758106+31126794065685)-861225)]s=(j)[(29708-916552)-(-886846)]O=(j)[-617957+617958]b=(y)[(k)[-346739+346740]]i=(b)[i]q=(y)[(k)[-988079+988081]]v={i(b,q,s)}v={N(v)}b=(I)[(K)[t(M({-299945-(-638175+338229),(((927386-728342)+(-532514+(1590352-(444880-598225))))-942559)+-467665;8504+(-622299-(-927127+313330));z(830582+-849370),z(78341+-96934);z((((1059296-192322)+-1544239)-(-369772))+291326)}),2994035107186-(-901494-(-351519)))]]else l=(K)[t(M({(202445+-346261)+(566761+-422943);(-1197893-(65974+-594718))-(-669150);z(521434-537580),z(547528-565718)}),29083024470655-(-448404-(-258456)))]i=(y)[(k)[132885-132884]]L=l..s q=(i)[L]v=q b=4112313-(-421054+481675)end else if b<(1313373-729499)+47624 then s=(j)[29082+-29080]O=(j)[-95045-(-95046)]b=(K)[t(z(48074-63883),1117709473069-(-740181))]L=(K)[t(z(203804-219720),-638299+(31813734156453-(473599-993204)))]q=b i=(s)[L]L=(K)[t(M({((833141+-1379874)+451396)-(-95340),-362200+362202,16507+-16506,z(227491+(-517304+(962861+-691047)));z(((772273+(-1314455-1030424))-(-622265))+(((-480737-(-196783-755236))+438238)+((-968857+169530)+823031))),z(-167056+151572)}),(-389268+22770074724845)-(-222374))]v=i or L;(s)[b]=v l=(K)[t(M({(-564597+1529342)-964743,(-71921+-592874)-(-664796),z((823814+-1216777)+(-53719+430684));z(-1046488-(-1029431))}),-784892+((18824803119267-(-961034))-184149))]i=b v=(K)[t(M({-568192-(-568193);406268-406266;z(176753-191797),z(695485+-713287)}),15044940013391-539297)]L=(s)[l]l=(K)[t(M({-252801-(-526462-(-273660)),(717707+-1452751)-(-735046),511354-511351;z(650832-(1691117-1023197)),z(-101132-(-28575+-55541)),z(979140+-996608)}),22029026989731-(-109205))]V=(K)[t(M({((-264110+1124635)+-1429369)+568845,-645150+645152,z(486494+-501425);z(-980600+(139513+(1163276-337288)))}),8848025194447-(1030696+-9492))]i=b q=L or l l=(K)[t(M({514755+-514753;-62211-(-62212);z(800458-818078),z(-622486-(-604719))}),3274891543863-(837932+-521988))];(s)[v]=q v=(K)[t(M({-507796+507797,-483595+483597,z(-560286-(-543399)),z((-1566732-(146438-(672863-(-192413))))+829129)}),(-398060+-382588)+28946647156343)]L=(s)[l]l=-31325-((1025481+-602882)+-453927)q=L or l;(s)[v]=q q=(K)[t(z(1028189+-1043429),20897638394180-(-565658))]v=(I)[q]l=(K)[t(M({398260+(437181+-835440),-467265-(-467267),z((-52448-179046)-((-697058+160122)-(-322799)));z(649953+-668241)}),24766311640989-629733)]H=(K)[t(z(630542+-645807),1859839870209-(-551040))]L=(I)[l]l=(K)[t(M({1025959-1025958,194041-194039;z(171047-187280),z(-177190+158997)}),24457539910025-(-603664))]i=(L)[l]o=(s)[H]H=(s)[V]l=(K)[t(M({((-769279-((18329+((-23176+-799314)+(-943519+2556482)))+-1850743))+-1132521)-(-859860),-237499+237501,z(-371830-(-355453)),z(-578929-(-563853))}),-1017536+(27935746675763-(182654-(-323966))))]L={i(l,o,H)}q=v(N(L))q=(K)[t(M({605747+-605745;(-1221581-(-275203))+946379;z(-654687+(-378699-(-1017141)));z(-260310+242281)}),515658+18582738254649)]v=(s)[q]b=v and-437538+2372395 or 16259917-1011482 else s=-837928.5-(-837929)O=(K)[t(M({((-763545-(-303819))+389062)+70667;-635273+635277;427297-427296,-868894-(((-383126+-432198)+56691)+-110263);-274466-(-73000+-201471),z(-299151-(-282895)),z((-86778+221181)+(((106114+640691)-(-742653+575965))+-1065295));z(((747831+-1044402)-(-609156))-((-618813+533765)+415603));z(763355-780668);z(92168-107384)}),3723923368503-845365)]v=(y)[(k)[-200345-(-200350)]];(v)[O]=s C=697596-697596 l=(K)[t(M({794429+-794427,118604+(-555431-(-436828));z(-764055+745336);z(((1231896-(1037393+-286674))+((-721494+1244100)+-580488))+-439744)}),14382979400896-(-911061))]v=false;(y)[(k)[-1005325-(-831586+(493320-667065))]]=v V=(K)[t(z(-9660+-8217),25421805971515-1042134)]S=-285585+((-729427+123883)-(-891109))O=(y)[(k)[((-770226+(-159362+(-848284+1024928)))+1686108)+-933157]]q=(y)[(k)[-613701-(-613709)]]L=(I)[l]s=(K)[t(M({-924935-(-924936),-516581-(-623222+106639),z(444439-(1138153-677968));z(31397-46678)}),(-224734-((335054+-1719302)-(-534408)))+4213500650612)]l=(K)[t(z(-784609+(263952-(-504367))),20393936012452-(708241+-1491418))]i=(L)[l]s=(O)[s]l=.2 L=i(l)H=(I)[V]V=(K)[t(z(389275+-407451),((110396-(-572949))+20929741166765)-926942)]o=(H)[V]V=-160391+(918776+(834567+-1592951))r=(419728+304517)-((-857556+814901)-(-766900))H=o(V,S,C,r)l=(K)[t(z(986579+-1004831),-469665+(-736052+11934088031266))]i={[l]=H}s=s(O,q,L,i)O=(K)[t(z((-861989+1544892)-698255),19713827115666-(-951571))]l=(K)[t(M({(148778+(-707736+514210))+44749,(-64139+-322500)-(-386641),z(520344+-536958),z(-232532-(-215262))}),20434471946993-800001)]O=(s)[O]O=O(s)O=(y)[(k)[-209951+209958]]o=-13484+13484 q=(y)[(k)[683622-(-214048+(-13629-(-911290)))]]L=(I)[l]l=(K)[t(z(549669+-566410),3445188750261-(782163+-1635316))]i=(L)[l]l=.2 s=(K)[t(M({465944+-465943,725996-725994,z(355291-371963);z(-140578+(-172213+294642))}),33963641573787-143821)]s=(O)[s]L=i(l)l=(K)[t(M({-884001+884003,-307929-(-307930),z(-955296-(-938602));z(-925778+909117)}),13919491881048-(-395742+1197071))]i={[l]=o}s=s(O,q,L,i)O=(K)[t(z(-672317+654548),2599905513126-233280)]O=(s)[O]O=O(s)q=(K)[t(z(-870204+854958),13085772867480-424892)]s=(I)[q]q=(K)[t(z((-812944+(1773568-(-20979-(-435040))))-(1058483-496020)),(-916209+-81281)+(34325877856710-(-912060-(-541613))))]O=(s)[q]q=.2 s=O(q)L=(K)[t(M({(375668+153214)+-528880;327923-327922,z(((1025574+-1028389)+-637588)+622633),z((-253940+1095395)-858454)}),1485173225748-565536)]q=false O=(y)[(k)[(679248-(-171813))-851053]]s=(K)[t(M({712954+-712952,-984030-(-984031);z(-162513+145875),z(667313-685520)}),3901829905721-((-208449-(-459533))+-687667))]b=(I)[(K)[t(M({(633338+-30582)-(-338873+941627);-276390+276391;-267183+267186;z(-736452+718283),z(-6984+-10051);z(855534+(663042+-1535013))}),34731133985970-(225169-209877))]];(O)[s]=q s=(K)[t(M({906931-906928,-56038+(-331877-(-387917)),503723-(954484-450762);z((-1149538-(977221+-1857323))+251695);z(-138626-(889188+-1012452)),z(-591507+573578)}),-261737+2549613236429)]O=(y)[(k)[33207-(-134579+(724774+(-264976-(1131448-839426))))]]i=(y)[(k)[678456+-678445]]v={}s=(O)[s]q=(i)[L]i=(y)[(k)[393741-393740]]s=s(O,q,i)end end end else if b<-189137+1344509 then if b<460282-(-477115)then if b<563726-(-249308)then b=V;(i)[H]=b b=((-494396-(-508033))+9998975)-((788169+-1473275)+(1763816-111425))else H=(K)[t(z(318291+-333612),16093243205189-(-557927))]o=(I)[H]b=8132226-1002570 H=(K)[t(M({-444038-(-444039);11756-(-936235+947989),z(-610053-(-591264)),z(-231393+214007)}),-1010263+3873069116700)]l=(o)[H]o=(K)[t(M({-485597+485598;-425823+425826,(-661449-(-407090-(971258+-451685)))+-265212;z(542054+-558435);z(-22029-(-5533));z(-979330+964516)}),((908008-690873)-(-73245))+8997354584804)]L=(l)[o]q=L end else if b<454916-(-535473)then H=(K)[t(z(540169+-557413),131810+20501646211249)]o=(y)[q]l=(o)[H]i=l b=10501199-738026 else E,R=H(f,E)b=E and 11551305-888140 or(1102717-563471)+13385053 end end else if b<768636-(-544657)then if b<(-1353284-(-669818))+1981826 then v=(K)[t(z(-22413+6194),19062506652532-(940648+-1057556))]b=(I)[v]L={b(s,N(q))}i=(L)[(949316+(-255130-(-52300)))+-746484]v=(L)[-838423-(-838424)]L=v b=not L b=b and-880881+10186949 or(-444672+11063821)-(-458066)else W=b p=(K)[t(z(-95380+(794727+-716516)),-258031+(-1042304+9176418036487))]C=(K)[t(M({-877689+(178646+(636768+62277)),42533-42532,z(623654+-640450),z((-1293666-(-934547))+(804273+-461851))}),(-1047356-(-198250))+18056376698831)]P=(K)[t(z(632673+-649279),17440503950299-(-674348))]l=(y)[o]E=(K)[t(z(-880166-(-861389)),26438+16925024257039)]f=(y)[(k)[(-326713+-214606)+541320]]r=(f)[E]E=(K)[t(M({60384+-60383,-105164-(-105166);z(-581944-(-564461)),z(-453562-(-436636))}),29723935313600-(-524904))]D=(K)[t(z(-715559+699128),1677435275762-(-907409))]F=(K)[t(M({(-745380+(858236-(719844+-1205972)))-(697891+-98908);(-494066-(-281556))+212512,z(-681296-(-664381)),z(766674+-781559)}),169987+(-236158+30364643893675))]R=(K)[t(z((-433212+158935)+256635),2669208665007-(-131910))]T=(I)[D]D=(K)[t(M({(175977+662511)-838486,(1015626+-1105739)-(-90114);z(280305+-295884),z(-791135-(-775344))}),904741+(4037144129162-656254))]B=(T)[D]X=(K)[t(M({1012855+-1012854,-885229-(-885231);z(244668-260143);z(1017985+(-319233+((-1703248-24917)-(-1013318))))}),24345609360349-324300)]Y=(s)[X]X=(1146894-943022)-203852 D=Y or X X=(s)[F]F=409476+(452063-((672210-651657)-(-840966)))Y=b W=X or F b=999481-(-330317)Y=(K)[t(M({-261431-(-261433);64922+-64921;z(-650680+(-898049+(2080589-547966)));z(828177+-843580)}),11270925913605-(1135526-342315))]F=(K)[t(M({829174+-829172;87422+-87419,-870406-(-870407);z(956651+-974437),z(-444746-(-428809));z(939215-956006)}),-150733+23709887131741)]T=B(D,W)D=657381-657380 B=(K)[t(M({649720+-649715,(418962+-593748)-(-174788),615686+-615685;-266061-(-266065);(-655250+(193551+(-990643+1328205)))-(-124140),z(-375481-(-591794-(-233853)));z(-391840-(-373133)),z(61115+-79907);z(993393-(1429606-418121)),z((251265-64932)+-203099)}),((361174+1149131)-657582)+21578999089856)]X={[F]=P}W=(K)[t(M({390059-390057,-308185+((479859-(221003-295294))-245964);z(-836031+817490);z(810653-828294)}),20785832004646-(549173-(1167275-121620)))]e={[R]=q;[p]=T,[B]=D,[W]=V;[Y]=X}f=r(E,e);(l)[C]=f end else i=(K)[t(M({-766758-(-766759),-866079-(-866081),z(-306700-(-289863)),z(-952091+936052)}),26640385604013-986731)]b=(y)[(k)[802442+-802439]]O=(y)[(k)[-534139-(-534143)]]v=(K)[t(M({-587474+587476;-717619+717620,z(88101-104117),z(968524+-987259)}),184691+29671280627401)]L=.8 q=(I)[i]i=(K)[t(z(-483037+468227),437084+(15149917689357-(-780335)))]s=(q)[i]i=.1 v=(b)[v]q=s(i)i=(K)[t(M({(996113+(122609+-1161158))+(-345314+(174461+213290));-306455+306460,((-635441+931625)+-1200582)+904401,669305-669301;39476-39474;z(-686420-(-668561));z(-952598-(-226958-709073));z((-777106+(919771+465147))-623788),z(511466+-529937);z(65025+-82244)}),-649058+(29548739919163-132625))]s={[i]=L}v=v(b,O,q,s)b=(K)[t(z(79506+-96509),(-720959+12273801974254)-390641)]b=(v)[b]b=b(v)b=12877425-(573731-(257102+-125073))end end end else if b<(-722296+(2079145-986404))+1374492 then if b<624515+(1025377-203926)then if b<792877+606511 then if b<919955+(-384741-(-821987))then h=(K)[t(z(-758431-(-740858)),555571+(23402941186870-(-838887)))]T=(-937397+(-280191+465983))-(-751621)R=(K)[t(z((-139207+307046)+(-959216-(-772557))),249106+(30143949168437-(-890760)))]C=(K)[t(M({-387369-(-387370),-258446-(-258448);z(-319357-(-302227));z(-1041874-(-1024940))}),13667697530681-800836)]Kp=567374-567374 F=(K)[t(z(((-318444-(-835175-(-182933)))+-297839)+(((-1215694-(-1077755-(-145926)))+-763704)-(-994866))),253379+(526548+10398773160996))]l=(y)[o]E=(K)[t(z(853425+-869506),637405+((1029027-284712)+35164338999729))]f=(y)[(k)[246236+-246235]]r=(f)[E]E=(K)[t(M({-78241+78242,623031+-623029,z(-282515-(-264389));z(143095-161067)}),699450+33372590917825)]B=(K)[t(z(587562-(327238+277923)),((-356150+6147310734566)-562226)-(-642578))]p=(s)[B]D=(K)[t(z(541711+-559608),435341+27305809012995)]X=(I)[F]B=(K)[t(M({202133-202131;304497+-304496;z(-724079-(-706477));z(-856880+841538)}),33035854323515-603618)]Np=(K)[t(z((1308946-((1330760-213935)-482658))-(-137546+827906)),1025453+(-985699+13183373294126))]F=(K)[t(z(-426079+408732),31602188908488-(-219729))]Y=(X)[F]X=(K)[t(M({(526687+-426365)-(-220810+321131),(-1626214-(-618239))-(-1007977);z(419954-435269);z(418393-434992)}),18655137285981-734551)]W=(Y)[X]Ip=(K)[t(M({-1014477-(-1014478);35395-35393,z(-727793+709229);z(111738+-129474)}),21633818531345-(-318452))]U=(K)[t(z(644100-662668),((194246+31722408740097)-(7171-(-546643+((1747063-769904)+31040))))-(-555227))]Y=(K)[t(M({220820+-220819,-598189-(-598192);(1584955-(94907-(-490461+-164434)))-835151,z(771594+-786575);z(-405213+389760),z(734011+(-251421+(-860948-(-361935))))}),((455584-(420617-(336508+-788668)))+2417489334574)-644473)]P=(I)[h]h=(K)[t(M({-587882+587885,-866212+(705546-(-160667));(284944+-478067)+193125,z((-81501+168771)+-104506),z(54276-70982);z((571194-237483)-348575)}),(868668+(-2231287-(-632121)))+22798237126505)]F=(P)[h]P=(K)[t(z(291992+-307902),446470+31136962306863)]X=(F)[P]h=(I)[U]F=(K)[t(z(487492+(-608014+105421)),27750783693943-(-730962))]U=(K)[t(z(((810518-(-155568))+(459431+-1200512))-242535),20748977397911-454698)]tp=-866271+866271 Mp=-965671-(-965687)P=(h)[U]U=-448368-(-448368)h=P(U,tp,Kp,Mp)Mp=(K)[t(z((321220+697598)-1034761),-380762+12169342830337)]P=(K)[t(M({(-347670+1248504)+-900831,(446054+-178843)-267209,(-589686-(-287878))+301809;z(237896+-256499);z(1022442+-1038748),z(-666067-(-649732))}),24934705995616-1008308)]Kp=(I)[Mp]Mp=(K)[t(M({-106438+106441;(708284+-1516790)+808508;487608-487607,z(-530855+515854);z(835844-851532);z(1046777+(-168980+-896162))}),18431394090236-99551)]tp=(Kp)[Mp]Kp=(K)[t(z((78542-(-580405))-676275),(22888777873810-771565)-(-613392))]bp=(K)[t(M({841455+-841453,-386094+386095;z(215222-(-231541+465437));z((557208+(-140792-(-577168)))+-1009264)}),-411346+23607265276934)]U=(tp)[Kp]Mp=(K)[t(M({-132333+132334,-227643-(-227645),z(-450326+433223);z(-1043035+1027869)}),19941423629341-920008)]zp={[bp]=Np}tp=(K)[t(M({1030942-1030938,633888-633885,375199+-375197,(-1204994-(-1357132-(-1033967)))+881834,(((1739471-(-452676+1129225))-1011359)-(793809-((-313477-(-774563))-127359)))+(307529-(-100991));z((353952-141860)+(605737-836453));z((-714893+558532)-(113212+-251694)),z(949940+(-56504-910812));z((-130134+-47093)+161147);z(121934-137534)}),12503227118709-((-850792+1580559)+-289341))]Kp=(613781-(-261589))-875369 e={[R]=p,[B]=T;[D]=W,[Y]=X;[F]=h;[P]=U;[tp]=Kp;[Mp]=V,[Ip]=zp}f=r(E,e);(l)[C]=f C=(K)[t(M({-95152-(-95153);-430643-(-430645);z(729386-747907),z(-413982-(-340586-57497))}),3275395696522-(-219420))]l=(s)[C]b=l and 13563981-373452 or 7444415-450206 else b=(K)[t(M({514033+-514032;-439228+439230,z(-122066-(-105135)),z(-707619+689173)}),(132958-(-513846))+13127968437483)]s=nil;(O)[b]=s b=((1897015-(-555128))-688453)-166272 end else if b<(365906+824456)-(-220048)then i=(K)[t(M({(653949+-1061390)+(608004-200562);(979699-295539)+-684157;997725+-997723;z(((53287-767954)+482036)+215526);z(541547-557827),z((1309582-(1212956-644200))+-758814)}),55293+19506497988370)]b=(y)[(k)[-480170-(-480171)]]s=(j)[-126319-(-126321)]i=(b)[i]O=(j)[-393907+393908]q=(y)[(k)[(337452-690358)-(-352908)]]v={i(b,q,s)}b=(I)[(K)[t(M({-250702-(-250703),802586-802584;-170684+170687,z(110780-125657);z(-131470+(276645+-161096));z(-99166+81437)}),332736+(28053822588007-(-397259)))]]v={N(v)}else b=-273042+(-510888+15558091)end end else if b<842157+862987 then if b<1470557-(-128089)then v={}O=nil b=(I)[(K)[t(M({238529+-238527,-665357+665360,-1007315-((288783+-1435825)-(-139726));z((251042+-1231454)+(-922638+1886832)),z(-263617+247906);z((985421+(-509357+-475589))+-18589)}),33937317225612-(-425704))]]else b=(K)[t(z((671033-193209)+-496397),(981949+(-1677755-(-119742)))+32938536481252)]q=b L=(K)[t(z((222478+314517)-552596),33837902649261-(-564882))]i=(s)[L]b=i and((-1611236-(-679236+-31583))-(-976956))+11394241 or 4941481-(-334704)v=i end else C=(K)[t(z(542845+-558281),33958894580144-(-215323))]S=(I)[C]C=(K)[t(z(336929-(-1033123+(-733408+2121131))),17914802536433-(-201082))]V=(S)[C]E=(-1208204-(-339659))+868545 f=488677+(-337011+(712540+-864205.5))C=-736168-(-736168)b=11695931-(-159427)r=456275+(-497741+41468)S=V(C,r,f,E)o=S end end else if b<1235865-(-700483)then if b<-498792+2360104 then if b<(-743680+(505858+1187212))+857819 then L=(y)[(k)[765692-765691]]l=(K)[t(z(898748-915638),4135349387406-(-479872))]v=(L)[l]Y=(K)[t(M({-1000303+1000305;789997+((-698305+(1006583-(-597910+1048809)))-647375),171946+-171943,z((-342467+421518)-95580),z((1447571-890181)+-572880);z(514867+-530317)}),124348+3185288413141)]C=(K)[t(z((774024-(-234880))-1024899),316036+10419423382745)]f=(925247+-849888)-(23876+51483)r=256845+-256865 S=(I)[C]C=(K)[t(z(935371-951650),9406650038589-(-14808))]H=(K)[t(z(-435975-(-417745)),6003792062718-455297)]l=(K)[t(M({(-7915+-447452)-(-455368);-810123-(-810125),z(-11141-6476),z(465920-482985)}),-857524+11693800581630)]U=(K)[t(M({889131+-889129,((-836687-(-1251938-(-947574+474590)))-(-23405))+34329;z(-11727-6296);z(634614-(1374981-724764))}),780293+29412720969881)]V=(S)[C]e=(768296-1038417)-(-270122)E=-336333-(-336361)T=b C=-270427+270428 S=V(C,r,f,E)bp=(K)[t(M({510303-510301;574330-574327;255930+-255926;-87253+87254;z(((-71968-625109)-89336)-((642615-(-398325))+-1812323)),z(-212320+(-671260-(-866026)));z(-23149-(-6100));z(-1016538-(-1000701))}),26251967022047-34196)]V=(K)[t(M({615972-(-975750+1591720),-80966+80967;z(-10226-8447);z(356143-371036)}),30391747441018-(-844615))]f=(K)[t(z(440893-456302),(-885737+24372440133055)-40676)]r=(I)[f]f=(K)[t(z(167426+-185219),-415732+26097206616303)]E=-463719+463729 p=b C=(r)[f]W=(y)[q]T=-463871+463835 D=(W)[Y]W=647857-(-197756+845649)B=D and W R=B or T p=-330988+331028 f=(-384386+375340)+(87804-78758)r=C(f,E,e,R)e=(K)[t(M({-201561+(-408940-(-610503));608002+-608001,z(-655957-(-851920+212921));z(717375+-735034)}),22457043479659-(-470519))]E=(I)[e]e=(K)[t(M({-84104-(-84105),-54793+54795;z(860380+(-554592-321158));z(258501-276543)}),959366+16718340846331)]f=(E)[e]e=(-492408+1072387)+-579939 C=(K)[t(M({(527742+-366257)-161483;-218485-(-218489),(-338390-(365994-(-180118)))+884503,147236-147233;z(-317215-(-300296));z(-44204-(-612462+586814));z(289328+-307947);z(439400-455360)}),-630797+(-819089+4762644173017))]R=407659+-407619 T=(K)[t(M({-986053-(-986056);566908-566906,(234136-26913)+-207222;z(-301175+283436);z(-780942+765525),z((91381-39338)+-68301)}),548262+13482312661245)]Mp=(K)[t(z(151127-167589),30938431487371-(229787+-589566))]b=(I)[(K)[t(M({-506099+506101,(-620902-(-227721))-(-393182),-1023455-(-1023458);z(-957317-(-941240));z(-419925-(-404719));z(-552455+536123)}),603396+7166266144036)]]E=f(e,R,p)Ip=(K)[t(M({-1029095-(-1029097);381987-381986,z((1564848-701488)+-881193),z(-570018+552922)}),((-1778949-(-814314))+17379501207711)-(-210406))]p=(K)[t(M({862534+-862532,822177+-822176,z((45717+-272282)-(-210529));z((-188015-292472)-(-493070+30809))}),-546306+20948153605122)]F=(K)[t(z(-465715+449269),(7910940649613-(921445+-1172353))-168580)]h=(K)[t(z(((-1898490-(-216295))-(-331386-368937))-(-966139)),12158062110445-118503)]R=(y)[q]e=(R)[p]B=(y)[q]R=(K)[t(M({720618-(1637205-916588),495428-495426;(-846737-194055)-(-1040795),z(431662-446656),z(-667820+649231),z(75318+-92148)}),13905467642480-664830)]p=(B)[T]Np=(K)[t(M({-597968+597969;(106826-175445)+68621;z(-106735-(-936815-(-846045))),z(-949663+931805)}),(4215807505572-347899)-924893)]T=801149-801136 Kp=(K)[t(M({-1039158+(286451-(-239043+-513668)),-970143+970145;613568+-613565;495064-495063;z(142434-158427);z(-797022-(-775412-4664)),z((-179259-(-729528+126315))+(-420857+-21537));z((-1808312-(-951317))+839110)}),-164525+15125340077000)]D=(K)[t(z((-412191+-470205)-(-865877)),(-1036911-(-677643))+16007861988893)]B=(K)[t(M({817028-817026;-508093+508094;z(-280091-(199286-(476958+-13689))),z(949586-966114)}),10268141238624-(-520408))]f=(K)[t(z(515058+-532869),780113+33410877095252)]X=(I)[F]zp=(K)[t(z(501091-518545),-209618+30481430940066)]F=(K)[t(z(-728358+710830),402868619952-(-575883))]Y=(X)[F]X=(K)[t(M({((((-1305759-(-854832))+726904)+-381653)+753430)+-647752;(-540072+(-440174+13985))-(-966262),z(-737300+(167316-(-553976)));z(58369+-74358)}),-195383+33510958185890)]W=(Y)[X]Y=(K)[t(M({101053-101050;245384+-245382;886942+(-614200-272741);z(-321123-(-304762));z((-350861+-544229)+878599),z(451893+-470644)}),-515599+((470928408305-1017732)-(-487837)))]P=(I)[h]h=(K)[t(M({-889015+889018,-854938+854939;254433-254431;z(362529-378603),z(((919070+-129344)-910104)+((93987-272538)-(-280136))),z(900250-917964)}),33440343582099-(-610342))]tp={[Kp]=Mp,[Ip]=zp,[bp]=Np}F=(P)[h]h=(K)[t(M({(357658+-1168047)-(-810391);((-811346+1636447)+-960094)-((-689108+(649068+455031))-549985);z(872790-890275);z(-544665+(425897-(-103945)))}),((554968+82585)+17689631167732)-391268)]P=(K)[t(z(178547-196692),-827985+22966007637193)]X=(F)[P]P=false F=(K)[t(M({(976156-448031)-(299595-(-228526));247259+-247258;-238599+(664611-426009);-649533+649535;z((-509859+-370332)+864934);z(-1005138-(-987788)),z(-408698-(-393610));z(-559003+541193)}),10236026033612-67183)]o={[H]=S;[V]=r,[C]=E;[f]=e;[R]=p;[B]=T;[D]=W,[Y]=X,[F]=P;[h]=i;[U]=tp}C=(K)[t(z(-162859-(-146676)),-443678+26807678615927)]R=(K)[t(z(-532292+515932),-4426+19683962960652)]S=(y)[(k)[(-208753+-807068)-(-1015822)]]D=67+-59 V=(S)[C]C=(K)[t(M({-269003+269004,722459+-722457;z(-217730-(-200260)),z(169196+-184943)}),19611854931789-(-427682))]e=(I)[R]R=(K)[t(z(846579+-864813),(242974+(23183566655660-(-794766-(-621394))))-(-223110))]E=(e)[R]f=(K)[t(M({-75072+(197820+((499063+-1381643)-(-759835))),844316+-844314;-1042564-(-1042565);z(923448-940087),z(530188+(-920601-(-371929)));z(-652590-(-635982))}),(2708182888469-25987)-(-748727))]p=-707353-(-707357)R=-293763+293763 e=E(R,p)p=(K)[t(z(282287-297077),25154549616527-(-419963))]r={[f]=e}T=(K)[t(z(-557562-(-541960)),-117294+(361105+4518344613231))]X=(K)[t(z(-536447-(-517928)),743659+(11816228899170-(-245609)))]S=V(C,r)C=(y)[(k)[657713+-657712]]B=318798-318790 r=(K)[t(z(-127926-(-96386-13900)),17371390269861-(-742287))]E=(K)[t(M({-211434-(-211437);400780+(194981-595760);-367164-(-367166),z(-377944-((854309+-1957844)-(-743968)));z((443714+(-355262+512876))-617905);z(-902802+885895)}),-105408+(-220628+13524767845927))]V=(C)[r]r=(K)[t(M({25199+-25197;(-265445+-330283)+595729,z(-1005732+990869),z(-475629+459073)}),34889816088712-290607)]R=(I)[p]F=(K)[t(M({499501+-499498;-593271-((-51308+(-883219-(-271818-393913)))-324476);-900219+900221,z(170901+-186790),z(-398317-(-381235)),z(-1000058+984953)}),(20297278068883-1037269)-(-187392))]p=(K)[t(z(-159294-(-140890)),315012+30544757985003)]e=(R)[p]p=586249-586249 R=e(p,B)e=(K)[t(M({-259963-(-259964);-88520-(-88522),(((-614568-(-11966))+732164)-286920)-(-157361),z(-766965-(-751980)),z(-668359-(-365084-(-38100+324882))),z(621178-636130)}),14463283950271-(859473-(438723-569675)))]B=(I)[T]T=(K)[t(z(-347040+328976),26420002392529-714569)]p=(B)[T]T=1023419-1023419 B=p(T,D)T=6821-(-381784+388545)f={[E]=R;[e]=B}e=(K)[t(z(558004+-572993),(-53661+(-630655+11852925950580))-(1004781+(-184787-(-136765))))]C=V(r,f)r=(y)[(k)[365720+-365719]]Y={[X]=F}f=(K)[t(z(647405-663917),(890291+(13310533542116-172428))-(-1006323))]D=(1643842-655217)+-988565 V=(r)[f]f=(K)[t(M({256026-256024;-416038+416039,z((965485-550409)-432153),z(647957+(-1453999-(-788571)))}),(33600-(-725057-(-281991)))+3310898448056)]B=(K)[t(M({617086-617085,89258-89256,z(718532+-736321),z(-610195+(327137-(-268179)))}),(-222586-(-284034))+25551142922198)]W=(K)[t(M({-1023101+1023102,328663+-328661;z(-700068-(-684332)),z(-416572-(-399240))}),(-189136+(-698150-(-585954+452757)))+13670300371091)]p=(I)[B]B=(K)[t(M({236458-236456;-267509-(-267510),z(553296+-568296);z(635945+-652058)}),207939+990225586100)]R=(p)[B]B=359098+-359038 p=R(B,T,D)R=(K)[t(M({(-627506-364174)-(-991681),-507113+507115,z(343990+-361358);z(-447857-(-1111397-(-678992)))}),(-387994+323624)+10461449101623)]D=-792033+792033.5 T=(K)[t(M({-390548+390551;871908+-871906,173866-173865;z(-947120-(-122362-807328)),z(-799123+783987),z(42039-60016)}),26308146480832-815927)]B=((-1458682-(-730541))+450877)-(-277265)E={[e]=p;[R]=B,[T]=D,[W]=Y}r={V(f,E)}H={S;C;N(r)}V=(K)[t(M({((((337227+8908)-206773)-399536)-(-626678))-366502;-992100-(-992101),z(-408704-(861534+-1252721));z((((-926719+1298383)+(788824+-1825797))+(-925685-(-954473)))+617921)}),((15181629016601-179131)-(-294688))-(259288-(-321917)))]L=v(l,o,H)o=(K)[t(M({30602+-30601,-714714-(-714716),z((656619-826256)-(-150875)),z((303124+-387284)+((-400732-(-299611+(-362214-(1047722+-843603))))+-396138))}),((749697+-1353334)-324627)+24307147065535)]l=x();(y)[l]=L L=(y)[(k)[(-451457-(-232203))-(-219255)]]v=(L)[o]H=(y)[l]o=(H)[V]H=J(16890123-(92441+306516),{O;q;l})L=v(o,H)v=(K)[t(M({1033502-1033501;((-682508-(-926603+1237962))+1930620)-936751;z(188447+-204790);z(-989013-(-971391))}),23500605955517-(-353090))]L=G(-697119+10130073,{l});(i)[v]=L v={i}else O=(y)[(k)[-126610+((-876070+(((188453-1004609)-(-30382))+2544892))+-756435)]]i=(K)[t(M({(-168800-7269)+176070;-1039664+1039666;z(-478625+(-834856+1297983));z(214218-(467690+-235750))}),-887594+(829121+23895078097732))]s=(K)[t(M({-230000-(-230002);((906392+139084)-(565558+(207207+-341976)))-(-742064+1356750),z(-775848+((2108246-467568)-(566946+(740613+-425531)))),z(765720-784199)}),3088877965067-(-747037))]b=(O)[s]l=.6 L=(K)[t(M({-205439-(-502653+297213),192733-(-115647+308378),z(392399-408663),z(-411893-(-396350))}),17624289021320-(-881053))]s=true O=(K)[t(M({-769453+769454,-1000161-(-1000163);z(807123+-822140),z(-582127-(-563598))}),-758710+19516467536457)];(b)[O]=s b=(y)[(k)[-202269+(306055-103784)]]q=(y)[(k)[((-1037469+-887229)-(-1033841))-(-890860)]]s=(q)[i]i=(I)[L]L=(K)[t(z(-652214+634257),8692177173880-60596)]q=(i)[L]O=(K)[t(M({815841-815839;366609-366608;z(-1046141-(-1028475));z(((1397682-358385)+-1820514)-(-762713))}),9132275335030-(1852705-1023351))]v={}O=(b)[O]L=.2 i=q(L)L=(K)[t(M({-648312+648315,(715078+(-379727+(-200992+-369630)))+235276,141588-141586,(-764040-(-577281))-(-186760);(-174290-674767)-(-849061);z(-180703+165582),z(((-347594+1266947)+-199879)+-735352),z(175467-192131);z(-248335+232336);z((736136+(-1821463-(-106660)))-(-275952+-686231))}),137364+19148159381713)]q={[L]=l}O=O(b,s,i,q)b=(K)[t(z((-1024878+-6502)-(-1013219)),(12217536624287-(-87582))-(-457470))]b=(O)[b]b=b(O)b=(y)[(k)[598450+-598449]]s=(y)[(k)[-724762-(-724765)]]O=(K)[t(M({529822-(-932779+1462599);-503117-(-503118),z(781162+-796877),z(-30217+11845)}),(-374294-(-1252624-(-2951+(-89213+-233829))))+6195951348681)];(b)[O]=s b=(I)[(K)[t(M({190400-(1000639+(-1263262-(-453021)));(-657367+892443)-235075,(-268942+(-553367-(-85468+(862217+(-181520+-934763)))))-(-482778);z(-1033233-(-1014625)),z(((910201+-1921597)+66279)+(1451072-523207));z((-970830-(-438870))+513551)}),27558360010522-508651)]]end else if b<(1366352-188346)-(-756316)then v=(K)[t(M({951823-951822,78824-78822;z(-417778+400316),z(-676590+658422)}),-677541+28358491075613)]q=(K)[t(z(1032050+-1050809),25326310409848-999139)]b=(y)[(k)[-93845+93846]]s=(I)[q]L=823325-((1082613-602238)+342950)i=-909539-(((790311+-1385863)+-176586)+-137401)q=(K)[t(z(-400319-(-385370)),-402796+34709060883248)]O=(s)[q]V=(y)[(k)[-296025+(-526275+((-476809+607476)+(-505473+1197108)))]]S=(K)[t(M({((-1197698-((749684-855495)-104081))+1278860)-291053,(300408+(-1081620-(-203249)))+(1387037-809071),500968-500964;261754+(-48672+(90933-((-601669+1393511)-487829))),z(802662+-821391),z(321241-(769640+-431014)),z(-526798-(794784+-1306540));z((((-945277-(-524932))+609403)-(705316+-153465))+346050)}),-94721+19031758457741)]H=(V)[S]q=94310-94310 V=(K)[t(z(379225-395581),663941+10460109528818)]o=(H)[V]H=422829+-422821 l=o+H s=O(q,i,L,l);(b)[v]=s v={}b=(I)[(K)[t(M({-322108-(-322110);(1966472-((-1259954-(534882+-787884))+1993504))+(-1143857-(-163940));(-240893+-184655)-(-425549),z(-524567+507092),z(275609-294140),z(1025159+(-1812261-((-897859+1083383)-955684)))}),24551581111367-705796)]]else l=(K)[t(M({317190+-317189;301415-301413;z(-1010083-(-993822)),z((601101+361041)+-979729)}),((-486397+(-462966+362254))+1303963)+22184669628093)]q=(K)[t(z(294485+((-595111-(-128185))+157023)),15837120458640-(1486123-782015))]i=(K)[t(M({1003010+-1003008,1008254-1008253;z(-226336+(-154166+(-155868-(-521290))));z((-201707+1058526)-((185172-(-38995))-(-651390)))}),-523252+7228613541407)]v=(I)[q]L=(s)[l]b=15717162-468727 q=v(i,L)end end else if b<636864+1337342 then if b<1322291-(-625214)then b=(y)[(k)[592176-592175]]O=(y)[(k)[((763854-(-257021))+-447482)-573391]]i=(K)[t(M({-398875+398877,-190287+190288,z((-146375+-193469)+321077),z(444066-459217)}),15761119012432-(-605907))]q=(I)[i]i=(K)[t(z((-761795-74399)+820859),-954881+9356103569248)]s=(q)[i]i=.2 q=s(i)o=(K)[t(M({-646775+646777;-960671+(-346120+1306794),178051+-178047;662283-662282,z(-499757+(48316-(-434097)));z(-546602+529095),z(450419+-467042),z((592186+-118426)-489299)}),(26958819514506-(-825548))-(-855155))]v=(K)[t(M({732723-732721;-479950-(-479951),z(-906474-(629939+-1518379));z(-352128+335235)}),92055+(-279388+((-775304+1660546)+2848275435720)))]l=(y)[(k)[913643+(-1267539-(-353899))]]L=(l)[o]i=(K)[t(M({-723389+(68343-((252190+-1193910)+(-732472+1019144))),(1450959-875670)-575285;(-1122156-(((((324129-331674)+47283)+1659921)-876913)+-1278204))+(985032-318331),2429-2428;z(318175-334910),z(-639533-(-622413)),z(-647715+630624);z(-374883-(-359678))}),935295+30388102434226)]v=(b)[v]o=(K)[t(M({(972721+-372950)-(-494093+(-39030+1132893));(286169+547916)+(646515+-1480598),z(-491345+473500),z(929562-(779614+166846))}),(19534064177285-94111)-586704)]l=L(o)s={[i]=l}v=v(b,O,q,s)b=(K)[t(z(98061+-113409),-1016258+24680119374097)]b=(v)[b]b=b(v)b=(I)[(K)[t(M({775633-775630,216533+-216532,-648669+648671;z(-1014825-(-999742));z(-320993+306148);z(-746820+(-378333+(-677422+1784047)))}),340063+24523646971252)]]v={}else v=(K)[t(M({-333009-(533743+-866755);(-678831+250236)+428596;587720-587715,-844594+(-664801+1509397),-770887+770891,z(-922506+906115);z(590933+-606043),z(253923+(-299870-(-30086)));z(608017-626446);z(((-1137588-(-855894))-(-304247))+-37606)}),((122310+(25707109181462-580009))-(-1332892-(35700-(((1015609+-1417916)-(-630230))+269414))))-(-479503+1361077))]o=-762550-(-762551);(l)[v]=o b=(((1245118-445036)+659645)-984391)+962835 end else b=(I)[(K)[t(M({434037-434035;-668729+668732,292442+(-709664-(-417223));z(((489747+(257940+-1034296))-590587)+(485069+374612));z(754642+-772800),z(-94944+76212)}),17429070310332-(-426319))]]v={}end end end end else if b<(2119219-(-690371))-(-382489)then if b<1032645+1787051 then if b<635659+1948289 then if b<-143074+2283988 then if b<-872051+2962378 then O=(K)[t(M({958097-958095,(553551+-1244976)+691426,z(752000+-768619);z(832399+-850084)}),(7529065600716-931639)-(-192089))]v=(y)[(k)[954958+((-381788+-355790)+-217378)]]l=(K)[t(M({935230+-935229;-258159-(-258161),896921-896917,688702+((-788225+-669960)-(-1538015-(-902975-(-134446)))),z(170707-188676);z(-402668+386246),z(-231909-(-214940)),z(-36560-(-20326))}),24773226459655-(-528053))]s=true;(v)[O]=s s=(K)[t(z((21816-174538)+(345276-209761)),9038159027016-91751)]O=(I)[s]s=(K)[t(z(-1008934+990933),(33594665659356-695929)-(-572003+-390079))]v=(O)[s]L=(y)[(k)[590104-590101]]i=(L)[l]L=(K)[t(z(-998157-(-982030)),-473237+(7726626918468-(551848+-255026)))]q=(i)[L]i=749248+-749240 s=q+i S=-795242+(539381+255841)l=(K)[t(M({120746+-120744;-959141-(-959142);z(-1032248+1016267),z(-672732-(-654646))}),21410344357652-488034)]q=867693+-867543 O=v(s,q)V=(K)[t(z(322989-341363),19380256330223-549851)]v=(y)[(k)[-913789-(-913793)]]q=(y)[(k)[((402996-918919)+542342)+-26417]]L=(I)[l]l=(K)[t(z((-1022612+1174297)+-166492),(140120-50362)+28408934354675)]i=(L)[l]l=.2 L=i(l)H=(I)[V]l=(K)[t(z(-872674+856584),26092915433122-(131126+159564))]V=(K)[t(z(98238-114538),689896+(27604140388831-(-275364)))]o=(H)[V]s=(K)[t(M({-203985-(674691-878677);-588435-(-119349-469088);z((828142-677711)+-166357);z(-1010068-(-992088))}),876109327155-(-120637))]V=-713608-(407534+-1121143)C=56841-(464657-407816)H=o(V,S,C,O)b=(7288887-(554477-(-905756-(-672520))))-(-1054894-(-80325))i={[l]=H}s=(v)[s]o=-1020953-(-1021133)s=s(v,q,L,i)v=(K)[t(z(((-950226-((762553+-1369441)-(-493065)))+572376)-(-245327)),576087753299-54597)]l=(K)[t(M({(-255920+(-357627-255860))-(-869409),-8200+8201;z(-671709+655558),z(780614+-795902)}),(636222-(-234974))+32912269260180)]v=(s)[v]v=v(s)s=(K)[t(M({(-707460+1526576)+-819114,-454607+(590427+-135819),z(-390998+375794);z(-978827-((402562-(-574117))+-1938948))}),-534533+(12874568109063-951535))]v=(y)[(k)[(-736158+397429)-(-338733)]]q=(y)[(k)[174462+-174457]]L=(I)[l]l=(K)[t(z((-1667559-(-946223))-((178389-400040)+-483568)),18364012503165-(-494608))]i=(L)[l]l=.2 L=i(l)s=(v)[s]l=(K)[t(M({648482+-648481,-673950-(230147+(-275156-628943)),z((1841591-809533)+-1048263),z(39688-55872)}),-568326+23660339537717)]i={[l]=o}s=s(v,q,L,i)v=(K)[t(z(172293-187148),(1012319-766223)+4886864988018)]v=(s)[v]v=v(s)O=nil else b=L;(b)[v]=i i=(K)[t(M({438661+((-1066455-154369)-(-782164));(277454+(-421952+(((504604-(-258111))+-802932)-(-967073))))+-782356,z(-516865-(-499541));z(289744-306163)}),14771898646959-(-752173))]H=(K)[t(z((464727-(-99578+447959))-132296),((538976-792809)-555277)+30859641562053)]v=(y)[q]P=(K)[t(M({-860707+(1626042-765333);-641447-((-1056373-(-310708))-(-104217));z(459214+(-67556+-407620));z(1001855-1018146)}),744373+20847704700809)]r=592982-592982 b=(v)[i]C=(K)[t(z(14990-32722),-1000469+(33253476657901-515562))]L=x()i=x()l=(K)[t(z(-145896-(-127401)),704252+((255567-760517)+(-582306+8722464930655)))]Y=(K)[t(z(-53928+((217524+-147232)-(955950+-922151))),19164404782846-(-806495))];(y)[i]=b b=false;(y)[L]=b X=(K)[t(M({(275816+-869495)-(-593682);818849-(-355448+1174295);820952-(-195803-(-1016754)),z(229033+-245963),z(-892439-(-876261));z(-393914+376959)}),-451367+4675607943984)]v=(y)[(k)[618729+-618728]]f=-670056+((334710+-1170847)+1506193)b=(v)[l]l=(K)[t(z(709831-728074),(800575+3382762812399)-((-805447+1292088)+324335))]S=(I)[C]W={[Y]=X}e=b C=(K)[t(z(529649+-547374),704084+11286161956325)]p=b V=(S)[C]D=(K)[t(M({(-644451-179003)+823455;703080-703078,911663+-911660;z(-523683+506005);z(155376+(-643622-((84962+-102293)-452714)));z(200878+-218295)}),29224600121839-(-408313))]T=(y)[q]C=964394-964393 B=(T)[D]p=-802514+802570 T=761674-761606 R=B and T E=R or p S=V(C,r,f,E)V=(K)[t(M({57260-57259;-100882+100886,1015739-1015737,150141-150138;z(-285256-(-267583));z(858818-874306),z(797994-813957);z(-756767+740231)}),34066607960136-85022)]e=464699-464649 f=(K)[t(M({324454+-324452;-162156+162157;z(37875+-54915);z(9235+-24770)}),-937934+3287497364425)]Y=-126652+126632 r=(I)[f]p=(K)[t(M({299696-299694;(-81316-((-126039+416609)+-442481))-70594,z(95533+-113663);z(216550-234334)}),33177780769200-(-80509))]E=858559+-858509 f=(K)[t(M({-1013230-(885103+((-511109+624461)+-2011686));-119371-(-315883-(57157+((851700-602209)+(-654161-(-151003)))));z((271387-948309)-(-659379)),z((586736+(211113-434713))-380284)}),78875+17116872004501)]C=(r)[f]f=(867730+148620)-1016300 R=(K)[t(M({(-714993+669491)+45506;-753809+753811;517389+(-769336+251950);194181-194180,z(413493-431187);z(-801430-(-786612));z(-806826+789317),z(-675602-(-531019-((953658+(-1800865-(-553306)))-(-420580))))}),(600595-(-396322))+15902805029456)]r=C(f,E,e)C=(K)[t(M({((41594+-446704)-(-886835))-481723,(-944690+935043)+9648,z(203181-218001);z(-303155+288248)}),-198850+2217931897967)]E=(K)[t(M({88711+-88710,-25275-(-25277);z(536930+-553683),z(-676911-(-659514))}),1039949+8934094173021)]e={[R]=p}f=(s)[E]E=(K)[t(M({-398723-((1765107-800548)+-1363284);-654568+654569;z((-481915-(-755989))+-292255);z((467186+((839608-(515540+104396))+-217219))+-486287)}),(-274731+19216287103606)-(-935837))]o={[H]=S;[V]=r,[C]=f;[E]=e}tp=(K)[t(z(552825+((((-538078-(-684540))+-516729)-122504)+-77176)),(261502+444169)+26265425444628)]D=(K)[t(M({(-39330-17007)-(-56339);1024224-1024223,z(-163071+146985);z(211172+-229602)}),35103988522728-1028682)]f=(K)[t(M({-3126-(-3129);-339535+339536;472658-472656,z(32275-50897);z(-393659+375577),z(-196910+(63601+116225))}),899049+19765143264236)]B=-771248+(((((-122730+500279)+-1908201)-(-269091))-(437634+(-831712+-162819)))+(-684809+2160761))C=(K)[t(z(-1010939-(-993051)),(-424583+(705435+-1063733))+31288481392027)]S=(y)[(k)[(1476499-(-52858-(-826747)))+-702609]]V=(S)[C]C=(K)[t(M({-43123+43125,-583125-(-583126);z(1015178-1033835);z(982445-(-796637+1794284))}),13982295513484-(-632123))]R=(K)[t(z(763034+((278701+-59695)+-999736)),23774955210750-390200)]e=(I)[R]p=492467-492461 R=(K)[t(z(((-639365-(-700249))-772744)-(-696146)),(-327620+6772398911316)-(-531451))]E=(e)[R]U=(K)[t(M({870923-870922;163450+-163448;z(-173298-(-155265));z(469639-485948)}),16809916209190-(-448279))]R=341868-((1181971-649554)-190549)e=E(R,p)p=(K)[t(M({(-711021-(-891856))-180833;143161+-143160,z(-157691-(-142241)),z(((-1683995-(-906872))-(-571221))-(-190425))}),625234+(446113+((-828553+(2720031-(-113501+1027599)))+(-45640+13444591326339))))]r={[f]=e}S=V(C,r)C=(y)[(k)[(-123429-746106)+869536]]r=(K)[t(z(519702-536927),24172378977588-(-25587))]X=852390-852390 V=(C)[r]E=(K)[t(z(-145377+(613409-485351)),((-1230048-578724)-(-739724+-92348))+24596516977443)]r=(K)[t(M({590071-590069;675013+(-220441-454571),z(-904183-(-886084));z(-350168-(-333619))}),-872531+29949854243972)]T=-300864+((-492515+(786961+-1199819))+1206277)R=(I)[p]p=(K)[t(M({-709769-(-709770);-211243-(718026+-929271);z(257271+-274034);z(-482108-(-463591))}),12935577048772-(1019328-(830432+-88560)))]e=(R)[p]p=(23913-279412)-(-255539)R=e(p,B,T)B=(K)[t(M({((-701446+422166)+970921)+-691639;386691+-386688,984952+(-1594746-(-609795)),z(681656+-696966),z(-930258-(-912941)),z(-908424-(-891331))}),982459+28207975013049)]T=-269367.5-(((889161+521137)-419107)+-1260559)e=(K)[t(M({1040943-1040941;-880403+880404;z(439734+-455180);z((-536357+1338067)+-820091)}),922836836782-(-538272))]p=-876332+876333 f={[E]=R,[e]=p;[B]=T,[D]=W}C={V(r,f)}f=(K)[t(z(((992390+(-1050442-325482))-(-97547))+270256),-650610+27147433076653)]H={S;N(C)}S=(K)[t(z((-688756+(899537-434430))-(-207458)),122549+(839663+23870019070605))]v=b(l,o,H)o=(y)[(k)[135721-(-691731-(-827451))]]B=(K)[t(z(772793+-790676),34242666526936-(-46914))]l=v H=(K)[t(z(-576662+560053),-274013+20188039511325)]v=(o)[H]r=(y)[q]C=(r)[f]f=6406+-6392 p=(I)[B]H=(K)[t(M({((-11388-(-118770+(1107+-131963)))-108574)-129663,-491081+491083;z(98099+-115890);z((-719587+534709)-(-169810))}),13862494041166-(-420108))]B=(K)[t(z(863924+-880930),23659626565016-(-813637+1366885))]r=(K)[t(M({-514221-(-514223),322598-(601966+-279369),z(167487+(-216197-(-30240))),z(-107044+89866)}),272271+32508060675940)]E=(K)[t(z((220426+-1031470)-(-793379)),-259497+26392743263373)]D=(K)[t(z(-77253-(102031-160638)),97530541954-(-456798))]R=(p)[B]p=(K)[t(M({(((-19648-(((-4190+432267)+612559)+(443708+((-1416795-275758)-507832))))-434331)+68504)+-330565,-625255+625257;((243463-193472)+-607105)-(-557117);z(695643-712099),z(-759864+744194),z((372274-(703927+-1021831))-707739)}),28609333718028-(24802-(-590303)))]e=(R)[p]R=(K)[t(M({-796212-(-796214),-806978+806981;(1938442-1011372)+-927069;z(-586780+569014),z(54003+-72378),z((57095+956573)+-1028724)}),-941859+24743567452322)]T=(I)[D]D=(K)[t(M({(508727+((354306+(-4694-742338))+-487202))+371202;180745-180743,(592933+-222718)+-370212,z(-125118-(-109864));z(285898+-304301);z(366594+-383570)}),550016+(695050+25360283610912))]B=(T)[D]T=(K)[t(z(561411-578045),(-1441812-(-557504))+9720975947403)]p=(B)[T]W=(K)[t(z(167063-184742),(34903596398736-133958)-370948)]B=(K)[t(z((173142+-829453)-(204950+((-861582+1420898)+-1405161))),22490426376750-(143268-126008))]D=(I)[W]W=(K)[t(z(232832+-250052),-693987+2908819354458)]T=(D)[W]F=-709154-(-709168)W=-893615+893616 D=T(W,Y,X,F)T=(K)[t(M({155048+-155046,-16717-(-16718);z(571508+-590290);z(-293166-(-275136))}),347969+(17850806784045-(((-779452+(943221-117517))+858323)-140693)))]X=(K)[t(z(197526-215119),1012014+624145123682)]F=621364-621356 Y=(I)[X]X=(K)[t(M({795812+(-534134+-261676),825875-825874,z(628362+-644801),z(-763135-(-748028))}),-507290+1801257226479)]W=(Y)[X]X=23027+-23017 Y=W(X,F)F=(K)[t(M({-958559-(-688258-270302),447924-(970844+-522922),z(-399333-(-382058)),z(227051+(752926-997851))}),856222+11844979503781)]X=-828749-(-1711949-(-883199))h={[U]=tp}W=(K)[t(M({(-288896+((139110+(2757109-806667))-871845))+-928809;540820-540817;-495324-(-495325);110355+-110351,-871790+(616443-(-255352)),z(-624627+609482);z(324287+-341294);z(-369961+354712),z(55591-(728459+(-681873-(-24264)))),z(840150+(-869994-(-13782)))}),28181653828236-(-410158))]V={[S]=C,[r]=f;[E]=e,[R]=p,[B]=D,[T]=Y;[W]=X;[F]=l;[P]=h}o=v(H,V)H=(K)[t(M({-840918-(-840921);-907003+907004,((-1044266+1336493)+-1050567)-(-758342);z(819145+-837643);z(-391954+375495),z(-596652+581327)}),(853949+31686235282726)-(-261711))]o=(y)[q]v=(o)[H]b=v and 16273756-(726533+(15583-(703578-242547)))or(7625650-661157)-(-6807)end else if b<3460109-971744 then q=(s)[O]b=14819113-262045 v=q else b=(y)[(k)[748458+(813679+-1562136)]]O=(K)[t(z(997591+-1014459),21639416047355-(-563130-(-81260-(349340-(-588110)))))];(y)[(k)[26232+-26230]]=b v=(y)[(k)[83828+(-1111451-(-17200+-1010426))]]s=(y)[(k)[-309585+309586]];(v)[O]=s l=(K)[t(M({662969+-662966,312029+(325769+-637796);889479+-889478,z(-741720+(141892+583265));z((-818166+235635)+566427);z(-364250+347946)}),10233573265378-(-861683))]O=(K)[t(M({359843-359842,-53152-(-53154),z((-876497+1670705)-811232);z(344577+(-771605-(-409119)))}),395522+31307926101007)]v=(I)[O]i=(y)[(k)[815056-815052]]l=(i)[l]L={l(i)}i={v(N(L))}s=(i)[950111-950109]O=(i)[-840556+(-1016235+1856792)]q=(i)[-796142-(-796145)]b=4088815-91938 end end else if b<((((-748488+274207)-(-20589))+(-362371-(-284353+-271719)))+141710)+(-138757+2957546)then if b<2111190-(-478653)then l=921982+(-802092+-119889)b=(824159+-968662)+10909895 v=(K)[t(M({435549-(181008+254537);-162088+162091;(94840+(734693-698190))-131341,-81805+81810,-1016112-(-1016113);z(-224053-(-208233));z(979555-995815),z(152961-(258948-88442)),z((13113+189247)-(((-1907331-(-1475959-((383173+-523785)-677559)))-(-467464))+1002739));z(-683221-(-668251))}),31289+33491185304684)];(L)[v]=l else b=(-254729+332072)+5450500 end else L=(K)[t(M({515735+-515733,-727970+727971;z((-407831+-527741)-(-917997)),z(-454527-(-439397))}),16174828780264-((523307-265534)+239564))]o=(K)[t(z((-313675+-236836)-(-533871)),-787513+29831325912291)]i=(I)[L]l=(s)[o]L=i(l)b=1584066-(-1016282)q=L end end else if b<2587687-(-510366)then if b<-364760+3291522 then if b<-820160+3684583 then b=(-875292-(-940111))+3132654 f=(K)[t(z(-313068-(-295199)),7423312864640-(-983559))]r=(I)[f]E=175118-175136 f=(K)[t(z(-84026-(-68629)),30438234765811-106883)]C=(r)[f]e=((-610969+1520292)+-997343)+88020.5 f=(-1235448-(-893138))+342311 R=681291+-681291 r=C(f,E,e,R)V=r else b=(I)[(K)[t(M({-111317-(-111320),((-144680-(-599372))-(-220450))+-675140;-164135-(-164136),z(473750-492391);z((291248+-1021054)+714524),z(471531-487036)}),-808867+8682886394701)]]v={}O=nil end else if b<2124233-(-967630)then l=(K)[t(z((489513+-791039)+285700),17737882755316-691272)]b=(((((-368302+-1378767)-(-944338))-(-661951))+-891144)-(-938834))+3362627 L=(s)[l]v=L else b=(y)[(k)[-158771-(-158772)]]O=(j)[-144058+144059]v=b(O)b=(I)[(K)[t(M({619282-619280;659878+-659877;-971940+971943,z((-1405029-(-954503))-(-434894)),z(927131-944575);z((-40803+362212)-340243)}),979884524396-(-802329))]]v={}O=nil end end else if b<474353+2688074 then if b<899642+2260136 then b=-553853+7385939 E=(y)[H]e=(K)[t(M({(-529105+249464)-(-279642),758478+-758476,z(-660680+645219),z(808867+-823691)}),(183802-(811360+-955348))+18644563171476)]f=(E)[e]e=true E=(K)[t(M({129309-129307;-469588+469589,z(-712554+696507),z(((-1713676-(-763003))+674058)-(-259385))}),7369612694375-29738)];(f)[E]=e e=(K)[t(M({(-558618+75374)+483246;-618453-(-618454),z(-929095+(271061+639301)),z(-165688+148272)}),33632268160788-53647)]E=(y)[H]f=(E)[e]e=.6 E=(K)[t(M({-800278+(-759152+1559435),1003318-(302284+701033);925214-925210,681519+-681516,-97826+97828;z(-377732+360775);z(-728642+709903),z(-1035935+1020242),z(702245-717493);z(-928247+911164)}),-598024+27417066507094)];(f)[E]=e E=(K)[t(M({261842-(-553406-(-815247));993508-993506;z(326920-((464061+-1422584)+1302722)),z(640567-(1036360-380990))}),9392479570162-(-737457))]f=(y)[L]e=(y)[H];(f)[E]=e else O=nil b=(I)[(K)[t(M({877755+(-442572+-435180);-827039+827041,591890-591889,z(-1014258-(-998600));z(((-826042+(2037723-569988))-667716)+10324),z((3129-(-1003744))+-1024765)}),(17278713260961-(-805780))-268360)]]v={}end else q=(K)[t(M({(-1047012+(149182-(-650264)))-(-247569),-331759-(-331760),755757-755755;z(-608306+(-235573-(-825872))),z(-777054-(-759441));z(311872+((-313773+-41631)+27600))}),21647219169094-(-171468))]b=(K)[t(z(-998810+982042),15368216332079-360146)]v=s;(O)[b]=v v=(y)[(k)[((-266608+-728558)-(-312912))+682255]]b=(v)[q]v=b()b=232618+(-306438+12181037)end end end else if b<2695078-(-1027094)then if b<2409588-(-917423)then if b<4282992-1040765 then if b<-46635+3245452 then b=S o=V b=V and 12679598-824240 or 2552186-828946 else b=(I)[(K)[t(M({772109-(1689830-917723);46507-((132083-691431)+605854);(-856983+727045)-(-129941);z((-1639182-(-899332))-(-723964));z(745792+-762137),z(-472687+(455851+-1177))}),21096585666698-354802)]]v={i}end else if b<4039310-767786 then b=i q=v b=401564+2198784 else b=(s)[O]v={b}b=(I)[(K)[t(M({(764947+-176536)-588410;(-433597-(-624078))+-190478,-518731+(20511-(-498222));z(-699656-(-684188)),z(260566-277625),z(700814+-717451)}),209113+32250901375480)]]end end else if b<898142+2743829 then if b<4172053-572126 then s=(K)[t(z(904487+((-433100-(-643751))+-1133445)),3249443177377-(-235421))]v=(I)[s]s=(K)[t(z(308811-324988),-463510+20338161249327)]l=(K)[t(z((608372+48830)-675163),-476050+7296848018432)]S=(K)[t(z(-111098+(608049-(((113892+-901883)+(995188-160331))+467106))),1038449+15061891555806)]b=(v)[s]L=(y)[(k)[257220+-257218]]i=(L)[l]H=(K)[t(M({55177-55175;829070-829067;(-790484-(-179398))+611090,-653824-(-653825),z(-914939+(842081-(-57654)));z((411805-(-230687))-659559);z(((737216+65327)-((511037+-337921)+(994220+-1107507)))-759168),z(811574+-828372)}),468710+(20522179119567-(-139803)))]o=(y)[(k)[-541198+541201]]l=(o)[H]o=(K)[t(z(592276+-610430),962533+9150713155184)]L=(l)[o]q=i-L o=(K)[t(M({(((863558+(303888+-813668))-(-598961))+1452)-954190,911479+-911476,362966+(172413+-535377);z(740541-756693);z((216193-(-541862))-775435);z(-903558+886111)}),12255755108523-790311)]V=(K)[t(z(-57718+42448),12356826879702-835011)]l=(y)[(k)[806501-((1901954-640785)-(279104+175567))]]L=(l)[o]l=(K)[t(z(-1010010-(-991861)),533639+23268555245083)]i=(L)[l]s=q/i i=225750-225749 q=-864396+(1062880-(-522839-(-721323)))v=b(s,q,i)l=(K)[t(z((864792-752044)-130011),517372408608-791428)]s=v b=(y)[(k)[-908902+(974430+-65524)]]L=(y)[(k)[(839893-(924239-6169))+78182]]i=(L)[l]H=(y)[(k)[474767+-474762]]o=(H)[V]V=(y)[(k)[-494585+494590]]H=(V)[S]l=o-H L=l*s q=i+L s=nil v=b(q)b=-544959+3706992 else b=false;(y)[(k)[715515+-715514]]=b b=-900000+((694975-(-178625))+5441827)end else v=(y)[(k)[(705632-520667)-((-1253448-(-613686))+824726)]]O=(y)[(k)[104032-104030]]b=v~=O b=b and(-1325764-(-383792))+2265123 or-563737+12999460 end end else if b<4797161-728404 then if b<4496167-(526929+-53322)then if b<936425+2969735 then O=(j)[708628-708627]s=(y)[(k)[82741+(422632-505372)]]b=s and 14833437-361760 or 838993+6139224 v=s else q,L=O(s,q)b=q and(-162312+(8058026-328940))-(-171747)or 365579+386934 end else if b<3256442-(-796362)then b=v and 520413+8907899 or 5352994-165388 else s=(j)[(525887-560059)-(-34174)]b=(y)[(k)[457423+-457422]]O=(j)[(124788+(-2009299-(-1047796)))-(-1784814-(-948098))]i=(K)[t(M({-552899-(-552901),386130-(659819+-273690),z((794700+-1214153)+401918),z(-76194+60457)}),753227+19705342417970)]i=(b)[i]q=(y)[(k)[(-280595+(155224+-433565))-(-558938)]]v={i(b,q,s)}v={N(v)}b=(I)[(K)[t(M({(28546-217718)-(-189175);(558920+284902)-843820;595447-(36693-(-558753));z(235177-253090),z(497697+-515678),z(668192-683672)}),-143861+31947284113577)]]end end else if b<3778047-(-434215)then if b<250872+3926488 then e=((((540008+(-755819+1273510))-711740)-(-500063))-165832)+-680190 v=(K)[t(M({-84497-(-84498);746832-((693208-459176)-(123687+-636485)),z((791917+(-924422-(-358285)))+(-140447+-102495));z(-112509+(44635-(-51448)))}),5574307892134-(-965310))]o=(K)[t(z(-188402+171190),649183+10163801290071)]b=(y)[i]l=(y)[(k)[16321-(1063999-1047679)]]L=(l)[o]R=b r=(K)[t(z(594512-610547),(-577806-54643)+34321713931373)]B=b E=-776604-(75852-852456)o=(K)[t(z(((552680+-161450)-(-419327))-826016),897220+6921943156847)]f=-389812+(747801+-358005)C=(I)[r]r=(K)[t(z(-300731-(-1020225+735679)),2615762053699-35459)]V=(K)[t(z(39365-57195),(10370655742916-(-806369))-(138023-246347))]S=(C)[r]r=(167419+-519479)+352061 C=S(r,f,E,e)S=(K)[t(M({(-949026+(-271237+275196))-(-945068),-463585-(-463587),z(399143+-414692);z(688236-(311666+391958))}),-182817+27289866149308)]E=(K)[t(z(541709+-558629),1855464572689-(-808969))]f=(I)[E]T=-656336-(-656372)E=(K)[t(M({510275-510273;282447-282446,z(-533677+518226),z(-172326+(54840+(959638-((-2026+63986)+795594))))}),419768+12473031811787)]p=q and T r=(f)[E]E=-254968+(1097179-(960711+((-115558+759613)+((-1922209-(-676898))-(-903007-(-420259))))))B=313844+(532975-846811)e=p or B f=r(E,e)p=(K)[t(z(-566263+550230),-930591+25647482461841)]r=(K)[t(M({-573184+573187,359274-359273,455560-455558,z(-1062857-(-1045119)),z(-1030490+1014176);z((867152+-233400)-652169)}),3110365417438-1001221)]R=(I)[p]p=(K)[t(M({(587279-(-100286))+-687563;303896+-303893;-129569+129570;z((-801934+406741)-(-379355)),z((1854020-986938)+-882753);z((-864983+-106538)+953553)}),7360038607533-(396834-(-307359)))]e=(R)[p]D=(K)[t(M({-630544-(-718454+87908),321963+-321962,z(-649127+(-463074+1095768));z(97351-113832)}),(17465722959161-(-543171))-228904)]R=(K)[t(z((((444237+62945)-806027)-254763)-(-535165)),10362245207968-941963)]p=(K)[t(M({221662-(84562-(-137098)),326502-326501;z(378816-396746),z(-706659-(-691174))}),3745684193011-1006142)]E=(e)[R]R=388994-((1971724-791794)-((-464728+1165454)-(-90211)))T=(y)[i]e=(K)[t(M({478473-478470,(363996+(-808715+1430499))-985776;872030-872025,95567+-95565;(-683746+314372)-(-369375);z(900458-919256);z(947475+-962392),z((722031+-1387821)-(-650682));z(-747663-(-731792));z(-365157+349060)}),16553620325243-723119)]B=(T)[D]H={[V]=C,[S]=f,[r]=E,[e]=R,[p]=B}r=(K)[t(z(669488-685718),35025415506483-270150)]E=(K)[t(M({633527+-633525,580882-580881,z(-245713+227941);z(1031109+-1049231)}),53476+(-90673+30245534227896))]p=(K)[t(z(-657662-(-641309)),33576165682226-803889)]C=(y)[(k)[878595-(640855+237739)]]S=(C)[r]R=(I)[p]p=(K)[t(z(982634+(-846413+(-177885-(-24893)))),-583972+25927759590427)]B=694895-694889 e=(R)[p]r=(K)[t(M({226044-226043;((401962-(597688-(((-502456-278921)-(-333947))-(-139562))))-228091)+731687;834172-834169,z(-583281-(-567078)),z(-47455+(360903+-330629));z((-1413332-(-519758))-(-878755))}),16090916340616-754120)]D=(K)[t(z(-889316-(-872326)),21222021921591-(-645144))]p=(-537175+1378293)-841118 R=e(p,B)T=(I)[D]e=(K)[t(M({953003+-953002,-850806-(-850808);z(662736+-679242);z(-498596+479999)}),23258543728238-(-986188))]D=(K)[t(M({59838+-59836,973287-973286;z(298870-314365),z(-619961-(410107-1011252))}),19315469900477-24247)]B=(T)[D]T=(K)[t(M({281328+-281325;-564167+564169,291609+-291608;z(964250+-980317);z(927856-943135);z(-1032549-(-1015463))}),271135+10907895739702)]p=(B)[T]f={[E]=R;[e]=p}C=S(r,f)r=(y)[(k)[-298025-((297031-798208)+(419673+-216522))]]B=(K)[t(z(-700156+681413),-609201+1156040007967)]f=(K)[t(z((455587+-698216)-(-626614-(-402732))),24782329368981-(-539541))]S=(r)[f]T=420542-420534 f=(K)[t(M({(-852045+1361026)-508979;-436636+(-69171-(-505808));z((256309+((-1426298-(-563024))+812124))-222866),z(884698-901192)}),-279504+33009118731636)]p=(I)[B]e=(K)[t(M({312809-312808,192717-192714,-214763+214765;z((-477531+1167575)-705722);z(-464542+446868),z(-131462-(-115912))}),34457868146821-216502)]B=(K)[t(z(-791912-(-774907)),(316522+(413043+32185221874056))-(-913616+228919))]R=(p)[B]B=545777-545777 p=R(B,T)E={[e]=p}r={S(f,E)}V={C;N(r)}l=L(o,H,V);(b)[v]=l l=w(724096+7601754,{(k)[-8487-(-8489)];i})L=(K)[t(M({-917297-(-917299);-157461-(-157462),z((-821086-225870)-(-1028355));z(-202671+183899)}),-451830+17413793248040)]v=(y)[i];(v)[L]=l l=d(-794829+5115033,{(k)[-959840+959842];i})L=(K)[t(M({-676083+676085;-457446-(-457447),z(-546670-(512915-1040814));z((246416-(-421274))+-684889)}),176463+2197700214085)]v=(y)[i];(v)[L]=l b=(I)[(K)[t(M({(139502+-164210)-(-35205-(-10496));((2559358-830087)-917597)-811672;(1031744-499821)-(-1003733+(1507491-(-28162))),z(-959316-((-1635823-(-989474))+-294744)),z(-854808-(-836841)),z((-882675+1851425)+-985309)}),21363574022209-(-945135))]]v=(y)[i]L=(K)[t(M({737433+((-432888-170630)-133914);85836-(876132+-790298),z(644295+-662556),z(478362-496344)}),720393+17202148554551)]l=w(3260774-(-957115),{(k)[-1009731+(((-2289155-(-613572))-(-788515))+1896801)];i});(v)[L]=l l=d(6420951-(-259208),{(k)[-6885+6887];i})L=(K)[t(M({((129070-755266)-(-530918))+95280;-207658+207659,z(-180565-(-163651)),z(-597291+582200)}),(726019-798298)+6873509405199)]v=(y)[i];(v)[L]=l L=(K)[t(M({133240-(-376004-(-509242));(-1040592+741878)+298717;(-286489-(-992367+14687))+-691190;z(-317283+300311),z(-879935-(-864651));z(894182-910719)}),865989+12092317453011)]v=(y)[i]l=u((-278926+((1921559-(-232240+316996))-823438))-(-667433),{(k)[-540469-(277849-818320)];i});(v)[L]=l v=(y)[i]v={v}else i=(K)[t(M({-556207+556209;-558908+558909,z((394806+-232647)-179553);z((770291-105973)-682842)}),-1021690+(-1031546+28051044998904))]v=(K)[t(M({171040-171039;(634403+308833)-(606710-(-336524));z(-750199+733143),z(-577691-(219814-779967))}),(-613552+31198128039080)-(-499869))]b=(y)[(k)[1039466-1039465]]q=(y)[(k)[351857+-351856]]s=(q)[i]O=not s i=(K)[t(M({(((-779605+(-647700+1025340))+-234880)+(-426154+1468500))+-405499;((159524-479022)+234816)-(-84683);z(250466-267777);z(427097-443709)}),-737683+(244312+10012795518022))];(b)[v]=O v=(y)[(k)[676882-(-33889+710770)]]O=(K)[t(z(616668-633639),-157390+21210273589713)]b=(v)[O]q=(y)[(k)[((712529-654874)-(-164456))-222110]]s=(q)[i]v=(K)[t(M({-158429+(-476292-(-634723));226090+-226089;z(909197+-925151);z(660419+-676592)}),(29976999621290-458760)-868474)]O=not s;(b)[v]=O b=(I)[(K)[t(M({878118+-878115;88508+-88506,245779-245778;z(357143-371969);z(-721037-(-705813)),z(-189570-(-174248))}),-85224+24032284363960)]]v={}end else O=(j)[(298664-400804)-(-453650-(-351509))]b=(y)[(k)[(-110260+379669)-269408]]s=(j)[(-172134+(176236+204604))-208704]q=(y)[(k)[742170+-742168]]i=(K)[t(M({156242-156241;(-872229+1818587)-946356;z(752681-769388);z(454535-469806)}),-110642+4999346043040)]i=(b)[i]v={i(b,q,s)}v={N(v)}b=(I)[(K)[t(M({-665006-(-665007);-842346+842349;-583755+583757;z(64468+-81824);z(-653349+((-4062-(-278368))-(-361642))),z(-16293+-2330)}),17351933617163-(-1656018-(-613830)))]]end end end end end else if b<5443156-(-351420)then if b<(-302809+(6789387-738526))-544854 then if b<4229767-(-766333)then if b<3908767-(-810385)then if b<3931549-(-482033)then if b<3960495-(-292666)then O=(j)[317298+-317297]s=(j)[-643800-(-643802)]b=s and-892926+1195620 or 3376537-(-675155)v=s else O=(j)[655693-655692]i=(K)[t(M({(-419727+396230)+23498,(-759099-(-799099))+-39998,z(1041548+-1057004);z(-863992-(-846632))}),((274869-(-307243))+(24712992281200-(627206+377640)))-(-795951))]b=(y)[(k)[-883296+883297]]i=(b)[i]q=(y)[(k)[(((-94405-(-161312+-187862))+-887406)-(-580277))+52362]]s=(j)[766379-766377]v={i(b,q,s)}v={N(v)}b=(I)[(K)[t(M({-944972-(-944973),(2688+607526)+-610212,(21470-(-550112))-571579,z(-428396+411511),z(67362-85869),z(-760650+745829)}),23765934986204-358)]]end else if b<324466+4249389 then H=(K)[t(M({(732690+-835599)+102911,-57784-(-57785),z(-753386+737855);z(-672770-(-656315))}),101233+29193598670457)]C={}o=(I)[H]S=(K)[t(z(648440-664198),(998242+1438530174185)-(-306271))]V=(i)[S]S=(K)[t(M({(-295185+109044)-(-186143);(-615510+789552)-(-141578+315616);-368928-(-368929),((859375+-1411688)+1383324)+((-924247+1500793)+-1407554);z((-110093+((-1016267-(-402723))-(-565564)))+141107);z((-990827+245513)+728731),z(-301405-(-285180)),z(621300-636561)}),-375971+14925100610278)]H=o(V,S)H=(K)[t(z(-759727+(-240327+982912)),268374053436-917472)]S=(K)[t(z(-20068+(694082-((1327181-608095)-29562))),952309+(32685946251025-(-24757)))]V=(i)[S]S=(K)[t(M({-1008562+(637725+370839),59698+-59697;z(965689-983018),z(665293-680889)}),8745497451435-(-382381+(1845377-(1756940-775194))))]o={[H]=V,[S]=C}S=(K)[t(z(-736462+719767),-76521+23203378969176)]H=x();(y)[H]=o V=(i)[S]b=V and(6172642-649998)-(-1093264-(-891055+-139652))or 9334350-767152 o=nil else q=x()H=(K)[t(M({-487474-(-487476);-573195-(-573196),z(-770327-(-755527));z(((-866467+671348)-(166282-518910))-172706)}),(14561567013039-242284)-(-836387))]O=x();(y)[O]=(j)[-59086+(-862567-(-921654))]W=(K)[t(z(583908+-601685),24224528885500-564474)]V=(K)[t(M({-58804+58807;33125+((1443694-600627)-876191),991210+-991208,z(572881-589670);z(-924777-(-907759));z((-168999-(66174-188986))+29448)}),-476541+24619350050262)]r=-344929+344929 S=(K)[t(z(20897+-36766),(8236828777586-(-881344))-(-979574))]v=(K)[t(M({-954840+954841;880328+-880326,z(58058-73502);z(78351+-94715)}),-205977+(523700+8917072244061))]s=(j)[(((258186+330720)-353184)+83365)+-319085];(y)[q]=(j)[166049-166046]l=(K)[t(z(-251172-(-235581)),-647440+13678911527347)]b=(I)[v]L=(y)[q]i=(L)[l]L=(K)[t(M({-881983+881988,488352+-488348,851833+-851832;-337975+337978,634115-634113,z(598421-615572);z(869352+-884273),z((-643926-(-1929431-(-1027615)))-275302);z(166007+-182690);z((((1214877-(-819047+1340753))+-987302)-(-51956))-(-225818))}),404777+(775742413407-735155))]v=b(i,L)b=(y)[q]v=(K)[t(M({107530-107528;-913382+913383;z(954583-972605);z(-771935-(-753123))}),(996772+30758502279153)-(-187076))]R=b o=(y)[q]l=(o)[H]L=b o=(K)[t(z(-329995-((383312+(((-389449+138207)-(-95668-(-835432)))-591637))-(-884625))),142145+26557013268564)]i=l or o l=b;(b)[v]=i i=(K)[t(M({332151+-332150;937220-937218,742991+(-245306+-497682);z(-477206+460762),z(953690+-972232),z(334860-(-526878-(-878470)))}),(14999907902266-609376)-(-279179))]v=(y)[q]H=(y)[q]C=(190885+-415591)-(-224706)o=(H)[V]H=(K)[t(M({188377+-188376;961709+((-1189837-(-751482))+-523351);-836545+836547,z(-893630-(-877679));z(-303291+286202),z((643594+-193528)+(-986687-(-143193+-376581)))}),477803+20120486142570)]E=b L=o or H;(v)[i]=L L=(K)[t(z(-425218-((-706915-584891)-(-884913))),29265772562940-(-204411))]i=(y)[(k)[-432942+432943]]v=(i)[L]T=(K)[t(M({375069+((390417+-1275393)+509910);129562-((76456-422539)-(-475644)),(99773+560360)+-660131,z(-931825+914420),z((1022285+-1020270)-(301932-283417)),z(-701324+(-325504+1010115))}),-827363+32682296123648)]V=(I)[S]o=(K)[t(z((-164756+-434145)-(-584079)),24387663945891-(-14154))]R=(6858+-521447)+514645 S=(K)[t(z((-172704+-288165)-(-444325)),(731895+26005402920686)-(473533-968714))]E=-591544-(-591594)L=(K)[t(z(169850+-188306),-969456+20470050758989)]H=(V)[S]B=(y)[q]S=-145555+(-573243-(-718799))p=(B)[T]B=-790306+(236647+553727)e=p and B f=e or R V=H(S,C,r,f)r=(K)[t(M({578438+((-467074+(40778-(-1080317-(739670+-1568137))))+-403990),325709-325708;z(-944821-(-926753)),z(-137379+121200)}),802316+(-190965+1701321571111))]H=(K)[t(M({-924749+924750;59951-(982778+-922831);-279421-(-50949+(826091+-1054565)),(1686037-907410)+-778624,z((-644141+(-362461+1145535))+-155752),z(-258614+(808954-566117));z((-542662-(-806830))-281907);z(-460490-(-444383))}),11985316236768-((854146+(-710147+-849980))+62536))]e=(K)[t(M({-899275-(-899277),-708085-(-708086);745123-745119;579779-579776;z((-539024+-78251)-(-600912)),z(720296+(-1493109-(-757015))),z(656176+-671788);z(581891+-598620)}),(-1014031+18675060379851)-(-309432))]C=(I)[r]p=235744+-235704 f=-658705-(-658755)r=(K)[t(M({(-860635+545473)+315163,-86727+86729;z(-601976+583185);z(-186214+168194)}),17590362125933-(621719+-1056598))]S=(C)[r]r=-774964-(-775014)C=S(r,f,E)f=(K)[t(M({109100-109098,385564+-385563,z(180297-198240),z((-1037740-(-19863))-(-1001603))}),13457617417838-(1078494-475584))]r=(s)[f]R=(K)[t(M({-844035-(-844037);(-799380+1737311)+-937930;z(891730+-907671),z(-951531-(-934309))}),2803805987460-(-952580))]E={[e]=R}f=(K)[t(M({515065+((-1032684-(-227631))+289989),-361622+361624;z(((982056+((1572904-740236)+(-701857-332990)))+-510584)+-284669);z(691219+-707618)}),10269803722497-1004128)]S=(K)[t(M({-279129-(-702429-(-423298)),-188094+188095;z(-112538+94949);z((55817+965398)-1036998)}),-512043+30840317466668)]l={[o]=V;[H]=C;[S]=r,[f]=E}S=(K)[t(z(-583445-(-564802)),211918+7337203345513)]e=(K)[t(z(-54351-(-37659)),-694698+24241798110086)]V=(y)[(k)[(294819-330510)-(-35692)]]R=480515-480509 T=(K)[t(M({-467880+467881,(-33504+-805899)+(396244-(-443161));z(824680+-839793),z(-670047-(-654353))}),11977657745136-(-200603))]H=(V)[S]S=(K)[t(M({(-471857-(-790414-(-611905-(-400413))))-107063,286673-286672;z(-522336+(661316+(-165183-(-584509+((((142948+-738073)-(-648664))+-830502)+1353165))))),z(133583-148816)}),(657619+30346957976253)-(683189+246254))]r=(K)[t(M({-949866-(-1550688-(-600820));199734-199731,-763264-(-763265),z((-1342981-(-836087))+(-606388+1094453));z(-734607+717174);z(-245628-(604924-831881))}),775567+28533670207662)]E=(I)[e]e=(K)[t(z(473189-489999),26442485877225-(-984849+-59747))]f=(E)[e]e=362480-362480 E=f(e,R)C={[r]=E}R=(K)[t(M({686130-686128,(706142+((((-627685-115550)-89825)+-887973)-(-744323)))+270569,z(726408-(-208784+951319));z(1024368-1042066)}),868954+31386533470774)]V=H(S,C)S=(y)[(k)[809486+-809485]]C=(K)[t(z(29674-46961),197516+14396589446084)]B=(-713413+(728388+-163420))-(-148485)f=(K)[t(z(541500-(318135+238823)),668692267636-(-132117))]H=(S)[C]C=(K)[t(M({688323-(1645301-956979);-168040+168042;z(443057-458786);z(688524-706892)}),4163848396742-(-809289-(-1021081+888239)))]e=(I)[R]R=(K)[t(M({114842+-114841;263727+-263725,z((-306014+-41547)-(-329028)),z(-341942+326011)}),-541119+((12623012257-880596)-1007590))]E=(e)[R]R=109407-109367 e=E(R,p,B)p=(K)[t(M({-794185-(-794188);656466-656464;909102-909101,z(-731778+716703),z(-309500-(-303053+11446)),z(-505336-(-489924))}),32858799760908-(-230218))]B=-512190+512190.5 Y=(K)[t(M({-803772+803774,-140764+140767,-573375-(-871673+298297),z(873870+-890815),z(531187+-549236),z(-146865+131651)}),280485+24839772070399)]h=(K)[t(z((-900228-124967)+(220844+(872426+-84151))),-12909+28753409463244)]D={[W]=Y}R=928869+-928868 E=(K)[t(M({276210-276208;851660+-851659;z(706820+((-1697131-(-239842))-(-734585)));z(-548612+(-179677-(-712260)))}),((99558-24677)+(-1617280-(-558735)))+27789403388707)]r={[f]=e,[E]=R,[p]=B;[T]=D}S={H(C,r)}o={V;N(S)}i=v(L,l,o)X=(K)[t(M({919221-919220,-718740-(-718742),z(358685-373789);z((578865+(-1594240-29395))-(-1028499))}),-779383+18661046745937)]l=(K)[t(z(((-684840+-289305)+728618)-(-230587)),(-812942+32107089963516)-(-975316))]D=(1270286-487152)+(-326589+(65111-((1005092-708772)+225356)))C=(K)[t(z(78758+-95391),12398733542612-(-908432))]R=(K)[t(z(-775929-(-757829)),(187874-608174)+12266352954917)]H=(K)[t(z(273025+-289668),28528528924213-((-302399-(-106234-361986))+-639178))]L=(y)[(k)[-630842-(500593+-1131436)]]v=(L)[l]r=(K)[t(z(947464+-965743),-606166+26121582037697)]l=(K)[t(M({(-946637+(-882087+2260372))+-431647,-573356-(-573358);z(-44176+(908942+(-723553+-159661)));z(-759122-(-741839))}),733383+3856396947528)]S=(y)[q]P=(K)[t(M({-782342+(1013810+-231467);520233+((420709-592893)-348047);z((1148930-(-881355+1203668))+-844653),z(-1029361-(-1010926))}),2390773415983-(60018-(-360)))]V=(S)[C]S=(K)[t(M({(-212672-((570102+-478376)-430302))-125903;701853+-701851;z(957644+-974288),z(((-1541525-(-895505-(-326088)))+1043084)+-89053)}),((-188330+742170)-41963)+(10387308365516-439721))]C=(398726-53935)+-344777 e=(I)[R]B=(K)[t(z(333751+-348907),-208303+9125074442578)]F={[P]=h}R=(K)[t(z((-1489205-(-716036))+754679),(598869+206976)+12794834302029)]E=(e)[R]e=(K)[t(M({670800-(729840-(((819494+-702471)-667913)+609931)),(-1022598+805610)+216990;977944+-977941,z(-744868-((161518+-541959)+-348367));z(-619979-(-604435));z(927596+(-402993+-542827))}),-842984+(26325212023387-727261))]f=(E)[e]Y=162306-162292 p=(I)[B]B=(K)[t(M({-665242+665243;413797+-413795,-630847+630850;z(1004024+-1021338),z(-968386+953193),z((744242-(((-39752-(-608634))+(574138+-1499473))+506205))-611483)}),839021+18194935919541)]E=(K)[t(M({-252688+252690;896535+-896532;-166199-(-166200);z(((-754126-(-525704))+(-55162-112194))+379458),z(251179+-269716),z(73723+-90018)}),398563+31359891286451)]R=(p)[B]T=(K)[t(z((109820+113780)-241795),2726296174817-(-784555))]W=-157654+157654 p=(K)[t(z(-270191-((991423+-616712)+-628731)),178615+17562571713923)]e=(R)[p]R=(K)[t(z(-134118-(-115290)),1005000129641-((-1102055-((-21461+-1026030)-(-293935)))+95907))]B=(I)[T]T=(K)[t(z(772434-787388),28506351857654-811679)]p=(B)[T]T=-201978+201979 B=p(T,D,W,Y)W=(K)[t(z(696530+-713991),18889809473567-((318123-248870)+-1021100))]D=(I)[W]p=(K)[t(M({804928+-804926;1038925-(530034-(-508890)),z(-183657+(-488206-(-656693))),z(-349396-(-332518))}),472917+15086841432572)]W=(K)[t(M({204064+-204063;(-548940+1298225)-749283,z((-186088-(-662249))-494015),z(498569-517046)}),(252568-588430)+3121712436229)]T=(D)[W]Y=-12395+12403 W=-582786-(-1077888-(-495092))D=T(W,Y)W=177620+-177619 Y=(K)[t(M({522302+-522301;-214302-(((-326440+-802584)-(-617832))+(583925+-287037)),z(534053+-549926);z((-903765+((525751+-914000)+1468556))+-194573)}),((22195036611847-668550)-(-735806))-(-103078))]T=(K)[t(M({-913422-(-913424),-106730+106733;405843+-405839;((-410598+419668)+-534798)-(-525733);-216247-(-216248);z(-634639-(-616063));z(-593338-(-577567));z(810200-828600),z(773675-788941),z(-360503+345268)}),4619523545167-(-1687792-(-990846)))]o={[H]=V;[S]=C;[r]=f;[E]=e,[R]=B,[p]=D,[T]=W;[Y]=i,[X]=F}L=v(l,o)L=(y)[q]l=(K)[t(M({-566043-(-566044);-243429-(-243432);(-1532349-((-1958617-(-165911))-(-1021914)))+761559;z(765766+-780601),z(6440+-21312);z(359782+-377309)}),((-857804+704283)-228738)+20999351189723)]v=(L)[l]b=v and 13202913-(63290+-1009988)or 1035435+732761 end end else if b<(-525217-(-661649+(-216406+499819)))+(4165165-(-497825-328209))then if b<(-189714+5252140)-272105 then v=(K)[t(z((475049+(-1757296-(363044+-830244)))+(689606-(-820977-(-713494)))),-983532+(863645+19055910405528))]b=(y)[(k)[348909+-348908]]O=(j)[-874842-(-874843)]l=(K)[t(z(-832409-(-813600)),-59427+4527078937137)]i=(K)[t(z(-395784+380489),590081+(12788937454876-635642))]q=(I)[i]i=(K)[t(z(-681400+665496),-619725+8375759714349)]o=(K)[t(z((-172800+(734429-89244))-487719),22269031837266-(-148828+922243))]s=(q)[i]L=(y)[(k)[-947957-(-947959)]]v=(b)[v]i=(L)[l]l=(y)[(k)[787726+((-166297+(936344+34022))+-1591793)]]L=(l)[o]q=s(O,i,L)i=(y)[(k)[-193693+193695]]o=(K)[t(z(-911443-(-896415)),(1206291-425783)+7198194342841)]L=(K)[t(M({((1005087+-1562364)+1066091)-508812,(((-566729+17975)+1293504)-(147246-(-27112-168354)))-402037,z(-816856+799599);z(743607-760634)}),427322615474-(-142899))]s=(i)[L]v=v(b,q,s);(y)[(k)[(-1127132-(-328341))-(-798794)]]=v S=(K)[t(z(-866970+851708),-273150+21966459081404)]q=(y)[(k)[-847220+847223]]L=(y)[(k)[-417970+417972]]l=(K)[t(z(880924-897527),21409078710951-(-192786))]i=(L)[l]s=q-i l=(K)[t(z(485697+-503123),804143+26796770133011)]L=(y)[(k)[-937667-(-937669)]]i=(L)[l]l=(y)[(k)[1034997-1034995]]L=(l)[o]q=i-L b=s/q s=b o=(K)[t(M({7523-7522,-417223+417225,z(824582-((985735-(-22461-(-225952)))-(-59117))),z(61667-77930)}),951587+27216976286469)]q=(K)[t(M({-774477-(-774479);799975+(951384+-1751358),z(-245928-(-230861));z(-254627-(-239428))}),((-778345+34277)+1231932)+23486963097779)]b=(y)[(k)[-239645+239649]]i=(y)[(k)[279565+-279560]]l=(I)[o]o=(K)[t(z((-973802+2017936)+-1062500),785537+16095146530902)]L=(l)[o]o=.1 l=L(o)V=(I)[S]q=(b)[q]o=(K)[t(z((961628+-1452556)-(((-236946-947561)-(-85268-844791))-217835)),29824827336193-645258)]S=(K)[t(M({612541-612539;-237069-(-237070),z((779005+-505343)+-291199);z(-894759+879930)}),934843+7223825401247)]H=(V)[S]S=442594-442593 V=H(s,S)s=nil L={[o]=V}O=nil q=q(b,i,l,L)b=(K)[t(z(5321-((((435635+933021)-638220)-(-24150))+-730637)),475132+(5931238157064-(-914552)))]b=(q)[b]b=b(q)q=(K)[t(z(178922-196341),31894246518740-(-1008893-(786391+-1281195)))]L=(K)[t(M({(704057-974883)+270828;-760242-(-760243);z((-889595-(-876112))+-2111),z(978554-994617)}),29380148326669-1016481)]v={}b=(y)[(k)[(842125-882813)-(428726+-469420)]]i=(I)[L]l=(y)[(k)[(-175893-((-533579+((1394006-286298)-745931))+163042))-(470960+-638096)]]L=i(l);(b)[q]=L b=(y)[(k)[(-1294381-(-413568))+880820]]l=(K)[t(M({680190-(821916-141727);(606727-975097)+368372,z(513110-(295487+234623));z(318606-333693)}),(-384589+-94603)+16272139206883)]L=(y)[(k)[(446981-578092)-(-276962+145849)]]i=(L)[l]q=(K)[t(M({-410747-(-410750),(((697065-((721224+508083)-1035620))+-1239789)+799717)-63304,-173419-(-173420),z(-446211+428431),z(-266094-(-200065+-48552)),z(176396+-193089)}),20592268112450-(-564582+492643))]L=(y)[(k)[((-497946+-37059)+(-60876+(763586-((-314688+-1271067)-(-885639)))))+-867818]]q=(b)[q]q=q(b,i,L)b=(I)[(K)[t(M({189480-189478,-909850+909853,181392-(-743387+924778),z(148981+(-731198+565204)),z(-998667+982782),z(-886318-(-1769530-(-901656)))}),-231103+28754459866681)]]else b=H V=O s=(K)[t(M({-186420-(-186421);715907-715905,z(755216+(-61832-711495)),z(-538487+(1254592-((-662033+1432666)+-38916)))}),27034512575274-(-1215052-(-1084902-(-594754))))]s=(v)[s]i={[l]=o}s=s(v,q,L,i)v=(K)[t(z(-539409-(-520717)),386711+(4751644470299-(-436462)))]v=(s)[v]l=(K)[t(M({-459208+((-93720-(-328882))-(207741-431789)),121945+(226992+-348936),z((537929+426203)-980137),z(-629678-(-729032+115684))}),33320871683465-(-506463))]H=b v=v(s)v=(y)[(k)[(-521780-292616)+814398]]S=b q=(y)[(k)[-242156+242161]]L=(I)[l]l=(K)[t(z(569332-584467),789600+27213038054454)]i=(L)[l]l=.2 L=i(l)b=O and 278689+2564375 or 549456+((587806+2846732)-786521)l=(K)[t(M({(-260018+868552)-608532;(-271895+150149)-(-121747),z(775887+-793842);z(-537632-(-148135-372543))}),9165062663403-802490)]end else if b<809044+4102007 then v=(K)[t(z(-499161+482187),(276557+28970810346049)-723048)]L=(K)[t(z(965865+-982308),10426574220285-(-643562))]b=(I)[v]i=(y)[(k)[653881+-653880]]q=(i)[L]i={b(q)}b=7528977-(-1035255)O=(i)[976558+-976556]v=(i)[401867-(306331-(-95535))]q=v s=(i)[397012-397009]else v=(K)[t(z((-655181+(-105273+((-456472-(-152365))-(-278172))))-(-769380)),35044197201216-(-842046))]v=(l)[v]o=(K)[t(M({759313-759312;775918-(1004976-((935757-76064)-630633));z((1029520+-1120414)-(-73773));z(-642112-(383132-1007292))}),-753271+16197145144744)]v=v(l,o)b=v and 995650+956325 or 746405+691766 end end end else if b<-571007+5676136 then if b<-578+5064537 then if b<899631+4127712 then s=(K)[t(z(803321+-819117),-491082+(-500165+13600252729044))]v=(I)[s]i=(K)[t(M({1030577+-1030575,-165129+165130,z(-276704-(-261587)),z(519653+-534813)}),17251174219447-694615)]O=(j)[-31323+31324]s=(K)[t(z(634695+-650610),-218773+25829931498084)]b=(v)[s]q=(y)[(k)[664686-(-584506+1249191)]]s=(q)[i]v=b(s,O)b=v and 6843376-(-1806258-(-773750))or 8073469-(361652-(1013201+-819894))else H=(K)[t(z(-962292-(-946142)),5281773701163-570027)]L=i V=(K)[t(M({153061+-153060,-436482-(-436484),z(254341+-272103);z(410640-425597)}),22190745987504-1021314)]H=(l)[H]o=b H=H(l,V)v=H b=H and 15866202-596785 or 516212+10710919 end else if b<-764566+5842792 then v={}b=(I)[(K)[t(M({-1047884+1047886;(-519599+1386497)+(-179835+-687060),(-786189-(-989572))-203382,z(-540543+((194359-(-461727))-132532));z(-1005266-(-423572+(-466557+-100104))),z(-590123+573958)}),60056+10655590756717)]]else V=H r=(K)[t(M({919263-919262,(8090+633270)+((((854746-(-661))+(-1870550-109096))-(-728013))+-245130),814255-(-94536-(-908789)),-27263+27266,z(386432-(351365-(-52679))),z(-661502+645524),z((-506737-253425)-(-714851+-30111));z(856412+(466855+-1341480))}),-463891+22318570454717)]C=(y)[(k)[434721-434720]]b=(C)[r]C=b(S)b=-643643+683897;(i)[V]=C V=nil S=nil end end else if b<(-66444+((-1087809-(-551262+66696))+6612949))-764235 then if b<451190+4707207 then q=(K)[t(z(858710+-874779),-841327+29184278860066)]b=true C=(K)[t(z(-937429+(1001721-80954)),(18654291778714-(-290403))-(-870369))];(y)[(k)[969604-969603]]=b s=(I)[q]b=14648251-(-979923)q=(K)[t(z((304773+365130)-688123),1023743+(45011+(11018859126560-897736)))]v=(s)[q]V=(K)[t(M({(383324+(-316116-952616))+(990583-105172),359460-359458,1032194+-1032190,-741050-(-741051);z(3334+-18344);z(((539920+-1047407)-64515)-(-554669));z((530079+-344787)-(((770929+-1379056)-(-636554-(-892417+208326)))-(-859120)));z(294899-(387078+-73512))}),(163590+(-990888+23011187395932))-(-777131))]l=(y)[(k)[852406-852404]]S=(K)[t(z(664199+-679119),(-122232+(21898503872059-284773))-248609)]o=(K)[t(z(-134388+116021),6481665347244-(-643684+1668617))]L=(l)[o]H=(y)[(k)[(-166324+-425160)+591487]]o=(H)[V]H=(K)[t(z((1042958+(18158-34519))+-1042162),8888966132857-264009)]l=(o)[H]H=(K)[t(M({(304866-427268)-(-122405),-719823+719825;943477+-943476,z(((-794922+954865)+780231)+-955045);z(-163194-(-144573)),z(-1026078+1010525)}),83975+26155012123840)]i=L-l o=(y)[(k)[(373075-((358455-663237)-361065))+((193895+(1242068-720157))+((679648+-2312683)-121690))]]l=(o)[H]o=(K)[t(z(-930200+911792),18034932243997-(-497954))]L=(l)[o]q=i/L i=-321117+321117 L=120456+(156377-(-540067-(-816899)))s=v(q,i,L)v=(y)[(k)[(230891-875998)-(-645111)]]l=(y)[(k)[((-208931+595790)-612289)-(-225435)]]o=(K)[t(z(41430-59699),14140014161608-(-490936-458358))]L=(l)[o]V=(y)[(k)[(512030+74845)-586870]]H=(V)[S]S=(y)[(k)[1027597+(-812536-215056)]]V=(S)[C]o=H-V l=o*s i=L+l s=nil q=v(i)else l=(K)[t(M({787012+(-978351+191341),-436917+436918;278984-(349403+-70422),z(105613+-121506),z(452396+-468881);z(760526+-776534)}),29441590695049-373954)]O=(j)[-118861+118862]i=(K)[t(M({-1019011+1019013,445681+-445680;z(58071+-73300);z((-506700+1493776)-1004647)}),-295388+((-910384+17477312515206)-(92308-(205055-432605))))]q=(O)[i]L=(y)[(k)[-400210+400211]]i=(L)[l]s=q==i v=s b=s and-101347+15510886 or 309668+(309616+(-675098+(257117+7093706)))end else b=nil v={b}b=(I)[(K)[t(M({874400-874399;(-930574+243736)-(-686841),(254353+(44804-791623))-(-492468);z(-901948+886082);z(567552+-586354);z(((-738109+412343)-203849)-(-513547))}),153359+17875391123224)]]end end end else if b<6414005-995129 then if b<-632255+5976492 then if b<(844899+(((5583238-((210669+414463)+-44495))-(-236841))-(-366292-(-980062+(1174247-437675)))))-878013 then if b<(690635+5001507)-445985 then C=(K)[t(z(350704+-365842),2649615104366-(-835754))]E=(K)[t(M({-9458+(380570-371109),-47579+47580;-63658-((-374277+-16021)+326638);z(-1951+(789551-803842));z((193702+-1135702)-(-926179)),z(-541093+525538)}),25044645720788-(-387648))]H=(y)[(k)[395830-395829]]e=(K)[t(z(-642881-(-625768)),23065632566896-(-234661))]V=(K)[t(z((323733+168530)+-509044),903588+27967265175671)]v=(H)[V]U=-547380-(-547392)T=(K)[t(z(((888285-(468453+(-1246494-(-526386-404619))))-(-258723))-1010816),950345+15456376427382)]V=(K)[t(M({923556-923555,(-400490-(-72698))-(-327794),z(778280-794872),z(21076+-39620)}),(-445572+13736561452349)-(-87194+435951))]f=(y)[q]r=(f)[E]B=(I)[T]T=(K)[t(z(-813623+797574),14916630220296-(-51389))]E=-873806-(-873818)Kp=(K)[t(M({(627821-(-377155))+-1004974,-480972+480973,z(-137474-(-121714)),z((-1169582-(-513142))-(-637752))}),-570583+(279579+((31750194005620-(-417750))-(960840+-1613312))))]f=(K)[t(M({623542-(-851841+1475381),956754-956753;z(531707-548179);z(170287-(-915728+1103387))}),-652259+(28539696178142-61560))]p=(B)[T]B=(K)[t(M({278704-278703,-75560+75562;z(22890+-38947);z(-445849-(-428172))}),-600890+7934262249881)]F=(K)[t(z((-46210+-105912)+(-311556-(-447914))),746302+26454818235906)]W=(K)[t(z(-194884+179711),25373475559649-143112)]tp=(K)[t(M({-727056+727057;(867149+-220801)-646346;z(-414192+395700),z((((972496-406931)-282244)-(-454003))-753794)}),26165786681776-(-958498))]R=(p)[B]h=235933-235933 D=(I)[W]P=-397275+397275 W=(K)[t(M({-624704-(210890-835595),760352+-760349;(698076+-1655718)+957644,z(-997950+981562);z(-152520-(-134618)),z(683117-699389)}),((695945+27392259803508)-663231)-(-123405))]T=(D)[W]p=(K)[t(M({((1864833-964140)-(-109652))-1010342,778819-778818;736169-(175534+560633),z(-408478-(-391933));z(949935+-967776),z(316343+-332112)}),659924+34344902938414)]W=(K)[t(z((-353485-461274)-(-798204)),30111068501271-(688197+321980))]D=(K)[t(z((-581385+654955)-(701688+-611243)),-250726+10111552258377)]B=(T)[D]D=true b=-441310+16360560 X=(I)[F]T=(K)[t(M({(((602106+-594570)+-700223)+(-62895+773585))+-18001,-539961-(-539964);399493-(944795+-545303);z(((-698582-(-1042501))+(-595334-359686))+595428),z(1006726+-1021914);z(655224+-670016)}),34130712994706-183050)]F=(K)[t(z(-602572+585777),1119262769687-113623)]Y=(X)[F]F=772711-((368753+-1136336)+(-728542+2268835))X=Y(F,P,h,U)F=941866-941865 Y=(K)[t(M({99600+-99596,-800027+800032,-921302-(-921304);-435417+((-673963-(-173534))+935849);-99535-(-99536),z(336507+-353715);z(343413+-359283),z(-833517+816791);z((122000-(-44363))-(760015+-575380));z(-978302+(568633+394490))}),29911815782495-144464)]P=(K)[t(M({-65088+65089;-1017633-(-1017635),z(-772924-(-754765));z(1023918-1039356)}),12576365130799-206718)]h=(K)[t(M({-563843+563844,-214331-(-214333),z((-766211+351068)-(-396906)),z(24648+(86044+-127782))}),9860242792153-(-862602))]U={[tp]=Kp}S={[C]=r;[f]=E;[e]=R;[p]=B,[T]=D;[W]=X,[Y]=F;[P]=l;[h]=U}H=v(V,S)else l=(K)[t(z((((379620-(-656587))-915224)+-1159136)-(-1022296)),31686919103797-108544)]L=(I)[l]o=900651-900191 l=(K)[t(M({837234-837233,-783748-(-783750);z((((908806+137019)+-1140013)+431773)+-355884);z(-843990+829052)}),(-948839+(1600347-355868))+((1137102-142048)+(1035185+113787365659)))]i=(L)[l]b=-238034+11708814 l=((142608+-1017353)-(-218529))-(-656796)L=i(l,o)v=L end else if b<(-203928+(((1432867-(-435546+908336))+-1512819)+((-896749+7090067)-(-845167))))-946929 then b=(y)[(k)[-97746-(-97747)]]v=(K)[t(M({(-187281-(-55255+266392))-(-398420),846640-846639,-471510-(483396-954909),z(992198-1008894);z(-522068+505942);z(738511-757051)}),17949656905946-828636)]v=(b)[v]s=(y)[(k)[136933-(-703076+840007)]]q=(K)[t(M({961-(324979-324020),(-3205+139105)+-135899;z(-66375-(-150720+102244));z(-448855-(-430518))}),(-488727-263632)+31665256458467)]O=(s)[q]v=v(b,O)b=(I)[(K)[t(M({555796-((655574+(-201755-95946))+197921),-32895-(99700+-132596),7643-(((-432081+953929)+-1421940)+907732);z(914807+-930079),z(-997624+982009);z(-201891+185089)}),(5588212983532-754786)-(-976421))]]v={}else O=(j)[-792816+792817]b=O V=O;(y)[(k)[-804386-(-804387)]]=b v=(y)[(k)[-701331+701333]]S=b q=(y)[(k)[-913124-(-913127)]]H=b l=(K)[t(M({-95456-(-95458),-312318-(-312319);z((-205095-(-473724))+-284761),z(-722386-(-705856))}),-631711+8422468627538)]b=O and((12909929-394837)-(-177580))-404834 or 75017+13509502 L=(I)[l]l=(K)[t(z(280339+-295388),-658283+28142506061329)]i=(L)[l]l=.2 L=i(l)l=(K)[t(M({-912627-(-912630);-192995-(-192999);-748618+748620;898960-(-187753+1086712);z(463198+-480478),z(-416267-(-399902)),z(-291067+274756),z((139769-(-246020))-401611)}),375989202947-476471)]end end else if b<4585718-((-805491+83730)-93175)then if b<5817078-(-2997-(-460430))then r=(1038612+(381113+-1292283))+-127382 C=(K)[t(M({-329953-(-329954),-115090-(-115092),z(213659-231072);z(-638755+622134)}),28149329536048-12174)]S=(I)[C]C=(K)[t(M({-796499+796501,874997-((-149053-(-601569))+422480),z(-770179+752595);z(-343511-(-327997))}),27793892836210-348027)]b=5520294-((920066+-524841)-(-942911+(615322-(168345+(85116-268137)))))V=(S)[C]f=-1041130-(-1041190)C=8477+-8417 S=V(C,r,f)o=S else S={}b=-885334+16691932 H=S end else O=nil v={}b=(I)[(K)[t(M({856636+-856633;-662730-(-662731);-522639-(-522641);z(66116-81173),z(-268857+252878);z(693911+-710336)}),28103871780377-537553)]]end end else if b<4682855-(184665+(934437+-2014974))then if b<(183495-955269)+6305325 then if b<627671+4889643 then H=(y)[q]V=(K)[t(M({27063+(-674038+646977);-511928+511929;z(-259955-(-244755)),z(((747791-(((-1101698-(-404087))-(-349198-((-563428-(-819053+(-480177+644760)))+31990)))-(-737424)))-(-224333))+-478092)}),27742909340490-(101760-559016))]o=(H)[V]H=78226-78225 b=-450740+(-229060+2773587)l=(o)[H]i=l else H=(K)[t(M({362147+(394305-756450),((-939627+1187297)+-243302)+-4367,z(-838404+820387);z(-1003471+987053)}),26846154014070-(-181619+-805688))]l=b o=(I)[H]b=o and 519159+10072697 or 9758160-((354885+386397)-390861)i=o end else if b<5163049-(-381414)then S=(K)[t(M({-652024-(-652025),(357591+118130)+((-1520398-((-1488311-(-845468))-(815726+-444474)))-(-30584));z(706618+-722521),z(1020742+-1037394)}),30123484695061-(-377113))]H=o b=H~=S b=b and-149432-(-937414)or 9169874-124547 else L=(K)[t(z(((240472+-175263)+-572769)-(-491162)),-284865+4068954550544)]O=(j)[(((-1150936-(-818217))-227273)-(-287545))+272448]s=(K)[t(M({(-1505399-(-757328))+748072,-739834+739836,(-951670-(-125260))-(-826413),z(-273846-(-258731)),z(-873832-(-855497));z((293518-(-698733))-1007828)}),(-91794+-919748)+33496911250070)]v=(O)[s]i=(I)[L]L=(K)[t(M({69921-69919;-58733-(-58734);-1014415-(-1014418);z(-495867-(-479247)),z(888082+(((146192-(820549+-1646571))+((1495187-592921)+(-151210+((((-314754+(641134+(-1269688-(-139338))))+(603970+862540))-724802)+-798144))))+-1768405));z(964777-((1725221-430080)-313006))}),241360+(((13040645223204-723301)-(-681845))-(-480211)))]q=(i)[L]i=(K)[t(M({450068-450066;994612-994611,((936862+-568129)+(-824967-(-57137+436013)))-(-835113);z((-76097+-809671)-(108006-978553));z(-674335+(-47203+(596591-(-106316)))),z(-805186+787713)}),17424+32578948666005)]s=(q)[i]b=v==s b=b and 4429141-(-699000)or 69221+15558953 end end else if b<5890850-(745257-500696)then if b<(368608-(423595+-376153))+5261022 then b=R b=e and((498592-52099)-(-579326))+13067407 or-567765+10369276 f=e else C=(K)[t(M({-11817-(-11818);(-373148+-308636)-(-681786);z(665072+-682255);z(-547160+529920)}),(98753+(78399-720626))+(10040380867369-(-703810)))]f=(K)[t(z(939354-(287123+670362)),5351593668376-(-691975))]C=(O)[C]r=(i)[f]S=b C=C(O,r)V=C b=C and 308546+15055791 or-440348+14741758 end else b=x()L=q o=(K)[t(z(-810456-(-794730)),654423233338-(-801089))];(y)[b]=l L=nil l=b H=G(15672043-946019,{l})b=(I)[o]o=b(H)l=Q(l)b=(-95379-389649)+13683342 end end end end else if b<6901581-57340 then if b<(768789+(6309308-502068))-(-987002-(-978082))then if b<(-146776+(-261745-(-843925)))+5821041 then if b<4968439-(-1034977)then if b<(7170305-403291)-890346 then i=(K)[t(M({685238+-685236,-259823+259824,z(647159-664048),z(-791886-(-777037))}),-433929+24740146244617)]q=(I)[i]i=(K)[t(z(154963-(1040688-(414118-(-453718)))),19065133816316-(-293476))]v=(q)[i]b=(v)[O]v={b}b=(I)[(K)[t(M({-543627-(-543630),116067-116065;-433334+433335,z(430121+-448773);z(((1427627-440170)+((-787588-(-238411+-172912))+(-662495+-14917)))+((736258+-1493183)+808269)),z(748391+-766020)}),(-285768+-15472)+(296910+32032679413687))]]else e=p b=B b=p and-531030+15147919 or-898621+15558785 end else if b<874775+((-480493+6863449)-1043745)then b=(y)[(k)[-258622+258623]]O=(j)[(671575+807)-672381]v=b(O)b=(I)[(K)[t(M({-914232-(-914234);(11484+(1476525-833082))+-654924;275868-((1230282-(-1041525+1950117))+-45823),z(674692-689766);z(834278-(1534896-682065));z(-1040375-(-1025001))}),-684016+13407489189957)]]v={}O=nil else L=(K)[t(z(845309+-860970),24600994935811-428268)]b=(I)[L]V=b H=s b=s and(263932-(-683250))+14859416 or(5009818-415453)-(-766023)end end else if b<-926441+(831685+6516320)then if b<204015+6104597 then v=(y)[(k)[678027-678026]]O=(y)[(k)[755500-755498]]b=v~=O b=b and 582685+9927287 or 5839824-771422 else H=(K)[t(z(-594808-(-577127)),23909492874952-(1305711-271056))]L=(K)[t(M({-608077+608079,-728984+(929123-200138),z((((50721-(751865+-1117652))+(-627323+-41486))-177080)-(-412142));z(935799-953471)}),(708303+18659413015316)-(-918870))]v=(y)[(k)[-822579+822583]]s=(y)[(k)[-514843-(-514845)]]i=(I)[L]L=(K)[t(z(1026375+(241901+-1284803)),-913090+17604991857139)]q=(i)[L]L=.2 O=(K)[t(M({(558484-706742)-(-148260),(-229695+-640720)+870416,z(998792-1015783);z(-861287+(931968-87837))}),-615469+25342858615503)]i=q(L)O=(v)[O]L=(K)[t(z((526613-(828348+-553633))+-267781),9342063720871-(986547+-125072))]C=(-525810+1233599)-707789 S=(2016393-1008443)+-1007950 o=(I)[H]H=(K)[t(z(952472+-968253),1013167399589-(-409758))]l=(o)[H]V=((-757161-642661)-(-445005))+954797 H=1012125-1012124 o=l(H,V,S,C)q={[L]=o}L=(K)[t(M({356512+((647107-964688)-38929);(-1720297-(-742828))-(-977470),z(-40923+25884);z(388060+(592651+-998650))}),-717624+3581613849700)]O=O(v,s,i,q)l=536002+(-1196682-(-660680))v=(K)[t(z(-514802-(-496062)),18600786168736-(-331739-7232))]v=(O)[v]v=v(O)v=(y)[(k)[725961-725957]]s=(y)[(k)[-68730+68735]]i=(I)[L]L=(K)[t(z(958939+-977461),30724644172963-975323)]b=6870854-(-604889)q=(i)[L]L=.2 i=q(L)L=(K)[t(M({338989+(-1090284-(118103-869400));776689-776688;z(-756668-(-739452));z(-201472+(-500689+685149))}),-850532+11006562981775)]q={[L]=l}O=(K)[t(M({857787+(-805431-(166504+-114150));-540061+540062;z(506693-((-357969+886851)-4060));z(54295+-72885)}),(34437301577683-(-164376))-(-713590))]O=(v)[O]O=O(v,s,i,q)v=(K)[t(z((-39021-293513)+315586),7329397891701-(-69291))]v=(O)[v]s=(K)[t(z(541856+-560444),402455+12802756292788)]v=v(O)O=(I)[s]s=(K)[t(z(713049-731658),31345760540461-(-167844+899336))]v=(O)[s]s=.2 O=v(s)O=(K)[t(M({491529-(-462752+954279);940094-940093;z(-110731-(-93974));z(-48118-(-29541))}),-528806+19243533580610)]v=(y)[(k)[-932566-(-932568)]]s=false;(v)[O]=s end else i=(K)[t(z(449313-466785),(4764+7131990749863)-1012676)]v=(I)[i]i=(K)[t(z(-240921-(-223387)),-406063+13263464738266)]b=(v)[i]v={b(s)}b=(I)[(K)[t(M({-468632+468633;-649497+649499,-665784-(-665787),z(-159861-(-144516));z(-791073+774928),z(520558+(((-1135311-(-396250))-(-623689))+-421752))}),2349717623986-(-638862))]]v={N(v)}end end else if b<115175+6610743 then if b<7435605-793362 then if b<111412+6527480 then B=(y)[(k)[-506153-(-506156)]]T=(K)[t(M({469243+-469241;-142885+142886;z((-406562-5924)+395816);z(548780+-564936)}),(65973+23597345326254)-(-23718))]p=(B)[T]b=4588602-(-990168)e=p else V={}o=V b=10595975-924692 end else if b<-443269+7116416 then O=(j)[-776872+776873]T=(K)[t(M({59997-59995,-695590+(1488286-792695),-989288+989292;808765-808762,z(-391557-(-372740)),z((-662524-(-63297))+(1060978-480137)),z(-500737-((-36690+((834825-389483)+84615))-976867)),z(-193080-(-176266))}),33926947161344-(-653716))]q=(j)[((-88162+(-1127967-(-678223)))+1505537)+-967628]f=-491890+491890 s=(j)[686317+(((461396+-1588430)-(-955763))-(929445+-414401))]e=-378637+378637 b={}W=(K)[t(M({416073-416072;-179387+179389,z((1930731-910658)-1036784);z(-241310+(-388078-(((278576+-42958)+((-161405+-1308116)-(-839253)))-218697)))}),-183753+20683652825048)]i=x();(y)[i]=b b=(y)[i]o=(K)[t(z(426260-(354692+86408)),16110245049280-434261)]V=(K)[t(z(433374+-449091),133938+10258202086817)]l=(y)[(k)[(46806-497002)+450197]]L=(l)[o]v=(K)[t(M({((744621-970807)+-711761)+937948;(165461-(-283538))+-448997,z(-933816-(-915507));z(45302+-61589)}),666687+5893559843843)]r=(K)[t(z(1007174-1023161),23466829458510-(-158185))]o=(K)[t(z(-417217+399319),4678077394441-(1770450-(637127+368933)))]R=(K)[t(M({-655925+655926,-41510+41512,z((866760-510314)+-372301);z(-934572-(-919700))}),28573478506334-(-207466))]E=1013907+-1013907 C=(I)[r]r=(K)[t(z(-7122-(873853+-862652)),((-433625+1762995)-749225)+27386781073128)]S=(C)[r]r=272867+-272866 C=S(r,f,E,e)e=(K)[t(z(141526+-157538),21466287667168-279035)]E=(I)[e]S=(K)[t(M({((667230-187395)+-800159)+320325,747208-747206;((1045897-195753)-993965)-(-143824),z((-1145623-(-815376))+312127),z((208895+-851960)-(-625404)),z((590822-397383)+-209987)}),-230881+(-444074+32634622642570))]D=(K)[t(M({627385+-627383,-334623-(-334624),z(568385-(-407231-(-993094))),z(178019-193974)}),-155204+(1509460307800-(691793+88352)))]p=(-476981+(233351+-295377))-(-539052)e=(K)[t(M({-312183-(-312185);929913-929912;205699-205696;z(73239+-90654),z(353362-370313),z(((-911448+735369)-720069)+((782780+-239556)-(-337682)))}),(933670-443)+16264107956058)]f=(E)[e]E=(K)[t(z(-139878-(-122485)),863699+(20197321417654-(-77875)))]B=153390-(91303+62042)r=(f)[E]X=(K)[t(z(((272705+-363067)-(-206266))+-131780),((428792+3476131803924)-(-126311))-509113)]f=(K)[t(M({-183164-(712839-896006);733098+-733094;512547-(854851-(1003359+(-620094+-40959))),-282778-(-282779),z(-847804-(-91792-739069)),z(-110183-(-94755)),z(-818597-(-800359));z(-111676+94536)}),30183213106776-(-437926))]e=(I)[R]R=(K)[t(M({329106-329104;((182547+(716687-823786))+520817)-596264,z(-30768-(-12527));z(35716+-50974)}),29566922382884-963297)]E=(e)[R]R=-423102-(-423147)F=(K)[t(M({((-472151-65409)+570059)+-32496,437168+-437166;383459-(1370835-987377),z((942161-711194)-248776),z(477548-492690);z(323936+-342021)}),-998010+34075916200260)]e=E(R,p,B)p=(K)[t(M({(-264988+91143)+173846;-762652+762654;z((376493+10536)-405556),z(-788880+772156)}),21968950311797-567294)]R=(s)[p]B={[T]=D}p=(K)[t(M({155774+-155772;(-360533-25955)+386489;z(-1010552+(798416+196725)),z(293380+-310609)}),-88351+(((821475+26890662469235)-412846)-(561709+-626511)))]E=(K)[t(M({(138963-(-476514))+-615476;-168384-(-168386),z(395275-411061),z(-950308-(-932165))}),35128869778881-524147)]H={[V]=C,[S]=r,[f]=e,[E]=R,[p]=B}C=(y)[(k)[885145-885144]]r=(K)[t(z(327787-344727),5459557407528-(1012490+24257))]E=(K)[t(M({997188+(-1192491-(-195304)),745263-745261;448949+-448946;z(-8890-7156);z((361091+((-997971+1877676)+-466490))-((((-374166+827658)+398040)-858768)-(-797860)));z(765108+-780172)}),(15283055645282-237055)-(-953475))]p=(K)[t(z(-483968+467378),12460049482509-((-678052-501247)-(-745274)))]S=(C)[r]D=226513+-226458 R=(I)[p]r=(K)[t(M({114316-114315,(233191-(-625395))-858584;z(-279111+260906);z(-687888-(-991906+320264))}),(747417+8224652278847)-(-431415))]B=662344-662338 p=(K)[t(z(881143+-898735),-198387+5793698205936)]e=(R)[p]p=(-495332-(-341474))-(-153858)T=(656338-245498)+-410785 R=e(p,B)f={[E]=R}C=S(r,f)r=(y)[(k)[-927027-(-927028)]]e=(K)[t(z((-414262+1154843)-758235),-581690+(32232768426716-785550))]B=(K)[t(M({814669-814668,-155422+155424,z(-428635+413767),z(-149571-(-133504))}),28083803947367-151234)]f=(K)[t(z(-1010236-(-994429)),-372123+(-164873+10197287426974))]S=(r)[f]p=(I)[B]f=(K)[t(M({-61738+61739,-268512+268514,z(949595-965121);z(-562219-(-543422))}),835863+(18699926435882-(-549996)))]B=(K)[t(M({-22474-(-22475);(337077+-474619)+137544;z(325863+-341587),z(-665848+(710803+(895539-956804)))}),3802155134256-(-599980))]R=(p)[B]Y={[X]=F}B=-968847-(-968902)p=R(B,T,D)R=(K)[t(M({565469+-565467,(-1688493-(-619385+-425933))+643176;z(875916+-891706);z(-542462+526564)}),((-1102505-(-472427))+233095)+11130766716638)]B=568669-568668 D=-649286+649286.5 T=(K)[t(M({(988966-234522)-(((-193563+455644)+-36536)-(-528898));-421482-(-421484),-670548-(-670551);z(-857668+840884),z(352083+-369278);z(-87464-(-69472))}),18644200915890-8432)]E={[e]=p;[R]=B,[T]=D;[W]=Y}r={S(f,E)}V={C;N(r)}l=L(o,H,V);(b)[v]=l b=q and 6735394-(-939937)or 4807420-634376 else b=(y)[(k)[-173637-(286061-459699)]]s=(j)[914795-914793]O=(j)[(-262785+-760351)+1023137]i=(K)[t(M({-52401-(-52403),-235781-(-235782);z(-176788+((823716-833932)-(-171159)));z(-427553+411768)}),23642338137503-(-34402))]q=(y)[(k)[(233956+-589201)+355247]]i=(b)[i]v={i(b,q,s)}b=(I)[(K)[t(M({-124694+124697;-116922-(-116923);-734321+734323,z(-858509+(-259094+1101686));z(-471916-(-454621)),z(-68677-(-53139))}),599117+1584759350815)]]v={N(v)}end end else if b<12748+6792408 then if b<7213281-455331 then v=(y)[(k)[(-316081+353253)-37171]]S=(K)[t(M({323140-(((483861+466149)+-649262)+22389);499739+-499737,-271578+271582;486080+-486079;z(801383+(846380+-1663795));z(-953211+935468);z(-883640+865412);z(506899-((826032+117449)-(1221952-801004)))}),14571864823771-667229)]i=262776-(-945023+1207799)O=(K)[t(M({870260+-870258;114053-114052,z(((((-795148-(-1016039))+757581)+(-769251+196795))-70508)+((-97109-(-125757))+-381185)),z(-800653+782802)}),32386518565474-(-408046-(-756302)))]b=(v)[O]q=(K)[t(z(-701941+686663),24537904281449-(-407724))]v=(K)[t(M({-398650-((-698961+847900)+-547590),695428+-695426;z(132431+-150312);z(255999+(222497+-495208))}),(-228212+27549742236944)-872212)]s=(I)[q]L=201522+-201522 q=(K)[t(z(-616580-(-601019)),(352396+-1145583)+8451983350777)]O=(s)[q]V=(y)[(k)[877799-877797]]H=(V)[S]q=(808703+90153)+((((841008+(844520+-2464862))+-723485)-(-763686+(893474+219016)))-(-952767))V=(K)[t(z(-779138-(-762561)),7405994609558-(-343991))]o=(H)[V]H=148922-148902 l=o+H s=O(q,i,L,l);(b)[v]=s b=(I)[(K)[t(M({-502611-(514935-1017547);(-436927+(1628017-262423))-928665,-343905-(-343908);z(824111+-839071),z(((742792+-1714024)+240432)-(-715374));z(65580-83462)}),113859+34729551692149)]]v={}else s=(j)[-505723+505725]b=(y)[(k)[-499404-(-499405)]]O=(j)[-349271+349272]i=(K)[t(M({(-291157+963438)-672279,(127090-1047426)+920337;z((686381+-1538505)+834655),z((822916+-270544)+(-399821+-171143))}),13452584225917-421379)]q=(y)[(k)[-104532-(-104534)]]i=(b)[i]v={i(b,q,s)}v={N(v)}b=(I)[(K)[t(M({12644+-12643,-944734-(-944737),-409972+409974;z(220360-237969),z(-167973-(-152251)),z(-147176+129448)}),23347979526796-983978)]]end else e=(K)[t(z(((-42866-961601)-(-364547+(-266363-(-569166))))-(-927627)),-896658+2828473689807)]E=(I)[e]e=(K)[t(M({623421+(-409947+-213473),(369557-387462)-(104452-122359);z(-305943+(248115+40488));z((-826555+(-188348+1790129))-792169)}),18237030592321-65451)]p=(K)[t(z(162460-179961),-875266+1251871066125)]f=(E)[e]R=(y)[L]e=(R)[p]R=(y)[H]E=f(e,R)e=a((-612865+23866)+4642586,{(k)[1006405+-1006402],H})E=(K)[t(M({-540698+540699,(208643-486077)-(-277436),z(-885669+(595216-(-275344)));z(-359920+344951)}),16590138479227-(-634173))]f=(y)[H];(f)[E]=e f=(y)[H]e=m(-392829+(504812+7773437),{(k)[1031297-(224812-(-818999+12517))];H})E=(K)[t(M({-170446-(-170447);592091+-592089,z(-826515+809492),z(815764+-831786)}),(16011244296138-242166)-27261)];(f)[E]=e e=u(10114404-(-963564),{(k)[(187687+-325685)-(-748403-(248724+-859126))];H})E=(K)[t(M({678037-678035;(452424-(-353430))-805853;z(800695+(404261+-1219800));z(953132+-971818)}),(-1802265-(-1037190))+7936858841003)]f=(y)[H];(f)[E]=e e=d((-1025933-(-533079))+7277700,{(k)[1037710+(-847250+-190457)],H})f=(y)[H]E=(K)[t(M({12022-(122827+-110807),(-304002+-654763)-(-474222+-484544),z(-267431+250809),z((-1273552-(-971055))+285704)}),27763819689678-(-316335))];(f)[E]=e E=(K)[t(M({-754011-(-754012),773609-(1295372-(-587790+1109556));759190+-759188,z(305007+-320225);z(-834284+(1579565-760728));z(-127353+(708219+-596078))}),(247646+28655966911375)-(-636418))]f=(y)[H]e=a((12691388-266745)-912438,{(k)[328649-328646];H});(f)[E]=e e=a(-547666+826898,{(k)[-819950-(-819953)];H})E=(K)[t(M({-354242-(496856+-851099);(692855+-1574590)+881737,z(-1004521-(-347145+-641168));z(139616+-155070)}),-794750+2474245715729)]f=(y)[H];(f)[E]=e f=(y)[H]b=(I)[(K)[t(M({466454+-466451,981251+(-1879095-(-897846));617991+-617990,z(620152+-635154),z(-621770-(-603456)),z(664876+-683593)}),29091219279688-(-99622))]]v={f}end end end else if b<8080411-(1781113-836975)then if b<6800960-(-189189)then if b<848276+6082726 then if b<-843930+7725715 then b=(y)[(k)[(650356-(-67075))+-717430]]s=(y)[(k)[-587922+(-246336+(-764729+1598989))]]O=not s v=b(O)b=(I)[(K)[t(M({((502311+-1776350)-(-681988))+592053;773006+-773003;375613+-375612,z(-470487-(-455267));z(577865+-594623),z((332893-310195)-(-676634+714288))}),(((76967+17388057523542)-(-157315))-(-383457))-1046182)]]v={}else l,V=o(L,l)b=l and-1038261+14945564 or 169766+6057729 end else if b<520459+((691032+5695646)-(-67266))then o=(y)[(k)[(147379-(-230679))+-378057]]R=654044+(-1326627-(-674230+1619))F=(K)[t(M({686089+-686086,825589+-825588;-593939+593941;z(-391667-(-375833)),z(674973-692949),z(531721-547059)}),((126735+32210155959243)-(-379791))-1003914)]H=(K)[t(z((-274537+848693)-591218),1613256897073-725721)]f=(K)[t(z(831630+-849380),-439459+20884120833850)]P=(K)[t(M({-983034+(212129-(-770907)),855057+(((-280759-445470)+((285872+452463)+-1638912))-(-771752));312025-312024,z(-568722-(-553747)),z((-217540+(205629-(9226-(-96808))))+99727),z((-747604-(-181308-((512245-(-64324))-416047)))+389962)}),6538529329579-(-305750))]v=(o)[H]T=b S=(K)[t(z(104237+-120713),34225938709975-(683856+256468))]H=(K)[t(M({(-338060-145146)+483207;181117+-181115;z(384857-400208);z(102164+-119500)}),21032757252567-(-160797))]p=323050-323049 r=(I)[f]E=-176823+(371028-194225)f=(K)[t(z(-412062-(-394241)),-189229+23518009818775)]C=(r)[f]f=(-866215+1747956)-881740 W=b e=386691+-386691 r=C(f,E,e,R)R=566099+-566089 e=(K)[t(z(407727-(745594+-319320)),4910615040536-172560)]T=-696181-(-696221)E=(I)[e]Kp=(K)[t(z((245491+(-206557+((-27834+-192664)+-299778)))-(-466177)),-418495+2815414280689)]C=(K)[t(M({-605823-(-605825);174334+-174333;z(678900+-695553),z(-372776+354898)}),13814310433728-(-891374))]e=(K)[t(z(235832-253325),30230828194591-(-202333+-489548))]f=(E)[e]X=(y)[q]Y=(X)[F]e=-851109-(588194+(784631+-2223934))X=-55830-(-55794)W=493378+-493414 D=Y and X B=D or W E=f(e,R,p,B)f=(K)[t(M({-894994+894997;752729-752728;-808885+808889;345166-(-41023-(-386187));z(-678880+(-182105+845710));z(528043+-544852),z(-963228+945918),z(((((748742-213217)+(-1008023+1335905))+-429676)+((-646106+1217566)+-741440))-281499)}),17298546977095-(-1039896+1070655))]p=(K)[t(M({-1008104+(1616136-608030),((-856338+1079420)-(-787678-(-485168)))+-525591,z(-836737+821528);z(((536573+(-458716+588120))+-216396)-467027)}),-975458+5771457675056)]R=(I)[p]p=(K)[t(M({(774708+-792836)+18130,-527116-((-615209+(93161+-482213))-(-477144));z(-307307-(-645964-(-356482)));z(-951673+935311)}),14713059689908-(-370875))]B=-970842+970882 e=(R)[p]Y=(K)[t(z(-544129+526484),368658+25438388276397)]p=988555-988515 R=e(p,B,T)e=(K)[t(z(25579+(((155098+337468)+-83613)+-451816)),-522226+13930014345274)]B=(K)[t(M({(57949+250732)+-308680;241687+-241685,z(-132832+(-1032242+1149180)),z(737375+-755529)}),19012105298563-430021)]p=(K)[t(z(-1021361-(-1006072)),4442554968059-(-1043151))]W=(K)[t(M({-363631-(-363634),-307461+307463;747661+((-1592306-(-35861))-(-291603+-517182)),(-939708+735259)-(-204453),z(-113478-(-96736)),z(-817879+801029);z(300520-316416),z((993755+-514213)+-496582)}),330661+(9804902757783-52621))]T=(K)[t(M({(1468836-(299340-(-123581)))-1045913,-683774-(-683775);z(982160-999775),z(-1010655-(-993797))}),2736833574465-(-950066))]D={[W]=Y}V={[S]=r;[C]=E,[f]=R,[e]=p,[B]=l,[T]=D}f=(K)[t(z(925522+-942967),3200997534370-174555)]r=(y)[(k)[(-744813+1025844)-281030]]C=(r)[f]f=(K)[t(M({1002424+-1002422,-911416-(-399022+-512395),z(-23303+6781);z(470181+(269693-756643))}),(488943+((-1767102-(-1031668))+(939275+-17090)))+3333651303689)]B=(K)[t(z(-453832+437166),388535+34750772550867)]W=1041795+-1041735 p=(I)[B]B=(K)[t(z(((-528715+-89293)+1284364)-684303),(13915165052351-52933)-(-461799-(-426435)))]T=427272+-427268 R=(p)[B]B=(1433194-(-674779+1443418))-664555 e=(K)[t(M({(-4513-(-1025909))+-1021393;733945-(((119505+(1177866-(-14192)))-498115)-79504),-631442+631444;z(-442431+423713);z(-345440+328186);z((-619222+1315049)-712078)}),-414844+32037756839427)]p=R(B,T)D=-482734+482794 E={[e]=p}r=C(f,E)f=(y)[(k)[-86263+86264]]R=(K)[t(z((547379-623707)+57992),-726207+(285456+15510050921452))]E=(K)[t(z(757425+-773048),323363+27771855696020)]C=(f)[E]E=(K)[t(M({132753+(((-243323+-12941)-(-188915-(-965544)))+900142);-48485+48486,z(-66703+48516),z(1003473-1020617)}),(-702164-(-925532))+15564549231972)]T=(K)[t(M({(119465+-849979)-(-730515),-617919+617921,z(921198-937312),z(8913-((-1536963-(152794+-878606))+837415))}),998783+13641346627801)]B=(I)[T]T=(K)[t(M({-774212+774214,-629072-(-629073),z((889723+-880196)-26002);z(244931-262029)}),(2007560-1024719)+2588472367899)]F=(K)[t(z(891562+-909406),157870+6265189059453)]p=(B)[T]T=-1029922+(502526-(-1041150-(149878-663572)))Mp=806598-806594 B=p(T,D,W)X={[F]=P}Y=(K)[t(M({-106246-(-106247),-669518-(-669520);z(-650737+634403),z(792694-808734)}),635742+18284218637474)]W=587170.5-587170 D=(K)[t(M({-848953+848956,-654633-(-654635);122430+(-375544+253115),z(505328+(857334+-1378883)),z(773644-792365);z(958166+-976845)}),30106012680310-(-162560))]p=(K)[t(M({386683-386681;(-755281+724064)-(935691-966909),z(484247-(-662556+1162646));z(-642959-(-626080))}),-695340+6276341990701)]T=-414994-(-414995)e={[R]=B,[p]=T;[D]=W;[Y]=X}f={C(E,e)}S={r,N(f)}o=v(H,V,S)F=(145775-243506)-(-97732)e=(K)[t(z(-4424-13447),5665210642196-360795)]C=(K)[t(z(198606+-214371),-829781+19492388024102)]f=(K)[t(M({((508600+-306082)-399508)+196991,-195201-(-195203),z(361659+-379178),z(((564582-436273)+-903894)-(546653+-1306048))}),(26346583079639-(-737183))-(-210745))]V=(K)[t(z(861909+-880612),-855332+23071225126200)]E=773112-773099 H=(y)[(k)[244089+-244088]]T=(K)[t(z(31390-50118),(-137846+(13494424220109-(-40243+76302)))-(-59680))]v=(H)[V]W=(K)[t(z(927654-944119),13872200942266-(-310168))]V=(K)[t(M({-951413+951415;-582211+582212,z(798244-816284);z(-849027-(-832153))}),((-998973-(-640457))+23544030897234)-133945)]r=(y)[i]B=(I)[T]T=(K)[t(z((286554-479442)+174715),((434619+-1720244)-(-319277))+((759467-387409)+16444828945743))]Y=(K)[t(z(212343-229094),(-82266+((((-983126+-1085537)-(-840500))-(-762560))-268188))+14839353933629)]p=(B)[T]B=(K)[t(M({741788-741786,-598806+598807;z((-73423+-861583)-(875753+(-488348+-1306115))),z(727868+-746121)}),986890+34590797904868)]R=(p)[B]D=(I)[W]W=(K)[t(M({818110+-818107;586413-586412;(-559600-(-680795))+-121193;z(411531-429687);z(819512-836704);z(494521-510657)}),291422490900-(-922718))]T=(D)[W]D=(K)[t(z(735407-750974),17027383381144-(515276+-901458))]P=-1048543-(-1048543)p=(K)[t(M({-832966-(944809+-1777777);-53933+(691228-637292);(-860916-(-704379))+156538;z((-207412+134325)+56351);z(((-243373+1129606)+(579703+-522082))+-958782),z(68285-(-294389+381257))}),28674129558467-201799)]B=(T)[D]T=(K)[t(z(-84624-(-65991)),875675+(33746154276426-(-858872)))]W=(I)[Y]Y=(K)[t(z(938153-(600990-(-352069))),197553+4621791327442)]X=133957-133987 D=(W)[Y]Y=-389325-(-389326)W=D(Y,X,F,P)F=(K)[t(z(-802937+786319),30633156061092-(-239939-(-913063)))]D=(K)[t(M({900003-900001,474641-474640;z(212918+-230981),z(255647+-272185)}),((-1036301+1076514)+-1069944)+22408764380462)]X=(I)[F]tp=(K)[t(M({-94102-(-94103);94611-94609;z(-624285+609431);z((144421+(-183023+-102825))-(-125307))}),499571+6498682858696)]F=(K)[t(M({-762345+762346,937330+-937328;z(-518185+(-15229+516489));z((-1143260-(-361052))-(-334499+-431298))}),-304561+(32643882734257-(-496417)))]P=158071+-158071 Y=(X)[F]h=(K)[t(M({-715917-(-715918),-673508+((-196869+931808)-61429),z(-269429+251601);z(191525+(-370859-(-164194)))}),(-322173+-611710)+(((293561-(-324539))-793034)+21045160364885))]U={[tp]=Kp}F=(-620594+-5060)+(-335908-(-961570))X=Y(F,P)Y=(K)[t(M({(201242+(-723873-(-186401)))-(-336235);-648590+648594;-157200+157202,(677239-474015)-203223;-973647+973650;z(-20337+1778);z((-542323+370851)-(-155370));z(-355671+339443),z(707508+-725291),z(217367-232391)}),(-738267+15168382251215)-719282)]F=(1015987-688600)+(-439333-(669777+((187884-219856)+(45789+-795541))))P=(K)[t(M({-349365+349367;593850+-593849;z(736282+-754024),z(367416-382762)}),893338+4904269730374)]S={[C]=r;[f]=E;[e]=R,[p]=B;[T]=W;[D]=X,[Y]=F;[P]=o,[h]=U}P=(K)[t(M({348011-348009,-899735+899736;z(-79863-(-983839-(-921185))),z(-96777-(-78191))}),-7926+(5852034964055-(-872712)))]H=v(V,S)V=x()U=(K)[t(M({859944+-859942;69816+-69815;-432810+(1445265-1012452),z(-582313-(-565865));z(-949133+(37941+(676961+216825)));z(((-1103587-(-923527-(-244174)))+-617483)+(((925650+-1387478)-(-788943))+699071))}),8834907810454-113495)]e=(K)[t(M({-301382-(-1240869-(-939483)),-96543+(934867-838323);-6380-(-6383),1034754-1034752,z(-798142+(1456878-(989378-(-559901+873397))));z(-202918-(-177570+-6671)),z(645414+-663684);z(-357366-(-339835))}),30097467482302-(-69195))]S=(K)[t(z((-958054-((-95873+-192718)+-149795))+(-249922-(-753133))),9080765399965-593794)];(y)[V]=H H=(y)[(k)[38037+-38036]]r=(K)[t(z(715894-733464),(33024615928573-(-26264))-17908)]p=(K)[t(z(-378232-(-360522)),11105873923626-(-1014983-(-7071)))]v=(H)[S]S=(K)[t(M({338355+-338354,-717089+717091;z(805750-820665);z(-359730+344432)}),-633800+32892800450987)]E=(y)[(k)[-153399+153401]]W=473673.5-473673 f=(E)[e]R=(I)[p]B=-874070+874086 p=(K)[t(M({(-601704+(-303587-84814))+(1104710-(-507349-(-621953)));501676-501674;z((41344-(1119852-(1005243+-656677)))+713864),z((100946+50617)-166900)}),14679716153239-((454434+-1776838)-(-1005813)))]tp=(K)[t(M({537542+(428688-966228),(944534-523123)+-421410,z(907875-926708),z(716761-732418)}),1755744545634-675884)]e=(R)[p]Y=(-388678+-599180)-(-987858)p=589844-589828 X=-433156-(-433156)R=e(p,B)h={[U]=tp}T=(K)[t(z((666650+-1325384)-(-640039)),883816+28442855628968)]e=(K)[t(M({714198+((-1126503-585371)-(-997678));-332040+332041;z(977054-993428),z(-329138-(-313582))}),19617875416857-314872)]F=(K)[t(M({-522410-(693659+-1216070);491960+-491958,z(-27742-(-11256));z(-252637+236925)}),18835890104029-(-949335))]D=-951479+951459 B=(I)[T]T=(K)[t(z(490604+-506933),-522703+(14429263945594-(-423841)))]p=(B)[T]E=(K)[t(z(-697509+680481),34237380897242-(-300231))]T=-93642-(-93643)U=(K)[t(M({94283-(-826473+920755);-772217+772220,((-441158+209219)+-337778)+569719,z(337595-(-8892-(-362991)));z(1043926+-1061906),z(-809213+790831)}),15938243378036-520767)]B=p(T,D,W,Y)p=(K)[t(M({124819+(-99287-25531),717446-717443,-563449-(-563451),z(-470404-(676423+-1130044)),z(78891+-96592),z(-785167+(126145-(-644078)))}),363295995007-(-503012))]W=(K)[t(M({(-681064-137345)+818411;-951422+(1657901-706478),z(-759508-(-743812)),z((565144+-1522011)+938997)}),20483437956128-(-398179))]D=(I)[W]W=(K)[t(z(-753356-(-737366)),207528438861-152832)]T=(D)[W]Y=888959+-888958.5 W=837378+-837378 D=T(W,Y)T=(K)[t(M({-241695+(-66206-(-691094+383189)),-434890-(-434891),241650-(477305-235660);(-829122-(-928686))-(1130099-1030537),298120+-298117,z(928633-945994),z(324853-342094);z(-608960+590985);z(964208+-982864);z(-981384-(-963117))}),667766+8958040852691)]W=353586+-353585 Y=(K)[t(M({783008+(-1805101-(-1022095)),21640-21639,z(-90827+72146),z(952250-968928)}),-959641+11788212330864)]C={[r]=f;[E]=R,[e]=B,[p]=D,[T]=W,[Y]=X,[F]=o,[P]=h}H=v(S,C)S=x()C=(K)[t(z(549749-567629),681008+(664234+6676807745690))]B=541846+-541846;(y)[S]=H R=(K)[t(z(-541695-(-523234)),210695+5224696996858)]H=(y)[(k)[657019+-657018]]f=(K)[t(z(-343935-(-328163)),-603139+11550914288887)]p=526243-526263 v=(H)[C]e=(I)[R]R=(K)[t(z(-427733+411181),8046525335490-(-166723))]T=-369919+369919 E=(e)[R]R=429304-429303 e=E(R,p,B,T)B=(K)[t(z((-367605-(((346151+-135535)-346438)-(-327259-(-509209))))-(-34408)),922839+22858205165681)]C=(K)[t(z(((-41696-920607)-48834)+994210),-538959+26146218902924)]T=-311994+312004 F=b E=(K)[t(M({153390+-153389;-806065-(-806067),z(1015549-(1751394-718026)),z(-1018937+(706572+296818))}),803819+15580694987731)]p=(I)[B]B=(K)[t(z(-415206-(-398590)),(-69133+(565906-(757986-773319)))+8951440916312)]D=126875-126874 R=(p)[B]F=-28934+28930 B=-15738-(-15738)Y=b h=(y)[q]P=(h)[U]h=1025855-1025859 X=P and h W=X or F F=(K)[t(M({(2826-825120)-(-822295);-841747-((-1352447-(-366344))+144354);z(428095-446534),z(47191+-65936)}),-556857+8524895603660)]p=R(B,T,D,W)D=(K)[t(M({569347+-569345;(-743192-(-47938))-(-695255);z(33382+-51358),z(1017304-1033281)}),404260+12312100295036)]Y=-224815+224850 U=(K)[t(M({740568-740567;-183761+183763;z(296948+-315487),z(-254355+238906)}),(15686618441559-905392)-(-823973))]h=(K)[t(M({1002776-((-98422-310140)+1411336);129029+-129026;-819365+819369,6249+-6248,z(-28525-(-11846)),z((778292+-1189243)-(-394522));z(-956119+938536);z(((-107688-349537)+-522692)+964485)}),5849928709068-(-100957-420443))]T=(I)[D]D=(K)[t(M({-222988-(((-732547+-99750)+-207210)+816517);-1031707-(-1031708),z((((566491-183103)-(508150-(981740-974666)))-894700)+(944531-(-50919))),z(-143330+(-956343+1082986))}),-716144+19465480937306)]B=(T)[D]X=(K)[t(M({355302+(717797+-1073098);(1002705+(-976469+-406933))-(570151-950850);z(551445+(457879-1024869)),z((444522-(-246003))-708496)}),3317676782075-(605489+279430))]D=(-836097-191577)+1027709 P={[h]=U}W=924162+-924127 R=(K)[t(M({(802419+-377186)-(1307029-(52577+(-364687+1193907)));-20265-((-851312+843548)+-12504),-506821-(-506823);826049-((-617498+1745514)-301971);z(-56701-(-40656));z(1037819+(607546+-1663817));z(-940568+925584);z(-781776-(-765806))}),-240480+22319625863498)]T=B(D,W,Y)W=(K)[t(M({-531291+531293;(1389324-712206)+-677117,z(-634661+618753);z(881936-898644)}),22529649220891-(-206507))]D=true Y=false B=(K)[t(M({-688484+688486;248361+-248357,-177836+177839;-12706+12707,z(-580095+563636),z(736752-(-881302+1635762));z(((-1965375-(-696860))-(-593553))+657448);z((-357829+-264792)+(524969-(-82497)))}),(23714338011678-(-1003671))-(204554+(-1019682+1000557)))]r={[f]=e,[E]=p;[R]=T;[B]=D,[W]=Y;[X]=l,[F]=P}R=(K)[t(z(-637918-(-620823)),895232+24244669734475)]e=(y)[(k)[-103316+103317]]B=(K)[t(M({-925774+(((1866357-927918)+-22031)-(-9368));89669+-89666,285477-285476;z((((-577385+-273977)+-123739)-(-887741))-(32993-102807));z(((146026+-1200678)-(-60894))+975637),z(-226017+207927)}),-31102+8888312511393)]h=707197-(((576707-(973385-(((520110+(-579665-(1727619-914380)))+1524581)+-596654)))+1860429)-811687)E=(e)[R]W=(K)[t(z((-123344-837653)+944783),16049060940297-(5843-(-143773)))]X=-133740+133800 Y=371331-371327 D=(I)[W]R=(K)[t(M({-952308-(-952309),604363-(254155+350206),z(-745140-(-728439)),z(-55461+(620409-582892))}),34869276500575-(-489577))]W=(K)[t(z(-172954-(-157521)),5130823242108-211485)]F=-738740+(((-943495+1543650)+734070)-595425)T=(D)[W]W=(-834801+1202790)+(-432844+64855)D=T(W,Y)p={[B]=D}e=E(R,p)p=(K)[t(z(855208-((-83471-(-444625))+(406600+105180))),-209025+(26361088934819-23671))]U=(K)[t(z(-676587-(-661259)),(-877426+1088640)+10102433607122)]R=(y)[(k)[((111232+581614)+(-451350+-700164))-(-100817+-357852)]]E=(R)[p]P=(K)[t(z(361313+-376242),(-876764-((195153+-258359)+-897395))+30430166791788)]p=(K)[t(M({67982+(706212-774193);(-760269-(-107586))+652685;z((-1390237-(-455017))-(-918882));z((893848-(-99645))+-1009120)}),(452685-472653)+18505401646222)]Y=(K)[t(M({788005-788003;429471-429470;z(539172+-554453);z(363280+-379341)}),12252815165859-639040)]W=(I)[Y]T=(K)[t(z(561722+(-76718+-503584)),8838880618070-(-362449+-54322))]Y=(K)[t(M({(837236+-420125)-417110,-171350-(-589070-(-417718));z(-835686-(-819597));z((1376825-679876)-(1082648-370601))}),(390776+-1320897)+(677376+34374593016992))]D=(W)[Y]Y=(-711998+149080)+562978 W=D(Y,X,F)X=(K)[t(M({(-687434+-9799)-(-697234);652680-(-235575+888253);-1027009-(-1027012);z(-218164+203069),z((1315865-550608)+-784065),z((((-612515-(-457708-201790))-433664)+(-466042+1785391))+-950908)}),26813403648304-(-1014821))]Y=-907813-(-907814)D=(K)[t(M({-12351+12353;-84281+84282,z(((326471+-1116740)-141097)-(-915778));z(-895108-(-877034))}),17135240265977-(1639776-687427))]F=-1014980+(644803+370177.5)B={[T]=W;[D]=Y;[X]=F}R={E(p,B)}f={e;N(R)}Y=(K)[t(M({-583363+583364;(-1153050-(-277541))+875511;z(797142+(-218500+((275563+25425)+-896755))),z(-587275+568978)}),13296187918158-829359)]B=-638581+638582 H=v(C,r,f)C=x()E=(K)[t(z(739515+-756319),(((880128-437346)+31764526991599)-(41222-170835))-(-654897))]T=.9 r=(K)[t(z(-500698+482318),127830+13038396156131)];(y)[C]=H H=(y)[(k)[-682694+(636779+(194085+-148169))]]W=262556+-262552 v=(H)[r]p=(K)[t(z(652857+(-787383+116366)),610104+21590657936440)]R=(I)[p]p=(K)[t(M({429606+-429604,-79416+79417,z((415114-521674)+(461938-372815));z(-966807+948341)}),-684961+21658875995894)]D=(K)[t(M({(905015+-662681)+(-216232-(1005560-979462)),498940-(1028736+-529797),(378387-786344)+407960,2141-((-538123-(-770362))-230100),z(305020+-320400),z(-69908+(2102-(-724487-(-672196))));z(915806-932210);z((-29613+876251)+-862228)}),((-78453+24230514081193)-(-867742))-(-257681))]r=(K)[t(M({669596+-669594;873732+-873729,501294-501293,z(-416271-(-400725));z((1253940-943849)+-325299),z((-415965-284970)+(1283284-597656))}),33475702411934-(503262-515537))]e=(R)[p]p=-277510-(-277511)R=e(p,B)p=-869980-(-869981)e=(K)[t(M({222537-222536;590587-590585,-725334+(-836595+1561932);-394850+394854;432147-432142,z(107199+-124069);z((-434221-306149)+721570),z(-907884+891432);z(87462-103550);z(-361369-(-346348))}),((53631-(-233540))+-1193446)+(293886+(8529686474831-298096)))]F=(I)[P]P=(K)[t(M({504710-504708;-467390+467391;z(-732616+(1461603-745561)),z(-634914-(-619615))}),-877601+32049875358778)]X=(F)[P]B=(K)[t(M({-570557+570562;(61126-989391)-(-928267),548160-(444825+103334),-1030895+1030899,(960923+-1908978)-(-948058),-581365-(-581371),z(-964002+946991),z(1000655+-1017498),z(((661984+399343)-542708)-534414),z(712369+-728037);z((177083+168717)-363746);z((-388599+87072)-(-282704))}),((-206949+441819)-(-808082))+13860901395317)]P=(944558+-347262)+-597296 F=X(P,h)P=(y)[C]X=(K)[t(M({(-717388+(617655-56081))+155816,-642709-(-642710),z(215063+-233091),z(-388083+370825)}),4085018065899-82439)]f={[E]=R,[e]=p;[B]=T,[D]=W,[Y]=F,[X]=P}p=(K)[t(z(329472+(-221686+(-851850+725414))),418516+7750472806037)]Y=(K)[t(z(-553855+535923),487371+(14660768512719-929774))]R=(y)[(k)[(240211+569123)+-809333]]P=(K)[t(z(725644-741941),32706223488596-(-599581))]T=(K)[t(M({285466-285465,-396465+396467;z(-183498-(-167642)),z(931150+-946454)}),1004619+6204817503398)]e=(R)[p]W=(I)[Y]Y=(K)[t(z(124416-142250),671372+6171609423903)]D=(W)[Y]X=(-128573-(-179474))-50899 p=(K)[t(M({-315752+315754;-417846+417849;731794+-731793;z(414211+-431729);z(-51416-(-33475)),z(258880-276836)}),355044+((-462879-(-625978-(-526880)))+(-472909+(-379629+(219044+17973877165978)))))]Y=-916751+916751 W=D(Y,X)D=(K)[t(M({-503752-(-398300-105454),-616124-(-616125),z(-1013473-(-995961)),z((538826+-1589915)-(-1034914))}),18636349390447-(-385707))]F=(I)[P]h=801068-801064 Kp=(K)[t(z(788191+-803749),-1881+27388108510704)]P=(K)[t(M({172548-((1230218-401999)-((952480-(586436-((1838961-1046738)+-181246)))-(-272910-(-594258)))),(674956+133470)-808425,z(979905-997031);z(-929671-(-911188))}),31140307245563-(-572953+(-860408-(1028740+-1794070))))]X=(F)[P]F=(K)[t(M({-494230+494233,980584+-980583,950379-950377,z(-330201-(-314343)),z(-747270+731340),z(430269-446367)}),152642+25794958875448)]Y=(X)[F]B={[T]=W,[D]=Y}F=(315609+(646638-841208))+((-86537-(-583816))+-618314)R=e(p,B)B=(K)[t(z(-751573+734800),-672724+19740179194536)]X=(K)[t(z(352553-367946),65534+(-278804+18284873951810))]p=(y)[(k)[(499870+-451683)+-48186]]D=(K)[t(M({1038762+-1038761;655222-(358901+296319),z((731686-65093)-682318);z(-45188-(-27564))}),-565640+14425729998928)]e=(p)[B]Y=(I)[X]X=(K)[t(z(-876304-((819992+-1636965)+-43091)),(27560+35060091022800)-(-788767))]P=(K)[t(z((1447834-794447)-669411),20281119304078-207969)]B=(K)[t(M({-702933+702934;(-373046+-138489)-(687421+-1198958),z((427849+-1472997)+1030295);z(-998149-(-979479))}),560828394560-(-622973))]W=(Y)[X]X=(923637-272267)+-651370 Y=W(X,F)W=(K)[t(M({461546-461543,-774945-(-774946);148318+-148316;z((8274-(-655214))-681913);z(461545+-476832),z(-90628-(-75632))}),17800521561667-269289)]F=(I)[P]P=(K)[t(z(564939-(646478+-66228)),430396+13544046302778)]X=(F)[P]P=611706-611706 F=X(P,h)h=(I)[U]X=(K)[t(M({253111-253110;-500759+((68457+397885)-(-34419));-628470+628473;z(187419+-205542);z(773217-791961),z(839180-854059)}),279948+22533963967391)]b=1026510-(627845-612006)U=(K)[t(z(457423-473157),(7180966873494-910870)-(-996444))]P=(h)[U]U=-43073+43073 tp=-309910+309914 h=P(U,tp)P=(K)[t(M({-106562+106565;-625768+((320211+((1351518-154374)-920667))-(-29082));-183761-(-183762),z(137241+-154514);z(-782692+(934100-166768));z(-775983-(-664354+(495571-590426)))}),-537659+33384799056168)]tp=(I)[Kp]Kp=(K)[t(z((944958+-231276)-728477),930159+((31256882131617-140569)-(-719277)))]U=(tp)[Kp]Kp=-51348-(-51348)tp=U(Kp,Mp)T={[D]=Y;[W]=F;[X]=h,[P]=tp}p={e(B,T)}E={R;N(p)}H=v(r,f,E)r=x();(y)[r]=H H=(K)[t(M({-1016148-((-1394965-(-214175))-(-164640));248164-248163,z(418261+-435528),z(287296+-302276)}),417325+22901311871858)]p=(K)[t(M({(-198800-554106)+752908,(105360+-667579)-(-562220),z(-543233-(-525791)),z(-209360-(-193930))}),669136+10966747834611)]v=(I)[H]R=(y)[q]e=(R)[p]R={v(e)}E=(R)[-598118-(-598121)]H=(R)[540279-540278]f=(R)[706463-706461]else b=v and 3302112-(-43148)or(556076+2153296)-(-452661)end end else if b<7581260-522275 then if b<(-215792-(-104343))+7108411 then p=(K)[t(z(-140358-(-122133)),-793960+34878561957501)]E=(K)[t(z(268701-(((-1516335-(-973432))-20537)+848987)),(-400340-((-763660-(-306138))+823711))+(30482502267556-(583418+-1056239)))]Y=509092+(-1370410-(-861318))C=(y)[(k)[-947995+947996]]B=-10483+10515 D=680720+(-152855-((580606+-1056905)-(-1004200)))r=(K)[t(z(-501205-(374440+-859351)),11258772086057-647774)]T=(K)[t(z(-415322-(-397587)),800147+10988011921670)]h=(K)[t(z(928648+(-1727083-(-783241))),-994092+3714005437650)]l=(C)[r]R=(I)[p]P=-491816+491832 r=(K)[t(M({-3339+3340,-67301-(220342-287645);z(743520+-760687);z(959724-977156)}),178130+24101856037040)]p=(K)[t(M({-373910+373911,-76052+76054;z(50373+(49336+-114889)),z(-704918-(-687454))}),1654580838881-(-807758))]e=(R)[p]p=-448141-(-448173)R=e(p,B)B=(I)[T]X=(K)[t(z(563495+(-736392-(-157608))),17108062989206-(-977399))]W=344736.5-344736 T=(K)[t(z(726989-744595),-451210+20462848400473)]e=(K)[t(M({365260+-365258,-729769-(-729770),z(400539+(-411885+-3939)),z((-115070-228458)-((-950561+-54254)+679490))}),-33290+11967524763713)]p=(B)[T]T=939066-939065 B=p(T,D,W,Y)p=(K)[t(M({-262993-(-262996),-53480-(-53482),47197+-47196,z(423866-439517),z(661428+-676592);z(-569698-(-551657))}),28143380808426-456743)]W=(K)[t(M({578087-578086,145108+-145106;z(63529-78583);z((300073-(-484650))-(394395-(-405912)))}),((-1268996-(-265737))+1807560)+23164857517349)]D=(I)[W]Y=296797+-296796.5 W=(K)[t(z(-474456+458631),729014+19339533377141)]T=(D)[W]Ip=(K)[t(M({-90492-(948404-1038898),-7453-(-7456);806766-806765,z(980657+-999480);z((1759941-1041696)+-733414);z(268296+-283193)}),(116914+(513478+174854))+1861229381543)]W=-132251-(-132252)D=T(W,Y)W=-664900+664901 Y=(K)[t(z((425001-(-165378))-606655),746080135459-(437167-(83437+152441)))]tp=(K)[t(M({((1011369-(-668699+1322633))-943437)+586003,(-1035738+288059)+(515713-(-538397+306429)),z(852594+-870681);z(313794-330602)}),(74172+(676298+22017255176305))-(-258899))]T=(K)[t(M({412489+-412488;-362402-(-362404),-481378+481382;406489-406486,-2085+2090;z((-414158-631774)-(-1030441)),z(-541277+523481);z(-993838+(412062-(-563092)));z((-103654+-24566)-(-112380));z(74151+-89777)}),24501480435761-928680)]F=(K)[t(M({-553203+553205,(1004699+-1957947)-(-953249);z(877198-892265),z((-223302-620188)+826305)}),18508274364716-(-305621))]bp=(K)[t(z(-257796-(-241018)),23394899233548-477166)]f={[E]=R;[e]=B;[p]=D,[T]=W,[Y]=X,[F]=H}R=(y)[(k)[(62243-(-487102))+-549344]]p=(K)[t(z(684054-701849),-577403+16043806893601)]zp=(K)[t(z((-47177+(-597126-(-146823)))-(-480902)),20434415909450-(855296+-415290))]e=(R)[p]p=(K)[t(M({((1859753-381467)-(467600+400552))+-610133,(-335970+1019415)+-683443;z(446711-((99839-(-76657))+(478257-(-282323-(512768-987520))))),z(-872034-(-854378))}),918265+34896021008800)]Y=(K)[t(M({-660728-(-660730);(975760+-2022847)+1047088;z(937756+-955923);z(587217+-604099)}),25491725030283-780053)]U=358471+-358470.5 W=(y)[(k)[-869999+870003]]T=(K)[t(z(892392+-909928),6646189532022-610489)]D=(W)[Y]F=(K)[t(z(97902-114138),286218+11866235917293)]W=(K)[t(z(-1031474-(-1014902)),-577226+7708182070345)]X=(I)[F]F=(K)[t(M({-611788+(-95910+(973470-265771));-388958+388960,z(888025-903873),z((-991145+1625323)+-650151)}),(796297+-1490208)+14968291517330)]Y=(X)[F]Kp=-669548+669548.5 F=825032-825016 Mp={[Ip]=zp}X=Y(F,P)P=(I)[h]Y=(K)[t(M({112888+-112887,-294678+294680;z(-739287-(-721437));z(568413+-583484)}),379057035049-(-551271))]h=(K)[t(M({1041553-1041551,-866417-(-866418);z(-375960-(-360378)),z(-293305+277549)}),27140683292328-(-483651))]F=(P)[h]h=(-126997-697467)+824464.5 P=F(h,U)U=(I)[tp]F=(K)[t(M({-452049+452050,(-565681-232467)-(-798151);(((541026-453991)+(910921+-1838221))-(-324941))-(-515326),z(478810+(408775-903748)),z(-322847-(-305658)),z(283124+-298155)}),618713+21290362468695)]tp=(K)[t(z(488976-506587),-958212+25486911847987)]h=(U)[tp]tp=(555843+-136520.5)-419322 U=h(tp,Kp)h=(K)[t(M({(-717320-(-269070))+448252,-515916-(-515919),-411096+411100,-28207+28208;-783755+783760,z(912176-928741),z(-957516-(-30624-911458));z(-110621+94010);z((-300412+(244387-(-692102+1245328)))+592428),z(-612415-(-596509))}),3977718244753-(-954148-(-253319)))]Kp=(K)[t(M({528420-528418,600075+-600074,z(((-1506288-(-373912))-(-479009))+635914),z(985123+(285395+-1287706))}),134028+32441187406179)]tp=238903-238902 B={[T]=D;[W]=X,[Y]=P;[F]=U,[h]=tp,[Kp]=Mp}R=e(p,B)B=(K)[t(z(-137989-(-122009)),21023096163585-(261590+-1056724))]D=(K)[t(M({-797433+797435;834213+-834212;641730-641727,z(1036067+-1052121),z(290314-308456),z(-979139+(-103120+1066256))}),1021243+17949552910055)]X=(K)[t(z(30828+((-647504+1426966)+-826769)),27095786012245-837251)]p=(y)[(k)[-516512-(-516513)]]e=(p)[B]B=(K)[t(M({(-497111-310834)-(-807946);-11021+11023;z(471002+-486565);z(((-650188+1427429)+-783679)-10033)}),-485342+28990288981475)]Y=(I)[X]F=-808366+808372 X=(K)[t(z(-8158+(498066+((-475894+1041261)+-1070607))),(-917315+((-381066+24201129713649)-292753))-539870)]W=(Y)[X]X=-592283+592283 Y=W(X,F)Mp=-239512.5-(-239513)T={[D]=Y}p={e(B,T)}E={R,N(p)}C=l(r,f,E)E=(K)[t(M({8146+-8143;-127973+127974;(-1135273-(-365044))-(-770231),327508-(-637232-(-964736)),z(-749313-(-733627)),z(-98335+83322),z((-705312-228784)-(-915387)),z(694225+(626018+-1336818))}),-677048+32588515207795)]T=-693014+693046 U=(K)[t(z(640038+-656998),13337198659282-(((-208527+-54574)-(-88567))+((-991523-(-819839))+1317327)))]f=(K)[t(M({-286673-(-286675);296792+-296791,z(-648707+633719),z(-379810+(-910605+1274479))}),-782475+32327977484978)]r=(y)[(k)[(878627-(-76353))+-954979]]l=(r)[f]f=(C)[E]B=(K)[t(z(726854-745011),(1881598333958-722402)-(93552+-1097954))]E=m((7419748-(-399554-179332))-(-213269),{O})r=l(f,E)f=(K)[t(z((254138+-838899)+568548),(21351279556686-(-481309))-((1343616-468004)+-1659278))]r=(y)[(k)[-755935-(-1215096-(-459160))]]e=(K)[t(z(-440833+423807),935075+32225028182132)]Y=(1251615.5-356541)-895074 l=(r)[f]X=693283-693283 f=(K)[t(M({-267000+(710938-443937);289425-289423,z(572081-590442),z(-550885+534395)}),9187753761558-(-206550))]p=(I)[B]B=(K)[t(M({902170-902169;-1007267-(-1007269);z(((-169996+-321062)-465065)+(-843355+1784642));z(-359550-(-344023))}),(-750450+1628445)+18833778302087)]R=(p)[B]B=(31972-(-270640))-302580 D=(K)[t(z(-236397+(835094+-615536)),-690296+(-628255+(34534+(-359499+32555682989289))))]W=661130-661200 p=R(B,T)T=(I)[D]R=(K)[t(M({715943-715941;-653173+653174;z(-459809+441481),z(863036-880414)}),12012782623621-(-267387))]D=(K)[t(z(-177515-(-160953)),354559+13248272966586)]B=(T)[D]D=-372435+372436 T=B(D,W,Y,X)B=(K)[t(M({-1024025+1024028;(373029+568900)-941927;(-431469-(-7210))-(-424260),z(915367-933887),z((-409246+1376929)-((1041398+-353911)+(-232126-(-967701+439043))));z(494743+-512878)}),542113+3967005739306)]Y=(K)[t(M({718678-(899612+-180935),270446+-270444,z(157429-173501),z(319637-(861213+-526484))}),829001+10497876691059)]W=(I)[Y]h=665290-(-284884-(-950158))Y=(K)[t(z(-473749+455706),233744+9876684370905)]P=(K)[t(M({9912+-9910,(495528-(-231835))-727362;z(-218214+202562),z(1009457+-1026502)}),25867107244588-205988)]D=(W)[Y]X=850891+-850890.5 Y=-446228+446229 W=D(Y,X)D=(K)[t(M({-536531+536534;-595670+595675;(1192105-(1726053-691697))+(-576147+418399);-755687+755691,85401+-85399;z(((857586+-1074580)+789234)-590942),z(-18966-(-1555));z(-678174+661187);z((1816832-815170)-1019635);z((-944534-(-782257))-(-145964))}),((457888+-1034387)+(-710534+1661606))+((860502+1111687341284)-382888))]F=(K)[t(z(-774964-(143795+-903470)),(-1850275-(-1015368))+170314480916)]X=(K)[t(z((-246473+-567097)-(-425556-370322)),217935+17762711450344)]tp=-136509.5-(-136510)Y=(((840942+-1866423)+1845437)+-195539)-624416 E={[e]=p;[R]=T,[B]=W;[D]=Y;[X]=F,[P]=H}p=(y)[(k)[108759-108758]]D=(K)[t(z(-16156+669),14286481879780-(-531692-(-1235832-(-1013459))))]B=(K)[t(z((419821+-996333)+558085),69096+30669122564027)]P=(K)[t(z(-176671+160344),-844730+5461705604601)]X=(K)[t(M({929088-(-59259-(-988346)),600512-600510;106976+-106973,z(-251052-(-236016));z((-749168-76899)+810226);z(-568605+550860)}),(1296064-(4278-(-499819)))+24138837567909)]zp=(K)[t(M({165776+-165774,852783+(((-114963+(-1590788-(-100980-898557)))-(-841979))+-988545),(-1008026+749101)+258926,z(286717+-302784),z(-482799-(-465416));z(986259+(-951459+-53188))}),-894421+(19900157178694-(-892894)))]R=(p)[B]Y=(y)[(k)[(738537+(-105470-(-397888)))+-1030951]]B=(K)[t(M({-574678+574680,229536-((-295900+(-1009481+1136203))-(45861+-444574));z((798910-(783729-88214))-(-343145+461964));z(-61093+(-226826-(-272899)))}),524150+25273442677076)]W=(Y)[X]Y=(K)[t(z(-612028-(-593559)),6974226681496-(-476713))]F=(I)[P]P=(K)[t(M({-639802-(-639803);(((770035+160882)+-375890)+-590344)-(-214271-(-178952)),z((-60870+41078)-(-4865)),z(106636+-124835)}),20645126504619-(-125140))]X=(F)[P]P=-628195+628211 Kp=(K)[t(M({227083-227082;(-1252619-(-958780))-(-293841),z(-453087-(-1309612-(-872393))),z(578357-594460)}),-93958+16484598957612)]F=X(P,h)X=(K)[t(M({1028007+-1028006;-318271-(-318273),z((463524+((-266120-301867)-((((629811+(-1525274-(-39772)))+-675343)-(-828441))-(((1234221-(720350-65779))+-2442218)-(-901060)))))+344641);z(-502479+484187)}),32908657091024-(-780298))]h=(I)[U]U=(K)[t(M({858261-858259,288125+-288124,z(140398+(-590158+(-731489+1165221))),z(971913-989336)}),32621200675057-(-475180))]P=(h)[U]U=-290781+290781.5 h=P(U,tp)tp=(I)[Kp]P=(K)[t(M({745077+-745075;(-1272922-(-642984))-(-629941);715194-715193;z(983343-1001405),z(286165-304589),z(825662+-841854)}),-748247+(17395441806873-(-78913)))]Kp=(K)[t(z(735672+-751869),16154254338413-287136)]U=(tp)[Kp]Kp=-1012655+1012655.5 tp=U(Kp,Mp)U=(K)[t(M({682324-682321;-195890+(-85552-(-281443)),462423+-462421,-246627-(-246631),-721265+721270;z(-464648+449689);z((-235122+4595)+215305);z(-310909-(-294184)),z((-380998+1408618)-1045677);z(-434440+415958)}),((((-1307805-(-716528))+(1368062-76474))+-411250)+175239)+10939246519465)]Ip={[zp]=bp}Kp=-501552+501553 Mp=(K)[t(M({841398-((1923866-809725)-272745);-494713-(-494714),z((-1560484-(-1028601))-(-249322+-266004));z(-448786+431312)}),-24885+15760609668997)]T={[D]=W;[Y]=F;[X]=h,[P]=tp;[U]=Kp;[Mp]=Ip}p=R(B,T)T=(K)[t(z(-131404+112634),(7526401014683-309771)-(-521568))]U=(K)[t(z(-759745+(-737793+1482575)),(16905503463839-74068)-67454)]F=(K)[t(z(-264833+248880),438365+26263091153311)]B=(y)[(k)[360202-360201]]R=(B)[T]X=(I)[F]T=(K)[t(M({419067+-419065,-224578+224579,z((-649169+93737)+(((887936+650101)-780557)+-219049));z(368225+(-821371-(-366543-69626)))}),8257942900540-600013)]W=(K)[t(M({1027726+(785010+(-1913988-(((-1415723-(409239-1013056))+683386)-(-27266)))),-459960+459961;-31033+31036,z(-822525+(400049+404749));z((388346+-1397340)+992716);z(839361+-858185)}),5245896433073-(-739246))]F=(K)[t(z(44553+-61068),(((539628+-1353306)-78915)-(-434558))+10411474796407)]P=655352-655346 Y=(X)[F]F=(834279-(-137991))-972270 X=Y(F,P)D={[W]=X}B={R(T,D)}W=-464290+464290 e={p;N(B)}Y=371969+-371968 r=l(f,E,e)E=(K)[t(M({-721482+721484;-249275-(-249276),z(843840+-862172);z(-348746-(-331845))}),2877072356748-(292252+-995424))]e=(K)[t(M({(648819-423514)-(-678638+903939);739058+-739055;(-428891-246586)+675478,708506+-708504;z((1597344-891870)+-722841);z(-701159+683988),z(-646189-(-628163)),z(-818590+800524)}),(-482984+199127)+20743270193190)]T=(K)[t(z((-671361-(-986191))-332903),293191+32158084770397)]f=(y)[(k)[-885401-(-885402)]]l=(f)[E]D=-298772+(65634+(1023387+-790249))E=(r)[e]Kp=(K)[t(M({-852186-(-852189);224016+-224015;(1117932-(-898022+1267644))+-748308;z((-1504290-(-642648))-(-842994)),z((-632564+(-915256+758310))+(335291-(-436982))),z(619319+-637794)}),696625+8691259671682)]e=g(3373089-(-809077),{o})f=l(E,e)E=(K)[t(M({(294542+(249804+(-849222-(134786+-907495))))+-467831,1004078+-1004077,z(-185745-(-170047)),z((425065+158545)+-602304)}),(-527715+138558)+27416257968002)]f=(y)[(k)[330290+-330289]]l=(f)[E]e=(y)[(k)[-472030-(-472035)]]X=904518+-904518 R=(K)[t(M({930952-930950;691397-691396;z((-1280408-(198421+-575499))+(-34843-((-1751588-(-1125383-(-276343)))+-20703))),z(-320224-(-302948))}),6022352773603-(-309758))]E=(e)[R]e=w(5952458-788677,{O;(k)[-258552-(-258557)],o})f=l(E,e)R=(K)[t(z(-526151-(-509066)),(-1325300-(-578039))+33043868391399)]f=(y)[(k)[202720+-202719]]tp=(K)[t(M({371732+-371731,-819970-(-819974),(175639+396813)+-572450;-436329-(573379+-1009711);z((-770347-(-316001))+438605),z(568766+(134097-721222));z(-562057-(-547214)),z(-909682+891771)}),(-22298+(5776240597512-1024068))-(-975071))]E=(K)[t(z(((754578+-361154)-(-455393))+-867262),(6538409194044-(-809798))-577987)]l=(f)[E]F=643250+-643208 E=(K)[t(z(-883644-(472852+-1340440)),799693+3458398271047)]B=(I)[T]T=(K)[t(z(923248+-941296),((255085-(-594780))+32451268234493)-(-886020+1212922))]p=(B)[T]T=623292-623291 B=p(T,D,W,Y)P=(((1004316-284821)+(-2469938-(-207285)))-(-741219))-(-801999)p=(K)[t(M({-760844-(-760846),-375551-(-375552),z((333207+-626405)+278067),z(174825+-192730)}),(-932060+790289)+(16285125954231-(-13)))]W=(K)[t(z(-30133-(-14028)),((448464-(-246536+309143))-(-452530+1314104))+7586791035963)]D=(I)[W]W=(K)[t(z(-606955-(-591802)),34835986882120-(-201892-(-70271)))]Y=348941-348941 T=(D)[W]W=-415690+415690 D=T(W,Y,X,F)T=(K)[t(M({(267480-657082)+389605;-345248-(-345249);(783747+-1038420)-(-254675),734950+-734946,z(-834599+816395),z(-456139+439836),z((-49398+390223)-357811),z(307058+-323867)}),34678363333850-853610)]X=(K)[t(M({252527+-252526,539323+-539321,z(-981181-(-964378)),z(-596956+579675)}),21595629438231-(-447766))]Y=(I)[X]X=(K)[t(M({759075-759074;890728-890726;z((697980+-781121)+68138),z(35220+-50265)}),33503085587430-455784)]Ip=(K)[t(z(-718117+700279),515563+20165795408660)]F=-120636+120696 W=(Y)[X]X=(-287448-(-290224))-(-923597+926313)Y=W(X,F,P)F=(K)[t(M({-310354-(-310355);907348+-907346;z(-726633-(-709204)),z(-648594+630663)}),-164648+34133880296933)]h=(y)[o]W=(K)[t(M({143869-(178500-34632),-922700-(-922702),930436-930433,z(731248+(790500+-1540462)),z(-988858-(-972144)),z(-653825+635628)}),-16420+23257347218974)]P=(h)[U]U={[tp]=Kp}X=-496338+496338 h=(K)[t(M({-131779-(-131781);(122895+-468609)-((-396890+(488783-334434))-103174);z(-187356-(-169369)),z(-419038-(-1427448-(-1023849)))}),24617935038956-761024)]e={[R]=B;[p]=D;[T]=Y,[W]=X,[F]=P;[h]=U}f=l(E,e)l=(y)[o]f=(K)[t(M({-900903+(-530595+1431500),499425-499422,-895657+(1648097-752439),z(731417-748917);z((-165255+-184554)-(-331897));z(581995-597386)}),-817197+(21317418274044-410958))]F=493434-493477 B=(K)[t(z(-448586-((-362291-(-47495-92004))-209243)),2910642629874-(649388+-1581339))]e=(y)[(k)[797784+-797783]]R=(K)[t(z(548335-567028),(1583431-881649)+12174329275324)]U=(K)[t(z((-127503-854180)+963462),31267997420387-(-366287))]W=(K)[t(z(-908632+891552),32486269624590-345787)]E=(e)[R]D=(I)[W]zp=498562-498562 R=(K)[t(z((-77456+(-343894-(-958922)))+-555611),193798+34062992742874)]W=(K)[t(z(-392366-(-376400)),4711298234622-(-808482+580420))]T=(D)[W]W=203749+-203749 X=(K)[t(M({933596-933595;(949365-859695)+-89668,z(-867677+850927);z((((1641706-715003)+-1715503)+((((-1605545-(-284298-(-417467)))-(-1702291-(-654125)))+752624)+814131))+(-30209-72534))}),(78633+(556515-765218))+11648904026645)]Y=(s)[X]X=-324365+324366 D=T(W,Y,X,F)X=(K)[t(z(303031-320563),67965+22293373362176)]F=164840+-164797 T=(K)[t(M({(-662667+1482442)+-819774;-1018643-(-1018645),z((-280442-592755)+854933);z(331934+-348370)}),(((-557615-645272)-(-201590))-(1024510+(-2000271-(-643194))))+10881181882807)]Y=(I)[X]X=(K)[t(M({-966839-(-148176-818665);-618584+618585;z((-647111-(-162400))+469881);z(-850075+(1186818-354446))}),-21310+25746130378263)]W=(Y)[X]tp=(K)[t(M({730616-730614,-795642+795643,z(817686-835967),z(-298724+281558)}),18332557149771-(146145+(-444706-((19281+-395462)-(-134552)))))]X=823325+(-1509926-(-342794-343807))Y=W(X,F)bp=(K)[t(M({-658676+658678;412169+(688345+-1100511);17711-17710;z(-910839+895220);z(327638+-344521);z(-801711-(-785188))}),33261805112159-(-963538))]F=(K)[t(M({(829928-715575)+-114352;881188-881186;z((375745-(-473843))-866729);z(-371722-(-355705))}),(334539+(21341601964160-703672))-738720)]h=(y)[o]W=(K)[t(M({919689+-919686;-146382-(-146387);-160070+160074,441938+(-248142-(210675-(-735465-(-752346)))),823012+-823011;z(600999+-619075);z(717116-(168606+563806)),z(-814656+796393);z(-1045983+1027726),z(186279-202441)}),8343882611617-(-77361-(-724610+1573525)))]P=(h)[U]X=-660482+660483 p={[B]=D;[T]=Y;[W]=X,[F]=P}e=E(R,p);(l)[f]=e R=(K)[t(z(129618+(-1156824-((-1336726-529822)-(-854611)))),9913065943896-((((1573422-808691)+-1251355)+1099122)+-975219))]h=-712558+712658 P=(K)[t(M({154914+-154913;166145-(-30317+196460);z(714211+-732151);z(-476172-(-461320))}),1559751679270-(-875742))]B=(K)[t(z(360859+(-636078+(1060517-(954214-150954)))),1023402+32743938653452)]f=(K)[t(M({432168+-432167;583161+(923390+-1506549),z((-609189+161991)+428607),z(901341-(-488223+1406941))}),2340833970007-(-356751))]U=(148045-498202)+350257 Y=(100120-153300)+((-62397+(-785207+592142))-(-308643))l=(y)[o]W=(K)[t(z(-653197+635443),(31076863039369-(-726725))-(-729726-(-713816)))]e=(y)[(k)[-722051+722052]]E=(e)[R]R=(K)[t(M({520442+-520440;-894522+894523;734347-734344;z(547664+-565346);z(978466+-997285);z(457693-476036)}),((4903148679191-(-1006552))-660423)-(-40380+-866442))]D=(I)[W]W=(K)[t(M({-643815+643816;875316-875314,z(433545+-448468),z(371562+-389267)}),504681+17331333440208)]T=(D)[W]W=-628541+628542 D=T(W,Y)T=(K)[t(M({880813+(-1620687-(-739878));99347+((331383+-691410)-(-260683)),(-416858+-605902)+1022762;-673705+(1127446-453736),-452487+452488;z((-332195-(268055-928109))+-343566),z(-605152-(-590321));z(-64316+47346),z(-871169+855493),z((1328491-((944847+-1084313)-(-941126)))+-543540)}),(137522+(755142+-971238))+4482215908893)]Y=(K)[t(M({255620-(559723-304104);-859132+859136,-256568-(-256570),((937015-745109)-736608)+544705;z(52680+-68228),z(701620-717347),z(335296+-352204);z(623274+-641892)}),7542926807430-93658)]F=(I)[P]W=-172891+172892 P=(K)[t(M({898598-898597,558472+-558470;z(487199+-505861),z(73115+-89316)}),(((-100334+-325411)+-207117)+-249388)+17409452884562)]X=(F)[P]P=-66410+66510 F=X(P,h,U)P=.9 Mp=(I)[Ip]X=(K)[t(M({247918-247912;-34174+34176,-936511-(-936514);-38287-(-38292),19997+(-1043610+((-55836+1961612)-882162));-206769-(505649-(844610-(1132494-1000306)));z(-575636-(-557598));z(-984844+967247);z(-1041265+(218285-(1022918+-1830943)));z(78561-93571),z(1013207+-1030581),z(513355+-528776)}),8314878369025-1036071)]h=(K)[t(M({699786-699785,372198-(((1119172-607427)+(511590+(201627+(-516630+((-751249+((-315654-935609)-(-749008)))-12232)))))-(-929598)),506465+-506463,38101+(((-412077+962457)+-1287216)+698738),z(978037+-993843),z(-305619+(((333672+-44734)-(-514258-58620))+-572521)),z(-988558-(-973225)),z(-610811+592816)}),19532630733364-548289)]Ip=(K)[t(M({-898644-(-345589-553056),514941+(-937503-(-422564)),z(-762226+744669),z(846622+-861761)}),23331717651940-(-284592))]Kp=(Mp)[Ip]U=-241039+241043 Ip=(((-553166-88956)-(475109+-1241426))+(433330-(-441350)))-998875 Mp=Kp(Ip,zp)zp=(y)[o]Ip=(zp)[bp]Kp=(K)[t(M({-960113-(-960114);38348-(-357877-(-416622-(-20399))),z(57241-76040);z((-1055220-(-1566468-(-697026)))-(249112+-418058))}),-1039087+(-424421+23794679424127))]p={[B]=D;[T]=W;[Y]=F,[X]=P,[h]=U,[tp]=Mp,[Kp]=Ip}X=(K)[t(M({-570755+570757;(-843873-79241)+923115;z(-335535-(-319712)),z((1321605-(136502-(-464594-423870)))-(-128601-(-442030)))}),27195858486788-(-421544))]Ip=(K)[t(z((454089-(-232921))-702364),10400321932169-(-112234))]h=(K)[t(z(-388170-(-370955)),1495383523180-(-322942+-320473))]D=(y)[(k)[-784669+784670]]W=(K)[t(z(-810033+793204),11436532050352-942927)]T=(D)[W]Kp=(K)[t(z(96736+-113473),370369+10820799019474)]P=(I)[h]W=(K)[t(M({-417809+417810,227230+-227227;142723-142721,z(1032435+-1048252);z(779494-(-45990-(-843536)));z(372932-(-519746-(932851+(-1020256-822146))))}),23831608968139-(-93135))]h=(K)[t(z(-83435+68509),6279539025536-774620)]U=(321444-(-639714))+-961154 F=(P)[h]h=-589122-(-589122)P=F(h,U)tp=(I)[Kp]F=(K)[t(M({(-298937+-2666)+301605;285083-(((976825-(-954366+1511284))+-353641)+218816),z(-1021244-(((509810-154397)+-903083)+-455971));z(965672-984266)}),29103809749635-3501)]Kp=(K)[t(M({-141784+141786;-849527-(-849528);z(260643+(-798674+520171)),z(-794702-(-778186))}),434093+14443896383573)]U=(tp)[Kp]tp=(K)[t(M({403999+-403998;-649999-(-650001),(-455193-(-1021539))-(589481-23138);z((-729042+(789792+569707))-648277);z(-1020767-(-1005970)),z(-922954+(-283122+1190838))}),891373+13223198888079)]h=(U)[tp]U=(K)[t(z(197285-213725),(540658+16947296823592)-492996)]Y={[X]=P,[F]=h}Kp=(K)[t(z(476868+(-1079666-(-585596))),653706+23494099578330)]D=T(W,Y)zp=-773862+773872 W=(y)[(k)[-641988+(877094+-235105)]]Y=(K)[t(z(19611+((((167014+(993154+(-174350+-434829)))+(396529-953422))-(-862050))-892221)),166407+21299080987908)]F=(K)[t(M({(321025-(-389470))+-710492;-389274-(-389275),289379+-289377,z(144749-159815);z(-906223+888627),z(868586+-883399)}),995779+24318746347510)]T=(W)[Y]tp=-67141+67151 h=(I)[U]Mp=554765+-554755 Y=(K)[t(M({610509-(-315918+926425),-532957+532958,z(79036-97514);z(-283693+266302)}),19197306999213-(-980060))]U=(K)[t(z(705415+-723657),25760461860299-(-496210))]P=(h)[U]U=463767+-463767 h=P(U,tp)P=(K)[t(M({-222219+222220,-579976+579979;-740616-(-740618),z((272693+-233817)+-57161);z(809170+-827825),z(518018+((-331923+372514)-574847))}),9572069087268-1029641)]tp=(I)[Kp]Kp=(K)[t(z(-555773-(-540261)),13687619476004-(-576828))]U=(tp)[Kp]Kp=(777381-(379160+160198))-238023 tp=U(Kp,Mp)U=(K)[t(M({-50933-(-50934);-342640-(-342642);z(422730-438115),z(-468374+452874)}),35128528784474-463300)]Mp=(I)[Ip]Ip=(K)[t(z(((-742263+-7037)+1097463)+-364105),634983+4378448417877)]Kp=(Mp)[Ip]Ip=(-1038612+1977152)-938540 Mp=Kp(Ip,zp)X={[F]=h,[P]=tp;[U]=Mp}W={T(Y,X)}B={D;N(W)}e=E(R,p,B);(l)[f]=e T=(K)[t(z((-224185+684684)+-477902),34149210086021-792425)]f=(y)[o]E=(K)[t(M({-825628-(-825629),167867+-167865,z(-628662-(-611393));z(-493937-(-475480))}),894446+19890501974699)]l=(f)[E]f=(K)[t(M({-621514+621518,-482029-(-482030),658134+(-1066007-(((-1993895-(-996168))+396158)-(-193694))),180766+-180763;-1014070-(-1014075),z(882696-897590),z(1036316+-1054955),z(-520160-(-502239));z(-601582+584396),z(241985+-259144)}),579609+22162982842144)]e=(K)[t(M({-829732-(-829734);692207-(895478+-203272);z(908385+(820306+-1745711)),z(51000-67865)}),((117862+562234)+-94693)+(-313763+8063346254937))]E=(K)[t(M({362346-(960982+(-761267-(-162629))),657231-(473332+183896),539875-(263282-(-276592)),z(153299+-170220),z((619289+(-1074992-(-83698)))+353167);z(54761+-72267)}),-1027563+(-730554+30076761678856))]R=(K)[t(M({-228489+228493;971339-971338;-541474-(-541479),621565+-621563,-455125-(-455128),z((-857566+906055)+-67051),z(-71293+54746),z((-21676+734007)-729812),z((-403442+471401)-84009),z((1442233-953034)-504562)}),8015967516061-960361)]f=(l)[f]f=f(l,E)l=x();(y)[l]=f E=(y)[(k)[221227-221226]]p=(K)[t(M({441536-(349369-(-92163));(663064-(-28787))+-691849,21314-(((((591023+-536347)+-279799)+675343)+-1456795)+1027886);71855-71854,z(12444+-29209),z(642299+-659851);z(606348+-622175),z((1570021-613655)-973601)}),831290+28256149581512)]f=(E)[e]e=(y)[l]R=(e)[R]R=R(e,p)h=(K)[t(M({-585314-(-585315),199468-199466,z(-444651-(-428883));z(755683+-771346)}),946599+19424661136174)]e=g(((-1278881-(559537+-884627))+1644898)+6059979,{o,l})E=f(R,e)p=(K)[t(z((-445177+-306161)+734220),-480265+20000735899015)]E=(K)[t(M({(-95881+930254)+-834371,911115-(133748+777363);951540-951537;-936220+(-910266+1846487);z((-1082931-(-94878))+(-12356+(429865+552498)));z(-623167+606310),z(-406196-(-389961));z(-1028207+((1450117-(-40245))-478796))}),1431159603048-(987143-260527))]f=(y)[o]R=(y)[(k)[524234+-524233]]e=(R)[p]Y=(K)[t(z(-865332-(-849558)),11454+11062940867698)]W=(I)[Y]Mp=(K)[t(z(-617616-(-600966)),21794572324031-(14394-(-87016)))]p=(K)[t(z((23386-(-957796))+-997836),522936+29524588405466)]Y=(K)[t(z(1010477+(-176694-((902134+904628)-956093))),22156031220058-309142)]D=(W)[Y]Y=268875-268874 P=(s)[h]F=-P P=(492555-(-8162))+(-731684-(-230987))X=F-P F=-1015733+1015734 P=243795-243848 h=(K)[t(M({(-298673-(70444-(-396136)))+(-167396-(-932651));150239+-150238,z(-515656-(-500150)),z(551003-567372)}),(15485535596903-356325)-(-102064))]W=D(Y,X,F,P)F=(K)[t(z(643815-661164),-439590+30418742767176)]X=(I)[F]D=(K)[t(M({(-640903+1490565)-849660,(-1011256-(-314003))-(-697254),z((-790190+1313601)-539424),z(-308497-(-867507+573827))}),(1067751-491442)+((892486+(544737+-1841740))+34605132447016))]F=(K)[t(M({-159020+(164188+-5167),-750905-(-750907),z(134378-151954),z(-689101+671858)}),14601941130115-(-81089-(-499018)))]Y=(X)[F]P=(s)[h]h=-397896+397906 F=P+h P=397250-397202 U=(K)[t(M({223631-223629,-594110-(-594111),z(645328-663467),z((1464+93609)-((-1372496-(-833766-(-868124-(-547928))))+970268))}),(-527824-518350)+14932026857793)]X=Y(F,P)P=(K)[t(M({-343614-(-343616),623174+-623173,(588376+-433846)+(708496+(-261483+-601539)),-100840+100843;z(-235463-(-216800));z(-165276-(-150204));z(88428+(15378+-119933)),z(561962-((-553305+2134699)-1004339))}),6185903602766-1044663)]F=-236004-(((249518-136092)+-285608)+-63823)Kp=(y)[o]tp=(Kp)[Mp]Y=(K)[t(M({(-255854-320033)-(-575891);-812903+812908,-925673+925674,817961-(-116524-(-934483)),-760923+760926;z(-99582-(-84291));z(-988958-(-972034)),z(142978+-160165);z(922451+(-814815-126182)),z(599732+(462749+-1079961))}),27090022783230-(-1397046-(-556943)))]h=true B={[T]=W,[D]=X,[Y]=F,[P]=h;[U]=tp}R=e(p,B);(f)[E]=R E=(K)[t(M({((-692731-(-444721))-(-220337))-(-27674),-122147+122149;z(-28751-(-11264));z(622447+((-506893-123998)+-9278))}),14795072017963-(-151990))]f=(y)[O]e=(y)[o];(f)[E]=e B=(K)[t(z((464049-800586)-(-319236)),((324679+-74237)+690135)+3572094023282)]R=b f=(y)[O]p=(s)[B]E=(K)[t(M({620857-(-714676+1335532),-602511-(-602513),z(-561669+544803),z(919379+((677963-(226728+-37195))+((-521052+515976)+-1420331)))}),33634206656524-(930324+-1703936))]B=(K)[t(z((1152589-976050)+-193420),(-688297+19482584502759)-(-645467))]e=p or B E=(f)[E]E=E(f,e)f=(y)[o]E=(K)[t(M({((828897+-509938)+-22881)-296076,-852369+(1032448+-180078),z(-476644+461723);z(-479545-(-462443))}),-458691+3014463225584)]e=a(-960093+11969284,{(k)[-636673-(-636679)];o})b=(I)[(K)[t(M({607142-607140;-531475+531476,(-751906-(-283218))+468691;z((1016592-(606564-17622))+-443114);z(953732-((262936+(2680927-(1197324-267323)))-1045177)),z(173897-189772)}),28685724089541-(-520231))]];(f)[E]=e f=(y)[o]v={f}else o=false l=(K)[t(M({861083+(119142-980223),703159+-703158;z(913654+-932116),z(73704+-89710)}),19259360497892-549721)]i=s H=(K)[t(M({298538+-298536,-144295+144296;z((1264812-(685097+-94751))-692655);z(624409-641515)}),(28953161311840-674826)-167152)]b=(L)[l]l=(K)[t(M({-855365+855366,(-1156120-(-873258))+282864,z((-128228+1089629)-977360),z(144574-162212)}),-839258+11462793407756)];(b)[l]=o S=(K)[t(M({-1018252+1018253;769058-769056,z(661163-678279);z(-749947-(-731389))}),30125859863803-575327)]b=(y)[(k)[-813827+813829]]l=(K)[t(M({951803-951801,941900-(274437+((-887035-(-537585))+1016912));z(219848+-237883),z(800001+-817998)}),(698654-571478)+34769263903959)]o=(L)[H]V=(I)[S]S=(K)[t(z((130147-(-892525+(190916+338440)))-508105),135077+6111865934511)]C=.8 H=(V)[S]L=nil S=.2 V=H(S)S=(K)[t(M({-540061-(-540065),-620664-(((279427+431163)-541812)-(500856-(119575-408164))),-638393-(-638398);-255385-(-255386);244152+-244150,z(-851900-(-833975));z((-1755517-(-766048))+971848),z(462585+-479621);z(-918080+901177),z((-702821+857356)+-170573)}),16766014298934-(-27875))]H={[S]=C}l=(b)[l]i=nil l=l(b,o,V,H)b=(K)[t(z(-588820+570643),-691885+10704168027134)]b=(l)[b]b=b(l)b=(10260544-861672)-834640 end else L=(K)[t(M({288805+((1040907+-2067541)-(-737832));381521+-381520,(1186083-921689)-264392;z(-481578-(-464464));z((168568+185604)+-370668),z((-805190+269385)+519217)}),899793579077-((1163349-154262)+-1601429))]b=i;(s)[v]=q q=(K)[t(M({-838891-(-838894);824192+-824191,418297+-418295;z(-173872+155297);z(-407394-((-1609380-(-562564))-(-656773)));z(227823+-246649)}),(-885680+6681466810477)-414747)]v=(y)[O]i=(s)[L];(v)[q]=i L=b q=(K)[t(M({-13339-(-3376-9965);-694604+694605,z((-662506+190319)+(-364453-(-820254))),z(103689-118991)}),14343454121632-(-286626))]v=(y)[O]o=(K)[t(M({-75396+75397;-398967+398969;z(-764307-(-746024));z(816835+-832377)}),344280+20594165368972)]l=(s)[o]o=false i=l or o;(v)[q]=i v=nil q=v i=(K)[t(z(-391527-(-376537)),553145+(18333497124278-776504))]v=(s)[i]b=v and 12885448-(-280314)or 6502083-974240 end end else if b<89211+7368535 then if b<-578106+((509296-(-471907))+6820123)then if b<261719+(7787851-896816)then b=(I)[(K)[t(M({148724+-148722;(-993169-(-675492-171874))-(1032352+-1178156),-986404-(-986407),z(-930814-(-914817));z(-605369+589023),z((737098+-542391)+-213187)}),-223769+28968069575691)]]v={}else V=G((((119290-1000763)+754044)+7907133)-(-234520),{})o=V b=11458769-(-211464+-252398)end else if b<7895432-(926625-(-415971-(-769331)))then b=v and-15261+(172299+12021077)or 2101551-(-798190)else i=nil b=8076955-39762 L=nil end end else if b<8129077-484798 then if b<7494746-(-818050-(-827735))then v={}b=(I)[(K)[t(M({-218874+218875;-799554+799557;896044+-896042,z((932132-95417)+-851601);z(-597127+582312),z((1431249-671820)-776508)}),13427928967158-(-992177))]]else v=(K)[t(M({(-674559-26745)+701306;673900+-673899;z((((-169476-(((291842+-10394)-(-21488))-(-197989)))+986736)-202146)-132885);z(-399824+(-171154+553102))}),-866166+16331554886112)]O=x()l=(K)[t(z(((-921184+(-204115+305695))+(1483672-((313747+700295)+-500597)))-168869),23003655710460-938655)]s=(j)[606053-606051];(y)[O]=(j)[557020-(-145164-(-487011+-215172))]q=x();(y)[q]=(j)[-299401+299404]b=(I)[v]L=(y)[q]i=(L)[l]L=(K)[t(M({258676+-258672;859330-(1723214-863887),368897-368895,-441016-(-441021),-488347-(641581+-1129929);z(-20233+4123),z(196371-214316);z(-253219-(-237469));z(-487397+471231);z(-1038670+1020939)}),(22223697706619-(((-350706-280984)+2256410)-(874536+-277204)))-456938)]v=b(i,L)v=(K)[t(M({(-987239+1563466)+(-999227-(-423001)),-702389-((-354088+-22643)-325660),z(-16281-1948),z(421877+-439911)}),(16350773948330-(533798+-821265))-(-933139+725789))]l=(K)[t(z(-267093+250476),-436589+3462064074312)]b=(I)[v]L=(y)[q]i=(L)[l]L=(K)[t(M({98570-(-166038+264605),(-928826-(-1113129-(-866289)))+681988,-655542-(-655543),746691+-746687;z(-83133-(-64945)),z(960599-979160);z(-296946+279886),z((863379+-321759)+-557502)}),550993+4973385364889)]v=b(i,L)l=(K)[t(z(920958-938876),687328+17852217880263)]v=(K)[t(M({(760606-683028)+-77577,-457192+457194;z(84287+-103092);z((928416+-1382605)-(-435354))}),268343+17361647191654)]b=(I)[v]L=(y)[q]i=(L)[l]L=(K)[t(M({365261-365258;-154733-(-154737),(-302511-(-721252))-418740;-150197+150199,z((-1253809-(-333010))-(-905356));z(468291-(412912+72028));z(241191-256728),z(-543969-(-528982))}),-418568+24452395244020)]v=b(i,L)b=(y)[q]v=(K)[t(M({(894125+-1240693)+346570;((423952-(-949146))-473259)+-899838;z(((-33881+-899283)+1190753)+-272618),z(-397236-(-380502))}),(-1029769-(-487887))+24625443910483)]L=b H=(K)[t(M({968476-((401184+116301)-(-450989));840757-840756;z(-932243-(-913647)),z(((254388+-157336)+-385379)-(-271072))}),233857+16090284434752)]o=(y)[q]l=(o)[H]b=l and 9348068-(-415105)or 1147699-177407 i=l end else L=(K)[t(z(622649-639348),475122+11409181536484)]B=-788016-(-787996)v=(y)[(k)[(52450-(-140480))+-192929]]P=(K)[t(z(723534+-739217),14155912762770-(-426308))]V=866917+-866902 S=(K)[t(z(-127876+111248),(-327610-611497)+29470370665911)]o=(K)[t(z(((-155314-(729993-254341))-410386)-(-396764+-629320)),413218+1316680298629)]T=-730403-(-730403)p=(K)[t(z(627612-645722),5828697190847-(-799854-(-1149945-(384616+-616866))))]b=(v)[L]R=(K)[t(z(-267401-(-249857)),((476839-267454)-555799)+31677768617529)]L=(K)[t(M({-23255+23256,-529171+529173,z(-833224-(-815334));z(-1001066-(-985570))}),19158060528014-(-579141))]H=(K)[t(M({866263-(64265+801996);904931-904930;z((-740117+-55247)+778131),z(316851+-331697)}),(6457649342050-(-652929))-648693)]E=(K)[t(z(-748450+733083),11809203344305-173148)]D=(-1718+-881210)-(-882948)f=(I)[E]E=(K)[t(z(-839426-(-824610)),279926+(-684605+(19147496389295-173299)))]r=(f)[E]f=(K)[t(M({788303+-788302,878006-878004,z(581839+-600486),z(-812636-(-795376))}),944839+14041118273770)]C=(r)[f]r=(K)[t(M({298487-298485,704856+-704855,41524+(858092-899613);z(579687-597988);z(405699+-420873);z(769960-785205)}),(456687+25447635684815)-(-407260))]e=(I)[R]R=(K)[t(M({130774-130771;-361907-(-361909),867498+-867497,z(447743+-462623),z(-230856-(-213251));z(624947-640200)}),((1158191-(785453-((1330755-627311)+((-559257+1222437)-809181))))-160651)+7244066006996)]E=(e)[R]e=(K)[t(z(408007+-424231),(6543361547421-469304)-(-883908))]F=(K)[t(M({((836879+-1035094)-(-482496))-284280;-114957-(-114959),z(286231+-304079),z(-643862+626115)}),-907131+15595063370489)]f=(E)[e]E=(K)[t(z(900995-916387),-285077+1126454682889)]R=(I)[p]p=(K)[t(z(468687-486837),(-633288-(70036-(-976082+(1145154-(-1021437-(-1029831))))))+23738001469714)]e=(R)[p]p=76376+-76375 R=e(p,B,T,D)T=(K)[t(z((1740946-1003461)+-752421),-364719+(17389+27281384191719))]B=(I)[T]T=(K)[t(M({932849-932848,872665+-872663,z(368633+-385288);z(508588-525368)}),-907634+31911833770725)]e=(K)[t(M({943862-943861,449739+-449737;z(255014+-273510),z(440836+-459294)}),18790684309823-359187)]D=(1928661-987747)-940906 p=(B)[T]T=52145+-52135 B=p(T,D)p=(K)[t(M({84045-84044;712373+-712371,656007-656002;929995+-929992;-131862+131866,z(495345-510422),z(-57526+41094);z(1010010+-1028397),z(((-856820+1611490)-632973)+-139078);z(55874+-72005)}),617189+15623880497681)]Y=(y)[i]T=-288643-(-288644)D=(K)[t(M({-856606-(-856608),53970-53969;z(-146162+128881);z(827116+-845831)}),2511435195055-82150)]X=(K)[t(M({-468689-(-468691);801599+-801598;z(((-904738-(635569-492842))+1759092)+-729055);z(-45971-(-30821))}),26728742313843-834704)]W=(Y)[X]Y=(K)[t(M({(963771-781710)-182059;(-303581+477854)-174272;z(634194-652290),z(31393-48418)}),19859447518232-(-87336))]X={[F]=P}l={[o]=q,[H]=V,[S]=C,[r]=f;[E]=R;[e]=B;[p]=T;[D]=W,[Y]=X}v=b(L,l)b=160116+4012928 end end end end end end else if b<((-452896+12052200)-(-248607+-600858))-568891 then if b<512138+8997275 then if b<735511+7763090 then if b<262844+7767815 then if b<7507882-(-391998)then if b<-388425+8255405 then if b<528535+7232977 then l=(K)[t(M({-723035+723036;926336+-926334,z(-725042+710017),z(-864526-(-848916))}),(14329123580134-((101760+-799041)-282005))-1003876)]i=q v=(K)[t(z((585876+93881)+-697941),12209540000698-88806)]v=(L)[v]v=v(L,l)b=v and 2806707-219153 or 11796218-1030826 else b=(y)[C]v={b}b=(I)[(K)[t(M({-580857+580858,-440634-(-440636);318963+-318960;z(276542+-293894);z(84972-99862),z((863949+-956126)+(687858-613106))}),-156269+18189072693223)]]end else if b<(787105-632834)+7725378 then b=O;(y)[(k)[(389765-(-134353+284553))-239563]]=b o=(K)[t(M({787479-787476,263062+-263061;799288-799286;z(692310+(-952908+243666));z(((-282311+649929)+6322)+-389672);z(727752+-745539)}),623293+15231123802443)]v=(y)[(k)[-660065+660068]]s=(K)[t(z((-923041+1808029)+(445690+(-1542209-(975874+-1171602)))),4073904691900-614720)]q=O;(v)[s]=q s=(K)[t(M({-393956+393957,-20901-(-20903);z(-601567+583080),z(538079+-555228)}),-737912+11923002410947)]v=(I)[s]L=(y)[(k)[-212540-(-212544)]]o=(L)[o]l={o(L)}b=8592504-(469046+51445)L={v(N(l))}q=(L)[-705640+705642]i=(L)[(1116102-(1416819-381100))-80380]s=(L)[(-362032+50791)-(-311242)]else O=(j)[((-699908+1611373)+-434849)+-476615]b=(y)[(k)[(-81116-(-140272))-59155]]i=(K)[t(M({(547886+-988201)+440317;525298-525297,z(-338996+322620),z(-229258+212147)}),35175628485172-516665)]s=(j)[155713+((-798638+1780512)+-1137585)]q=(y)[(k)[-391800+391802]]i=(b)[i]v={i(b,q,s)}b=(I)[(K)[t(M({-794041+794043;504600+-504599;-911697+((-679779+233940)+1357539);z(-11450-4191);z((137639+886489)-1040377);z(738109-755011)}),34087368437190-799813)]]v={N(v)}end end else if b<7302899-(-692870)then if b<-891455+8833317 then b=(I)[(K)[t(M({(959923-(((-932794+606538)+(1244337-(700948-37425)))+67290))-638074,993486-(1780722-787239);-55214+55216,z(636722-651879),z(((-407008-(-388407))-707501)-(-1526526-(-818418))),z(-925183-(((39245+586576)+-606848)-926422))}),(((539292-(-560112-(-86258)))+-927767)+34313159844626)-(-675145))]]O=nil v={}else b=V V={b(H)}l=(V)[-13196-(38647+-51845)]L=(V)[668065-((183189+(-659+894301))-408767)]b=13656511-345336 o=(V)[(-389786+(444626-528941))-(-474104)]end else if b<8650147-624665 then b=(I)[(K)[t(M({-775859+775862,417359-(-859782+1277139),351615-351614,z((224903-115820)-(155159+(-420931+((1006030+-4104)+-611422)))),z((-793249+(265634-128441))+639673);z(511095+-529289)}),(7215522741987-846548)-422313)]]v={}else b=808160+12145603 Y=(K)[t(M({(615511+208380)-823890,513453+-513451;z((252407+477407)-(1635294-886980));z(267825-285310)}),28960016713205-877232)]X=494102+-494042 W=(I)[Y]Y=(K)[t(M({(307969-625799)+(-912118+((((35592+716836)-470412)+1508455)-560522)),387486-387484;z(-596809-(-578057));z(325451-343785)}),21654699427142-(-7189+-531547))]D=(W)[Y]F=75664+(-1048195+972591)Y=-638136-(-638196)W=D(Y,X,F)B=W end end end else if b<(-774667+(7903440-(-303681+-118047)))-(-65894+-684631)then if b<(-793324+675100)+8170778 then if b<-325663+8364236 then s,L=q(O,s)b=s and 906029+8572722 or-1028349+14573615 else S=i H=o H=nil b=(K)[t(M({-35847-(-35849);943655-943654;z(-1039320+(1395730-373171)),z(343710-360205)}),-46372+5750544804932)];(V)[b]=S V=nil b=(-541462-(-474881))+13377756 end else if b<8592179-502981 then i,l=s(q,i)b=i and 4588714-(-451864)or 9721469-(-708955)else v=(K)[t(M({351695-351693,-787268-(-787269);z(132575-(-32502-(-183511))),z(-738295-(-720691))}),(602971+-1276087)+((17286914462760-((-655438+((((610989-203602)-386458)+329094)-(130490+-32358)))+405714))-(-591156)))]b=(y)[(k)[-399170-(-399171)]]v=(b)[v]v=v(b)b=(I)[(K)[t(M({(833817+-1029370)+(590461-394905),(702632-(208517-(-393322)))-100792;-4155-(736659+-740816);z(276815-293486);z(588671+-606649);z(717096+-732122)}),15809+10777955799899)]]v={}end end else if b<1015822+7387798 then if b<-25427+8399769 then b=(y)[(k)[-308111-(-308112)]]i=(K)[t(M({31779+-31778,-469297+469299;z(-628602-(803077+-1413243));z(-472659-(-457832))}),470559+22073080121662)]s=(j)[(550622+(844224+(-125268-985102)))-284474]O=(j)[(-447739+1257134)-809394]i=(b)[i]q=(y)[(k)[754941-754939]]v={i(b,q,s)}b=(I)[(K)[t(M({855307+-855305;2825-(-203015-(-205839));-627271-(-627274),z(-485841+468946);z(-482561+467183),z(-819421+804112)}),7459556356262-(-587894))]]v={N(v)}else v=(K)[t(M({-561259+561263,-494045+494046;-676582+676584;-659637-(-659642);232569+-232566;z(550016-565342),z((112653+-640630)+512480);z(((1237732-(-43805))-431555)-867967),z(-680648-(-664476));z(-37542-(-19433))}),1006024+(11650877610267-212033))]o=-477988.5-(-477989);(l)[v]=o b=-500404+15274565 end else O=x()l=(K)[t(z(-772708-(-754469)),-456244+15029771803029)]q=x()s=(j)[1017657-1017655]C=-107210+107210;(y)[O]=(j)[634873-634872]P=400376-400362;(y)[q]=(j)[662406-(-691309+1353712)]v=(K)[t(M({-425066+425067,(566415+(-591191-(-853878+1743653)))-(-914553),z((-1410058-(-455211))-(-939376)),z(-332189-(-314626))}),224746+12647287390703)]b=(I)[v]B=(K)[t(M({45905-45903,330403-330400,-809146-(-809147),z(((320530-(-609489+1401873))+1173048)+-716168),z((177097+-274537)-(-80460)),z(225856-241511)}),417024+(-683300+13872528919608))]Y=(K)[t(z(371639-389983),26878343027460-(-695003))]L=(y)[q]i=(L)[l]W=(K)[t(M({972841+((-2501503-(-755383))-(-773282)),682716+-682714;(102056-(869916+-1677469))-((-1042378+2548545)-596559);z(-1028141+1010691),z(-425250-(-410372));z(-422684-(-407099))}),3003345889889-(-997305))]L=(K)[t(M({311131+-311127;-594326+594331;355729+-355728,152000-151998;-464581-(-464584);z(345505-(1282035-921734)),z(242974+-261393),z(-179349-(-160834)),z(583372-599773),z(-450418-(-433079))}),(917235+34889808133850)-540637)]v=b(i,L)i=(K)[t(z(975316-990878),-348737+21461410900368)]v=(y)[(k)[((505577-((754371-(-423872))-680425))+-397162)-(-389404)]]F=659007-659007 D=(K)[t(z(-235276-(-218138)),9915158729979-167754)]b=(v)[i]V=(K)[t(z(-563477-(-548588)),(26037628752182-(-835159))-(-971442))]e=b S=-856887-(-856887)H=(I)[V]i=(K)[t(z(-591812+574011),8865175708868-(-121586))]V=(K)[t(z(-742272-(-724523)),15296331911928-(-108636))]o=(H)[V]V=207500+(-807817-(-600318))l=(K)[t(z(-417064+401249),-397409+4166752937967)]f=b p=(y)[q]R=(p)[B]p=(1306826-(148077+327672))-831029 f=-791494+(140426+651118)e=-366403+(-565820+932259)E=R and p X=79056-79056 r=E or e H=o(V,S,C,r)r=((-242797-(-431781))+-608736)+419802 o=(K)[t(M({680374+-680373;-818309-(-581319+-236994),77912-77910,-597708+597711,z((-583017-(-969290+1410417))+1009232);z(785859-(777085-(-26025)));z(-618568+601932);z(-298727-(-280671))}),-882417+19255709167503)]C=(K)[t(M({644638-644637,727377-727375;z(-172835-(592872-748757));z((21399+581421)+(-752355+132268))}),34075590627413-(-550593))]S=(I)[C]T={[D]=W}C=(K)[t(M({-214861+214863;597142-597141;z(-177250+(45777+116083));z(-469367-((385325+(241636+-1320359))-(-242809)))}),29544296913071-651533)]V=(S)[C]h=(K)[t(M({-833017-(-189693-643325);-249840+249842;z((1337966-910493)+-446185);z(953752-(1005215-34143))}),788289+13488310802768)]U=(K)[t(z((273965+(((1057291-763198)-(-713817))+-481565))+-819084),626537+18941537328412)]C=(1071967-55364)+-1016553 S=V(C,r,f)V=(K)[t(M({785876-785875,596376-596374,z(897361+-912844);z(-953602+936113)}),15310785648644-600671)]r=(K)[t(M({-223594-(-932000+((2515928-795596)-1011927)),(-579129+154216)-(-1473409-(-602417-446077));z(865703-883367),z((934589-(-71501))+-1023251)}),916779404700-(-483814))]p=584053+-584013 C=(s)[r]B=(K)[t(M({303760-303758;317376+-317375,z((207346-(-392952))+-619092),z((((-301397-772761)-(-355338))-(-1029530))+-328158)}),(((-886446+1311977)-(-200001))+-340996)+34365800102437)]E=(K)[t(M({(-290702+171521)+119182;500365+-500362;(-193870+-94616)-(-288488),-44813+44817,z(1000752+-1018927);z(265303+-284014);z((320886+-1252654)-(-913865));z((-268351+-525906)-(-778119))}),(-332944+147472)+(759651+14168320140683))]R=-366452+366492 r=(K)[t(M({220961-(57762-(-1010876-(-847678))),-491807-(-1354254-(-862445)),z(828134-844965),z(204354+-222161)}),5365430984490-(-590437))]e=(K)[t(M({((-230968+-249653)+1449099)+-968476;-524560+(1223680-(533826-(-165293)));z(-964458-(-949325));z(-794262-(-778946))}),-420845+11461922880972)]f={[E]=e}L={[l]=H;[o]=S;[V]=C;[r]=f}V=(K)[t(z(-1050991-(-1036183)),474940+28489549060366)]H=(y)[(k)[-439957-(-439958)]]o=(H)[V]V=(K)[t(M({-335757+335759,-544607-(-544608),z(((-243434-52754)+270842)+(934597-927769)),z(777811+-796390)}),4977869182571-485386)]E=(K)[t(z(-235353+219268),(22278659897939-(-336830))-((812958-901517)+-115442))]f=(I)[E]C=(K)[t(M({610317+-610314;-649731-(-649733);(-31046+-349486)+380533;z(701552-719703),z(-34818-(-18403)),z(-380643-(679869+-1044593))}),4340418037464-(-462498))]E=(K)[t(z(801967+-820309),((-509973+1038251)+30054132549540)-(-891402))]W=(K)[t(z(670162+-686355),740591+29681692490260)]e=399702+-399696 r=(f)[E]E=(-939278-(-873157))-(758023+-824144)f=r(E,e)S={[C]=f}r=(K)[t(z(477148+-495195),546081+862947199098)]e=(K)[t(M({-214301+214302;-976528-(-976530);z(714875-733566),z((671360+(199977+-1458601))+(-31372+601147))}),829109+(-30963+29801309593867))]H=o(V,S)V=(y)[(k)[1046474-1046473]]S=(K)[t(z(315085-330777),92829+(18843825686885-(-832912+958925)))]o=(V)[S]S=(K)[t(M({303937+(655472+-959408),-240605+240607,z((-500778-(-540363))+-56192);z(730227-748015)}),(-1493675-(-478224))+4647632945685)]E=(I)[e]e=(K)[t(M({(54930-(-352825))-(866214-458461);-850243-(-805839+(-309561+(166285-(-104822-(-5951))))),z(652631-(996948-(-131892+457899)));z(-34339+16941)}),((679032-(163155-24607))+27246095631605)-(-951157))]f=(E)[e]e=255514-(-673836-(-929310))E=f(e,R,p)R=(K)[t(M({353052+-353049;((1832426-841112)+(500479+(970630+-2070773)))-391648;((874902-236855)+-134956)+-503090;z(942114+-959969),z((-575164+(-796981+((-251654-306292)-(-911764))))+(1373606-371650));z(570272-585739)}),17243923024438-((-441598+288217)+((186774+199494)+-96071)))]p=-328078.5-(-328079)e=-624269+(1003404+-379134)f=(K)[t(M({-926328+926330,-140247+140248,z(580049+-596613),z(-964048+945368)}),45897+18956871831457)]C={[r]=E,[f]=e,[R]=p;[B]=T}V={o(S,C)}l={H,N(V)}C=(K)[t(z(((486612-280905)-((1023171+-1960578)+1107589))+-51689),33871416725807-340962)]f=(K)[t(z(-449965+434676),500217+13465545218954)]v=b(i,L,l)i=x();(y)[i]=v H=(K)[t(z((((738646+(-1315556-(-803833)))+-813512)+1298221)+-728046),-714825+28854879414588)]l=(K)[t(z(-144765+129707),797367039813-(-202743))]T=(K)[t(z(498108+-513219),8904980362024-10868)]L=(y)[(k)[139650+(655066+-794715)]]v=(L)[l]r=-875610+875611 l=(K)[t(M({-892167+(1026798+-134629),504847+-504846;z(-575034-(-558514));z((569878+(-988323-184315))+(693730+(-19530-89966)))}),12541632334607-(-643906))]S=(I)[C]C=(K)[t(M({667586-667585,-575554+575556,z(559354+-577746);z(-612986-(-597379))}),-830711+14854079393217)]V=(S)[C]E=(K)[t(M({582030-582028;-953938+953939;z(-811870-(-795140));z(187217-203548)}),(-63633-(-972195))+21369235599720)]C=-521301+521302 S=V(C,r)V=(K)[t(M({-792903+792908,(803611+24092)-827702,-851726-(-851729),((-2236512-(-1282433-(-626291)))-(-873868))-(-1678945-(-972441));-135048+135052,z(-190232-(-173421)),z(-790721+(-222833+998223));z(227639+-245540);z(-734849-(-718202)),z(290949-309425)}),179434+10116887520978)]r=(K)[t(z((-786797+533356)+236624),9982368163804-(-273545))]e=(y)[i]C=654008-654007 o={[H]=S;[V]=C,[r]=f;[E]=e}e=-374884-(-374884)L=v(l,o)l=(y)[(k)[-97993-(-97994)]]o=(K)[t(z(204318+(138298+-357422)),-135947+((886459-63653)+11223966690272))]f=996685-996705 v=(l)[o]r=(K)[t(z(-702329-(-684722)),23092894840407-460375)]o=(K)[t(z(-908045-(-892939)),8429932010484-(404397+-1189522))]C=(I)[r]r=(K)[t(z(-183153-(-166723)),32165986208513-(1042715-830022))]S=(C)[r]E=-216877+(995168-778290)r=510409-510408 V=(K)[t(z(39582+-55181),-69026+3987565216706)]C=S(r,f,E,e)S=(K)[t(M({-19223-(-19225);-886117-(-886118),z(274568-292505);z(509163+-524378)}),31736195252148-895273)]E=(K)[t(z(-912083+(59728-(-835779))),130554+23677367892742)]f=(I)[E]E=(K)[t(M({146714+-146712,((((956674+-42020)+-329674)-(-6986))+-872523)-(-280558),z((48026+-691353)+627151);z(-1008574+(1140870-148278))}),2593361158408-(-983939))]r=(f)[E]e=136455-136455 E=890656+-890646 f=r(E,e)E=-70803+70804 e=(K)[t(M({-812239-(-795734-16507),(1343365-651045)+-692319;z(304117+(-214675-105798));z(-246177-(-229700))}),21486149303765-504548)]r=(K)[t(M({434722-434717,-230176+(7589-(-222589));-133664+133667,(692769-659142)-33623,(-1026783-(-347695))+679089;z(-293247-(-275661)),z(-1041281-(-1023373));z(-830396+815312);z((666163+-1019670)+335262);z(-834620-(-816985))}),(6311098497803-536358)-584004)]R=(y)[i]H={[V]=C,[S]=f;[r]=E,[e]=R}l=v(o,H)o=(y)[(k)[-604173-(-604174)]]E=(K)[t(z(523494+-538616),-921758+6786623886235)]S=(K)[t(M({-658379+658380;95540-95537;1027671+-1027667,-880489+880491;z(309513+-327614),z(-991636+((496583+414899)-(-65022))),z(-629960+611687),z(-35091+19214)}),-15084+31139474864215)]H=(K)[t(z(940226+-957946),25763380905342-(753509+(-442552+((-2389673-(-779552))-(-966423)))))]v=(o)[H]f=(I)[E]H=(K)[t(M({-390031+390034,(1009732+(-1101940-(835582-76289)))+851503;144047-144046,z(-1005187-(-989830));z(1021741+-1040257);z(316400+-333356)}),(1420310-790046)+16150235714538)]E=(K)[t(M({-732058+732059;143183-143179;-232577+232579,209991-209988,z(186055-(-273341+(34216+440341)));z(-336813-(-859268+538357)),z(704246+-721745);z(625862+(15507-656488))}),(-1021114+4002)+19230492045126)]r=(f)[E]f=(K)[t(M({624938+((-828694+725542)-521784),1001079-1001078,z(104512+-121503),z(993362-1009110)}),342017+24461658866153)]R=886834+-886832 C=(r)[f]e=(K)[t(z(-801425-(-784430)),847413+15206937056934)]E=(I)[e]e=(K)[t(z(-820621+804180),23299235040028-528920)]r=(K)[t(M({-854896+854897,(205714-(-322371))-528083;z(-871488-(-854220));z(120278-137794)}),653541+((29729584282725-1042367)-371651))]f=(E)[e]e=460463+-460463 E=f(e,R)f=(K)[t(M({-348824+348826,563330+(107319+-670648);z(-189272+174330);z(-258347+239882)}),-690084+7930426947504)]V={[S]=C,[r]=E;[f]=l}E=(K)[t(z(762139+-778954),15670567115891-913186)]o=v(H,V)V=(K)[t(z(574071-592825),-811696+21810372173698)]H=(y)[(k)[-126573+((-370839+1479601)-982188)]]v=(H)[V]V=(K)[t(M({-851460+851462,581347-581346,z((-754207+(1043237-500162))+(717771-523913));z((-898830-(-226149))-(-655160))}),-913991+15907730104395)]f=(y)[q]r=(f)[E]f=(K)[t(M({((189937+-956364)+(-185071+1131570))-180071;316753+(((-63785-738689)+331381)-(-154342)),z(-13220+-3643),z(20182+-38214)}),271546+1766000475807)]C=(K)[t(z(-342223-(-325856)),816246+31117277345285)]e=(K)[t(z(-265398-(-248700)),14039276221155-(-626792))]B=(I)[T]T=(K)[t(z(-738047-(-720892)),(-338992+31057215998626)-(-1041371))]p=(B)[T]B=(K)[t(M({312053-(815168-(765331+((((-1709800-(-841506+110630))-(-989730))+-992437)+719417)));-446111-(-446112);-1364+1367;z(-946341-(-931348)),z(-120457-(-103442));z(840734+-856566)}),-724408+(6903874995590-(-7828)))]E=-689723+689737 R=(p)[B]p=(K)[t(M({51843-51842;((-824125+2097056)-657766)-615163;-160328-(-1148980-(-988649));z(594657-613443);z(((-842456-(-11606))-(-611220))+203907);z(74063+-89074)}),202344+34888380334078)]D=(I)[W]W=(K)[t(M({163654+-163653,797415-((-1388652-(-971576))+1214488);(358292-(198466+543689))+383865;z(266658+(674678-957224));z((-102365-(-872461))+-788266);z(223279+-240171)}),413261+10407331427364)]T=(D)[W]D=(K)[t(z(987148-1004187),764600+500112338279)]B=(T)[D]T=(K)[t(z(290142-307563),(185302+-151660)+20191772611949)]W=(I)[Y]Y=(K)[t(z(-92888-((-821309-276985)-(-1020922))),(((1044248+-649817)+45054)+-436933)+21189592669869)]D=(W)[Y]Y=731411-731410 W=D(Y,X,F,P)Y=-768959+768960 P={[h]=U}X=(K)[t(M({-326506+326507;479319-479317,z(((-374238-(-738049-(-430345)))+-848442)+900041);z(441399-459129)}),15688468062310-((-628093-(-693704))-(-447288)))]D=(K)[t(M({(-924729+1462507)-537775;152997+-152993,-128360+128365,(589974-623796)+33824,-854660-(-854661),z(167490+-185342);z(-658385+(1021276+-377758)),z(-218268-(-199911));z((884635+-1296073)+395743);z(-616816-(-599258))}),-672067+23384980082369)]F=(K)[t(M({-175293+(-43175-(-218470));571536-571535;z(-449184+433499);z(-1004105-(-987698))}),17285507958986-(-363856))]S={[C]=r;[f]=E,[e]=R,[p]=B;[T]=W,[D]=Y;[X]=l;[F]=P}H=v(V,S)H=(y)[q]V=(K)[t(M({-847084-(-847087);652266+-652264,(-877112-(-690810))+186303,z(368491-384899);z(93413-(64365-(-46389))),z(478118+((543967+446100)+((-2505566-(-213939))-(-806225))))}),(-601235-(-349946))+15641896887344)]v=(H)[V]b=v and-670474+5898834 or-596448+(15778385-(-737313))end end end else if b<-844020+10120647 then if b<-513093+9563679 then if b<7590627-(-1012701)then if b<(7628295-89313)-(-1027412)then s,L=q(O,s)b=s and 6085360-(-921493)or 1289165-((787497+-1902600)-(-555573))else R=(K)[t(z(879489-895811),28820743773089-673518)]E=(K)[t(z(((1143477-((((708355+-1019203)-(-56823))+1057656)+92402))+-253644)-9433),9891572092967-709907)]Y=-794597+794633 W=(245961-71612)-174349 S=(y)[H]C=(K)[t(M({227681-227679;919007+-919006;z(205120+-220859),z(-552814-(-537464))}),32620608367538-(-582333+-298647))]X=-752456+752556 f=(y)[(k)[((861092+(-480508-(-219045)))+-1612202)-(-1012574)]]D=577478+(902412+(176944+-1656834))r=(f)[E]U=(K)[t(M({-84046+84048;-929830+929831;z(109880+-126701),z(-839151+(648589+172134))}),(11361125005013-1037233)-709156)]E=(K)[t(M({-639345-(-639347);-841872-(-841873);z((-982395+1147071)-182454);z(-212041-(-196177))}),650931+1444300891115)]T=(K)[t(z(215174+(-618534+((-1072852-(-1001123))+458369))),-787375+33134238455214)]B=(I)[T]Kp=(K)[t(z(271514-287086),9850904355749-231638)]T=(K)[t(z(329110+(728739+-1075937)),26791851501948-106524)]p=(B)[T]T=648789+(-1484692-(-835904))B=p(T,D,W,Y)F=(K)[t(M({959542+-959541;-622207-(-622209);z(-357525+340264),z(364562-380525)}),11226101461283-(-490093))]p=(K)[t(M({(-294368-(-288412))+5958,-37835-(-37838),-877209+877210,463694-(-931648+1395338),z((-524539-4722)+(((-204552+485927)-(-342395))-111261));z(453067+-468295);z((724598+-540215)-199634);z((-877383+894465)-((989996+-1964452)-(-1010157)))}),26668870317030-711231)]Y=-891635-(-891735)W=(K)[t(M({1013963-1013961,1004771+-1004770;z(463435-480998),z(643058-661837)}),470314+((((469333+522570)-229025)-(-291696+(930755-(-10588))))+19441698881879))]D=(I)[W]b=o and 11222457-(-282610)or 15683454-(-805021)W=(K)[t(M({519266-((816514+-1813803)+1516553),159193-159192;z(671265-687993);z(777465+-795097)}),19779768423933-(-288425-265630))]T=(D)[W]tp=(K)[t(M({484865-484861;-939382-(-939383),79049+-79047;735778+-735775,z((-344675-(-667116-78789))+-417542);z(-511046+495279),z(-771369+(585335-(-170917)));z((-203531-(-141820))+43492)}),(176559+-841489)+(13928255899813-(-293128)))]W=-138562-(-558103-(-419441))D=T(W,Y,X)Y=(K)[t(z(521275+(271630-(-150873-(-959657)))),8137746754132-64847)]X=(K)[t(z(118069+(-457242-(-159119-164765))),-802769+(13512972018126-(-80984)))]h=(y)[L]W=.8 T=(K)[t(M({1027033-1027030,(-855727-(-419623))-(-436105),-606145+606150;(482158+251453)+-733609,-873397-(-873401),z(-209298-(-323157+128837)),z(-1051096-(-1034747));z(703491-(-144759+866375));z(106155-121738);z(-425824-(-408727))}),347911+22435225802831)]P=(h)[U]U={[tp]=Kp}h=(K)[t(M({655054-655053,118758+-118756;z(-653039+636916);z((-213780+-587603)+784259)}),(-426227+(-998787+399579))+15882711264791)]e={[R]=B,[p]=D;[T]=W,[Y]=X,[F]=P,[h]=U}B=(y)[(k)[-71808-(-71809)]]P=(-192932+1189710)+-996772 T=(K)[t(z(-34218+17935),17158192789143-607417)]F=(K)[t(z(-3207+-13972),11472885938478-872284)]W=(K)[t(M({-571138-(-504492+-66649),846392-846391,-706228-(-706230),z(350438-367548);z(-69654-(-54773)),z(33225+-49364)}),-128496+10147732517936)]p=(B)[T]T=(K)[t(M({1047432+-1047430,-732680-(-732681),z(-93650-(-77857)),z((-805477+844670)+((-207969-55664)+209556))}),1009914+14908648559413)]X=(I)[F]F=(K)[t(z(-737503+(81664-(-641048))),2863228316282-930647)]Y=(X)[F]F=((-560830+((-634635-32729)+323883))+1352868)+(1003984+(-326392+-1126149))X=Y(F,P)D={[W]=X}B={p(T,D)}R={N(B)}p=(K)[t(z(-682292-((764170-(-263996))+-1694062)),-472310+25170710214492)]f=r(E,e,R);(S)[C]=f r=(K)[t(z(98548+-117230),794472+4978669376140)]W=(K)[t(M({305756-305755,688809-688807,z(622795+-640048);z(406163-(-483965-(-907287)))}),(-39925+23178280524945)-5982)]C=(y)[(k)[-435892-(-435893)]]B=(-927403+(716120+1045163))-833879 X=695892+(-704382-(-8498))S=(C)[r]r=(K)[t(z(-648860+((-896893-(-884674))-((1502999-823295)+-1324240))),4047211847537-(-572179))]R=(I)[p]E=(K)[t(z(-937055-(-918349)),(256235-20098)+12808593464720)]p=(K)[t(M({-314092+(189212-(-124882));-716829+716830,z(201446+-219432),z(-230727-(-212089))}),131190+27990631574303)]e=(R)[p]p=428877-428876 R=e(p,B)D=(y)[H]e=(K)[t(M({((610115-(-375609))-837502)+(986103+-1134321);-1047455+1047457,-476514-(-476517);693476+-693471,617967+((-945229+1439148)+-1111885);z((849107-1015226)-(36585-187497)),z(-914073+898587);z((250928+110827)-(-448761-(-828289))),z(988294-1005835),z((806623+-1048023)+(931766+-705388))}),24589600894941-(-1421809-(-552065)))]B=(K)[t(M({-210770-(-817029-(-606258)),-201253+201255,z(-958234+940844);z(-470570-(-455327))}),514587+5339472326335)]p=897192-897191 T=(D)[W]f={[E]=R,[e]=p;[B]=T}T=(K)[t(z(158699+-177455),(874309+-229368)+32052361791007)]C=S(r,f)r=(y)[(k)[501529-501528]]Y=(K)[t(z((480482+-797864)-((-1822824-(-639308))-(-883151))),-12704+15298295116078)]f=(K)[t(z(-672445-(-654648)),151089+13833019285175)]S=(r)[f]f=(K)[t(M({665131-(909653+-244523),(692729-867576)+174849;737568-737565,z(((-595198-(728276-605155))+-249231)+(435770+516149)),z(-963985-(-946696));z(-386553-(-371539))}),-796586+32145300753307)]B=(I)[T]W=(K)[t(z(((-1380313-(-729176))+1582342)+(-907745-40187)),831870+29844821019949)]e=(K)[t(M({-248537-(-248540);1020838-1020836,-57861+57862;z(581900-600585);z((-809659-(-63365))-(-728421)),z(55276-71526)}),789330434998-987768)]T=(K)[t(M({986561+-986559;-732453+732454;(800039+-620543)-179493;z(342123-357120);z(-443555-(-425475));z((-615241+1192893)-(-421111+(915215+98970)))}),((12630514090499-(-412223))-800086)-(-309861))]p=(B)[T]B=(K)[t(M({(-161334+-821281)-(-982616);-169221-(-169223),z((1142945-611908)+-546888),z(697891-715225)}),-381130+10076013911528)]R=(p)[B]D=(I)[W]p=(K)[t(M({-1006289-((-385581+((613397-980604)+902991))+(-978933+(-317663-(-140102)))),-377321-((-370416+-635234)-(-628328)),-1001198+1001201,978773-(-255218+1233987);z(124266+-139589);z(513516-528539),z(543346+-560194),z(774626-790815)}),15659974426049-(-783842))]W=(K)[t(M({88372-88370;((-1028306-452248)-(-81167-443730))-(-955658);(-937390+744611)+192783;(978016-143903)+-834110;z(-851072+834511);z((-260114-795139)-(-1038811)),z((293754-(-657980+276294))-690478);z(52656+-68800)}),((-943543+987127)-449788)+4520941360939)]T=(D)[W]D=(K)[t(M({508367-508366;-261636+261638,z((-1178197-(-962082))-(-197978)),z(-327757+310554)}),(1617974239385-1005027)-(-917491))]B=(T)[D]W=(I)[Y]Y=(K)[t(z(-187875-(-171217)),(((-567786+1090495)+34889)+(449012+(498192-745254)))+7367649576092)]T=(K)[t(M({368505-368503,-68738-(-68739);z(1014510+-1033283),z(-94908+78063)}),((770109+-91188)-134536)+16750397790185)]D=(W)[Y]Y=-371115-(-371115)W=D(Y,X)D=(K)[t(M({925223-925222;(-536421+(200195-491982))-(-828210);z((871233+-242598)-(700698-53241)),z(250294+-267331)}),-748654+8588327270050)]E={[e]=R;[p]=B;[T]=W;[D]=C}r=S(f,E)D=(-125130-107752)+232892 E=(K)[t(z(115312+-132137),(-383687+7389397812747)-(-55279))]R=(K)[t(M({782068+-782066,-424622+424623;-461669+461672;z(810691-827039);z(-517400+500720);z(-844067-(-828950))}),983990+1640677598505)]f=(y)[(k)[-5400+5401]]T=(K)[t(z((1061108-59782)+-1018223),-520398+27814678730435)]S=(f)[E]E=(K)[t(M({870952+-870951;-279153-(-279155),z(-56678+41338);z((-706234+320054)-(-367721))}),-773585+23101099316730)]B=(I)[T]T=(K)[t(z(1033386+-1049342),7220773430804-(-36725))]p=(B)[T]T=-338113+338113 B=p(T,D)p=(K)[t(M({-997134-(-997136);-120595-(-120596),z((-998761+(1214770-(-676866)))+-910113),z(721004+-736522)}),23353261635298-400815)]e={[R]=B;[p]=C}f=S(E,e)end else if b<-53826+(39068+(9443714-568351))then O=(j)[-921476-(-921477)]s=(K)[t(M({-486472+486474,1018915-(381716+637198);-909995-(-909998);z((947539-762896)+-200422),z(129921+-145018);z(192487-211100)}),-140431+(11017991329240-(507579+-1371148)))]v=(O)[s]L=(K)[t(z((364581+(372709+-779980))-(-25706)),421752+(9050821926521-660032))]i=(I)[L]L=(K)[t(M({-404300+404302;-517243-(-517244);838765+-838762,z(-816779+801728);z(499158+-516802);z(594881+-612840)}),13815399637428-(-250513+-723209))]q=(i)[L]i=(K)[t(M({-539670+539673;-914237-(-914238);52114+-52112,z(-913498-(-898197));z(673879+(-894250-(-205365)));z(471291-487445)}),30994246793463-(-823982))]s=(q)[i]b=v==s b=b and-624511+(958715+3303646)or-179097+5594524 else V=nil H=nil b=(-880471+((-752899-(-283656))+10949143))-((-701979-(-750026))+-401380)end end else if b<-848734+10093910 then if b<8515862-(-608778)then s=(j)[(722006-531391)+(-746642-(-556029))]q=(j)[-447056-(-447059)]O=(j)[(-1735707-(783442+-1537516))+981634]i=(K)[t(M({591026-591024;-307905-(-307906);z(233451+(-26535+-222950)),z(261510-280091)}),-716025+30072962815176)]r=(K)[t(M({-807927+(371489-(-436439));-804240+(-324996+(1368425-239187)),-247253+247256;-721842+721846;z((-137965+1073585)-((2572758-(404576-(-341375)))-873579));z(929955+-947148),z(-607836-(-589733)),z(161150+-176581)}),-671722+((-624151+(-130051-(-475466)))+23280675459735))]v=(I)[i]i=(K)[t(z(-253356+238562),13251664715668-645066)]b=(v)[i]v=b(O)i=v v=(K)[t(z(-491702+474774),33415786968885-(-539983))]b=(I)[v]H=b C=(y)[(k)[(-422611+1455413)+-1032801]]S=(C)[r]V=(S)[O]o=V b=V and(8454021-(-619277))-(-597985)or(7485028-(-89335))-(1674785-740152)else R=(K)[t(z(-695491+677768),6139808807136-(-93277))]V=(K)[t(z((((-1724517-712346)-(-909141))-(-819386))-(-690445)),-160576+18489050695561)]W=b H=(y)[(k)[868480+-868479]]v=(H)[V]T=794775+-794775 E=(K)[t(z((464284-880726)+398638),28203657586811-(-913130))]e=((74829+-217443)+(309317-((-180865+-334041)-218990)))-900579 f=(I)[E]C=(K)[t(z(-990431-(-971827)),423622+34227120648017)]V=(K)[t(z(96425+(-900090-(-437614-347376))),-848848+24599592127795)]E=(K)[t(M({-1012795+1012796,320000-319998;z(-477268-(-461960));z(-459945-(-442583))}),4948432986997-(109223+((301769+-715061)+(452066-40848))))]r=(f)[E]E=(77888+(-102559-67850))-(-92561)f=r(E,e)p=(781856+-568460)+-213441 r=(K)[t(M({-276409-((-252417+-458441)-(-434448)),-460088-(-460090);z(18490-36838);z(60611-77049)}),1014356+27619286178246)]e=(I)[R]R=(K)[t(z(244906+-260593),-95827+30095183820410)]E=(e)[R]R=-255019+255020 B=(866932-86403)+-780528.5 e=E(R,p,B,T)B=(K)[t(M({-501928+501929;-963090-(-963092),z((-1662732-(-1041216))-(-603877)),z(-248341-(-233061))}),18261013785131-808723)]E=(K)[t(M({86731+-86729,444266-444263;106317+-106316,z(927315+-942620),z(-211424-(-196508));z(-104543-(-89224))}),((((-769320-(-187284))-161278)+(-14512-(-668732)))-362563)+8563304236642)]T=(-1038532+1587331.5)-548799 p=(I)[B]B=(K)[t(z(801688-818822),949701+24027069028799)]R=(p)[B]B=442303-((-1023873-(-933062))-(-540603+7489))p=R(B,T)T=b R=(K)[t(M({-65025+65029;-967783+967784;628316-628314,556853-556850;z(-225986+209476);z(-526193-(-510758));z(-791477+775597),z(-666288+649518)}),11330779166946-44280)]Y=(y)[i]D=Y b=Y and 12034997-989603 or 15432684-520124 end else L=(y)[O]i=b l=(K)[t(M({79012+-79010,(190320-247813)-(237763+-295257),z(((-1367439-(-60922+-781564))-(-379712-(-771971)))+901839),z(-269636+251973)}),(-611694+4133351621504)-645350)]l=(L)[l]H=(K)[t(z(598055-616331),-187430+26418763370043)]o=(s)[H]l=l(L,o)b=l and 3147934-(-121603)or 3913502-908125 v=l end end else if b<((-663346+1433502)+8274871)-(-364299)then if b<(-825014+10746916)-565364 then if b<-35894+9350319 then v=(K)[t(z((-296327-563158)+842799),21592997952603-(-238119))]b=(I)[v]l=(K)[t(M({(965636-(-2279))-967914;821119-821116,-502361+502363;-825259-(-825264),170738-170732;-169022-(-169026),z(-7383-9849);z(829259-((-528826-(-763188))-(-612762)));z(((-207027+-322373)+512937)+70);z((1366375-551292)+-833571),z((246244+262848)+-525477),z(-397146-(-382056))}),(34976602401378-(-1045871))-485589)]v=b(l,i)b=(426334+-1401679)+12052560 else l=s i=l b=736221+3789772 end else if b<-834923+10211688 then s=(j)[-347297-(-347299)]v=(K)[t(M({(736418-1011237)+274820,-639569-(-639571),z(((-1037690+777218)+(1636594-937699))+-455554);z(-777714+(479149-(-280566)))}),21874654878817-639499)]O=x()q=x();(y)[O]=(j)[-108978-(-108979)];(y)[q]=(j)[-292022+292025]b=(I)[v]L=(y)[q]l=(K)[t(z(25307-40215),-35123+20889418376980)]i=(L)[l]H=(K)[t(M({-471112-(102561-573674);1044025-((-795363+2850450)-(-1015935+2026999)),z(-1026609-(-168447-841408)),z(77628-(-630383+725384))}),-377055+(34648910917370-(-873632)))]L=(K)[t(M({892981-(386123-(-506855));(684202+-820539)-(-523774-(-387436));929570-929568;253615+-253611,620901-(463620-(-157276)),z((205785+-871349)-(-647469));z(274848-293231);z(-369353-(-353881));z(-245288-(-227780)),z(-343271-(-327930))}),(-491978+((-76032+1063683)+-478846))+(-199471+1689667544533))]v=b(i,L)v=(K)[t(M({338766+-338764,(329132-(-637925+1140432))-(-173376);z(599128+-615705);z(-563467-(-546162))}),(189110-(-242766))+(-29525+2601009345090))]l=(K)[t(M({670803-670801;946077-(217839-(-728237)),z(-789185+771491),z(83204-100186)}),339278+(6616580480905-(-340043)))]b=(I)[v]L=(y)[q]i=(L)[l]L=(K)[t(M({(-65969+-957868)-(-1023838);552467-552462;26286+-26284,-615430-(-615434),579143-579140,z(-454282+(118340+317360));z(843056-860815),z(-148106+(197750+-67826));z(-504000+(200355+288650));z(-376633-(-358287))}),19517400368103-561161)]v=b(i,L)b=(y)[q]L=b o=(y)[q]v=(K)[t(M({185087+-185086;-789360-(-789362),z(-307251+290742);z(684515+-700709)}),((490065+-1171973)+435493)+23719184635327)]l=(o)[H]b=l and 2585917-492130 or-519639+(224523+5726536)i=l else H=b r=(K)[t(z(-17941-749),((2148258497234-(-384+319205))-(-1243369-(-213543)))-(-401889))]C=(I)[r]V=C S=b b=C and 1043971+11200084 or((-78026+(-731814+1175886))+-992271)+16292559 end end else if b<8527139-(-232273-(848912+-143115))then if b<(9820487-303724)-86036 then i=(K)[t(M({347437+-347436;-1003372-(-1003374),z(-401271+384474);z(-316641-(-299881))}),8440996763966-683434)]v=(y)[(k)[-84878-(-84879)]]q=i..s b=(v)[q]v={b}b=(I)[(K)[t(M({-686187-(-686189);-561715-((-560604+(-475535+112416))+362005),-753850-(-753851);z((-1044132+1144957)+-119011),z(657710+-676409);z(-150497+131995)}),504111+31621056314422)]]else v=(K)[t(z(679202-694847),3064817422739-((684751-1001603)-235416))]b=(y)[(k)[476853-476852]]O=(j)[219217-(121401-(-97815))]s=O O=nil;(b)[v]=s b=(I)[(K)[t(M({-103077-(-103078),-775367-(-16859-758511);248682+-248680;z(-620770+((202450+-301956)-(-701647))),z(622589-639886),z(360122-375274)}),913839+5399616455)]]v={}end else l=(K)[t(z(979324+-997687),17821532290020-(-573620))]i=s S=(K)[t(M({-286456-(-286458),-121252+121253,z(-705566-(-689103));z(938475-957195)}),-2285+4880868214418)]b=(I)[l]V=(L)[S]S={b(V)}H=(S)[-85215-(-85218)]b=(((1151820-904351)+((-395134+-1202028)-(-898340+(2028635-899846))))-(-374789+-523865))+721742 o=(S)[-1008117-(-1008119)]l=(S)[869291+-869290]end end end end else if b<989526+(9382249-(-410163))then if b<-676373+(11670859-(381537-(-532157+(564523+-406026))))then if b<(-139208-283362)+10211899 then if b<(-439894+10610919)-486948 then if b<9810174-143223 then q=x()s=(j)[192619+(69614+(-129153+-133078))]O=x();(y)[O]=(j)[-628029-(-628030)];(y)[q]=(j)[-929531+929534]r=-1007624-(-1007624)l=(K)[t(z(407225-423600),11776698210938-(-555073))]v=(K)[t(M({762795-762794,(8090-353082)+344994;z(669348-684956);z((-14381+(1149123-(-979577+1317662)))-813629)}),34651572692602-(-678301))]b=(I)[v]L=(y)[q]i=(L)[l]L=(K)[t(M({-738624-(-738629),-634396+634397,424351+-424349;890470-890466,729073-729070,z(-924150-((906405+-653909)+((539333+487208)+-2186774)));z(-1013784-(-995644));z(169912-187352),z(-337217-(444566+-763785));z(-411774-(-395385))}),(-684666+(-181347+-44405))+(9745721017775-(-960362)))]v=b(i,L)v=(K)[t(M({-615303+615304,471163-471161,z(-947576+((973875-((-354839+981859)+198341))-(-781716))),z(-184672-(-167356))}),651770+24471876515069)]F=(-84864-547020)+((-553574+-269353)+1454811)b=(y)[q]H=(K)[t(M({98946-98944;336408+(-85616-250791),z((-913098-(-1544284-(-731429)))-(-81902));z(995866+-1011873)}),2912500480159-876713)]o=(y)[q]L=b l=(o)[H]e=b C=(K)[t(z(-840898+(1043209+-219617)),-998533+17473752069382)]D=(K)[t(M({820917-820915,-541790-(-541793),-16877+16878,z(((114320+-785510)+1588506)+-932114);z(106566-124837);z(-327920-(-246882+-66139))}),(29741609743319-984355)-(-423838))]o=false i=l or o;(b)[v]=i l=(K)[t(z(-805401+(928981+((257474-(-575417))-971541))),2016019078061-(-1024951))]L=(K)[t(M({(1045815-634313)+(-839185+427684),(-989065+1124181)-(276294-141180),z(412821-(242120-(-186272))),z(64576+(14294+-97324))}),(8794191687243-(-251587+165721))-((-313736-(-587526))+-951792))]i=(y)[q]H=(K)[t(z(((1556513-1000632)-288440)+-283602),6016288896624-64954)]v=(i)[L]i=x()f=-6379+6379;(y)[i]=v L=(y)[(k)[-222787+222788]]v=(L)[l]S=(I)[C]U=(K)[t(z(-624083-(125087-733802)),695286+16777017230897)]C=(K)[t(z(-628998+611935),-331064+(2895342320800-293996))]p=b p=-991680-(-991716)V=(S)[C]C=-418287+418288 h=(K)[t(M({655637-655635;-254922-(-254923),z(629663-647090);z(-672388-(-655721))}),16992989660694-81879)]T=(y)[q]l=(K)[t(z(-706371+((-941766+(1576336-(-466820)))-410415)),(1007506+-119334)+22996318893279)]B=(T)[D]T=-117928-(-117976)e=102469+-102419 D=(K)[t(M({-758879+758880;(-411999-(-468056))-(191595+-135540),z((1052654-400074)-670714);z(-698758-(-680746))}),12759128231657-(-701255))]R=B and T E=R or p S=V(C,r,f,E)f=(K)[t(M({967439+(-255503+(-571208-140727)),-1014405-(-1898737-(-884330));z(672920-688736);z((739183-(-111274))+(-61670-804804))}),-547656+26876624689543)]V=(K)[t(M({-65596-(-65597),-105341-(58704+-164049),272057+-272054,-8760+8762;z((-196395+-298879)+478109);z(-572304-(-1517207-(-962625)));z(-762746-(-745601)),z(-672345-(-653844))}),-566212+33163776996655)]X=(K)[t(M({((1300365-377628)+-1148)-((259171+-146226)+808643);-792227+(774699-(-17530)),((258293+-371843)+862885)+-749332;z(-575584-(-560189)),z(-1062374-(16847+(669634+(893935+-2625563)))),z(-319511-(-302169))}),(-564923+16024770694734)-(-237433))]r=(I)[f]f=(K)[t(M({-583645-(-583647),-249124-(-249125),z(-850851+832589),z((303698-(-616626))-937537)}),(5796857232987-(-1900093-(-999781)))-(-94092))]C=(r)[f]E=-889357+(((1688907-((-663419-(-346813))+(414073-(-882652))))+-256478)-(764409+(-1094746-106760)))f=(-256277+(-419228+1484068))-808513 r=C(f,E,e)C=(K)[t(M({(190449-(-565799))-756247,(-983543+951559)+(735236-703250);z(355170+-370109);z(544533-562463)}),25900810590048-(397439+556325))]E=(K)[t(M({1033730+(-50258+(-381326+-602145)),(658320+-193779)+(-202915+-261624),z(107761-((319433+811904)-(1847352-(956719+(365515-480450)))));z((506207-21349)-(987720+-485169))}),18044504256303-(-630510))]f=(s)[E]p=(K)[t(M({-930739-(-930741),-332590-(-332591);z(335026+-350397),z(-460709-(-444299))}),25858794343090-1040571)]T=391156-391116 R=(K)[t(M({510696-510693;-581098-(-581099),450553+-450551;-235563+235567;z(-480752-(-464660)),z(745653+-761312),z(-61243+42700),z(-659810-(-643915))}),18580807993481-(35836+-20621))]Y=(K)[t(z((-940474+1160186)+(-787411+549161)),(23213289613119-641651)-675111)]E=(K)[t(M({(205737-((-442083+830931)-(-365634)))+((-1001048+2043202)-493408),394209+-394207,z(-754927-(-739634));z(-20519-(-2271))}),13209637568269-746531)]P=-664267+664281 e={[R]=p}o={[H]=S,[V]=r,[C]=f,[E]=e}f=(K)[t(M({486243+-486242;-963979+963982;845251+-845249,z(800989-816564),z(-465675-(-449826));z(-579918-(-562339))}),(25281+413764)+((897793+-1676354)+9308035927080))]S=(y)[(k)[-187146+187147]]R=(K)[t(z(-206429-(-189960)),-956081+(-364752+(334767+10898776654189)))]C=(K)[t(z((-389899+(567726-(-420239)))-613827),163553+17026587626844)]p=394752+-394746 V=(S)[C]C=(K)[t(M({-234253-(118288-(-12354+(744567-379671))),-620374-(-620376);z(-579255-(-563287));z((256941+-977108)+704574)}),-836498+22007163177689)]e=(I)[R]R=(K)[t(z(-347791-(-332722)),20101292017316-(-888812))]E=(e)[R]R=-379696-(-379696)e=E(R,p)r={[f]=e}S=V(C,r)C=(y)[(k)[26209+(975557+((-972688+957801)+-986878))]]B=287013+-286973 E=(K)[t(z(-417794-(-400665)),(348637+-821125)+6830409801406)]r=(K)[t(z(-579090-(-560868)),(-833269+26211509509399)-309492)]V=(C)[r]p=(K)[t(M({(328116+(-886071+-489728))+1047685;264736+-264735,z(-777325-(-759291));z(925409-(1342961-401972))}),30497644347281-869775)]W={[Y]=X}R=(I)[p]p=(K)[t(M({291756+-291755,-691843-(-691845);z(-442985+(-301928+(891663+-161987))),z(283892+-302444)}),(22143854828646-731649)-(-822196))]r=(K)[t(M({-405512-(-405513);807071-807069;z((519981+387601)+-923835),z(-847585-(-832241))}),22530526348814-(-857593))]e=(R)[p]p=(-23989+328330)+-304301 R=e(p,B,T)e=(K)[t(M({-856583+856585;-302131+302132,z(529973-545913),z(961149+-978557)}),(-79968+109500)+1189345177056)]B=(K)[t(M({357260-357258;1005131+-1005130,(34264-827499)-(-274869-518369);z(702668+-717598),z(-726464-(-708015));z(-512888+496905)}),-236277+30039201310886)]T=152071+-152070.5 p=-928465+928466 f={[E]=R,[e]=p,[B]=T;[D]=W}C={V(r,f)}r=(K)[t(z(604002-622352),3045715093768-(-177462))]H={S;N(C)}L=v(l,o,H)o=(K)[t(z(693372+-710087),(-1432836-(-613696))+4489085241655)]l=(y)[(k)[-974221-(-974222)]]v=(l)[o]f=(576315+-845972)+269597 E=369961-369960 C=(I)[r]r=(K)[t(z((-270697-530335)-(-785673)),424622+16180610418575)]S=(C)[r]o=(K)[t(z(-441-(295450+(841991+-1120315))),-356254+21006568800294)]r=-159964-(-159965)V=(K)[t(z(-778977-(-762924)),-590738+22056188472109)]X=-628376+628376 e=333958+-333958 C=S(r,f,E,e)S=(K)[t(M({860434+-860432,880116+-880115,z(-386761-(-368414)),z(974289+-992113)}),(-1342164-(-998807))+18591806893781)]e=((-342935+-343429)-(441470-470905))+656929 E=(K)[t(z(173703-192063),20492+3632554778024)]f=(I)[E]E=(K)[t(M({224860+-224858,-1041670+1041671,z(-508170-(-491786)),z(-466062+448776)}),793665+((8521055088583-(1779984-783126))-(-257683)))]r=(f)[E]E=742757+-742747 R=233391+-233389 f=r(E,e)e=(K)[t(M({432973+-432972,962589+(-618878-343709);z((393310-(-125917))-536258);z(-993210-(-976918))}),15241783637540-(-286457))]r=(K)[t(M({602884+-602879,44745-44742;-37359-(-37361);730535+-730534,755149-755145;z((-114208-(-280953))+-182008),z((-157537+-867734)-(-1010090));z(-183899+165081);z(-456363-(-438409)),z(-855324-(-839525))}),10497589886675-(-696163))]T=(K)[t(z(875529-892933),614518+(436582+2930953517227))]E=625145+(405576-1030720)H={[V]=C,[S]=f;[r]=E;[e]=L}W=(K)[t(z(-570759+(-670537+1225084)),2200351408095-1000438)]E=(K)[t(z(-1047055+1029600),(-692557+13153982630217)-(-757039))]l=v(o,H)o=(y)[(k)[1004227-1004226]]e=(K)[t(z(-1042479-(-1024889)),594068+(27679791035662-755965))]S=(K)[t(M({-188194-(-188196);-800526-(-800527),331541-331537;786638+-786635,z(743432-759505),z(961829-978170);z(29143+-44930);z((278278+-413040)-(-117534))}),-345551+25666436185214)]H=(K)[t(z((250712+563308)+(-1801645-(-972351))),346569+26498591991016)]v=(o)[H]f=(I)[E]E=(K)[t(M({-608635+608639;(-804602+299137)-(-505468),739938-739936,-77271+77272;z(938010+-954147),z(-225009-(-780038-(-572781))),z(25811+-41553),z((697166-(54374+60354))+-600068)}),824039+17742762774824)]H=(K)[t(M({-185204+185207,548505-548503,290565-290564,z(-189167-(-4147+(82497-248868))),z(-137343-(-121391)),z(395401-413890)}),610655+((((740940+-886536)+-778482)+(-1034077+2553452))+20702257206219))]r=(f)[E]f=(K)[t(M({(-130192-(-866134))+-735941,-622747-(-622749),z(-423611+(294735+111214)),z((217212-(959309+-275529))-(-450560))}),-538592+20824883477174)]C=(r)[f]r=(K)[t(M({-410526-(-410528);203915-203914,z(864884+-879758),z(853693+-870821)}),-848328+31535594384469)]E=(I)[e]e=(K)[t(z(674049-691644),525546+(926548+(-594871+23344361392745)))]Y=(K)[t(z(-647454-(-629586)),-512286+21777726863640)]f=(E)[e]e=-870101-(-870101)E=f(e,R)f=(K)[t(M({-462894-(-462895);746950-746948,z(886324-904041),z(497111-514392)}),(-1027499+1405615870990)-860689)]V={[S]=C;[r]=E,[f]=l}o=v(H,V)E=(K)[t(z(-426985+410297),(-856253+1404309)+(658976+23162318384683))]H=(y)[(k)[((-776308+165483)-(-99689-44772))-(-466365)]]C=(K)[t(z(861284+-878787),30050150153287-(-834840))]V=(K)[t(z(266106-281085),759335386576-160536)]v=(H)[V]V=(K)[t(M({-981925+981926;712264+-712262,z(-272929+255925);z(738396+-755796)}),-416387+(19001397597869-(-279713)))]f=(y)[q]r=(f)[E]B=(I)[T]E=705933-(137490+568429)T=(K)[t(z(476713-494962),7577319522833-((832241+(-2294041-118540))-(-1001569)))]f=(K)[t(M({918049+-918048,(-1546428-(-712761))+(-662320+1495989),z(-338447-(-321433)),z(970383+-988246)}),2308+13518938877214)]e=(K)[t(z(-701343-(-685669)),27265097031070-(-1342194-(-582783)))]p=(B)[T]B=(K)[t(M({316629+-316627;-912123+912124,494099+-494096;z(-178394+163207),z(246729+-263784),z(717542+-734459)}),-498335+(628614+(20200648994737-(-391504))))]R=(p)[B]D=(I)[W]W=(K)[t(M({927882-927879;((259599-602732)-(-821138))-478004;139580+-139578,z((-890835+1086720)-(864781+-650146)),z((-131804+((760281+-276496)-49907))+-317035),z(-222866-(-207411))}),((896878+24457641073247)-(-797566))-(-737753))]p=(K)[t(M({210956+(611079+-822032),-602547-(235185+-837733),987838-987836;z(792128-808334),z(-796063+(((269374-391208)+365739)+533946)),z(-569604+551183)}),22254626961270-232115)]T=(D)[W]D=(K)[t(z(445924-463474),19689613680281-(((563875-(537865-497015))+-302115)+-1151808))]B=(T)[D]T=(K)[t(z(-538585-(-522173)),12230555616686-(-991784))]W=(I)[Y]Y=(K)[t(z(99088-117918),998648+23329253356226)]D=(W)[Y]Y=-197178-(-197179)W=D(Y,X,F,P)D=(K)[t(M({158021+(881131-1039149),780270+-780269;18108-18103;612712-612710,-514500-(-514504),z(-480896+463967);z(-61906-(98667+-143155));z(-287112+268359),z((22154-(-813436))-850962);z((-240325+-638721)-(-862279))}),-485422+(-599583+13994766024282))]P={[h]=U}F=(K)[t(M({785818-785817,-131415-(-131417);z(-940871+925367);z(25553-40521)}),1812997046426-(-137776))]Y=-642670+642671 X=(K)[t(M({-457149-(-457151);(-556621+749962)-(719093+-525753),z(577789+-595455),z(498858-515240)}),20482324747664-351236)]S={[C]=r,[f]=E,[e]=R;[p]=B;[T]=W;[D]=Y,[X]=l;[F]=P}H=v(V,S)H=(y)[q]V=(K)[t(M({295956-295955,-703335-(-703337);-804787-(-804790),z((247135-913490)-(-649132)),z(-16824-72),z(-209457-(-192126))}),812563+(17626992289783-850546))]v=(H)[V]b=v and 276743+9978622 or-163071+(8941556-(-446371))else b=H H={b(o)}v=(H)[1026152-1026151]o=v b=(-572477+(2245867-959101))+(5788865-(-381077))l=(H)[660735-660732]L=(H)[((((-851316+379680)-(-326725))-(296013+-163438))+-178639)-(-456127)]end else if b<(609038-(129484+184620))+9468435 then r=(K)[t(z(-323656+306484),715205+5725737253943)]b=L h=(K)[t(M({1000711+-1000709,(1255898-426484)-829413;z(-279613+264604),z(174052-(919004+(-516824+(-865880-(-653583)))))}),30215961975114-468089)];(b)[v]=i E=(-768071+(-641401-(-497498)))-(-911974)b=(y)[q]v=(K)[t(M({(-656343+-131317)-(-116824-670837);888774-888772;z(-68386-(-53057)),z(313301+-331380)}),29964675368694-(-176800-(-490512)))]H=(K)[t(M({-948017+948018;-884452+884454,z(848478-(318503+545866)),z(-175533-(-157246))}),244957+17414963764770)]L=b o=(y)[q]L=(K)[t(M({(-766300+(537579-(-484455)))+-255732;-323314-(-54949+-268366),z((744441+153425)-913567);z(751853+-769536)}),8934253669588-(-381812))]l=(o)[H]o=1015001+-1015000 f=(-1764316-(-742339))-((-110632+-488182)-423163)i=l or o;(b)[v]=i o=(K)[t(z(-903073-(-884865)),((-1611194-(-85780))-(-750756))+(10448599816082-(-508686-(-736039))))]i=(y)[q]v=(i)[L]i=x()R=b V=(K)[t(z((-766852+(610173-314444))+453206),-428151+14426375736507)]L=x()X=(K)[t(z(487020-(840312+-336112)),-746703+32514503051855)]B=b;(y)[i]=v R=966-(-1002622-(-1003538))W=(K)[t(M({963860-(1446611-482754),-941854+941856;470517-470516;z(617597+-633270);z(-955763-(-938656)),z(-288489-(-271497))}),248039+3787378634284)]v=false;(y)[L]=v l=(y)[(k)[151001-151000]]v=(l)[o]C=(I)[r]F=(K)[t(M({-363867-(-363870);993299+-993298;-949021+949023,z(33212+-51533);z(328915+-344980);z(605143-((-93615-(-301699))+(938395-524342)))}),1002366+34155536582536)]B=736360+-736314 o=(K)[t(z(-1049270-(-1031356)),786415+493043134870)]r=(K)[t(z(35093+-51624),((25919262481064-72189)-(-272308))-(-73317))]S=(C)[r]r=(1732189-1020702)+-711486 D=(y)[q]T=(D)[W]D=-1024043-(-1024101)p=T and D W=(K)[t(M({885086-885085,-73453+(424693+-351238),z(880473-(573383+324006)),z(-480905+465150)}),32915775402852-72356)]e=p or B C=S(r,f,E,e)E=(K)[t(M({(681825+-74132)+-607692;650452+-650450,z((-551872+(-532113-(-39856)))+1026441);z(((-765209+238735)-(-122700))+387118)}),504220+26362634104875)]S=(K)[t(M({(1733901-921046)-812851,540440+-540439,-103923-(-103926);-452992+452994;z(456130-471022),z(-206857+190790),z(-298250+283318),z(485875+-503828)}),(-720553+1229492)+15286700782795)]f=(I)[E]e=(1039734-529643)-510041 E=(K)[t(M({-609022-(-609024);121458-121457;z(-147787+131580),z((-671511-(-748308))-(234929-140419))}),13539923147319-(-475773))]B=(K)[t(M({(-105711-107187)-(-212899);(683303+236305)-((-1478789-(-752305))+(180112+1465978));z(25077+-42447);z(803134-821531)}),12292479720069-(-78160))]r=(f)[E]Y={[X]=F}E=948548-948498 f=r(E,e,R)e=(K)[t(M({-11525-(-11526),(-67892-(-3971+-400805))-336882;z(-295742+278055);z((-265752+732022)-482767)}),(228933-(-788817))+4281229919192)]E=(s)[e]e=(K)[t(M({180680-180679;91831+-91829;z(-44730+29926),z(-597406+581351)}),180860+(((115253+1512707838450)-(-871200))-(-776912)))]r=(K)[t(M({782464+-782463,(-205114-(-638617))-(752237-318736),z(330550-(-820260+(-885811+((2242361-1025674)-(-1423405-(-586051))))));z(220441-(792596-556705))}),27884088404259-(-781408+408144))]p=(K)[t(M({-290359+(231713-(-58649)),-803382+803383;-352775+(148490-(-204287)),380378-(-539093-(-919467)),z(-247440-(-231448));z(-455117-(-436375));z(70426-85228);z((-572938+357698)+198108)}),(954782+-1112219)+(3943271290057-(-814989)))]R={[p]=B}H={[V]=C,[S]=f;[r]=E;[e]=R}C=(y)[(k)[1014630-1014629]]r=(K)[t(z(-987438+971814),23691014306461-(-225758))]p=(K)[t(z(49719-67794),24990849145212-((629042-(-240486))+-1876159))]S=(C)[r]B=-114556-(-114562)r=(K)[t(M({-929369-(-929371);-903577-(-903578);z((84922+-492936)+(1231154-840389));z((380405-771068)-(-375089))}),(316265+32580196200952)-(-635345))]E=(K)[t(M({-173274+173276,435995+-435994,7613+-7610;z((-46458-977992)-(-1436921-(-142317-286447))),z(101921+-119917);z(-843006+(584719+240438))}),34959795884551-52238)]R=(I)[p]p=(K)[t(z(-976639-(-960991)),(169232-(-724978))+13464466728181)]e=(R)[p]p=172800+-172800 R=e(p,B)f={[E]=R}C=S(r,f)r=(y)[(k)[896467-896466]]f=(K)[t(z(-358886-(-341975)),(11705179168657-(-625093))-(-302015))]e=(K)[t(z(366935+-382715),89354+12421912506017)]D=14156-14116 B=(K)[t(M({(812014+-604202)+-207810,392129-392128,z(691266+-706383),z(112538+-127557)}),29536207520235-(-922632))]S=(r)[f]p=(I)[B]B=(K)[t(M({58678+-58676,776777-776776;z(-969221+950795),z(25579+(307417+-351607))}),-638846+443430568824)]f=(K)[t(M({385399+(-661211+275814),222239-(312722+-90484);z(-707004-(-689013)),z(744774-(316013+447450))}),207163+7918788677348)]R=(p)[B]B=(69240+-1007520)+938320 T=(-1382754-(-548383))+834411 p=R(B,T,D)T=(K)[t(M({-284254+284255;240988-(125566+115419),184163-(-112882+297043);z(958510+-975968);z(-660088+641856);z(251995-269048)}),893314+25344056404664)]D=-693524+693524.5 B=622898+-622897 R=(K)[t(M({(-280934-(-934247))+-653311,-224872-(-224873),z(191381-209000);z(((-37255+-334933)+585881)-230019)}),-109534+18447076008729)]E={[e]=p;[R]=B;[T]=D,[W]=Y}r={S(f,E)}V={C;N(r)}l=v(o,H,V)o=(y)[(k)[-1001894-(-1001895)]]f=(K)[t(z(281124+-295952),((-103097-657952)-22726)+((848201-(1477194-660237))+((-728622+(-253346+28548617929567))-(-462149))))]E=-783871-(-783851)S=(K)[t(z(715109-732070),(80919-692207)+13282110596563)]H=(K)[t(z(-118002+(-359483-(-459353))),214606+(-987693+(1392234965963-449690)))]v=(o)[H]F=-895260-(-895261)r=(I)[f]e=((704474+445020)-421710)+-727784 H=(K)[t(z(124935-141796),-1007288+3439966793065)]R=(896561+(426125+((-387163+-1021435)-(526389-234724))))+377597 f=(K)[t(z(488515+-504215),-339333+7153522073868)]U=(K)[t(z((100253+-158010)+40915),5137700961794-(1267845-978534))]C=(r)[f]f=-915625-(-915626)X=(-150107+(-523287-(-493376)))-(-179958)r=C(f,E,e,R)e=(K)[t(z(-661180+645205),204150+34725521684174)]R=-693822+693830 Y=(K)[t(z(-582386-(-565059)),33970228865118-594685)]C=(K)[t(M({-579349-(-579350);551495-551493,z(-857134-(-838807)),z(575593+-591565)}),26162904829720-670365)]T=(K)[t(z(-290016-(511697-784264)),1018088+22250591649307)]E=(I)[e]e=(K)[t(M({54730-54729,(-1010201-(-838593))-(-171610);z(((-518396+((-738804+1236546)-((-964082-(-530408))+301955)))-(472388-969251))+-625086),z(208217-223340)}),19665514693990-(-940754))]f=(E)[e]e=(-579026+1274670)-695634 E=f(e,R)e=62824-62823 R=(K)[t(M({606717+-606715,526008+(-473273+((1854126-905284)+-1001576));z(-913986+897859);z(870630+-885797)}),-887511+3860458243990)]f=(K)[t(M({-774958+774963;-86776+86779;460571-460570,-82390-(-82394),-355913-(-355915);z(576169+-592523),z(-182310+165373);z(-244256-(-226291));z(-538658-(-519961)),z(231775+-246918)}),(-825911+(14066930431791-(-261489)))-663031)]W=(K)[t(z(740818+((((167007-(-719425))-268834)+-2421052)-(-1047127))),-350825+(-502089+29563818026777))]V={[S]=r;[C]=E,[f]=e;[R]=l}o=v(H,V)H=(y)[(k)[(-521603+693610)+-172006]]E=(K)[t(z(188773+-207399),455476190974-(-361058))]V=(K)[t(z(-603113+(-278478-(-866686))),24828634796904-163062)]P=-624751+624751 v=(H)[V]e=(K)[t(z(-815823+800078),328109+29693624696070)]f=(y)[q]C=(K)[t(z((-1607173-(-159115-438209))+994426),4312420147715-138888)]V=(K)[t(M({(1392882-569985)+-822896;629137+-629135;z(-522664-(-507603)),z(507836+-523611)}),20143618287142-(349257+-79300))]r=(f)[E]f=(K)[t(M({270274-270273,(-83037+-383233)+466272;z(-273262-(-256284));z(-482476+(688896-223153))}),9855844054610-(-690600))]B=(I)[T]T=(K)[t(z(468969+-485542),2422485432677-(-459314))]p=(B)[T]E=636178-636164 B=(K)[t(M({((187264+-642832)-(-646240))-190670;(1043971+-1734431)-(-690463);-90454+90455,z(-187127+168400),z(((1032319-781921)+753204)-(675159+344324));z(386944-405153)}),(794063-957061)+23220069532653)]R=(p)[B]D=(I)[W]W=(K)[t(M({91360-91358;(188234+258155)+-446388;-853596+853599;z(-640392+((12719-((92444+-935194)+-205410))-(-182902-(-619922)))),z(905916-921591),z(-671528+656465)}),24592057946547-(-1042248+720672))]p=(K)[t(M({-781719+781720;-358931-(-358933),(-1667285-(-742736))+924552;z(1042616+-1060551),z(-659305+644029),z(626121+-642406)}),16303613258715-(-33887+(-1841401-(-883000))))]T=(D)[W]D=(K)[t(z(716208+-734291),16164092521158-834769)]B=(T)[D]T=(K)[t(z(((542755-(381183+436907))-(((659882-(-335300))+385327)-682121))+958456),-349055+(22132314809536-617297))]W=(I)[Y]Y=(K)[t(z(-576107-(-559884)),32720921738558-(257009+(-1466470-(-1006548))))]D=(W)[Y]Kp=(K)[t(M({698420+-698419;279955+-279953;z(((-388226+-893322)-(-464108))-(-799056));z(-107898-(-91941))}),(-222844+1231726279919)-(-235132))]Y=(497180-77165)-420014 W=D(Y,X,F,P)Y=972221+-972220 X=(K)[t(M({(199275-213429)-(-14155),1041347-1041345;z(36029+(((-65879+-278932)+977228)+-686080)),z(974474-991822)}),-280778+25181585358208)]P={[h]=U}U=670080-(110708+559372)F=(K)[t(M({-880855-((463273+-1667254)-(-323125));(340021-(-436676))+((878353+-1804767)-(-149719)),z(932216-((-912364+817697)-(-1041717))),z(544248-562211)}),(-948317-(980255+-1853676))+17907643280193)]D=(K)[t(M({-961329+(-14090-(-975421)),46694+-46691,245347+-245342;(-1442534-(-951558))+(-736650+1227627),((-95162+394137)-(144451-(-1619)))+-152901;z((795704+-454937)+-357866);z((-636790+434126)+(5544+180567)),z(-514227-(-497988)),z(947226+-965176),z((-109900-734331)-(-827803))}),-205400+(28941057853599-(-623993-(-472780))))]S={[C]=r,[f]=E,[e]=R;[p]=B,[T]=W,[D]=Y,[X]=o,[F]=P}H=v(V,S)P=-238796-(-238796)h=-520402+(1061258-540856)e=(K)[t(z(512446-(357863+172959)),16399530928696-(-116784))]V=(K)[t(z(((1038522-729593)+-930349)-(-603718)),-135716+26382012224648)]C=(K)[t(z(-384985-(-369857)),33529578805437-(-1037969+990197))]X=803862+-803812 H=(y)[(k)[-498277-(-498278)]]v=(H)[V]V=(K)[t(M({(710404-539895)+-170508,-897532-(-897534),z(743906+-762670),z(-96411+81399)}),2481209874319-(-195476))]f=(K)[t(M({-558205-(-558207),39002-39001;z(983955+-1002589),z(-403004+386973)}),22694653249824-(-787194))]r=(I)[f]T=(K)[t(z(314639+-330485),-775886+12360605601909)]W=(K)[t(z(-622448+(-712998+1316778)),-978268+29031728018667)]E=(y)[i]f=r(E)E=-527077-(46018-573108)r=(K)[t(M({((-358416-24292)+145210)-(-118345+-119155),890428+-890427,z(545387+-561131);z(360847-((-520184+623105)-(-274875)))}),(-689672+503924)+(414519+16193929198786))]B=(I)[T]T=(K)[t(z(251849+-266688),6302111240928-(908533-(-57335)))]p=(B)[T]Y=(K)[t(z(-473375+456128),32814139101229-(-778754))]B=(K)[t(M({-559687-(-559688);(517119+442705)-(997979+-38157);z(844219-861252);z(837335+-854399)}),23212528976833-1036197)]R=(p)[B]p=(K)[t(M({58217-58216;908661+-908659;713018+(-723764+10749),z(856680+-871753),z(-796970+778557);z(34964+(166896+-219949))}),-757419+21571869743883)]D=(I)[W]W=(K)[t(M({-455294-(-455296);561903-561902,(574840+-1252131)-(-677294);z(612813-629264),z(779260-(1046736-249827));z((-547575+-248118)-(-394452+(-616006+230289)))}),5890343026571-(-754793))]T=(D)[W]D=(K)[t(z(-1028535+1012119),870675+(-135664+19175913669693))]F=-926672-(-926673)B=(T)[D]tp=(K)[t(M({454429+-454428,44980-44978;z(-636114+(1433714-814512)),z(923548-939008)}),576972+16809823117496)]W=(I)[Y]T=(K)[t(z(683644-701593),(678992+34077303865010)-(-812870+1137983))]Y=(K)[t(z(((792628+-930322)+760001)-639012),633199+(28167314680550-(-788004)))]D=(W)[Y]Y=-769691-(-769691)W=D(Y,X,F,P)D=(K)[t(M({-472485-(-472487);-216071-(-216072),z(877910+(-215567+-680655));z(-402822+(-197827+584262))}),289809+30563704853966)]F=(K)[t(z((-569602+-351186)+(895281-(248184-258070))),-717462+9006111154446)]P=-557924-(-557874)X=(I)[F]F=(K)[t(z(-207120-(-190647)),34951893967287-955069)]Y=(X)[F]F=41987+(-86419+44433)X=Y(F,P,h,U)P=(K)[t(M({-449017-(-449018);-272346+272348,z(-366170-(-347839));z((-594077+-467662)-(-1043372))}),980008+15450778581236)]F=49204-((526123-(-342785))-819705)U={[tp]=Kp}Y=(K)[t(M({326667-326662;-542162+542165;(-300431-(-494813+101859))+(659703-(117604+634620));-270305-(-270306);-351645-(-351649);z(-455148-(-440105));z((-913049+685138)-(-211636));z(769545+-784865);z(760736+-775735);z(634740+(-221636+-430939))}),-911741+15971105069604)]h=(K)[t(M({106326-(-122839-(-229164)),987426+-987424,z(649080-667199),z(-553473+535953)}),54117+33864241153020)]S={[C]=f,[r]=E;[e]=R,[p]=B;[T]=W,[D]=X,[Y]=F;[P]=o;[h]=U}H=v(V,S)V=x();(y)[V]=H H=(y)[q]S=(K)[t(M({-447112+(-594862+1041976),((-804583-(-859320))+-757958)-(-703224);-124137+124138,z(973754+-989059);z(-160824+144060);z(-32957+17974)}),7683234036875-(-627407))]v=(H)[S]b=v and 15239029-(-254823)or 303791+12937111 else v=(K)[t(z((-202293-(-1006286))+(-663595-(1160711-1005074))),5610764636210-670597)]b=(I)[v]q=(K)[t(M({597852+-597846;243155-243151,-497635+(-845668+1343311),-631607+631608;-509122-(-509129),(935217+-967118)-(-979287-(-423783-523600)),8891-8889;(-420137-(-107904))+312238;304005+-303996,(-191928-(-49872))-(-142066);z(151369+-170164);z(-751462-(-734868));z(-516131+499208);z(-482415-(-464867)),z((-940196+1971137)+-1049383);z(-331519+316278),z(-339573-(-322403));z(-926048-(-157536-(43963-(-707811))));z(-371757-(-353522));z(414662+-431231)}),30799182073244-766197)]v=b(q)v=(y)[O]q=(K)[t(M({-863706-(-863707);-383369-(-383371);z(237388+-255447);z(99777-(827941-710290))}),((537643+28282297022229)-43881)-855857)]b=(v)[q]v={b}b=(I)[(K)[t(M({181717+-181716,((210065-(-655012))+-1032299)-(-167224),280360+-280357,z(901861-((-28008+1921404)-(980470+-7032))),z(-26273+(976342-968638)),z(783769-800067)}),110319+17163109740197)]]end end else if b<11004565-982423 then if b<10307570-418725 then b=(32842+14752925)-692541 p=(K)[t(M({773869+-773868,-296612+296614;z((-577739-(-929949))+-368437),z(-426735-(-408623))}),4257964200915-(-342967))]R=(K)[t(z(431924+-447478),34560685862035-(-223418-769831))]e=(I)[R]R=(K)[t(M({820748-820747,1006644-1006642,z(980846-996247),z(616173-633965)}),1729165469521-(-464986))]R=(e)[R]R=R(e,p)f=R else o,V=L(l,o)b=o and 5089470-(-453265)or 18298+(11773193-(-39485))end else s=(K)[t(z(-721788-(-704983)),-446364+20138262411253)]b=(O)[s]s=(K)[t(M({298631+-298630,-54321-(-54323),z(-1001142-(-983336));z(846003-864309)}),621013+6797805925753)]s=(b)[s]s=s(b)b=-1030493+2427781 end end else if b<10783604-(-738847+932409)then if b<824327+9615775 then if b<(-301171-(-707315))+9901653 then V=(K)[t(z(-529601-(380333-((313407-163903)+744949))),(15747161084264-535190)-(-864438-(-1100032-(-904313))))]C=(K)[t(z(1019191+(-1488070-(-451254))),460586+18543390960143)]E=(K)[t(M({849415+-849412,-513493-(-513494);250610-250608;z(-564141-(-547643)),z(815677+(-482391+-352109)),z(-957249+940369)}),750310+16081178707530)]H=(y)[(k)[(814134+-816585)-(-2452)]]T=(K)[t(z(-724705-(-706490)),760015+13273484410664)]F=(K)[t(z(-806578+789893),15789797198076-(-811331+1201691))]v=(H)[V]e=(K)[t(z(744192-(-260416+1021873)),318239+17826313770715)]f=(y)[q]V=(K)[t(M({436461-436459,480865+-480864,z(32497-(-107386+156782));z(505678+-520540)}),108417+940930282309)]r=(f)[E]f=(K)[t(M({(890343+-687592)+-202750,-4262+(-24128-(-28392));z(950627+-969411),z((12190+-842841)+811953)}),30338483151411-233880)]E=595153-595141 B=(I)[T]h=474076+-474076 T=(K)[t(z(762875+-780657),-1019265+18366329060951)]p=(B)[T]B=(K)[t(M({-866616+866618;861110+-861109;z(324978+(-612784-(-271411)));z(-579485+((79868+-518643)-(-1000205)))}),23196973832732-(-748242))]b=9876531-651675 P=938548-938548 R=(p)[B]U=26182+-26170 p=(K)[t(M({-833348-(-833350),-276292+(-308563+584856);818736-818733;z(218985+-235627),z(-510286-(-492411));z(-120168-(-102793))}),33430840601575-((200981-(-105915))-648386))]W=(K)[t(z(191649+-208813),(299672+388427)+31417826720605)]D=(I)[W]W=(K)[t(M({(-178977-505344)-(-684323),343668-343667;12877+-12874;z(-942276+((-847248+1472083)-(-301940)));z(906183+(((-519248+-192932)-117558)-93447));z((-209828-682526)-(195907+-1070194))}),29495310289997-(-360463))]T=(D)[W]W=(K)[t(z(-991487-(-973135)),553880+23738382101640)]D=(K)[t(z(632171+-647860),461948+12085863672933)]B=(T)[D]D=true X=(I)[F]F=(K)[t(z(-477752-(-461379)),(-643350+6519725306459)-(-192160))]tp=(K)[t(M({658153-658151;211527-211526,z(-147738+((-919514+1277407)-226505));z(-78589+60415)}),814552+13323544552224)]T=(K)[t(M({(-964959-(-997209))-32247,779526+-779525;(-101049-(1707945-1021112))+787884,z(-442385+425222);z(((-600212-(-190537))+1411487)-1018787),z(270574+-285432)}),21423220595733-(750976-566156))]Y=(X)[F]F=318537-318536 X=Y(F,P,h,U)F=-985214+985215 h=(K)[t(M({-662822-(-765118+102295),-784422-(-1025033-(-240609)),z(209765-226823),z(-50934-(114253+-148956))}),-143609+23773263872578)]P=(K)[t(M({800128-800126,-710240-(-710241),z(-559032+540310),z(720207-(1675013-939844))}),830723+17540337716170)]Kp=(K)[t(M({125016+-125014;-452419+452420,z(-806035+789552),z(-266932+251213)}),-484011+12352409601408)]Y=(K)[t(M({552457+-552455;-463412-(539332+-1002747),-93260-(-93261);(-736810+1195571)-458756,-278274+278278;z(116935-132893),z(592195-(854379+-245704));z(((741016+(((-466593+-294335)-(-1048131+(-6555+(65348+1902483))))-((-172313+-284483)-326204)))+870856)-739213);z((-208104-(-162327))+30208),z(482422-(1160490-662684))}),-925173+(556123+7585004744310))]U={[tp]=Kp}S={[C]=r,[f]=E;[e]=R;[p]=B,[T]=D;[W]=X;[Y]=F;[P]=l,[h]=U}H=v(V,S)else b=6939533-(-965591)end else if b<10350819-(-136758)then b=(y)[(k)[764154+-764153]]O=(y)[(k)[(-664843+1326924)+-662079]]i=(K)[t(M({677700-(854563+-176865),-674297+674298,z(-896154+880637),z(((702356-189598)-627100)+99029)}),776097+(-248895+22637717574857))]v=(K)[t(M({-360046-(-360047);539126-(-308025+847149);z((-1024364+696135)+309765),z(-97452+81309)}),(-1491222-(-1043770))+15583357592731)]q=(I)[i]i=(K)[t(z(-369383-(-354533)),464000+5024104209747)]s=(q)[i]i=.2 o=(K)[t(M({844236+-844232;-635568+635570,863228+-863227;768249+-768246;z((-1211313-(-887214))-(-308192)),z((155307-(-77387))-248843),z(-274312-(-256293));z(-436175+418367)}),24163023795086-(-656370))]q=s(i)l=(y)[(k)[(((-20594+-1500051)-(-774844))-(-425933))-(-357052-(-37181))]]L=(l)[o]o=(K)[t(z((521402-((-586340-(-104250))+890967))-(-518601+647324)),21318240227404-992076)]l=L(o)i=(K)[t(M({((-146267+-173040)+381508)-62199,862101-862100,439696-439693;909504-909500,z(-976896+961880),z(-682414+666585);z(703459-(363893+358290)),z(125637+-143668)}),22902787633377-(-1504515-((-1633743-(-861009))+266880)))]v=(b)[v]s={[i]=l}v=v(b,O,q,s)b=(K)[t(z((-320199-725954)+1028379),16633842600705-(-770120))]b=(v)[b]b=b(v)b=(I)[(K)[t(M({-112375-(-112376);171848-171845,-407508-(-407510),z(-542235-(-524252));z((67668+-650989)+564807);z(260724+-279054)}),10533625765760-174905)]]v={}else L=-622250+(205348-(-416903))i=(K)[t(M({628085-628084;50948+-50946;z(537346-554281);z(-538150-(-522764))}),16891173923525-(-1019508))]b=(y)[(k)[-936453-(-936456)]]v=(K)[t(M({981973-981972,-90165+(-657331-(-97574-649924));z(25728+-42324),z(-706283-(-688409))}),(274539+22559604463598)-(-1033227))]O=(y)[(k)[786133-(-287645+1073774)]]q=(I)[i]i=(K)[t(z(-832761+816575),-127282+14381461180250)]s=(q)[i]i=.1 q=s(i)i=(K)[t(M({104486-104484,-30588-(-30591);146335-(-966865+1113195),926632+-926628;-863060-(-863061),z(293658-310815),z(-893379-((840779-687637)-1030658)),z(328550-(-422294+767369)),z(-609033+593390);z(-708786-((178752+-1003192)+132330))}),249370+30408150059725)]v=(b)[v]s={[i]=L}v=v(b,O,q,s)b=(K)[t(z(-121159+104651),438561+12454922456938)]b=(v)[b]b=b(v)b=4021086-(-602850+-444466)end end else if b<-905603+11590371 then if b<-396105+11018010 then b=l R=b o=(K)[t(z(277703-292922),62425+32936873207401)]r=(K)[t(M({-522921-(-522922),930376+-930374,z(780824+-797425),z(-156457-(-138386))}),32268275947925-(1199046-175688))]l=(y)[O]V=(y)[(k)[-256839+(132534+124306)]]E=b S=(K)[t(z((-527482+(832145+501635))+-823020),19021231227608-(-852023+-183270))]H=(V)[S]S=(K)[t(M({-577651-((114423+51632)-743707);933378-933376;z(-741591-(871080+-1596836)),z((564496-520548)-58859)}),14022438540489-(-119570))]B=(K)[t(M({735580+-735579;-768724+768726;z(-210413-(-193113)),z(-620237-((-921266+-84732)-(-404242)))}),24498373341614-(-762309))]p=(y)[(k)[((-678854-(-1010908))-((-1211263-(770324+(-879579+23002)))-(-969637)))-487425]]B=(p)[B]B=B(p)e=B b=B and 749315+5885784 or(428345-242182)+5392607 else e=E P=-770862-(((-2681652-(-792996))-((-1425288-(-712362))+514599))-(-919467))v=x();(y)[v]=R X=(K)[t(z(-872600+854595),(9611298471757-(-809001))-(-407834))]p=(y)[(k)[-774844+(((-371996+-90856)+1359108)+(((-1559371-(-228755))-(-347654))+861551))]]D=(K)[t(z((-159951-(-203321))-58356),((31994455160-(-391713))-(-899812))-(-76817))]h=-14176-(-14202)B=(K)[t(z((1058528-114566)-960115),2689869637251-782672)]U=912413-912368 F=522239-522239 R=v v=(p)[B]B=(K)[t(M({409216-409214,-169936+169937;z(297710-314754);z(940768-956319)}),211120+(23127685020806-911262))]Y=(I)[X]cp=(1780923-(1507467-689645))-963109 X=(K)[t(z(-1022747-(((-627104+(843535-(678895+-1094100)))+((-908488+(122449-(-465541)))-619330))+((-1479281-(-409886))-(-372616)))),28486775345064-(-192083))]W=(Y)[X]X=908722+-908721 tp=b Y=W(X,F,P,h)W=(K)[t(M({260708+(-430806-(-170100));-728459+728460;((1838231-248598)-(832193-(-24785-(720603+-753744))))+-765792;645816-645813,z(-356906+341464),z(860963+-878222);z((237380-196531)+(-791545-((-510009+-284814)-(-62485)))),z(-423815-(-408313))}),4344445265854-508049)]np=(K)[t(z(-1010667+((-903354+2171236)-(((-834190+802907)+((-750562-535656)-(-633613)))+((-194017-(-863331))+288571)))),581717+9773852394129)]tp=(-328409+(811261+-291957))+-190894 P=(K)[t(M({-438329-(-438331),733775-733774;z(795395-814014);z(-898531+882111)}),(30468275891189-(50076-324686))-(1031843-5236))]F=(I)[P]P=(K)[t(M({(-1612799-(-778001))+834800,((280458+-419069)+753519)-614907,z(-376576+360088),z(394709+-411167)}),22830203701792-(-476426))]h=466749-466704 X=(F)[P]e=nil xp=-870702+870703 P=((-1086675-(-410899))-289710)+965531 kp=(K)[t(z(-1027210-(-1011282)),-1010427+33658778303186)]F=X(P,h,U)h=b Np=(K)[t(z(-540730-(-522685)),27883347473083-226981)]X=(K)[t(M({-572014+572015,908615-908612;-900544+(-225501+1126049),-721105+721110;691303-691301;z(330817+-347399),z(113846+-130888);z(325183-343026),z(((790851+-492357)-131634)-181672);z(1016538+-1035073)}),(619617+1368697368514)-257360)]Mp=(y)[R]Ip=(y)[i]Kp=Mp==Ip Mp=-713582+713582.5 h=(K)[t(z(-346913-(-890901-(-558964))),((429470-(-61677))+(849073+-486428))+(-918457+14159619757556))]U=Kp and Mp P=U or tp U=(K)[t(z((897548-(-50557))-963394),(574673+(-1600673-((-92832-(-765702))+-1670438)))+30869686749741)]Kp=(y)[r]tp=(K)[t(M({(603887+-1018376)-(-414491),(844550-(514446+-253279))-583382,z(-460157-(-441799)),z(-296952+280586)}),-531004+19812767563256)]T={[D]=Y,[W]=F,[X]=P,[h]=U;[tp]=Kp}P=(K)[t(M({-788117-(-788119),-73640+73641,-91468-(-91471),z((-791757+1114972)-341638);z(-890334+874520);z(671056-(986594+((-252129-(-142359))-190898)))}),(-203350-(-747144))+10695144109981)]tp=(K)[t(z((598143-357196)+((-644805-92174)+(355646-(-121976)))),-345364+26209039966620)]Y=(y)[(k)[950247-950246]]X=(K)[t(z((82097-(-712169))+-812717),-664966+3054079177723)]W=(Y)[X]X=(K)[t(M({-579128-(-431584+-147546),-334578-(-334579),z(527628+-546065),z(886534+-902269)}),-495053+(-771934+1441482108791))]U=(I)[tp]tp=(K)[t(z(764553+-781475),11757148114983-965692)]vp=(K)[t(M({(906948+(-50158-798707))-58082,(-253193-(-45926+686315))+893584;z((39292-450756)-(-394520)),z((-360091-(-36537))-(-307406))}),-592294+23240874722794)]h=(U)[tp]Kp=((-265169-(278680-664437))-612787)+492203 Mp=(K)[t(z((323616-66140)+-273746),(-376320-322655)+7746171352159)]tp=-548967-(-548967)U=h(tp,Kp)F={[P]=U}tp=(K)[t(M({443454-443452,119631-119630;z(-502882+485755);z(-959138-(-941614))}),((95302+788827)+28207379737915)-(401053-13600))]Op=-742048+742048 Y=W(X,F)h=(K)[t(z(-419112-((-1011071+-198702)-(-806628))),810800+(8305690984046-(-834839)))]X=(y)[(k)[465434+(519731-(405912-(-579252)))]]Kp=110699-110687 F=(K)[t(z((-531706+-104367)+621066),(19764759375914-714894)-1028930)]W=(X)[F]U=(y)[R]bp=(I)[Np]F=(K)[t(M({922487+(-163286-759200);-245482-(732130-977614);z(-460141+444330);z(-551556-(-535629))}),64528+(-619464+(24292333778027-643378)))]Np=(K)[t(z(128990+(915891+-1061271)),-415464+15385971320890)]zp=(bp)[Np]bp=(K)[t(M({(-308016+-556352)-(-1012517-(-148148)),(838078-(-160773))+-998849;z(-526425-(-511235)),z((-370601+1230204)+-878148)}),-1006458+8873977039269)]Ip=(zp)[bp]zp=(K)[t(M({(((-1042402+742450)+(-232162+369198))+1039617)+-876698,136726-136724;-471339+(1122424-(425536+225548)),z(-159740+143880);z(-344063-(-327969)),z(724151-((219326-448793)+(340797+629227)))}),-209374+26632376369016)]jp=(I)[kp]kp=(K)[t(M({(297932+-973493)-(-675564);5025+-5024;-1030581-(-1030583),z(601626+-617263);z(-60585+42062),z((-399221-249563)+632063)}),-524426+5078088621760)]Np=(jp)[kp]jp=(K)[t(z(977956-993343),-1026011+20796111404020)]bp=(Np)[jp]sp=(K)[t(z((-353270-409284)-(-745700)),1041322+(230866+4518961083099))]Np=(K)[t(z(461771-(-140713+620412)),6649359201573-(-216312))]kp=(I)[np]np=(K)[t(z(-206191-(-188889)),(-92814-(235025-9851))+34667298654553)]jp=(kp)[np]np=-300259+300260 kp=jp(np,cp,xp,Op)jp=(K)[t(M({-24921-(-24923);-662641-(-662642);z((104224+138802)+-257945);z(-618099+603311)}),-453624+560957874364)]xp=(K)[t(z(491389+-510029),24847761406167-(784671-382551))]cp=(I)[xp]xp=(K)[t(M({-721469-(-721470),(-1046665+1187485)+-140818;z(-827431+(764508-(-45217)));z(607679+(-1012561-(-961928+573697)))}),(10845578967697-438089)-601637)]Op=-43169+43169 b=(-473206+612608)-(-871269)np=(cp)[xp]xp=687878+-687870 yp={[vp]=sp}cp=np(xp,Op)np=(K)[t(M({273208+-273207,-756198-(-756203),-360273+360275;-63243-(-63246);943954-943950;z(628160-645941),z(-890489+((-525975-(-824513+(-434805-(-978284))))+(629244+490018)));z(-38593+20264);z(-222842-(-207089));z(645056+-660864)}),3462874838868-246909)]Op=(K)[t(M({-549966-(-549968),(-304602-(-107699+301365))+498269;z(-314084+298657),z(-545646+(638067+-110341))}),3407821181077-295680)]xp=-28998-(-28999)P={[h]=U,[tp]=Kp;[Mp]=Ip,[zp]=bp,[Np]=kp;[jp]=cp,[np]=xp;[Op]=yp}X={W(F,P)}D={Y;N(X)}p=v(B,T,D)W=(K)[t(M({105357+-105356;977010+((12409-(-487895))+-1477312);z(575645-591463),z(699683-715287)}),28205507417901-(-784259))]T=(K)[t(M({850877+-850875;-451404+451405;z(-351695+333829);z(-450027+((257681+-782260)+957392))}),455928+21320318117793)]B=x();(y)[B]=p p=(y)[(k)[1009406+-1009405]]v=(p)[T]D=(y)[B]T=(D)[W]D=g(-620401+4294742,{R;i,(k)[-653631-(-653634)];B})p=v(T,D)T=(K)[t(M({548216+-548215,-121820+121822;z(-1013161-(-997934));z(259948-277884)}),33053254339194-856330)]p=(y)[(k)[977963-977962]]W=(K)[t(M({324106+-324104,(-295484-(-262943))+32542,z(554664-570329);z(-458325-(-443360))}),5977850136184-(-796704))]v=(p)[T]D=(y)[B]T=(D)[W]D=u((303388+-580898)+6545448,{R;i,(k)[((-2168271-(-581263))-(-970996))+616015];B})p=v(T,D)W=(K)[t(M({-681723+681724;(-536697+-19296)+555995,594340+-594336,-941272-(-941275),z(-466071-(-449746));z(705350+-720384),z(-728992+713863);z(-58602+42386)}),26288028895636-(-825706+778953))]p=(y)[(k)[712696-712695]]T=(K)[t(M({-799711+799712,65803-65801;z(184718+-201553),z((501752-284491)-(91319-(-143626)))}),1005615+9098174786836)]v=(p)[T]D=(y)[B]T=(D)[W]D=G(((402343-((-389518+-905109)-(-851389)))+-187159)+1923430,{R;i;V;r,B;L,(k)[-638745+638748];C,S;O,q})p=v(T,D)B=Q(B)R=Q(R)end else L=nil b=234793+3762084 i=nil end end end else if b<1002271+(-303976+10781698)then if b<11528360-388431 then if b<(-893543+11588556)-(-358689)then if b<11407044-370755 then b=(y)[(k)[811501-811500]]O=(j)[181798+-181797]q=(y)[(k)[((496072-(-327803))+(165559+-760398))+-229034]]s=(j)[1041809-1041807]i=(K)[t(M({(589719-169038)+-420680,499508-499506;z(227228+-244908);z(-978745+961021)}),17895561138925-(-277919))]i=(b)[i]v={i(b,q,s)}v={N(v)}b=(I)[(K)[t(M({328208-((-667683+(578733+-706916))+1124071);-200316-(-200318),512626-512625,z(((356217-(-284344+699421))+((788569+-1805222)+(-82961+240205)))+901169),z(188215-203635),z(413244-429506)}),(93609-(-157443))+34870351395018)]]else F=(K)[t(M({((-776153+681158)+(-1036700-(813289+(-903301+-945275))))+96411,-1046902+1046904;-891027-(-891028),(-837186+-16397)+(((603497-602250)+233937)-(240087+-858490)),z((584884-797288)-(-197051));z((386071+(1336571-941081))-798355);z(274797-290140);z(239931+-258219)}),(908815+-949708)+15952269776389)]X=(y)[(k)[-234301+234302]]Y=(X)[F]F=(K)[t(M({-108304-(-108305),506816+-506814;z(129964-148333);z(-941036+923840)}),371478+25833382395459)]b=-526671+15439231 X=Y(F)D=X end else if b<10077340-(-1000241)then L=nil v={}i=nil s=nil O=nil b=(I)[(K)[t(M({-698806-(-698809);698573-(646798+51773);543798-(1237614-693817);z((1567849-1032792)+-551570),z(708637+(-82991+-642452));z(-26100-(-10296))}),33486889070245-431545)]]else O=(j)[-531013-(-531014)]b=(y)[(k)[-105951-(-105952)]]q=(y)[(k)[-584945-(-584947)]]s=(j)[803203+-803201]i=(K)[t(M({134070+-134068;((-615628+1002029)+-669646)-(-283246);z(312482-328406),z(909392+((-1625931-(-282364))-(-418618)))}),(7489540394389-179489)-(-792208))]i=(b)[i]v={i(b,q,s)}b=(I)[(K)[t(M({253418-253415;(112658+836027)+-948684,-587752-(-587754);z((-644806-391790)+1018404),z(-1010390+993019),z(-552521-((-156419+-1399312)-(-1020220)))}),20033619473178-(603289-(-63438)))]]v={N(v)}end end else if b<12069869-623705 then if b<-883411+12101915 then v=(K)[t(M({549021-549020;500199+-500197,z(608854+((-291656+-609378)+(56253+217274))),z(205979-221733)}),20448275123485-859891)]b=(I)[v]v=b()e=(y)[C]b=(K)[t(M({-505984+505985;-725264-(-725266);z(677452+-694737),z(11381+-26847)}),(638347+19278486631823)-(-987011+(-172099+1490191)))];(v)[b]=e b=(-1622556-(-948474))+8497185 else b=o b=v and(484640+-1006059)+8899768 or 5406336-412028 end else L=(K)[t(M({-1043714+1043715,(-798120-139416)+937538,z(-1008349-(-991226)),z(-904262-(-889295))}),(-1024611-(-110968))+27859822830240)]b=q;(s)[b]=v b=(K)[t(M({29724-29723;-27474-(-27476);z((261150+-138814)+-139645);z(-987670+972312)}),1038660+26482749618959)]l=(K)[t(M({90750+-90748,847661+(-1561466-(-713806)),-1038644-(222679+-1261326),z(-549976+534286),z(-154432+136134),z(1027079+(((95890+-32630)-351048)-(805616+-50673)))}),23725397705273-(-691410))]i=(s)[L]L=500241-500091 q=b v=i or L i=b;(s)[b]=v v=(K)[t(M({827134-827131;873917+-873916,688796+-688794,z(-55459+38077);z(25480+-42289),z((-67422+988468)-937146)}),23626919759883-(-565540))]L=(s)[l]b=L and-742105+7871761 or 1852288-925089 q=L end end else if b<11819062-166193 then if b<176958+11329562 then if b<1000976+10500874 then b=s and(1011039-779971)+(249926+(752774+12009426))or 14190765-(114712+146628)L=s else b=(507951+(-970009+17132044))-181511 W=963002+(-1011218-(-48232))F=(K)[t(M({-530554-(-530556),-741704-(-741705);-255713-(796500+-1052216),z(221411-236856);z((-534707-230342)-(-750158));z(336424+(-116722+-238118))}),-598676+23480683738237)]p=(K)[t(z(-711244-(-694783)),4305964011899-408681)]R=(K)[t(z(205844-224657),12246349358312-((-1028440-(-385848))+385004))]f=(y)[(k)[855785-855784]]E=(K)[t(z(-1054510-(-1038057)),-513453+(-451002+16070444739571))]S=(f)[E]D=(K)[t(z(-318405-(-302088)),(13063529986899-434435)-(-163321))]E=(K)[t(M({67624-67622;-1033891+1033892;z(-762853-(-744746));z((-838495+806820)-(-13709))}),(905208-(-986040+(2009299-(780995-768908))))+27193176254757)]T=(I)[D]D=(K)[t(M({-537021-(-537023);(-1162581-(-688112))-(-474470);z(-383494-(-367378)),z(-623794-(-606464))}),264760+757384894057)]B=(T)[D]D=665291-665275 T=B(D,W)B=(K)[t(M({482625-482624,594384-594379,472305-472302;55817+-55813;434012-434010;z(-1009733+990922),z(224034-239602),z(780651+-797551),z((-42341-502133)+527764);z(562814-579887)}),-310466+(-272301+32578705020085))]D=(1392376-422022)+(-746001-224352)W=(K)[t(M({(-1024222-(-783714))-(-240509),-285046+285048,z(-226226-(-210456)),z(-1063704-(-1047652))}),(703096+22048177235363)-1023147)]Y=(K)[t(M({((-141489-878629)-(-311143))+(-189975-(323654+-1222605));(903739+(826604+-1667923))-62418,z(((1093487-810706)+(-90147+(-439602+360058)))+-129099),z(((909079-671932)+145924)+-401898)}),504388+21454203704084)]P=(K)[t(z((-46709-(-260868))+-232746),(-337626+(118577+17078128012983))-(678577+(-378357-(-265687))))]X={[F]=P}e={[R]=o,[p]=T,[B]=D;[W]=C;[Y]=X}f=S(E,e)end else if b<11989076-473023 then s=(j)[74402+-74400]O=(j)[(((429858-(-99085))+(-79083+247599))-(-1004609+1557707))+-144360]i=(K)[t(M({1014524-1014523,-653332-(-653334),-786203-(-786206);z(-897790+881841),z(-962252+((1220108-(-542336))-(480840+337294))),z(336558+-353839)}),3787656165740-(-790370))]b=(y)[(k)[154268-154267]]q=(y)[(k)[(882137-593813)+-288322]]i=(b)[i]v={i(b,q,s)}v={N(v)}b=(I)[(K)[t(M({-975863+(256074+((618916+-34450)+135325));-501914+(1172155-670240);-647033-(-647036),z(-103561+88027);z(-641699+625997);z(-976488+959974)}),-977336+29092498954370)]]else H=(K)[t(z(338899+-356949),-527704+34160322919388)]s=(j)[-787579+(1664612-877031)]L=x()v=(K)[t(M({(-957090+966644)-9552,-614320-(-614321),z((425451-167050)-275794),z(721768+-738336)}),5791846323385-746800)]b=nil q=(j)[-222409+222412]O=(j)[92964-92963]i=b b=(O)[v];(y)[L]=b o=(I)[H]H=o(s)o=(K)[t(z(-440442-(-423078)),623274+(208214+14397948529065))]l=H==o b=l and-426812+12450719 or 17232544-670340 v=l end end else if b<((-294833+(96895+(118325+((638503+((-1898124-(-989660+350139))-58221))+1263134))))+11866164)-516435 then if b<11568927-(-217195)then s=(K)[t(z(380266-398726),15252770539900-(-123190))]b=(O)[s]b=b and 10977032-843558 or 2344015-(399046+547681)else L=(K)[t(z(-667046-(-649639)),18624530550224-(100166-441524))]b=(I)[L]H=q V=b b=q and 8295225-315747 or 14313223-793742 end else b=H s=(K)[t(M({(63478-(686430+(126931+-301266)))+448618,655355+-655353,z(-668237-(-31356-((709411-(1215642-860578))-(-264776)))),z((1642640-762025)+-897219)}),19480789804336-432602)]i={[l]=o}s=(v)[s]s=s(v,q,L,i)v=(K)[t(z((950627+-1808941)+841526),13599322774476-623685)]L=(K)[t(M({156984+-156982;-711687+((305038+-348127)+754777),z((382290-469741)+70205);z(965666-(1197949-214788))}),-89890+19315043963935)]v=(s)[v]v=v(s)v=(y)[(k)[607816+-607810]]i=(y)[(k)[396357-396350]]s=(K)[t(M({270045-270044,((88273+-403138)-(-732959))+-418092;740018-(667173+72842),z(-655785+637692);z(-328551+(1027508-715112)),z(-481169+464948)}),18510539065202-(281079+-1326535))]s=(v)[s]q=(i)[L]s=s(v,q,O)v={}b=(I)[(K)[t(M({-424405-(-424408),-975975-(-975977),-377855-(-377856);z(-344228+326938),z(-255120-(-238308)),z(586333+(637334+-1239115))}),1904054123925-500722)]]O=nil end end end end end else if b<(63130+203210)+14275363 then if b<199711+(254226+13036127)then if b<-479361+13410183 then if b<12169238-(-74277)then if b<12255497-169938 then if b<(-275105+12714787)-(72455+440527)then b=H b=-86753+10678609 i=o else b=16118681-(-443523)o=(K)[t(z(-1003414+(-432604+1419100)),(165204+(3908147334957-(-497581)))-400874)]l=(s)[o]v=l end else if b<292367+11822789 then b=(I)[(K)[t(M({-741541-(-741542);-912417+912419;-285086-(-285089);z(-687221+669311);z((720767+(103738+-11544))+(-280887-547887));z(277842+-292793)}),15647705421941-(-986624))]]O=nil s=nil v={}else L=(K)[t(M({657325-657323;((-856937+-145829)-(-5195))+997572;z(((366333-1046659)+272428)-(-670668-(-280427)));z(-780819-(-761987))}),56888+26603722094686)]b=(y)[(k)[971035-971032]]i=(y)[(k)[-176329-(-176332)]]q=(i)[L]v=(K)[t(M({((-918424+(411220+310992))-(-344776))+-148563;-1019841+1019843;z(-39171-(-23361));z(-1046788-(-1031806))}),27286707523023-(-983000+1809339))]s=not q;(b)[v]=s v=(y)[(k)[115276-115273]]s=(K)[t(z(735499+-753236),30084630511452-(583624-503549))]L=(K)[t(M({843389-843388;956098+-956096;z(-745852-(-728330));z(303105+(454793-775102))}),34538979687830-331043)]b=(v)[s]v=(K)[t(M({431670-431669;-453600-(-453602);z(-379967-(-364670));z(-931141+914277)}),812157+12994833832526)]i=(y)[(k)[705131-705128]]q=(i)[L]s=not q;(b)[v]=s b=3828759-929018 end end else if b<13378044-951544 then if b<1009757+11266086 then b=15290952-((963684+(-360370+296773))+-1275469)f=(K)[t(z((556068+-532925)+-41328),598851+32145025384386)]r=(I)[f]f=(K)[t(M({827164+-827162,129251+(149883+-279133);902458+-902455,z(-175475-(-160394)),z((-1444215-(-1032796-(-95700)))+489629),z(909084+-926526)}),25340470381947-951891)]C=(r)[f]V=C else f=(K)[t(M({-671374+671375;100243+(-623537+523297);-449725+(1399160-949431);-812634+(859465+-46829),z(-120063+103646),z(-561151+543820),z(-81308+65271);z(-447490-(-430208))}),320003+20197753181334)]r=(y)[(k)[558025+-558021]]b=13108516-(-476003)C=(r)[f]f=(K)[t(M({538801+-538799;2698-2697,z((692475+-1579866)-(-869431));z((109458+-511022)+382905)}),27612752580089-798478)]r=C(f)V=r end else if b<11728503-(-864303)then v={}b=(I)[(K)[t(M({-337925+337928,-185786+185787;(-51630-(-1039610))-987978,z(-861853+843221),z(64+-16345),z(-1046334-(-1029366))}),804909+7850749805454)]]else O=x();(y)[O]=(j)[717904-((308184-(-280000-(-677592)))-(-807311))]v=(K)[t(M({-245354+245355,512528+-512526,z(1026888-1045709);z(115485+-131365)}),28660482523812-(-643772))]b=(I)[v]s=(j)[-843743+843745]i=(K)[t(z(-304367+286065),1042695910408-(-236025-(-131472)))]q=(s)[i]i=(K)[t(M({(-233933+-269980)-(-503916),-228474-(-228475),-645018+645020,-324084-(-155423-168665);372466+(-978697-(-606236)),z(-37177+18866),z(-129645+(856782-742347));z(-488226-(-471262));z(893222-909506);z(-397604-(-823515+(152905+291370)))}),25537196389514-((-67321-((78880-(-706260))-991115))+381466))]v=b(q,i)v=(y)[O]q=(K)[t(M({1035686-1035685;(((-203375-(-629150))+(710519+-1090789))-679031)+633528;z(-280076-(-264115));z(-382583+(306155+(835423+-776487)))}),31577013058435-(-534876))]b=(v)[q]b=b and 10102967-339171 or((294907+(1176099-996349))+(-851087-(937387-833504)))+2113172 end end end else if b<13074860-(-133826)then if b<1020665+12154646 then if b<(-227197+(12972913-585426))-(-882867)then D=(-470455+-557421)+(233316+794560)b=T T=(K)[t(M({-796673-(-796675),403804+-403803;z(1006458-1021667),z(137591-153712)}),9365925836483-(-296711))]S={[C]=f;[r]=e;[E]=p,[R]=B;[T]=L}R=(K)[t(M({((12991-970192)+1035149)+(361219+-439166),(1751833-1037553)+-714278,-488342+488345;z((1436946-581857)+(-1010198+138090));z(803248-818988),z(-397909+382062)}),3044386156762-878004)]f=(y)[(k)[((1219443-304113)+-803451)+-111878]]T=(K)[t(z(-272101-(340769-594192)),(-448322+7321479423253)-(-780584))]E=(K)[t(z(421247-436886),(951261-1016510)+1126783699468)]r=(f)[E]B=(I)[T]E=(K)[t(M({(390185-523451)-(-133268),(-205329+895988)+(-497329+-193329);z((-780227-(-113380))+650796),z(-304462+288955)}),12264273630016-(-198679))]T=(K)[t(z(681499-696940),835127+32351694084109)]p=(B)[T]T=-1013348+1013349 B=p(T,D)e={[R]=B}f={r(E,e)}r=(K)[t(z(-617302-(-601794)),(604134+(-990645+(644315+(-850885+963502))))+3398907092050)]C={N(f)}H=v(V,S,C)V=x()R=720981-720965 S=(K)[t(z(-10985-7447),33001297887215-(-981741+830456))]e=(K)[t(z((181639+-699137)-(-501550)),(((-776427-(-1047806))+429558)-288937)+7344715244632)];(y)[V]=H H=(y)[(k)[752195-752194]]v=(H)[S]S=(K)[t(z(328187+-343785),10337323366866-(-920429))]E=(I)[e]e=(K)[t(M({243033+-243032,302342+(741624+-1043964),z(824377-839218),z(-869168+854254)}),-924909+14957274980234)]f=(E)[e]e=-830114-(-830130)E=f(e,R)T=(y)[i]B=b R=b p=T f=(K)[t(M({(378730+74076)-452805,284377+-284375;z((-593098+549094)-(-25566));z((892791+-769823)-138374)}),9851488911426-(-900003))]b=T and-969051+14798231 or-673728+6656576 else o=(K)[t(z(-327442-(-309681)),995349910225-(-822674))]L=(K)[t(z(348043+-366830),(-486138+22449776393055)-(1038215+-65300))]i=(I)[L]l=(s)[o]L=i(l)i=(K)[t(M({511365-511363,-365358-(-365359),z(701562+(79452-(585840-(-212868)))),z(-1048591-(-1031965))}),78275+(9600061777927-920056))]v=L==i b=v and(323114+(8840169-(-128811)))-24915 or 3234889-498956 end else if b<13787000-(1444976-850921)then B=(K)[t(M({(-694321+1180020)+(-1092894-(-607196));395065+-395063,z(-41126+23838),z(1012841-1031436)}),(-426137-(-981078))+22616053703276)]C=(K)[t(M({70102+-70101;(1229351-618388)-610960;964176+-964174;z(385381+-402857);z(791169-((452250-995675)+1350529)),z((-57546+103325)+-61937)}),(113109-(-35462))+19157362540836)]l=(y)[o]E=(K)[t(z(76415-95025),979086+((31782600450619-((-89520+792881)-932836))-973456))]tp=(K)[t(z(687822+-706039),16796480009990-(-1043810+((4594-(559161-817811))+1280589)))]Ip=-282017-(-282017)D=(K)[t(M({-792308-(106168+(1015055+-1913535));-994872+994874;-791672-(-791675);142697-(-387682-(-530378));z((708099+-1130879)-(-404413)),z(((1052187-254456)+-824587)+(-1030562+1039280));z(-908675-(-891048));z(-435070-(-417456))}),-190661+15352003395070)]R=(K)[t(z(-156925+(-653639+794140)),569544+28015255482030)]f=(y)[(k)[(707643+(-2116981-(-942006)))-(-467333)]]bp=(K)[t(M({149361-149360;30193-30191;z(-293384-(-278281));z(746978-765688)}),33680280111429-(-984209))]zp=-629628+629641 r=(f)[E]p=(s)[B]kp=(K)[t(z(-86085-(-67360)),27283235824190-486598)]B=(K)[t(M({-999781+999782,(-409635+-266174)-(-675811);z(55319-73570),z(-801826+783721)}),24183545098526-689502)]T=-554700+(351540+(1223339-1020166))E=(K)[t(M({-329699+329700,762475+-762473,z((-479230+408080)-(-288341-(-233745)));z(-507345+490468)}),-337830+31017517708188)]W=-985190.5-(-985191)Kp=(K)[t(z(418735+-434859),-262278+19531249144462)]b=(-465129-(-882429))+6576909 Y=(K)[t(z(-763779-(-746640)),-53962+13252428230178)]h=(K)[t(z(978502-993891),-773915+34977764722895)]P=(I)[h]h=(K)[t(z(-45389-(-28612)),-48992+27086441062397)]F=(P)[h]P=(K)[t(M({-978988-(-978989),(717482+107772)+-825252,z(877141-895125),z(936963-953619)}),-304836+2093426986737)]X=(F)[P]F=(K)[t(M({(-716355+966807)-250449;21366-21364,(-421819-190727)+612547;z(-82941+67312);z(-109040-(464029-554268)),z(153517+-169020)}),779226+16062224562352)]U=(I)[tp]tp=(K)[t(M({(-841673+102079)-(-739597),21616-21615;-102617+102619;z(-625916+608141),z(385543-(610039-207197)),z(((-900561-367612)-(-887728))-(-364219))}),16896591724649-(-247434))]h=(U)[tp]U=(K)[t(z(-352102+335928),-260151+31229812499182)]P=(h)[U]tp=(I)[Kp]h=(K)[t(z(956192+-972334),(-341439+-245264)+33388542452101)]Mp=-269333+269333 Kp=(K)[t(z((543037+-271324)-290181),23348797602969-(-220571))]U=(tp)[Kp]Kp=288688+-288688 tp=U(Kp,Mp,Ip,zp)zp=(K)[t(z((-895177+1507014)-(175955+452925)),-623814+((734727+-1282788)+13160319611941))]jp=(K)[t(M({-813939+813940,866015+-866013,z(-498175-(-1064166-(-582604)));z(397116+-414469)}),263882+15671672014388)]U=(K)[t(M({754697+(((134673-1025922)+-231025)-(-772122-(-404542)));-577111+577112,-617044+617046;z(999838+-1015041);z(619162-((-412184-(-67348+-897682))+83542));z((563641-1011985)+(-402851+834291))}),-200963+(371522+((974623+-5917)+30231755582021)))]Ip=(I)[zp]zp=(K)[t(M({-870856+870858;-925534-(-925535),-524403-(-260696+(-179039+(211972+-296643)));z(-354183-(-336232)),z(195308+-210770),z(11748-29565)}),(17107072961452-(-722347))-(-166872))]Mp=(Ip)[zp]Ip=(K)[t(z(296482+-313440),311167802312-(-36198))]Kp=(Mp)[Ip]Ip=603146+-603145 Mp=(K)[t(M({-788194-(-788198),870508-870503;(-870333-(-388754-(-208702)))-((-3623-276453)-410206);992489+-992487,-171630+171633,z(442736-459322),z(-384356-(-366295));z(-748517+(782167-50871)),z(-368905-(-350549));z(123287-141649)}),(332730+((158174+29928406807386)-(-939359)))-860732)]Np={[jp]=kp}zp=(K)[t(M({(2952+160069)+-163019,347229-((924321-(121523-(870429+-669445)))+-656554);z(-506616+(1021140+-532552));z((-365416-(841409-1028647))+162396)}),-1042142+3880413622169)]e={[R]=p;[B]=T,[D]=W,[Y]=X;[F]=P;[h]=tp,[U]=Kp;[Mp]=Ip;[zp]=V,[bp]=Np}f=r(E,e);(l)[C]=f else q,l=i(s,q)b=q and 5490360-(-168407)or 12487622-794059 end end else if b<805993+(12906228-460626)then if b<13300062-58511 then e=(K)[t(z(-440403+422224),13448793763162-45453)]S=(K)[t(z(395419+-410367),-620947+25347723898721)]r=(K)[t(z(-231076+214755),149640+9258283292736)]H=(y)[(k)[(238078+390893)-(-465916+1094886)]]v=(H)[S]X=b B=226436+-226432 W=b S=(K)[t(z(1028561+-1047237),-564357+((1016324+-1816888)+24421432456218))]E=(I)[e]p=943949+-943949 e=(K)[t(z(-37614+21418),878349+1375935831562)]f=(E)[e]R=-860797+860777 T=-471795-((-1230848-(-711747))+47305)X=(-240649-(-56306))+(502480+-318155)e=(552898+-1145046)-(-592149)E=f(e,R,p,B)B=55917-55907 f=(K)[t(M({-19613-(-19614),478789-478787,z(-67859+49965);z(721183+-738224)}),1752680227243-(-835280))]p=(K)[t(z(609623+(417021+-1044083)),17643047939828-(-29321))]R=(I)[p]p=(K)[t(z(302954+-318872),(18467333286711-1044119)-879128)]e=(R)[p]P=(y)[q]h=(K)[t(M({603037+-603035,-824554+824555;-473510-(-473513);z(481942-497928);z(-197614+179919);z(-293359+277686)}),(1165128-679568)+8921304320431)]F=(P)[h]W=-841740-(-841780)P=-789709+789695 Y=F and P p=-891065-(-891065)D=Y or X R=e(p,B,T,D)T=(K)[t(M({-347931-(116904-464836),214982+-214980;z(-586327+571225);z(-803728+(310552+(-561165+1035607)))}),((1175906-147785)+(338944+-345928))+25528969326211)]e=(K)[t(M({389719-389715;191042-191041,976898-976895;-687487-(-687489),z((592722-749535)+140014);z(340579+-356311);z(-180650+164662);z(668536+-684328)}),472596+19826901214435)]B=(I)[T]T=(K)[t(M({(25083+-1059247)-(-1510506-(631214+-1107555));-348385+348387;z(572830-589074),z(727088-(-251137+996472))}),(13606223392669-305861)-920904)]p=(B)[T]D=(-580943+510814)+70169 T=(-588821-(-594877-(-931841)))+925825 B=p(T,D,W)p=(K)[t(M({-420602-(-1009110+588506),1010091+-1010090,z(608366-625179);z(-493108+474830)}),(52841+24572781235721)-410929)]C={[r]=E,[f]=R;[e]=B;[p]=l}W=650194+-650194 E=(y)[(k)[395835+(-1121097-(-725263))]]e=(K)[t(z(-125155+108219),(66076+14113)+13133389509843)]f=(E)[e]D=(K)[t(z(735696+-751360),-496861+20443508634813)]p=(K)[t(M({-401347-(-401349),-181521-(-181524),((-638808-(-896144))+228173)-485508;z(-599425+583404);z(639062-657822),z(142498-161302)}),(261004+-14779)+24045308120531)]e=(K)[t(M({-342717+342718;-926174+926176;z(856793+-873335),z(-452745-(-436206))}),14211362427518-398474)]T=(I)[D]D=(K)[t(z(-537986+520398),27899555410118-(-403260))]B=(T)[D]D=-31136-(-31137)T=B(D,W)B=(K)[t(M({859083+-859081,1012101+-1012098,-681479+681480,331409+-331405;z(-629608-(-611295));z(-95338-(-78741));z(-762082-(-744577));z(262520+(-1227218-(-946627)))}),385699626330-1018983)]R={[p]=T}E={f(e,R)}r={N(E)}H=v(S,C,r)S=x()R=(K)[t(z(-688441-(-346272-324588)),(2458907084232-(-784459))-(-1015936))]C=(K)[t(z(502222-518331),(-764878+(1141510-(-327770)))+(25583989891873-662736))];(y)[S]=H H=(y)[(k)[386351+-386350]]v=(H)[C]C=(K)[t(z(-921275+902697),579977+22493299150529)]p=357138-357137 f=(K)[t(z(-527255+508904),739664+4825084605998)]e=(I)[R]Y=(K)[t(M({32029+-32027,(-384273-(-1016902))-(1098670-466042);z((-736184-(-272752))+445267);z(-887572+871170)}),12089931752005-694693)]R=(K)[t(M({522914-522912;211338+-211337,z(-841638-(-823835));z(198419+(-93053+-120241))}),16983506341621-750156)]T=(K)[t(M({82299+-82298;-325955-(-325957),z(-1036713+1020649),z(94327-112003)}),261731637956-((98872-(-53233))+-229119))]E=(e)[R]R=-909831-(-909831)e=E(R,p)E=(K)[t(M({692775-692773,-147411+((-1406007-(-988676))+564746),-114992-(-114995),-209914+(832110+-622195);z(724198-742327),z(-319171-(-304009)),z(992120+(-1674020-(-665426))),z(-989438-(-974582))}),542293+1306855742628)]p=(y)[(k)[551258+-551257]]R=(p)[B]W=(K)[t(M({-1009155-(-1009158);(1244208-(-187075+((1885555-(-372189+1254237))-556454)))-984228;(611961-(-446134-(-925980)))-132111,((305981+-1115664)+(582841+-22226))-(77373+-326442);z(-263741-(-246928));z((-225642+-233366)+(1392748-952565));z(-458126-(-441271));z(545435-562014)}),20635986841208-(146+-78357))]B=(K)[t(M({389088-389086,-644997-(-644998);z(230071-247634);z(-76933+60605)}),22302412119929-(-621100))]p=R(B)B=(y)[S]R=(K)[t(M({225097-225095;-244514-(-244515);z(((280015+-289011)+(748696+139910))-897332),z(-903803-(-888126))}),-312717+24239751968920)]D={[W]=Y}r={[f]=e;[E]=p;[R]=B,[T]=D}e=(y)[(k)[-292801+(403333-110531)]]R=(K)[t(z((656766+(-503041-(-181439)))+-353282),7668835627658-(-693911))]Y=-813622-(-813622)E=(e)[R]R=(K)[t(M({-808581+808582,174421-174419,z(232700+-250026),z(-476379+458243)}),10631432642224-(943474-(519824+-83103)))]B=(K)[t(M({(-667349-164715)-(-832065),(-432469+1071001)+-638530,973804-973801,z((-601222-(-853494))+-269984);z(-690506+673904),z(-909850+893582)}),-281443+26962418552482)]W=(K)[t(z(538323-((-51190-453714)+1058970)),-664368+15387851087463)]D=(I)[W]W=(K)[t(z((-646002-(-1000118+815829))-(-444973)),(34928195403465-727306)-(-887667))]T=(D)[W]W=259577-((-1014154-(-236484))-(731797+(-2522756-(-753713))))D=T(W,Y)p={[B]=D}e={E(R,p)}f={N(e)}H=v(C,r,f)e=(K)[t(M({-254010-(-254011);-509132+509134;z(-462677-(-444761)),z(((-280052-(-443835))-(536191-689114))+-333375)}),3649292434364-439722)]C=x()b=(I)[(K)[t(M({-727365+727368,598916-598914,-1010115-(-1010116);z(596921-613888),z(-985919-(-967413)),z(979827+-996338)}),6752197706531-(-233132))]]v=a(5361212-599644,{(k)[(353290-(-124251))-477539];q,i;(k)[-1017101-(-1017104)];C;V;O})f=(K)[t(M({765793+-765791,320690-320689,z(-135085+116359);z(208265+-225085)}),12556838646345-845830)];(y)[C]=H H=x();(y)[H]=v r=(y)[(k)[-799278+799279]]v=(r)[f]E=(y)[S]f=(E)[e]E=G(-480931+(354806+(5998299-311056)),{L,(k)[47386+-47382],S;H,q})r=v(f,E)r=(y)[(k)[-297032+((203792+800000)+-706759)]]f=(K)[t(M({1046117+(490320+-1536435);185377-185376,z(807853-823912),z(((632228+-829813)+436871)-256819)}),(-220196-(-1012673))+23311016692359)]v=(r)[f]E=(y)[(k)[(1417108-787158)-629945]]e=(K)[t(M({582742-582741,(-435062+(177460+-53920))-(89492+-401016);-765604-(-765607),z(428089-(-611016+1056306)),z(601981-((672713+(-1393208-53409))+1392966)),z(385396+(-805922-(-403858)))}),((-978715-(-237198))+22887032176202)-(-404520))]f=(E)[e]E=m(3354741-(-385450),{L;(k)[381938-381934],S,H;q})r=v(f,E)r=(y)[(k)[171376-171375]]e=(K)[t(M({-63380+63381;(528825+-506540)-22283;z(-1023226+1006893),z(458820-474525)}),9109991743392-(-752885))]f=(K)[t(M({-854465-(-1307012-(-452545)),673779+-673778,z(336816-351648),z(-73168-(-54997))}),9211038462041-((92750-(-754943))+-563365))]v=(r)[f]E=(y)[(k)[(-294798-545522)-(-1881312-(-1040987))]]f=(E)[e]E=u(586068+(8355950-130856),{L})r=v(f,E)v=(y)[H]e=(K)[t(M({268981-268980,475451+-475449;z(((-123456-(-30508))+-326707)-(-404142)),z(1040623+-1057212)}),12302928024136-((-876555-(-544070+(-24797-(-254562))))-(-406933)))]E=(y)[q]f=(E)[e]r=v(f)v=(K)[t(M({-468404-(-468405);-720510+720512,z((-735440+1016100)-299015);z(-958586+940826)}),(-709363-170725)+16096881573569)]r=u(2836148-(-261627),{H});(l)[v]=r v={l}else o=(K)[t(M({(1184446-399126)-(529465-(-255853)),-164679-(-164680),z(483875-499804);z(539391-554549)}),8573924593790-(-124588))]b=(434785+(12517371-(-996978)))-19709 l=(s)[o]L=l end else o,V=L(l,o)b=o and 548007+7500492 or 11070972-(-428657)end end end else if b<14233681-(-87744+392969)then if b<12899111-(-954483)then if b<-616140+14189777 then if b<636024+(12145953-(-758326))then S={}b=8818789-((627993+-954314)+1165632)H=S else b=(I)[(K)[t(M({-793684-(-770880-22805);(1515684-(492292+498068))+-525322,(-476720+1077046)+-600323,z(636077+-653641);z((((((-886060+96878)-123014)+2031106)-141664)+-1698743)-((878877+-1395654)+-189486)),z(543372-559817)}),(-742374-263633)+14305797941074)]]v={}end else if b<9441+13663284 then o=V b=S b=V and 760510+4051646 or(5738727-971724)-(-583866)else X=-473816.5-(-473817)W=(K)[t(z(609938-627010),((798630-(-119373))+(-667410+29696900291559))-(-307590))]D=(I)[W]F=(((((-39427-(-283466))-(-28992))+386118)-418988)-16564)+-223597 W=(K)[t(z(921102-937499),19035747013509-924130)]T=(D)[W]W=392591+(-1038778+646188)Y=850190+((-1270964-(-966754))+-545998)D=T(W,Y,X,F)p=D b=365633+5617215 end end else if b<167050+(14316643-(1541215-977203))then if b<13179286-(-1703888-((-310225-(-396601))+-1051344))then b=V H=l;(i)[H]=b V=nil b=7691377-807146 H=nil else s=(j)[-378606-(-378608)]q={c(712674-(1455103-(1465906-723474)),N(j))}O=(j)[((-781992+637187)-832918)-(-983965-((-1410669-(-1025441))-(-378987)))]b=not s b=b and 3048973-1029870 or-740641+1999030 end else H=(K)[t(M({-225407-(-225408);-370498+370500,-332300+332305;(534634-453301)+-81329,322336+-322333,z((-218070-409225)+610874);z(979984+-997654),z(20064+(1007542+-1045637));z(((-745216-(-845745))-535088)+(-88338-(-504974))),z(-135275+((-1928634-(-882488))+1163205))}),34998783810008-(-400657))]f=(K)[t(M({-840171+840172,-105299-(-105301),-163135+163138,z(-540990-(-249393-(-208474+484051)));z(-126287+110435),z(-417909-((((-1400827-(-589527))+-134984)+1550423)+-1006030))}),26079385643802-(-819941+1811726))]v=(y)[r]H=(v)[H]b=(I)[(K)[t(M({(-51730-((-91291-331318)+413802))-(-42925),-976291-(-859516+-116778),((-363040+283555)-(141792+(514040+((-215325-922490)-(-162616)))))-(-362631+602512),z(-259979-(-242871)),z(641731-659584),z(-936368+(805036+(813209+-699772)))}),13557050654144-(-390174))]]E=(K)[t(M({-199337+199338;904435+-904433;z(803443-820475);z(-266047-(-248726))}),(27013731199526-(222132-314239))-((368122-545992)-369579))]H=H(v,f)f=x();(y)[f]=H H=(y)[(k)[156349+-156348]]v=(H)[E]R=(K)[t(M({686584-686580;-238244+238246,-975065-(-975066),-1047624-(-1047627);z(751883-((643832-(595491-(-22555)))-(-741344))),z((-148256-(-588826))+-455783),z(405351+-423616);z(697577-715499)}),(-936015+(351112-(-20430)))+(-158023+(((-653459+25014272671768)-(-522834))-965110)))]E=(y)[f]e=(K)[t(M({((1235071-593818)+330997)+-972248,-989791-(-989795),879500-879497;-471010-(-471015),102407-102406;z(223138+-239149);z(-1033175-(-1622952-(932697+-1540274)));z(295293-312844);z(-906988-(-891688)),z((507050-184493)+-341051)}),304070+(754472+3242684599566))]e=(E)[e]e=e(E,R)E=w(-811117+2744048,{r,f})H=v(e,E)H=(y)[(k)[-526837+526838]]E=(K)[t(M({322579+-322577;-253155+(1023244-770088),z(789711+-805858);z(-63688-(432231-478354))}),917685+17489403872847)]e=(K)[t(M({405396+-405394;-210772+210773,-469038-(-469042);799150+-799147,z(497822-514538),z((1319470-(596238+330836))+-410803),z(-930932-(-915741)),z(426780+-444277)}),26703862159991-(-905987))]v=(H)[E]E=(o)[e]e=w(16216469-714860,{L,C,f,(k)[-238489+238492];S})H=v(E,e)H=g((510039+514005)+3973798,{q,i;V,r})v=(K)[t(M({((-751270+(383845-(-561862+208482)))+-786670)-(-800717),461660-461659;z(941810-959463);z((-325307+1222578)-912244)}),13194994696613-(-663736))];(l)[v]=H v={l}end end else if b<(-577818+291033)+14587689 then if b<14704123-556356 then if b<14570302-590071 then b=L and 16070373-55029 or-473224+3688342 else D=(K)[t(z(475436-((632836+(-123975+((466899+-1311235)+19777)))+806036)),(765047+39000)+20365028462248)]b=E E=(K)[t(M({826735+(-392380-434352);208464-208463;998253+-998251;z(-214798+197542);z(860863-876785),z(-99904+81580)}),29311166097354-493674)]h=(K)[t(z((731199+-1373275)+625506),13606549735602-446184)]B=(K)[t(z(-828641+(-408960+1220752)),19047545135130-(-73535))]p=(I)[B]B=(K)[t(M({995340-995338;-586722+586723,(393600-(-600782))+(1021989+-2016368);z(-666635-(-651026)),z((362823+-943979)-(-564816)),z(-105741-(-88228))}),13179662521950-(955016+-1724840))]R=(p)[B]p=(K)[t(M({-793946-(-793948),418083-(-724109+1142191),z(-502060-(-599672-(-112736))),z(-395497-(-378673))}),-921855+(-815191+((-660972+(237098-(-936301)))+1747454734806)))]e=(R)[p]C={[r]=f;[E]=e}r=nil V=H(S,C);(l)[o]=V H=(y)[O]V=(K)[t(z((1032397+-1501372)+452856),-149418+31247315746731)]e=(K)[t(z((675191+-1017831)+326715),34211687306997-1016616)]S={}o=(H)[V]H=nil l=i(o)T=(K)[t(M({-415826-(-415827);594983+-594981,z(381704-398056);z(-527394+509391)}),-18762+8674619504517)]V=(K)[t(z(-745505+728411),999820+31617518767740)]p=(K)[t(z(553384+((231434-1045359)-(809468+-1052269))),-486670+10821369799865)]C=(K)[t(M({(69648-874490)-(-804843),772616+-772614,z((1055460-514324)+-559142),z(-514206-(-496495))}),(((-89931+-449101)+67922)+465256)+8628350501912)]R=(s)[p]f=(K)[t(M({-426370+426371,1030463+-1030461;z((((243507+-17005)+(-200539+-304167))+(603069+-1103486))-(-763562));z(-584107+565825)}),4438582813452-(-541228))]E=false p=(K)[t(M({343839+(565936+(-257333-652440)),-404468-(58932-463401);z(1018680-1036396),z(236811-(330852-(407632+-328536)))}),22408132756992-(-151219))]B=(s)[T]o=(K)[t(z(-945004-(-927804)),23242029431256-(-227757))]l={[o]=H;[V]=S;[C]=r,[f]=E,[e]=R,[p]=B}o=x()e=(K)[t(z(-290033+273606),((-823478-(-121951-275327))+4963467209823)-140422)]f=(K)[t(M({164686+-164681;370419+-370415;-88421-(-88423),(-163863+(-142609+36002))+270473;-779234-(-779235),z(-227770+210015);z(312620-327766);z(-114040-(-98940)),z(-536285-(-518107));z((-17937+((-1897301-(-962460+885528))-((987891+-2844502)-(821278+(-1568926-159733)))))+871609)}),4963359847464-((-1634888-(-644810))+43621))]H=(K)[t(z(-499441-(-482915)),3152502030873-898109)]C=(K)[t(z(627177+(-33592+((-541117-(-185170))+-253795))),931509+(23428047681882-(-760043+-74637)))]p=(K)[t(z((-784924+1369435)-(710640+-108481)),34990105811348-(577782+-1140311))]E=(-512765-157384)+670150;(y)[o]=l l=(y)[o]S=(y)[(k)[1043888+(-740475-303412)]]V=(S)[C]C=(K)[t(z((-1198637-(-905088))+275528),83886+3696446258466)]tp=(K)[t(z((1020104+(290615+-1647358))+318140),(1305656-740723)+18728227242049)]R=(s)[p]p=(K)[t(M({879892+-879890;-676662+((341304-(716335-(-129165)))+(491687+689172)),z(700244-(-641834+1360476)),z(489963-507613)}),14935158592271-1018527)]T=(I)[D]D=(K)[t(z(-933750+916811),154065+1271829811172)]B=(T)[D]D=((475550+-1051313)+-163774.5)-(147106-886644)P=(s)[h]h=(K)[t(z(((-589776+-346456)+1276586)+(-132771-224895)),14393+13802870957339)]F=(P)[h]P=(K)[t(M({368787-368786,872979+(-1888188-(-1015211));z(893118+-911436),z(472427-487247)}),-604838+34842267370795)]X=(F)[P]Y=-X X=((2122167-602897)-1018060)+(548858+((760536+-1590611)-219991))W=Y/X U=(s)[tp]tp=(K)[t(z(-586938+570177),-1041378+11526564905046)]h=(U)[tp]Y=-213052+213052.5 U=(K)[t(M({488486-488484,-1047262+1047263;z(1014319+-1031804);z(-369920-(-352672))}),27278500470727-52807)]P=(h)[U]F=-P P=(-765957+966788)-200829 X=F/P T=B(D,W,Y,X)B=(K)[t(M({54488-54487;-109999+110001;z((614653-(-25550))-655838),z(804968+-821940)}),-278635+23602704695267)]W=(y)[O]Y=(K)[t(z(80565+-97827),(21022605029909-637377)-173137)]D=(W)[Y]r={[f]=E;[e]=R,[p]=T,[B]=D}W=(K)[t(M({-441599-(-441602);-701254+701258,(905621+(-1479509-(-890544)))-316654;1444+-1443;z(-811582+793930),z(811075-825884);z(575658+-591234);z(571208-(707109-117185))}),9863700218485-(-85552+1583))]f=(K)[t(z(793853-(-1001513+(2105707-293280))),-684941+31577063619273)]S=V(C,r)p=-329037+329038 R=(K)[t(z((-959774+569955)-(-374421)),15268128741278-(-630407))];(l)[H]=S Y=(K)[t(M({-378384-(-378385),-78305+78307,(-980469+(142064+-90517))+928925;z(479123-495020),z((494788-153584)+-358446),z(-568476+552029)}),-10266+29679775509853)]H=(K)[t(M({(-18032+(36897-((135841+-216783)-299542)))+-399347,(44812+-72123)+27312,z((-887406+1205696)-(-643450+(933524+44906)));z(-953119+(567872-(-369342)))}),(588126-(189665+-330912))+21332190476818)]l=(y)[o]D=-866323-(-866353)S=(y)[(k)[70184-70183]]C=(K)[t(z(-586000+((451276-467676)+586811)),(-108870+540846)+16790120344271)]V=(S)[C]C=(K)[t(z(51365-69537),(118019+34015515454084)-(-903023))]e=(I)[R]R=(K)[t(M({-132636+((706017-619290)-(-45910));328286+-328284,z(-638112-(-621259));z(925056-940210)}),-618428+(737054+31219505913491))]E=(e)[R]X=-539086+(281065-(169391+-427482))T=897783-897753 B=(K)[t(M({442632-442631;404719-(-420604-(-825321)),z(670487-689053);z((753112+-1325545)+555754)}),984019+7720490664761)]R=571323-571322 e=E(R,p)p=(I)[B]E=(K)[t(M({963254+(-438075-525178);-161082-(-770625+(((-25826+945553)+(224401-740338))+205750)),719623+-719621;202890-202886,z(835936+-852772),z(-110574+94773),z(648445-666735),z(-725902+709655)}),-656632+11269103910771)]B=(K)[t(M({858479+-858477,874586+(-238676-635909),z((94040-(469781+(752405-(1727603-884141))))-(-268002)),z(114494+-131925)}),34130659710257-46229)]R=(p)[B]B=904647-(831670+(192937-119990))p=R(B,T,D)T=(y)[o]R=(K)[t(M({-1008392+(345278-(-663115));130809+-130807,z(542698+-557954);z((2624+494643)-515936)}),(697275+8553080852407)-(80529+-434297))]D=(K)[t(z(88512-106256),(-1348871-(-775002))+29952772757355)]B=(T)[D]D={[W]=Y}T=(K)[t(M({-890259+890260;330227+-330225;z(523410+(967355+-1506734)),z(-47064+28745)}),34235412278995-(-902678))]r={[f]=e,[E]=p,[R]=B;[T]=D}R=(K)[t(z(-62964-(-45108)),455440+6474450102911)]B=(K)[t(M({-98868+98869,727491-727489;-968981+(761106-(-207878));z(-581375-(-565070));z(433331+-448302);z((79162+-124211)+29924)}),731355+21310974933101)]W=(K)[t(z(217520+-236261),(243359+479930)+((34773108340893-(-277726))-(-249123+(-960839+1350675))))]e=(y)[(k)[(487338+46708)-534045]]Y=-464066-(-464074)E=(e)[R]R=(K)[t(M({31925+-31924;-825468+825470;z((517763-642233)+107683),z(440050-((338591-((-1316753-(-1017881-(-730958)))+1254325))+341367))}),(-149533+34630698154836)-(-750746))]P=(K)[t(M({198452-198451,-471644+471646,z(354148-370020),z(-318509-(149445-450971))}),819581+32958116999756)]D=(I)[W]W=(K)[t(z((444174-154325)+-306984),(565082+10223588684416)-976501)]T=(D)[W]W=255903+-255903 D=T(W,Y)T=(K)[t(z((667041+93174)+-777930),-701897+23509556913404)]p={[B]=D}e=E(R,p)R=(y)[(k)[-434833-((-1195985-(-93494-((-547580+279100)-(-459695))))+476442)]]Y=(K)[t(M({417663-417661;(-397616+802336)+-404719,z((1120166-556012)+-580493),z(122566-139790)}),5296056145451-22694)]U=(K)[t(z(-161775+(-313927+458315)),14064469942936-(-489332-370138))]p=(K)[t(z(-463140+447757),(8692996533721-(-150688))-(-145995))]E=(R)[p]F=59124-(-6192+65246)W=(I)[Y]p=(K)[t(M({-800127-(-800129),-1026804-(-1026805);z(358353+-376377);z(69242-84431)}),-813104+13923693356685)]Y=(K)[t(M({505707-505705,(-21474-32410)-(-53885),z((-1126483-(-760554))-(-449520-(-102278))),z(-738626-(-720332))}),13615401089974-189874)]tp=(K)[t(M({774305-774303;562062+-562059;-141229+141230;z(487456+-504202);z(-535387-(-518341)),z(-351787-(-335327))}),31871683189607-(-972249))]D=(W)[Y]Y=-436080+436150 W=D(Y,X,F)Y=((-608475+496566)-(-436597))+-324687 h={[U]=tp}X=(K)[t(M({((1173370-1044722)+-800906)+(-198526+870786);780008+-780007;872822-((-633919+1984229)-((-816184+457582)-(-836093)));z(734195-752963);z((401547-((-491639+855879)-595764))+-647959),z(-686265-(-667735))}),21757897705376-723029)]D=(K)[t(M({-93078-(-93079);((-355028+-559098)+(517397-(-544305-(-947440))))-(-799866),z(584243-(-219124+(-95465+914159)));z(-741532-(-723518))}),4861768509322-(-130031))]F=(1066864.5-688191)-378673 B={[T]=W;[D]=Y;[X]=F;[P]=h}R={E(p,B)}T=-844319+(((563507-492179)+1140419)-367427)f={e;N(R)}b=q and 1472638-169374 or-565237+1895035 S=V(C,r,f)V=(K)[t(z(-82507+67708),-4377+6257567689724)];(l)[H]=S B=(K)[t(z((1209247-1030475)-194706),(-728239+-253335)+16643632691012)]H=(y)[(k)[(-1012366+1591093)-578726]]l=(H)[V]R=-839105+839105 V=(K)[t(z(-512577-(-497322)),32923218534444-((504100+-1516296)+236463))]E=(K)[t(z(933407+-948584),548373+7346822999029)]e=-815889+815889 C=(K)[t(z(-357677+338972),-959950+(29405901868601-937668))]p=(((((-295903+136463)+-1554811)-(-364767))-(-789132))+263569)+296825 f=(I)[E]E=(K)[t(z(448298+-463383),-127266+2368096767228)]r=(f)[E]E=-651968-(-651969)f=r(E,e,R,p)e=(K)[t(M({-481461-(-481463),704421+-704420,z(-748449-(-731008)),z(-535335+517155)}),8729798834877-44575)]E=-260921-(-260922)p=(y)[o]W=12748+-12740 R=(p)[B]r=(K)[t(M({-206756-((-310560+((471885-(-451284))-680083))-139284);-908254+908257;-535112-(-535116);(177493-(-390519))+-568011;-65567+65572,z(127202+-143689),z(-556563-(-538554)),z(883223+-900854);z(-818164+(236043+565418)),z((-129929-603076)-(-717687))}),3097975700155-(-874247))]S={[C]=f,[r]=E;[e]=R}E=(K)[t(z(-606304+588882),189655+35145071695683)]H=l(V,S)r=(K)[t(M({(113793-(-636170))+-749961,-357397+357398;609157-609154;774149+-774145;471851+-471846;z((800356-(1234472-(944767+-342716)))+-186421),z(-1028033+1010715),z((797271-(760015+-964634))-1019328);z(-261844+245264);z((244221-775603)-((-847327-(-427810))-93291))}),-478311+6561555294251)]S=(K)[t(z(-369609+354057),-136980+30130058295493)]B=958988-959088 V=(y)[(k)[710327+(874391+(-2503214-(-1000454-(-81957))))]]l=(V)[S]p=(K)[t(z(140776+-158854),17479438021195-797750)]f=((-106118+-55025)+712971)+(51276+-603103)S=(K)[t(z((-992231-(-17137))+((-398239-(-779637))+575374)),21743884189465-(-19600))]R=(I)[p]p=(K)[t(z((-594655+(-801772+1521253))-142417),4991342650682-351654)]e=(R)[p]D=(680578+-41504)+-639074 p=-185165+185166 R=e(p,B,T,D)T=(K)[t(z(1026745+-1045083),(702225+(-657532+23596777318717))-(-613546))]e=(K)[t(M({876881+(-1179782-(598987+-901890));-846369-(175256+-1021626),z((-832757+672675)-(-142603)),z(-145475-(-406350-(-276231)))}),6330761980219-239321)]B=(I)[T]D=193374-193374 T=(K)[t(M({74233-74232,69719-69717,z(-105198+90338);z((995956+-1249304)+236914)}),-917698+34432062386050)]p=(B)[T]T=573028-573012 B=p(T,D)p=(K)[t(M({824068+-824066,593221+-593220;z(215664-(1196028-965120));z(1002628+-1021018)}),7305069293353-638952)]C={[r]=f;[E]=R,[e]=B;[p]=H}V=l(S,C)C=(K)[t(z((370002-364169)+(70945-93826)),4941080533304-(-607061))]S=(y)[(k)[-1045490-(-1045491)]]p=(K)[t(z(-611886+596137),30189691507855-276000)]T=(K)[t(z((167631-(-77162))+(((418746+(-511766-239668))+1371297)+(-129657+-1170605))),20067328356443-(-889216))]l=(S)[C]R=(I)[p]f=(K)[t(M({889765-889763,-70311-(-70314),-656870+656871;z(244523+-259923);z(-646578-(-1062702-(-431543))),z(-409969+394932)}),10811611255036-222635)]C=(K)[t(M({693429-693428,(347049-505875)-(-158828);691836-691833;z(-961703+946726);z(927490-944357),z(785149+(-569082+-232726))}),494350+(8198243529292-(-403384)))]p=(K)[t(M({670597+-670594;(-579548+238399)+((-860132-(-74057))+(-497243+1624469)),-772807+(1571713-(958325+-159420));z(104200+-119822),z((-1116212-(-489094))-(-609254));z(530065+-548227)}),16617706061499-(-32584))]e=(R)[p]R=(K)[t(M({-873713-(-873714);311051-((236702-(-119587))-45240);z(-457707+(-311839+750888));z((-976711-(-948959))+10043)}),21245033370768-518241)]E=(e)[R]e=(K)[t(M({-230175+(-621872-(-852050)),-716716-(886698+-1603416);-868165-(-868169);719153-719152,z(-146604+131428),z(-629866+611063),z(-845847+830168);z(-330406-(-314133))}),34713690672090-752042)]D=(K)[t(z((1010152+-32021)+((-678759+-1139900)-(404314+-1226916))),-912581+11152992993723)]B=(I)[T]T=(K)[t(M({(630840+(-255137-719007))+343308,-823162-(-823165);997585-(1167591-(407669-237662)),((-183095-(353725-(-426390+-70546)))+168483)+(1781194-915919);z(171231+(330694-518540));z(676007+(-861784+170695)),z((-116485-902594)-(-1002555));z(808796+-824200)}),817076+34817942943805)]p=(B)[T]B=(K)[t(M({-738412+738413;433140+-433138;z((-406878-12337)-(-400683));z(537244-(690386+(-616749+479204)))}),-808285+22251988698468)]R=(p)[B]p=(K)[t(M({(((-666406+(270771+-508704))-(-71467))+-175080)-(-1007953),(-881177+(-738662-(941638+-1644095)))-(85876+-1003260);z(-179605+162819);z(-646472+((111626-((722786+-857471)-(-661173)))+1043079))}),24949390318194-408995)]T=(I)[D]D=(K)[t(z(-922001-(-903602)),3970821775708-684131)]B=(T)[D]D=-152367-(-152367)T=B(D,W)B=(K)[t(M({-989014+989015,-57358-(-57360),z(((-1500070-(-670503))+520415)-(-178719+-114126)),z(-512315-(-496750))}),(29457464631951-(-897361))-790375)]r={[f]=E;[e]=R;[p]=T;[B]=V}S=l(C,r)end else if b<556531+13596389 then W=(-364167-(-43822))-(-320345)l=(K)[t(z(-672010+(-126321+781524)),-482759+16395472756823)]H=(K)[t(z((-185080+(-340872-(-148255)))+((-892415-(729960+-1559945))-(-423577))),20103537988201-(415575+121530))]L=(y)[(k)[-796681-(-796682)]]r=(K)[t(z(((1083994-343475)+-224564)+-531599),-754809+20915946476060)]T=(K)[t(z(-979604-(-964667)),523381+28875119711616)]R=(K)[t(z(832508-(-279214+1129997)),10519847450371-(-736540))]v=(L)[l]C=(K)[t(M({-930355+930356,367266+-367263,-681770-(-486759-195013);z(475309+-490520);z(570655+-588494);z(-876447-(-857764))}),(-861859+(34256909728655-(-247440)))-(195359-758639))]S=(y)[q]V=(S)[C]Y=-76643-(-76654)l=(K)[t(M({784918-784916;54612+-54611,z(-531710-(-515169)),z(-611692-(-595791))}),21577190882218-391706)]D=-1016699+1016679 C=822344+-822333 B=(K)[t(z(696350-(-328673+1040452)),(2620097289180-(-505636))-(-185528))]S=(K)[t(M({898883+-898881;(-58500-(-495155))+-436654;z(-980866+963043);z((-63391-((439215+((-125927-646958)+1151982))-203297))-(-598534-64690))}),-349920+27272459601977)]e=(I)[R]R=(K)[t(z(-107790+92376),(-696792+(923992+(245133+5292738210343)))-238061)]E=(e)[R]e=(K)[t(M({((474636+-1441019)-(-90163))-(-876222),147671+-147670;z(-393059-(-377089));z(864048+-882304)}),21622974810143-701601)]f=(E)[e]X=(K)[t(M({-989288-(-989289);474556-((316878+236838)+(-183242-(-104080)));z(557181-575520);z(-433767-(-976035-(-558893)))}),948384891698-(-258073))]E=(K)[t(M({-13293-(-13294);36360+-36357;-688391+688393,z(-906144-(-890033));z(-831144+814147);z(-1047470+1030133)}),196004+(-962869+(-446899+26923438848497)))]p=(I)[B]B=(K)[t(M({819996-(562768-(-257225)),-865492+865493,((-62902-(-932489))+-1435500)-(-565915);z(-1013119-(-996587)),z(463486-482267),z(1040367+-1057417)}),(27901978520771-(-509194))-(-133524))]R=(p)[B]p=(K)[t(z(481172-496119),(9633525719209-918412)-(-440674))]e=(R)[p]B=(I)[T]T=(K)[t(z(-62976-(-46287)),15478156014903-(-646329))]R=(K)[t(z(((416733+-289976)+832221)+-973911),7183958815573-(-411428))]P=(K)[t(M({621142+-621140,(1733067-(812774+231029))-689263;z(-46530+31238),z((849157-205717)+-659810)}),-654907+(4089768632548-(-217217-(-334514))))]p=(B)[T]b=-224206+1992402 T=1036831+-1036830 B=p(T,D,W,Y)W=(K)[t(z(-301448-(-283697)),-833091+12245468983231)]D=(I)[W]p=(K)[t(M({684127+-684125;671325+(629916+-1301240);z(293135-(552962+-241960));z(285942+(-234689+-69654))}),742834+(-804037+7794512699772))]Y=272030+(809864+-1081870)W=(K)[t(M({-757179+757181,96785-96784,z(-1035997+(426480-(-594675)));z((119989+-786113)+650725)}),6877039851945-(-143301))]T=(D)[W]W=-882183+882193 D=T(W,Y)T=(K)[t(M({-499399+(((73153-(-676654))-(-776080))-1026483),-789510-(-789512);414543-414542,519287+(556567+-1075851),(((-506788+272000)-79523)-(-528860))-(39796+(-235402+410151)),z((-1622874-(-786557))-(-89140-728884));z(39738+-55647);z(-110699-(-95637));z(123109-138602),z((161262-724147)-(-545461))}),-565842+15172404564560)]W=1026405+-1026404 Y=(K)[t(M({546119-546118,912717-912715,z(622658-(-303651+(1273890-329027))),z(815030-830311)}),34645462476049-(-314426))]h=(K)[t(M({(1014367+(-978927+-474711))+439273;-675532+675533;z(807366+-824437),z(-232100+214445)}),23392315346595-(-278651-(-54059)))]F={[P]=h}o={[H]=V;[S]=C;[r]=f;[E]=e;[R]=B,[p]=D,[T]=W,[Y]=i,[X]=F}L=v(l,o)else O=(j)[(399613+-1385666)+986054]q=(j)[-142528-(-142531)]s=(j)[279248-279246]v=-603225-(-603225)b=q==v b=b and 7215202-(921007+-140288)or-919475-(-998502)end end else if b<14501330-136948 then if b<(15012049-795120)-(-99249)then r=(K)[t(z(808702+(389451+-1216884)),(((-791478+7870952741332)-901152)-(-5823-891487))-(-291039))]C=(i)[r]V=C b=-523597+((-676808+1553210)+15011532)else b=s v=q i=v;(y)[L]=b b=838787+3687206 end else o=(K)[t(z(-899330-(-882439)),-314222+4342957586707)]i=(K)[t(M({-275131+275133,966832+-966829;514283+(-774463+260181);z(424345-442572),z(-256644+238846);z(-54400+36111)}),7263058195810-(-774097))]q=(O)[i]l=(I)[o]b=-434771+7412988 o=(K)[t(M({844940+-844937,(432808+318135)-750941,326086-326085;z(361820-378874);z(-856740+838529),z((-481985+1038073)-(971818+(-894086-((-418722+-422064)+(-1002952+1349543)))))}),727328+25501370538767)]L=(l)[o]l=(K)[t(M({631727-631725;-1020059-(-1020060),(-541159+(((-190424+1181893)+-466110)+-251961))-(-267764);z(-262185+245780);z(-158094-(-142909)),z(-462037-(-445124))}),((148288-1044656)+854908)+18642639589789)]i=(L)[l]s=q==i v=s end end end end else if b<554890+14944242 then if b<601810+14639939 then if b<-995615+15756013 then if b<355411+14289355 then if b<15227537-641134 then b=v and 927937+2349084 or 5901938-93017 else W=(K)[t(M({-901686-(-901688);797669+-797668;z(-854600+837990),z((1391411-804967)+-603880)}),((8015028026488-581555)-(-294104))-(-1019856))]b=R T=(K)[t(M({-20357-(-20358),1005062-1005060,z(-539022+(110543-(-413359)));z((-158951-21106)-(-161422))}),-957906+20751502954620)]D=717345.5-((459334-924931)+1182942)R=(K)[t(M({-861691+861692;999601+((1062322-53246)+-2008674);(((-1897636-(-854371))-(-849535))-(995271+(-1746291-37087)))+-594375,z(286491-301364),z(-758665+742648);z(28712-45252)}),(-780623+(((-276910+((1615154-813842)+518480))+-589617)+981354))+(1337544191176-(-205823)))]B=(I)[T]T=(K)[t(z(-1011952-(-994686)),819710+11132473345742)]X=-301428+301683 p=(B)[T]T=-297787+297787 B=p(T,D)Y=((986498-628118)+(-1519291-(-1788502-(-803764))))-(-176428)p=(K)[t(M({-451110+451113;-219712+219714;-679899+(676639+3261),-722720-(288253-1010977);z(890054+-905431),z(-504306-(-487484)),z(-358571+340480);z((-850321-(((1100944-887155)-((522924+-1759357)-(-407260)))-962666))+(-634415+1547269))}),(1194890-(109571-(-636151)))+28561461214687)]D=(I)[W]W=(K)[t(M({483208+((-536786+(348280+-975563))-(-680862));39879-39877,z((160434-458235)-(-281208)),z(((-857395-(-1045840))+(-936300+-106831))-(-839668))}),9138485843381-379787)]T=(D)[W]W=497239-496984 D=T(W,Y,X)T=(K)[t(M({12704-12702;-511457-(-511458);z(801595+-818754);z(718564+(-1404713-(-670802)))}),10654387930299-(-900834))]W=(y)[V]C={[r]=E;[f]=e;[R]=B,[p]=D,[T]=W}p=(K)[t(M({-66632+66633,(317232+541486)-(798145+((-405341+279308)+186604)),810015+-810012;z((916317-(((-749749-(829035-(567112+425608)))+((-373453+-43485)+(33899+1152878)))-(-737995-(-1025593))))+-1035064),z(((456752+-1106372)+(-724351+2346607))-(297347-(-691887)));z(-477592+460929)}),529500+1665784663742)]E=(y)[(k)[-350514-(-350515)]]e=(K)[t(z(927806-946561),(441620+-302334)+11443816431760)]f=(E)[e]e=(K)[t(M({1047169-1047167,434942-434941,z(-201191+(1003595+(-1482314-(-661376)))),z(9668-24479)}),12429208760593-(-959262))]D=(K)[t(z((-352536-(-1038391))+(-1378585-(53185+-728590))),-304374+14040226655273)]T=(I)[D]D=(K)[t(z(381810+(433801-(124330+706286))),645852+4059898658523)]W=(-920781+(490995-(-775667)))-345881 B=(T)[D]D=-849628+(-301912+1151541)T=B(D,W)B=(K)[t(z(-785181-(-769892)),-949203+22538819992857)]R={[p]=T}E={f(e,R)}r={N(E)}R=(K)[t(z(-1014995-(-997427)),(-89924+8180037269133)-(-519920))]H=v(S,C,r)S=x()C=(K)[t(z(-223661+204871),6298772880104-(-1026400))];(y)[S]=H H=(y)[(k)[-700934+700935]]v=(H)[C]e=(I)[R]p=-861521+861522 C=(K)[t(M({509776-509775;1046442-1046440,z((1371860-397406)+-989568);z(219441-234324)}),23831391395181-605606)]R=(K)[t(M({-849268+849270;955888+-955887;z(929591-947370),z(900364+-917402)}),((536938+-1386699)+22856356545529)-(-521010))]E=(e)[R]T=(K)[t(M({448234-448233,-641308-(-641310);z(1027835-1045112),z(208526-((254610+-616297)+(1239288-654101)))}),(325807+-1247375)+13802211862599)]f=(K)[t(z(190016+-207266),17412663224633-233820)]R=-181144+181145 e=E(R,p)R=-741236+741237 p=(K)[t(z(140261-((847886-137240)+-554747)),15437538914649-734362)]E=(K)[t(M({(-1007515-(-114358))+893161,-177486-(426388+-603876),-710575+710580,-451903+451904,((-181751+929393)+(-821500+(495360-455119)))-(-33620);z(572697+-591248),z(-548387+530263);z(-51598-(-36234)),z(-262039+244226);z(-557418+(1555921-1016340))}),35000094918710-(745678-151915))]r={[f]=e;[E]=R,[p]=B;[T]=L}H=v(C,r)C=x()E=(K)[t(M({-585168-(-585169),44021-44018,-743208+743210;-437652+437656;z((929428+-1305415)+359944);z(-313013-(-297003)),z(683076-(270384+427617)),z(382974-(-466255-(-864807)))}),(12907232420399-(-990691))-(((-608369-(-135209))+867271)-357266))]f=(K)[t(M({((150864+80210)+-1219639)+988567;(338418-(-423674))-762091,z(233190+-250578);z(798741+-817254)}),22398240780295-14455)]v=g((-1034153+867142)+5502778,{i,(k)[120908+-120906];V;(k)[-437101-(-437102)],S,O,q});(y)[C]=v r=(y)[(k)[(-1937639-(-908230))-(-1029410)]]v=(r)[f]f=(H)[E]E=g((70335+(512142+6575832))-297877,{C,i})r=v(f,E)v=(K)[t(M({283756-283755,810995+-810993;z((494674-406565)-(1028462+-923081)),z((-425398-(-828977))-(941721+-520058))}),617853+30760823291497)]b=(I)[(K)[t(M({-837841-(-437165+-400677),-636089+636092,(1246016-921342)-324672,z(-58123-(-40063)),z(454329+-472028),z((766426-765441)-17616)}),-130246+18305358265098)]]r=G(-198444+6302443,{C});(L)[v]=r v={L}end else if b<14607853-(-72410)then Y=((850329+52224)-(-330726+((975402-821618)+549835)))-529660 b=-88527+14705416 T=(K)[t(z((813806-576138)+-254574),14119940488485-925259)]B=(I)[T]W=((-402585-(-67137))+794498)+(-480970.5-(-21921))T=(K)[t(z(724344-739244),(5514201635888-(-207214))-(-930941))]D=-363408+363410 p=(B)[T]T=-1000987-(-1000987)B=p(T,D,W,Y)e=B else b=(y)[(k)[-241628-(-241629)]]v=(K)[t(M({(1054165-(687611+-66956))-433508,((-554226+((804769+-2124145)-(-1022287)))-(-769616))-(-81700),z((-1116504-(-163120))+935080),z(-852586-(-836733))}),5618315655970-(1372133-869188))]v=(b)[v]v=v(b)b=(I)[(K)[t(M({918876-918875;(-691959+1186393)+-494431;-521653-(-521655),z(-510937+(1317640-822433));z(1003736-(547177-(-471842))),z(17761+-32986)}),22431610863024-373619)]]v={}end end else if b<(-968998+15738582)-(-155001)then if b<-695189+15504174 then b=7908788-(-154621+-8604)L=nil l=nil else B=D b=W b=D and(27632+12807914)-(-118217)or 9068408-1037856 end else v=(y)[(k)[246770-((750480+-1226662)+722951)]]S=(K)[t(M({120937+(290645-411580);97491+-97488;803624+-803623;-896765+896769,z(474942+(219677+-710392)),z(952608+-971165),z(697105-714514);z(266189-281803)}),3447268017493-((399790+(637331-626946))-1039719))]O=(K)[t(M({679431-679430,-849537-(-849539),z(52710+-71335),z(-8726-7683)}),595139+9761162917382)]b=(v)[O]q=(K)[t(z(-649978-(-634777)),8133116156666-(-788052-(-577142)))]s=(I)[q]L=524859+((-941254-(-766420))+-350025)q=(K)[t(z(-253867-(-284135+45930)),(755360-488940)+31833903257477)]O=(s)[q]V=(y)[(k)[-84965+84967]]H=(V)[S]q=-825583-(-825583)V=(K)[t(z(-929816-(-911296)),822543+5345683504633)]i=516718-516718 o=(H)[V]v=(K)[t(M({-598964-(-598965);-1032069+1032071,z(746695+-763674);z(-799750-(-783248))}),261825+898346432326)]H=287328-287312 l=o+H s=O(q,i,L,l);(b)[v]=s b=(I)[(K)[t(M({-691736-(-691738);390601+((144512-((-710186-(-176397-798318))+-748144))-1018727),-430295-(-430298);z(-204601+187309),z(-702736+684581),z(861235-(1355854-478860))}),2822919117957-126092)]]v={}end end else if b<15997440-617896 then if b<-935730+16190708 then if b<15039927-(-210190)then i=m((758872+-876417)+7267558,{})q=(K)[t(z((372261-41199)-349293),671512+32250414481505)]b=(I)[(K)[t(M({-214392-(-214393),872446+-872443,461293+-461291;z(242371-258637),z(896428-912270),z(-1054810-(-1036740))}),890027+21831504461976)]]v={[q]=i}v={v}else O=(j)[555267+-555266]L=(K)[t(M({-375076+((1497594-(-845610+1628851))-339275),(-1525443-(896595+-1820341))+601698,z((-457942-1713)-(-444185));z(-144040-(-129137))}),21147369071404-(-680958))]s=(j)[203712-203710]q=(K)[t(z(-701350-(-684718)),(-726313+751584)+14422942563639)]v=(I)[q]q=(K)[t(M({-1011536-(-1011538);-329207+329208,z((-974441+(2031995-29039))-1046424),z(133811-150261)}),493916+18282159929998)]b=(v)[q]i=(y)[(k)[20670-20669]]q=(i)[L]L=(K)[t(M({503269-503267;(-857175+1392526)+-535350,z(-56685-(-41820));z(932952-947847)}),1027754+1164156385141)]L=(O)[L]i={L(O,s)}O=nil v=b(q,N(i))s=nil v={}b=(I)[(K)[t(M({270603+(-945311+674711),-341991+341993,(574899+-1138299)+(168396-(-395005)),z(575010-591727);z((-426024+-7980)-(-415977));z((-254475+131995)-(-104085))}),8255576546144-326381)]]end else if b<691422+14644448 then C=(K)[t(M({(-775757+1795016)-1019257;886924+-886923;z(-979571+960791),z(-144552+127734)}),8443823804672-(-340039))]S=(K)[t(M({-331530+331534;-101337+101339,-511970+511971,-31828-(-31833);(-492102-(-307940))-((350288+197573)-732026),z((440884+-132129)+-325965);z(-988303+(1520093-549094));z(-916992-(-899315));z(199204-(376094+-159018));z(-559094+543770)}),16743520960375-617365)]b=-23541+11250672 S=(l)[S]S=S(l,C)C=(K)[t(z(-485190-(-470163)),28116273237566-857830)]V=(S)[C]H=V==O v=H else b=S b=(225342+-619237)+8961093 o=V end end else if b<791137+14683089 then if b<15389089-(-18460)then i=(K)[t(M({372192+-372191;(-570117+157006)-((427184-(766517-(-207630-(-6861))))+126989),z(-496424-(-480658)),z(788507+-806319)}),-971815+1442419808611)]O=(j)[-245976+245977]q=(K)[t(M({355675-(184002-(-171671)),778366+-778365;z(-1025787-(-1008496)),z(264033-279402)}),-324349+1327622211134)]v=(y)[(k)[-177356-(-177357)]]b=(v)[q]q=(K)[t(M({-673953+673955,963868+-963867;z(724541-(1699516-958900)),z(((((848134+-457199)+-759001)+(-960752+1659994))-50312)+-299257)}),25408213794251-(-284065))]s=(j)[-1034317-(-1034319)]v={[q]=O,[i]=s}q=(K)[t(M({-705619+(1142692-437072);-317481-(-317483),(155+(76066+(905314-945943)))-35589;z(50038-66623);z(-930614-(-914809));z(498027-516612)}),-400667+(27790595474785-(-982004)))];(b)[O]=v v=(y)[(k)[1004517-1004516]]b=(v)[q]v=b()v={O}b=(I)[(K)[t(M({855056-(((-1024572-(-838253))+1170644)-129270);385250-385248;(1245491-479887)-765601;z(-1044894-(-1029094)),z(542179-557452),z(-316424+(989278+-687845))}),(-552084+(-484906+194752))+14631542463326)]]else i=(K)[t(M({(-668550-(-801068))-132517,-945047+945050,(-104347+1079064)-(477330-(-497385)),619322+-619318;z(-710909+694971);z((-248479+1186422)+((526614-668098)+-811719));z(-438997+420380),z(((-818819+-149664)+1082248)+-130066)}),(4381893105552-757047)-(704747+-337986))]q=(y)[(k)[-78220+78222]]i=(q)[i]b=(1005764+-835382)+7124627 i=i(q)s=not i v=s end else D=(K)[t(z(-167231-(-149775)),393572+7377479763142)]S=(K)[t(z(382680+(3102+-403027)),1807256200418-250860)]r=(K)[t(z(-293414+277503),(18385955590889-60076)-(-343000))]H=(y)[(k)[452505-452504]]v=(H)[S]h=-650233+650244 R=(K)[t(z(-273685-(-255692)),4799819715804-(-553781))]P=-692215+692215 E=(y)[q]e=(K)[t(M({-545477+545478;920923-920921,(-142371-(-294854))-((1435836-657824)-625532);z(-406612-(525824+-913706)),z(1003326-1021829),z(11823+-28655)}),(34092356343934-193634)-318946)]S=(K)[t(M({-48825-(-48826);-1023118-(-1023120),z(778041-792975);z((774724-988930)+(780686+-585238))}),85551+95919803206)]f=(E)[e]E=(K)[t(M({692051-692050;-113472-(-113474),z(-939224-(88024-1012389));z(((-209558+779046)-(-842622+1876678))-(-447903))}),37582+3936066037014)]Y=(K)[t(z(241928-260436),5094386064168-(-916968))]T=(I)[D]D=(K)[t(z(-336782+((-476733-(1037553+(-231629-1005108)))+596065)),3262477978801-178433)]B=(T)[D]Mp=(K)[t(M({649262+-649260,-715202-(-715203);z((-356324+((397794-90930)-37043))+68219);z(-122494+106961)}),-666180+12347457612422)]F=-306922-(-306902)X=(K)[t(z(-165531-(-147161)),13518953312214-(1415392-(-539433+(487932-(-461820)))))]T=(K)[t(M({-156385-(-901585-(-745198)),(-1674856-(-672396))-(-1002461);z(59737+-77880);z(-912137+896453)}),458680+(925662+27691065229732))]p=(B)[T]B=(K)[t(M({-410752-(-410754),679998+-679995;-546802-(-546803),z(588617-605163);z(1010698+-1025792),z(465579-483373)}),-901751+34186068865395)]e=805236+-805225 W=(I)[Y]Y=(K)[t(M({-843693+843695,-658908+658909;847543-847540;z((99605-86597)-27841);z(-832002-(-738316-77086)),z((1382941-(((-272490-(-869629))-990793)+(-789362+1816666)))-(-194257-(-959251)))}),6849908024924-(82895+(-1240286-(-822241))))]D=(W)[Y]W=(K)[t(z(-132251-(635904-753077)),337894+18022241403673)]Kp=(K)[t(M({(-1058921-(-513650))+(-275378-(-820650)),940230+-940228,z(175324+-193879);z((((-39025+-822853)-(-376056))-(-479245))-(414168-403840))}),17886818954486-(-859514))]T=(D)[W]U=(K)[t(M({((-230146-(-202865))+-350976)+378258;234799-234797,z(73764+-91390),z(-990247+971596)}),30495565746945-6886)]Y=(I)[X]D=(K)[t(z(501526-520362),32385641729388-(-700424))]X=(K)[t(z(456064+-470865),(21108318897336-474323)-((-691138+1438787)-517327))]W=(Y)[X]X=(136988-(-213794+(450801-73634)))+26386 b=(-164899-37401)+(918353+(534411+11990438))tp={[Kp]=Mp}Y=W(X,F,P,h)W=(K)[t(M({-879330-(-879332);863236-863235;z(-648184+630659),z(-478316-(-462859))}),15598880716572-769043)]P=(K)[t(z(783754+-800960),21656753492160-(-591961))]F=(I)[P]P=(K)[t(M({(-153903-(-615747))+((931342+(30613+-1057213))+-366584),795433+-795432,z(-1065707-(-1047974)),z((-910258-(398985+-842314))-(-451817))}),1482079174782-(-915354))]h=(1374144-869101)+-505015 X=(F)[P]P=(-1019057+1611078)+-592011 F=X(P,h)P=-50296+(-5266+55563)X=(K)[t(M({-441901-(-441904);-691499-(-691501),-786020-(566758+-1352782);64855+-64850;395238+-395237;z((1605898-892817)+-728345),z(106972+-122167),z(387963-405653);z(428952+-445344),z(357711-373844)}),21310398665689-832775)]h=(K)[t(M({-916347+916349,-786411+((-729203+1427548)-(-88067));z(-699448-(-681420)),z((1482265-548354)+(604927+-1555018))}),976556+18873870499203)]C={[r]=f,[E]=e;[R]=p,[B]=T;[D]=Y;[W]=F,[X]=P,[h]=l;[U]=tp}H=v(S,C)end end end else if b<16208392-265819 then if b<15720523-(-2554)then if b<-707562+16359186 then if b<((17187175-(-137460))-((728630+-800745)+853458))-973767 then v=(y)[(k)[(209065+-153710)-((324632+366375)-635653)]]b=not v;(y)[(k)[-751421+751422]]=b v=(y)[(k)[618304+-618303]]b=v and(-665987+3745870)-992898 or 7315237-987957 else O=nil b=(I)[(K)[t(M({518808+-518807,761105-761103,382139-382136;z((571008+-1458237)-(-870161)),z(-142812+127290);z(221121+-237256)}),(-176166+-488502)+31262000198183)]]v={}end else if b<14653658-(-1013826)then b=S b=V and 10980739-(-941892)or 8089645-934813 o=V else l=(K)[t(M({(72554+-422281)+349730;(-870296+-14167)-(-884464);-996473+(1983122-(843786-(-142861)));z(-518135-(-500417));z(735725-752635);z(((1567686-633537)-564603)+-387432)}),167638+(26488087512933-(-364131+45455)))]s=(K)[t(M({((-912301+1785856)+-392553)-(-468941-((117844+452966)+-1520752)),-836762-(-836764),z(-401687-(-386151));z((-1013792-((-157015-(-20686))-274839))+585683)}),8437448866400-214210)]q=(K)[t(M({(802941+-109783)-693156;565743-565742,z(-94474-(-274352+197060)),z(716503+-734616)}),87259+32093318736488)]Mp=(K)[t(M({-263478-(-263480);1007391-1007390;z(-448262-(-430494)),z((((1855519-945307)-714113)+126114)+-338300)}),-954101+19924973208226)]bp=false v=(K)[t(z(54664+-71251),324256265237-370289)]B=(K)[t(M({572673+-572671;-401091-(-401092),z(450289-468045);z(-350368+332253)}),387460+33331080887847)]L=(K)[t(M({(-595137+-289401)+(1343002-458462),985150-(1728082-742935),845635+-845634;-56166+(-129921+186091),z(-659823-(-644808));z(-183265+166886),z((-302093+193979)-(-90995));z((422682-375844)-(-461008+523482))}),(1082950-294292)+7498106864415)]O=j h=(K)[t(M({-365183-(-365185),339457+-339456;z(-778358-((-398204-(-835051))+-1199121)),z(-246390+231426)}),9126630074604-(-156511-(-1027686)))]b=(I)[v]v=(K)[t(M({-580136+580137;575739-575737,z(-425477-(-407646)),z(-649684-(-631148))}),-977205+24049762222582)]v=(b)[v]v=v(b,s)s=v v=(K)[t(z(((-1525622-(-712963))+-1103)+(1003930+-207650)),-105002+20836957804283)]i=(K)[t(M({109959-109958,(1478618-720732)+-757884,z(1020703+-1038001);z(531242+-546389)}),4170410757148-(159917-291685))]r=(K)[t(z(-857883-(-849704+9667)),-582843+(2226773058344-(-921089)))]Kp=false U=(K)[t(z(698822-(251248+464940)),-753182+7817080740400)]lp=(K)[t(M({-769866-(-769867);158829+((-834243+565388)+110028);-760052-(-760056),((945927+-1066097)-678942)+799115,101336-101331,z(922279+(972591+-1913684));z(-81590-(-64568));z(-732072-(-717234)),z(185083-203474),z(-644745-(-626115))}),15221862514155-(641589-254905))]b=(I)[v]S=(K)[t(M({183758+-183757;((-749222-767239)-(-926158))+590305,z(29132-(-398642-(-443801)));z(210435-228598)}),22419584956963-(-614811))]v=(K)[t(M({829383+-829381;(-798787+889586)+-90798,z(698842+-717652);z(628225-643280)}),22704986088396-(-557366))]v=(b)[v]v=v(b,q)q=x();(y)[q]=v v=(K)[t(z(705223-722186),28322642006718-(-774470))]b=(I)[v]v=(K)[t(M({454022+-454020,(-892870-(130551+(611582-813884)))-(-821120),z(-348421+331533),z(597021-613915)}),-152768+(504779+5114494324225))]v=(b)[v]v=v(b,i)i=v jp=true cp=(K)[t(M({((-833904+743964)-530561)+620504;863843+(474232+((-1476240-460696)-(-598863))),821999-821998;z(-939821-(-787603-135022)),z(-724785+707216);z(751095+-766099)}),5350688363120-(594400+-279288))]v=(K)[t(z(-981521+966140),5731922674037-837989)]C=(K)[t(z(864754-879559),6408083507470-(-587054+-138251))]b=(I)[v]v=(K)[t(M({462740-462739,447606-((753355+-928569)-(-622818));z(502644-520186),z((951925+-849712)+-118413)}),(1223+-1002950)+(9268181529320-(-44575)))]v=(b)[v]D=(K)[t(M({-774435-(-774436);501653+-501651;z((535556+499628)+-1053907),z(-85457-(-69330))}),(-962608+25546376623552)-(-315259+1043397))]H=x()v=v(b,L)L=x()V=x();(y)[L]=v v=(K)[t(z(308616+-327038),(582611+((1031561-682664)+-1128289))+14653506660742)]tp=(K)[t(M({-972235-(133597+(138807+-1244640));(-674393-212833)-(-965956+78728),z((-393330+(-880145+534860))-(-721252)),z((130329-(-795610))-943729)}),31343540045615-(-731001))]b=(I)[v]v=(K)[t(M({((483083-846037)+-99021)-(-461977);542179-(408814-(-21833-111531));z(232108-(-796837+1043953)),z((1802038-959559)-(1349847-491726))}),-455075+23903330108872)]R=(K)[t(M({485551+-485550,-803998+804000;z(926661+-942795),z((1017668+-554525)+-478789)}),-796250+18755288606247)]X=(K)[t(z(835302-851130),(-480785+29676908018244)-295918)]v=(b)[v]o=(K)[t(M({637377-637375,-202640+202641;(354599+-1014707)+660111,z(-966637+950378),z((852582+-105532)-764610),z(961912+-980735)}),(42453+221310)+13775296598013)]v=v(b,l)P=(K)[t(z(-807476-(-789266)),(-921779+1416327)+18371837181921)]Y=(K)[t(z((203246-(-821754))-1041985),(9679463850765-958126)-(-814439))]Qp=(K)[t(M({180704+-180699;-584173-(-584174);-773689-(-773691),612890-612887;158147-158143,z(-757013+739668);z(-437177-((-198268+155993)-(((918071-(-590985-207346))-612129)-(78506-(-648565)))));z((298941-91973)-221793);z(698800+(-419279-296105)),z((1472989-(564845-(-57148)))+(-301018+-567629))}),(80393-986957)+26084895540041)]Ap=(K)[t(M({-312425+312427,(-259116-(-845492))+-586373,(76692-(712836+245043))+881188;-626037+626041;z(-936194-(-920757)),z(267262-285146);z(-332206-(-315225)),z(197166-215247)}),4122443012996-644351)]l=x();(y)[l]=v v=(K)[t(z(1044809+(384091+(-657227+-789814))),20542246220973-(-63930))]e=(K)[t(M({672659+-672658,547290+-547287;(849044-652277)-196762;579544+-579540,-919620-(842902+-1762528);-118347-(610944+-729293);z(457041-475300);z((-606710-275104)-(-866133)),z(-1020476+1005580);z((341392+-682789)-(-324103)),z(656004-671478);z(-770797+754706)}),-799092+5148972555770)]Ip=false E=(K)[t(M({(-2666+49693)-47026,(-798342-(-678873))+119471;z(567819+((139247+-865710)-(-140828))),z((-799787+763782)-(-20118))}),(-266320-297339)+25358724998396)]kp=(K)[t(M({-153302-(-153304);-812323-(-812326);925364-(1410381-485018),z(-659626-(-641011)),z(-206582+191041);z(879986-897388)}),20788678131336-(684745+-1622363))]b=(I)[v]f=(K)[t(M({957730+-957728,-223383+223386,157698-157697;z(240437-255447);z(429787+-445440),z((-7296-(-356538))+-367862)}),4400767290492-492061)]F=(K)[t(M({(-788716+1001859)+-213141;(-380474+87002)-(-293473);z(-625533-(-607770)),z(64324+-80143)}),((481425-36696)-(-46143))+9616821159540)]v=(K)[t(M({-469321+469323;((-789765+466170)+(739731-(-569813)))-985948,z(-979164+963168),z(352946-(-423174-(-790989)))}),-626040+5921797688333)]T={}v=(b)[v]v=v(b,o)o=v v=(K)[t(M({421412-421410,((-69762-((-318527+960041)+(388566-653580)))+485286)+-39021;-65563-(813988+-879552),z(-857443+840787),z(451540+(-498150-(-28864))),z((-219509-657494)-(-859188))}),340517+26427009727684)]b=(i)[v];(y)[H]=b v=(K)[t(M({(-788925+36819)+752107;-518069+518071;z(547892+-565045),z((-779943-(-725606))-(-35774))}),19039005408794-(-937281+756453))]Lp=(K)[t(M({(124553+(-64214+(1102069-230990)))-(159491-(-771926)),-478961+478964;-700180-(-700182),z(896080+-914294);z(-789454-(397031+-1170812));z(-119186+103186)}),85974+22900238377385)]np=nil b=(y)[H]W={Y;X,F;P,h,U}v=(b)[v]v=v(b);(y)[V]=v h=(K)[t(z(-159267-(-767877-(-626950))),267123+33211045832617)]U=(K)[t(z((677994-317474)-(893490+(-1009342-((-150770+105267)-448695)))),20074517108010-765966)]Y=(K)[t(M({-1022641-(-1022642);219654-219652,z(326197+-342047);z(170979+-186260)}),23792900308376-(705890+-16474))]vp=(K)[t(z(742628+-758416),(-1007058+1856901)+17985487365611)]v=(I)[S]p={}X=nil Np=(K)[t(M({-894769+894770;545249+(-1389975-(-844729));668643-((-54667-(-1024140))+(125148+-425980));z(-531866-(-514632));z((688160+(-328055-74326))+-302126),z(-704130+(349786-(910145+-1246487)))}),(157730-197491)+21719061993418)]S=(K)[t(M({532707-(533913+((-615093+-354821)-(-968706))),-586998-((272751+-848868)-10882);278282+-278279,z(866043+-882126),z(((-1784687-(-838197))+615711)+313611);z(617296+-633421)}),(424788+-87580)+((-607162+30045943106736)-812150))]zp=(K)[t(M({-256714-(-256716);1048525+-1048524;z(-449943-(-432752)),z(-289878-(-272060))}),26474714806242-(-422781))]b=(v)[S]S=b v=(K)[t(M({-623654-(-623656);-768628-(-768629),z(145595-162938),z(-347328-(-330192))}),388451+7664810772789)]F=(K)[t(M({630290+((((1017661-(-292408+614735))+1022574)-(-651451+1482289))+-1517359);(706527+-701716)-4809,z(46544-64154),z(-99942-(-422944-(890002+-1229875)))}),120636+11342052896984)]mp=(K)[t(M({-84415+84416;579724-579722,z(-964979-(-946773)),z(788348+-806446)}),-1000602+30717351053295)]yp=(I)[vp]vp=(K)[t(M({(886049+-1020579)+134531,-951153-(-951155),z(938664+-957157);z(-538269+519995)}),-1040815+11705553296520)]P=false Op=(yp)[vp]yp=(K)[t(M({(944+-877976)-(-877035),141564-141563,887100-887098;z(1030368-1045743),z((((-1073014-(-1005888))+132691)-1011684)+929483);z(655626+-674389)}),13217733815372-1017189)]xp=(Op)[yp]yp=nil Op=(K)[t(z((47491-(-865313))-929645),-840338+13007750739640)]b={[v]=C,[r]=f,[E]=e,[R]=p,[B]=T,[D]=W,[Y]=X;[F]=P;[h]=U,[tp]=Kp;[Mp]=Ip;[zp]=bp,[Np]=jp;[kp]=np;[cp]=xp,[Op]=yp}e=(K)[t(M({799253+-799249;-451708-(-451709);((184877-486209)+-453722)+755056,68491-68488;z(609655+-625639);z(571306+-589504);z(-328633+(457307-145474)),z(-747805+730527)}),475331+21172863547956)]D=false C=x();(y)[C]=b p=(K)[t(M({-962269+962271,-167912-(-167913);z((1007204+-881620)+-141179),z(-1019744-(-1002164))}),5734955680923-788680)]P=(K)[t(z((484035-(-8724))-((-1342668-(-579454))+(968912+304903))),7496007168931-756443)]E={}f=(K)[t(M({(20997+-189837)+168842;825096+-825095,z((214932-(938743+-981483))+-272806),z(818013-(-299459+1135378))}),(416777+25539951749524)-(((907153-424954)+-1162230)+-130284))]v=(K)[t(M({400486-400485,78587-78585;z(267711+(-180744+-104427)),z(-481660-(-465669))}),470778+25000727685875)]F=(I)[P]P=(K)[t(M({((-729431+946838)+((-697156+(2174793-698259))+-95680))+-901102;(((829342+-1695922)-631227)-(-863744))-(-1369664-(559710+(-1901070-(-605760)))),(519631+-412192)+-107437;z(857034+-875292);z(-361846+344543),z(820399+(-749133-88848))}),(11224117327460-(1450697-981474))-153444)]r={}W=(K)[t(M({862554+-862552,-793976+793977,(-525219-(-1025403))-500181,z(-154974-(-138745)),z(152047-170026),z(824785-840151)}),13008349556771-694054)]T=(K)[t(M({-627860-(-627861);967203-967200,-229619-(-229621),z((-960101+999231)-55725),z(908175-924423),z(-879778+((-288355-619973)+(-1041745+((2664322-(-76482))-(-70693)))))}),-339615+(32802940237359-816993))]X=(F)[P]F=(K)[t(M({967920+-967918,91480+-91479,z((69098+(-1262879-(-1630098-(422437+-1452237))))-(-42126+-535343)),z(-403217-(-386074))}),24637645120630-(-776264))]Y=(X)[F]B={[T]=D;[W]=Y}W=(K)[t(M({130116-130113;-976295-(-976296);-1041158-(-1041160),-1028819+(767797+261026);z((830240-(1009555+-1205101))+-1042490);z(-609494-(-593295)),z(-344974-(-421187+94100));z(-19263-(-2618))}),3211681014297-774461)]F=(K)[t(M({(1095498-550855)+-544641;(-738984-(-825327))-86342;z(1046561+-1064849);z(-606285+(1214419-625681))}),-315764+(-726104+(25606700328885-(-159185))))]T=(K)[t(z(668423+-687180),-920725+32799831438650)]X=(I)[F]F=(K)[t(z(843823-858855),34461294220132-106878)]h=71767+-71766 Np=-62616+62617 Y=(X)[F]P=-57886+57887 F=(376852+627310)+-1004161 X=Y(F,P,h)F=-332793+332793 Y=(K)[t(M({(952960+-1641839)-(-688881);(-656273+1687871)+(-1077700-(-46103)),((-427300+((435701-(-105209-(198393+-605971)))+(-936865-(-21365))))-(-881138))-(-658259+329926),z(-923171-(-905806)),z(123469-141025),z(-211304-(-194675))}),17854674244391-236497)]D={[W]=X;[Y]=F}W=(K)[t(M({368670-368669,-316890-(-316892),z((703080+-102671)+-619249);z(892728+(667942+-1577351))}),13745802516740-(-692934))]P=(K)[t(z(((-383772-(-376227))+-868670)+857549),25322548965061-(-361215+1035476))]X=(K)[t(M({-117999+118000;(196634-368363)+171734;481122+(310054-791172),51046-51043;-380832-(-380834),z(-985595+970734);z(690581+-709350);z(18879+-33877),z(375716+(-483372+92508)),z((-368499+18210)+331682)}),872127+10854247269108)]F=-485073+485074 Kp=(K)[t(z(547251-((1781155-732579)-483860)),839058+10490019408750)]qp=639468+-639413 tp=(I)[Kp]Kp=(K)[t(z(-126090-(-109853)),10405237379629-(-126528-546047))]zp=(K)[t(M({-585389-(-585390),((-400893+((792896+-547501)-(-484281+-530620)))-(-46119))-905520,z(-183665-(-166327));z(707365-(552501-(-172794)))}),404588+35179144454261)]up=(K)[t(M({422655-422651;-761847-(-761852);-144611-(-554804-(-410190));-204333+204335;-1001116-(-1001117),z(-906984-(-1751488-(-862442)));z(827284+-844015);z((13116-564656)+533471);z(-749441+733574),z(-627642+((1391444-(-233475))-1015695))}),-858905+(-107719+24562604207630))]U=(tp)[Kp]Kp=(K)[t(M({-307852-(-307853),382353+-382351,z(-792053-(-773682)),z(-593248-(-1047542+(-725375+1194841)))}),(13496+-728500)+2948205674051)]jp=(K)[t(z(((-714365+(-201734-(-709371)))-747892)-(-937124)),15844674507316-(-1011691))]tp=(K)[t(M({(-865604-(-224272))-((-66228+(576842-(734012-376157)))-794092);532484-532482,z(-359366-(-342102));z(90934+-108165)}),-91090+1517876764757)]h=(U)[tp]U=(K)[t(z(380994+-398265),219265+5327708927523)]Ip=(I)[zp]tp=(K)[t(z((-1589496-(805589+-1768555))+611241),723963+31402341377348)]zp=(K)[t(z(-1063433-(-1047304)),(-89723+216092)+11275796682952)]Mp=(Ip)[zp]bp=-29106+(((534593+391052)+-1950677)+1054139)zp=733698-733697 Ip=Mp(zp,bp,Np)Mp=(K)[t(M({(634684+-1136360)-(-501678);(689803-(-330993))+-1020795;z(-373670-(529394+-887938)),z(-317235-(-300487))}),-809271+20828916440690)]kp=729416+-729402 zp=(-747905+(915718-(-173022)))+(-888477-(-547656))Y={[X]=F;[P]=h,[U]=tp,[Kp]=Ip,[Mp]=zp}X=(K)[t(M({(-712326+206470)+505857,782363+-782361;z(213526+-229622);z(-437304+422145)}),-243124+6941625946420)]P=(K)[t(M({836980+-836979;(-339335+732545)+-393208;-710339+710342,11136+-11132;z(-792260+775444);z(899038+(-645686+-268431)),z((-581467+1205483)-638934),z((253238+315589)+-586960)}),86680+32841389257980)]bp=(K)[t(z(-165606+148313),(-354723+33555246776531)-533048)]tp=(K)[t(M({297456+(-859614-(-562160)),-286788+286789,z(-466573-(-448597));z(573162+-591309)}),-214218+29076210354874)]Mp=-487916-(-487917)U=(I)[tp]Kp=768608+-768607 tp=(K)[t(z(823123-841325),183838+(22722196933952-1000432))]h=(U)[tp]tp=-943930-(-943931)U=h(tp,Kp,Mp)zp=(I)[bp]ip=585063+((860098-(-744731+(2663553-941695)))-467979)Np=323645+(134802+-458433)bp=(K)[t(z((782746+(-363061+238128))-676158),-227516+33665272463255)]tp=false Kp=(K)[t(z(812474-827993),13730901297338-905218)]Ip=(zp)[bp]zp=(K)[t(M({-455651-(-455653),(281653+(1125249-465687))+-941214;z(-1026911+1010773),z(-717950-(-702148))}),32692076134438-916309)]h=(K)[t(M({496258+-496256;-636456+636457,-125039+125042;z(788684+-805718);z(512529+-529120),z(14447+-33049)}),10814457835057-605951)]Mp=(Ip)[zp]zp=(K)[t(z(-397716+382427),-498889+11348363478606)]bp=(K)[t(M({39000+-38999;-320923-(-320925),z((310880+((-934353+122649)-(-408841)))-(-76207)),z(-133091+(457496-342858))}),24622783048328-(-205754))]Ip=(K)[t(z(61479+-78152),856278+29496594097419)]F={[P]=U,[h]=tp,[Kp]=Mp,[Ip]=zp;[bp]=Np}P=(K)[t(M({153658-153656;73107+-73106,z(-655832-(-639040));z(636276+-651945)}),-138591+6516813029231)]Mp=(K)[t(M({((-1959831-(-1026166))+441446)+492220;539683-539681,z(-720185-((917169+-702015)-916872));z(666529+-684972)}),27863572300440-182270)]zp=330741-330740 Ip=114947-114946 vp=(1200065-564415)+(97403-733008)Kp=(I)[Mp]U=(K)[t(M({(264364-(492865-404505))-176002,-651739-(-651742),-393483-(986878+-1380365);609940-609939;z(525245+-543967),z(-904349-(-887173)),z(-42260+24864);z((721971+-739356)-(-1215))}),1050802938962-597155)]Mp=(K)[t(z((373505-((1594931-662050)+-724794))-183247),67642+25390206031394)]sp=4437+-4392 tp=(Kp)[Mp]Mp=((-758478-134553)+1672184)+-779152 Kp=tp(Mp,Ip,zp)Ip=(K)[t(z(-973972-(-957116)),953516+((2491+16283223006127)-(-437629-(-785249))))]Np=(I)[jp]tp=(K)[t(M({387138+-387136,813961-(1259996-446038),255298+-255297;(-500145-473624)+973773;z(-328455+309618),z(625027+-643524),z((-26804-(-178621))-169402);z(915377-933996)}),29061429865327-(-948796))]Mp=false jp=(K)[t(z(991651-1007513),693373620286-304046)]bp=(Np)[jp]Np=(K)[t(M({-176207-(-176208);-625006-(-625008);z(-588364+573275);z(-303430+(158178-(-130008)))}),32057283948008-(-244050))]jp=(K)[t(M({-182380+(-423967+606348),217292-(1232516-1015226),z((1019703+(680365+-2490855))+775162),z(990186-(257182+(315529+433597)))}),26667543444674-1008740)]ap=(K)[t(M({((-806622+2396209)-664225)+-925361;(2650-(-711880+1630910))-(-916382);z(-17987-(764694-764663)),z(1006865+-1025261)}),28237559540713-424648)]zp=(bp)[Np]bp=(K)[t(z(-347608-(-331119)),-479125+3491185339996)]Np=(K)[t(z(166123-(-273351+(-467399-(-922162)))),25210518528712-335629)]h={[U]=Kp,[tp]=Mp,[Ip]=zp;[bp]=Np;[jp]=kp}Mp=29101+-29100 U=(K)[t(M({-417226+417228;-433131-(310066-743198),z(-486242-(-1263659-(-792822))),z(-58793-(-43728))}),(-523388-451752)+21481805665928)]zp=-751082-(-751082)Ip=(K)[t(M({-837948-(-837950),(1462506-948017)-514486;-745391-(-745392),z(-670775-(-654257)),z(-16205-1350),z(-966964+948490)}),17870+4818651616769)]np=-296950-(-297030)Np=-386380+386380 Kp=(K)[t(M({(-1675953-(-718077))-(-957880);406896-(-518395-(-925288));783070+-783065;(551792-859452)+(1135106-827444),(64986+462503)+((416428+(-918605-269434))-(-244123)),z(-706628+688014),z((-153561+190461)-52376);z(493657+((-175198-478118)+(-318011+461954))),z(((574805+-144992)-127092)-321382),z(264992-282689)}),643371+30129912210327)]bp=(K)[t(M({-1036627-(-1036628);-376975+376978;-199366+199368,z(((274105+-260044)-960562)+931614);z(963936+-980507);z(256292+-273783)}),17180214544039-(366105-124954))]kp=(-594381+(-1001862+2293261))+-696938 tp={[Kp]=Mp;[Ip]=zp}zp=-695224-(-695224)Ip=(K)[t(M({521799-521797;(155276-(-792511))-947786;497065+-497062;540913-540909,z(-106158-(-88031));z(-865088-(-847602)),z(-555684+539895),z(-978049+960431)}),(-300830-(-281207))+1650486114476)]Kp=(K)[t(M({(337383-80923)+-256459;(-681086-(-589362))-(-91727);412935-412933,z(410175+-428936),z(1007275-(1229106-((428378+(-820017-(-495005-(-968686-(-480425)))))-(-591227)))),z(881107+-895989)}),7107721690028-(-1031155))]Mp={[Ip]=zp;[bp]=Np}R={[p]=B;[T]=D;[W]=Y;[X]=F;[P]=h;[U]=tp,[Kp]=Mp}Gp=(K)[t(M({641728+(-1350274-(-708547));-302459+302462;649790+-649786,907790-(-42953-(-950738));-98205-(-98207),z(951588+-966638),z(685161-700357),z((-384452-(-1373488-(-1024425)))-(-639824-(-621137))),z(1010954+(-289765+-739831));z(585037-600691)}),758377+22794689668886)]b={[v]=r,[f]=E,[e]=R}r=x();(y)[r]=b v=(y)[r]f=(K)[t(z(24113+-40052),-854153+28686458245430)]b=u(8339374-(-715460),{r});(v)[f]=b Ip=543842+-543802 P=-357775-(-357835)v=(y)[r]p=(K)[t(M({-131930+(-941049+1072981);693329-693328,z(638879-657575);z((586413+-20504)+-582761)}),6281038384695-3123)]b=w(389848+14863237,{r})f=(K)[t(M({340260+-340258,430196+-430195,z(522660+((-255747+272470)+-556706));z(465172+-482615)}),261118+5268058812571)]Kp=-518234+518284;(v)[f]=b v=(y)[r]f=(K)[t(M({-476514-(-476517),-168887-(401096+-569987);-882538+882540;(-732223-19771)+751995;z(189563-204361);z(((1652457-261067)-848556)-557826),z(-656604+639530),z((649133-(-200491))+-868229)}),-940237+(27150817466654-832028))]b=u(16044329-(-189704),{C});(v)[f]=b E=(K)[t(M({-670923-(-670925),-743557+743558,z(-481271-(-464241));z(-467299-(-450466))}),394522+15750755177528)]Jp=(K)[t(M({(-650203-(-490945))+159259,(464206-778626)-(-314424),481458-481453;-534626+534628,(338650-(-544082))-882729,z(-696943-(-680728));z(316447-332802);z(870043-886342);z(708532-((896179+-1152457)-(-980781))),z((-624248+1267083)+-658121)}),15360893796897-(-699872+1298099))]v=(y)[r]xp=812596+-812536 Mp=-941969+942009 b=w(1196767-(31838+886571),{r})f=(K)[t(M({28683+-28682,-158857+158860,((238920-862466)-283888)+907436;z(-299536-(-283930)),z(-673618+656982);z(1011008-(-360433+1387553))}),(-1313420-(-367057))+6653985835490)];(v)[f]=b b=G((607897+((14714796-427069)-(-1033663+1331349)))-(-722250+-65300),{r})W=486300+-486270 tp=-756319+756369 f=(K)[t(M({481412+-481410,194284-194281,-780238-(-780239);z(-854645+838138),z(689287+-707187),z(-361819-(((-522387+692255)+-220734)+-294766))}),812115+8946457490440)]T=-30734-(790832+-821821)v=(y)[r];(v)[f]=b X=-704248+704318 R=(I)[p]B=(-1011734-(-868702))-(-143237)p=(K)[t(M({-531082-(167922+-699005),(264420-((-625827-682521)-(-633692)))+-939074;z(378911-394027),z(-897925+879453)}),411233+29275184827396)]D=58184+-58154 Y=-126411+126481 e=(R)[p]p=-703120+703216 v=(K)[t(z(295080+(-637218+324746)),-419095+(651423+12979786258628))]h=((712911+(-977112+1672049))-652169)-755579 R=e(p,B,T)T=(K)[t(M({76559+-76557;355763-(-681627-(-1037389)),z(-493031+475922);z(-530353-(-515301))}),796431+14618757090479)]e=(K)[t(M({-463834+463836;839585-((-1352028-(329828+-664707))+1856733),1039237-1039234;z(-116442+98610),z(((964431-528232)+-697622)+242787),z(326126+-341326)}),261992+30690349737928)]B=(I)[T]T=(K)[t(M({-405835+((761068+-349268)-5963);454594-454593;z(-229034+(-221963+435720));z(((-895129+77522)+1833944)+-1032715)}),562108+14601710553926)]p=(B)[T]T=279610-279580 B=p(T,D,W)F=853917+((-1026833+400359)+-227383)W=(K)[t(M({158076-158074,942792+-942791,z(805722+((705614+-566317)+-960324)),z(-470868+(-735094+1189243))}),-492687+13647720651936)]p=(K)[t(M({122115+-122112;877906+-877904,820402+-820401;z(195466-210650),z(-437686-(-418880));z((-264804-(-975993))+-729897)}),-463305+(3176441402630-(-564125)))]D=(I)[W]W=(K)[t(M({48412-48410,512713-512712,z(-389346+(-1042958+(738817+676165)));z(-949572-(-933820))}),(1344433-810738)+(26250928131332-365049))]T=(D)[W]W=-38375+38445 D=T(W,Y,X)cp=-1025934-(-1025994)X=(K)[t(M({-37633-(-37634),219555-219553,z((-789700-(-1420514-(-400540)))+-245802);z(258402+-275561)}),12024205958413-640420)]T=(K)[t(M({-137318-(-137320);-107904+107905;661208-661205;z(-970773-(-952262)),z((-99064+-164031)-(-245533)),z(664584-680200)}),26400115682000-(-179480))]U=(901059+-1126544)-(-225585)Y=(I)[X]X=(K)[t(M({948128+-948126,-355123-(-355124),z((((-84691+-472353)+1572268)+-1098662)-(232056-298319)),z(307508-(-677652+1000207))}),-581407+11579713198081)]W=(Y)[X]X=722896-722836 Y=W(X,F,P)P=(K)[t(M({496491-(-363964-(-860454)),-643027-(-643029);z(-356090-(-337635));z(905387-(-195864+1117983))}),33011958969712-931879)]bp=-848321+848561 W=(K)[t(z(((((-394538+-102833)+(129051-(-109675+(364519+-758714))))-(-657763+393626))-(-712645+1250859))+123119),-168154+27083655204543)]F=(I)[P]P=(K)[t(M({886878-(1559059-672183),((((383977-910239)-(-770471))+-1197772)+(322355+239777))-(-1408464-(-969319+-47713));z(733887+-752378),z(881653-896870)}),8831814363405-(-193391))]zp=(180260+-332352)+(218182+-65850)X=(F)[P]dp=(K)[t(M({(-1981233-(-985053))-(-996182),375610+-375606,86888-(-258660+345545),(907846-256301)+(-1010066-(-358522));(-92966+(2175+990346))-899550;z(-499931+483615);z(-914439-(-898966));z((1597117-930263)-681711),z(-713455-(-697511));z((-515317-(-652454))+-152970)}),28935285049443-645572)]P=-782704+782804 F=X(P,h,U)X=(K)[t(M({-941671-(-941673);812865-812864,z(-739073+721777),z(-768263-(-749480))}),-33991+14377798575669)]Op=710141-710061 U=(K)[t(M({-406086+406087;-565740+565742,z(728896+-746462);z(438803-457091)}),(-858198-(-28245))+15412317249364)]h=(I)[U]U=(K)[t(M({-486024-((36070+-978346)+456250),848733-848732;z(-399253-(-383475));z(623295-639016)}),28394782852000-(-563103))]yp=-842641+(998126-155405)P=(h)[U]U=114226+-114176 h=P(U,tp,Kp)P=(K)[t(M({763800+-763797,-787184-(-787185);292772-(-638492+931262);z(-325042-(-306889));z(-365185+(632861+-284754));z(-1014988+996683)}),-111999+4230958531267)]Np=166557-(-345589+511976)Kp=(K)[t(M({806434-806433;-579565+579567,z((((-720706+-14672)-(-518801))+-363595)-(-148442-416821)),z(-517420+502548)}),(-602300+33806095292156)-(-804080))]tp=(I)[Kp]Kp=(K)[t(M({(-1692366-(-929982))-(-612288+-150097),((-1495912-(-1018271))-(847789+(1024964+-2616231)))+((831378+(-2436691-(-854399)))-(-485079));z(836664+-853299),z((-1834480-(-915469+-74316))+827094)}),27786039738778-318517)]U=(tp)[Kp]Kp=((-672783+-57727)+1064423)+-333873 jp=-238090-(-238260)tp=U(Kp,Mp,Ip)U=(K)[t(z((820944+-948058)-(-56507+-52228)),(193555+-978773)+9578746307045)]Ip=(K)[t(M({-982710-(-423907-(161519+397285)),1042753+(-899325+-143426);z((1547850-(((-300534+-111708)-(-918591))-(-91128)))-968383),z(459250+-477759)}),577233+25568669237133)]Mp=(I)[Ip]Ip=(K)[t(M({-16713+16715;(-784652-(-827217+624272))+581708,z(894755-909953);z(-914281+(-78283-(-976205)))}),(1504864332083-(-538196))-(-19350))]Kp=(Mp)[Ip]Ip=385730-385490 Mp=Kp(Ip,zp,bp)Kp=(K)[t(M({577364+-577362,482122+-482121,z(-762423+746221);z(285310+-300957)}),943134+33811740825847)]bp=(K)[t(M({353359-(-782922+1136279);441+-440;z((-449039-28260)+459598),z(-310624+295130)}),(20102414361210-(-271841))-(-667434))]zp=(I)[bp]bp=(K)[t(M({30271+-30269,-862317-(-862318);z(73420+(-531518-((((690918+-883347)-(682750+-537602))-(-822825))-924821)));z(859776+-876531)}),951380+15258546694847)]Ip=(zp)[bp]bp=-541269-(-541439)zp=Ip(bp,Np,jp)jp=(K)[t(M({(1051688-789056)+-262630;696407-696406,z(980112-997271);z(((-683250-(-501660))-(-688212))-524421)}),-321032+6247354733784)]Np=(I)[jp]jp=(K)[t(M({547426-547425,384983+-384981;z(894945+-912545),z(949035+-964565)}),31248285752356-(-778786))]bp=(Np)[jp]Ip=(K)[t(z(65086-82948),275927+15837629420103)]jp=-83819-(-83899)Np=bp(jp,kp,np)bp=(K)[t(z((-186464+-271039)+442537),(-161352-(1046572+-1438508))+3421575415625)]np=(K)[t(M({-258945+258946;33948+-33946,z(-216216-(-199532));z(174346+-192965)}),287263+34506392747179)]kp=(I)[np]np=(K)[t(M({-507443-(-812704-(-305259));-2931-(-2932),z(-192260-(-175327));z(-1035590+(339237+680252))}),625584+10432329651933)]jp=(kp)[np]np=-328725-(-946892-(-618107))kp=jp(np,cp,xp)jp=(K)[t(M({10756-10753;586123+-586122;-809855+(505061+304796),z(912242-927909),z(173250-191389),z(((-1654758-(-877575))+(-752017+(1944824-(-304624))))+-735538)}),6146343410335-162111)]xp=(K)[t(M({(604365+-966687)+362324;-784821+784822;z(493460+((((-2287828-1024748)-(-1017210))-(-742876))-(-1041897)));z(-187777-(-169210))}),1340544833970-((112104+720255)-216551))]cp=(I)[xp]xp=(K)[t(M({-528279-(-528281),434014+-434013,z((452111+-237044)+-232704);z(732152+-748175)}),11045419750415-309568)]np=(cp)[xp]xp=804143-804063 cp=np(xp,Op,yp)np=(K)[t(M({(-866184+1481507)+-615322,-361671-(-617628-(-255955));z(870115+-887819),z(-522834-(-504085))}),27607080904036-(260108+-755738))]yp=(K)[t(M({(347051+((-996633-(-922353))+(-904758-(-281649))))+350339,640281-640279;z((-751237-(-188454))+547301);z((-684089+-336079)-(-1005370))}),(334017+23500555294344)-94407)]Op=(I)[yp]yp=(K)[t(M({795872+-795870,327993-(220267+107725),z((1380247-687835)-707322);z(-794506-(-776398))}),(-161927+1683345170521)-((364792-837080)+(1298965-(646231-(-321447)))))]xp=(Op)[yp]yp=604728-604683 Op=xp(yp,vp,sp)sp=(K)[t(M({(105624-111665)+6043;-101430-((465165-954064)+(-548077-(-935545)));z(-413896-(-395916)),z(275847-293953)}),20292520303575-357615)]xp=(K)[t(M({666654-666653;-101245-(-101248),(807950+(((-851855+1887783)+-1730850)-(-225797)))-(-180689+519512),z((519751-(-232064))+-767572);z(((-1155372-(-387103))+1456832)+-706073);z(183472-199516)}),665416+27315556168365)]vp=(I)[sp]sp=(K)[t(M({983599+-983598,(-1242505-(130191+-360063))-(-1012635),z(-2287-13990),z(67384+-85664)}),12840260669918-(686318+-1648346))]yp=(vp)[sp]sp=-639066+(765284-(670330-(861757-317590)))vp=yp(sp,qp,ip)f={[E]=R;[e]=B;[p]=D,[T]=Y;[W]=F;[X]=h,[P]=tp;[U]=Mp;[Kp]=zp;[Ip]=Np,[bp]=kp;[jp]=cp;[np]=Op,[xp]=vp}Y=(1411371-526927)+(-857301+-26903)E=(K)[t(z(-36264-(-17694)),18044292896746-(-186456+686373))]R=(K)[t(M({62237-62235,259714+-259713;z(822568-839511);z((-501775+-398803)+884313)}),30127537801347-698681)]W=-88313+(709000-620495)T=(K)[t(M({(-390647-(-682133))-291484,(1033953-((2068732-263779)-871309))+-100308,z(501516-518016);z(557006-573308)}),671225+4745098835451)]X=-567022+(-647658+((939969+-1976046)+2250997))B=(I)[T]T=(K)[t(M({-984461+984463,((-503796+-394779)-(-826521))+72055,z((988901-619391)-385727);z(-58100+41423)}),30067699344980-(-134541))]F=(-256067+(-946234+(822839+1190568)))+-811086 D=-919777-(-919880)p=(B)[T]T=(614878+-164525)-450353 yp=(K)[t(M({1003828+-1003827,-313123-(-313125);z(-720665-(-143363-559237));z((-196766-18165)-(-199265))}),-63046+23138126473433)]B=p(T,D,W)qp=(K)[t(M({-539868+539873;521038-521035,671291+-671289;361104-361100,(-168753-(-146315))-(-22439),z(-98147-(-83029));z(846947+(-272816+-591582)),z(-441397-(-423987));z(-466773-(-447977));z(757326-776157)}),19857671488371-308086)]W=(K)[t(M({(-981423+1631216)-(1159532-509740);118555-((533227+-1457105)-(-1042431)),z(-435746+420367),z(935449+-954272)}),-898955+26594385665942)]p=(K)[t(M({761088+-761086;(-747334+1638830)+-891493;-84179-(518950+-603130),z(-628640+610586),z(-780223-(-764909)),z((576421+8486)+-602081)}),-378503+16384780279595)]D=(I)[W]W=(K)[t(M({-596964+(-934132+1531097);-303265-(-303267);z((872738-414032)-476374);z(340076-357287)}),28691506951740-(-615892))]T=(D)[W]W=(507676-((-133633+-9341)+(1456825-299181)))-(357273+-864507)ip=(K)[t(M({-751372-(-751373);880790-880788,566075+-566072,z((903982+-72414)+(116121-964223));z(-434316-(-418472)),z(-343365+327307)}),3677707833851-359950)]D=T(W,Y,X)T=(K)[t(z(1023458+-1039460),(-253935+729392)+33409261218354)]h=((1021169+((-680019-(-1038131))-391626))+12506)-1000081 Kp=21190-20935 X=(K)[t(M({451793+(-1345998-(-894207)),323208-((422398+55910)-155101),z(-896756+881855);z(137388-153092)}),26137832957551-(-865591))]Y=(I)[X]X=(K)[t(M({631169-631167,(870124+-864072)-6051,z(220132+-236174);z(-290395-(-275354))}),-108039+((5374135864955-((-1018795+1166014)+-255569))-588442))]P=-535527-(-535547)W=(Y)[X]X=(-141885+-263089)-(-31377-373617)Y=W(X,F,P)Mp=(1927296-885259)+-1041817 P=(K)[t(M({(1042428+-18006)-1024421,-474079+474081,z(-831976+814140),z(1010563-1027173)}),16172224573691-(-699788))]Ip=-851175-(-851395)bp=660700+-660450 F=(I)[P]U=835635-835555 W=(K)[t(M({-323754+323755,-230774-(-230776);z(87747+-103129),z(-478153+460484)}),635070+15598781010139)]P=(K)[t(M({990628+-990626,29330-(-1637+30966),z(((532411+677514)-(-704542-(-1022110)))+-908066),z(708405-724338)}),(31431946301962-394352)-340003)]Op=(K)[t(M({-600863+600868,-239685-(-239686),693096+(-617210+(906799+-982682)),-986524-(-986528);-210736+210738;z(-735779-(-720556)),z(409120+-427178);z(804282+-820514);z(-963-17785);z((1707596-(-1025464+1967464))+-782985)}),5057188796614-(-949416))]X=(F)[P]P=574056+-573976 F=X(P,h,U)xp=(K)[t(M({-746647+746649,723961+-723960,1027500+-1027497,z(-274693-((-784286-147735)+674826)),z(-185124+166339),z(202121+(-31452-187299))}),605838+26951726219366)]X=(K)[t(M({814060-814058;496375+-496374;z(-420540+404525);z(201223+-217187)}),189486+(846380+28129414421518))]gp=(K)[t(M({-358325+358328,710129+-710127,-946078-(44783+-990865);-134586-(-522419+387828),334736-334735,z(707282-725635),z(48586-66164),z(-685442-(-669931));z(326377+(82293+((-663253+-302841)+(((904952+-616596)+570182)-317983)))),z(-482355+(-382184+(-902332+1749405)))}),(18635586274621-(-761346))-(-297232))]np=(K)[t(M({-720450+720451,671428+-671426;z(-824304-(-807331)),z(49432+-66791)}),741877+25292375034553)]U=(K)[t(M({-47583+47585;882140-(-547441+1429580);z(544858-563406),z(-908996-(-119215-773945))}),376432+20385311488977)]h=(I)[U]U=(K)[t(M({-180579-(-232157-(-51576));80735+-80734;z(471729+-487144);z(438069-452973)}),-72411+32081268103177)]P=(h)[U]U=-654078-(226942+-881275)tp=175183-174928 h=P(U,tp,Kp)Kp=(K)[t(M({(774518+-419422)+-355095,-820023+(771739+48286);z(871024+-886250),z((603474+(936034-844424))-712396)}),13937386768425-676148)]P=(K)[t(z(-958485+943539),16388433357907-(-1381244-((-1309758-188750)-(-806220))))]tp=(I)[Kp]Kp=(K)[t(M({-63161+63163;367905+-367904;z(947660-(-44391+((-717690+1544101)+182441))),z((-444773+-371752)+798510)}),(8230147962955-(-797579))-(928031+-536866))]U=(tp)[Kp]Kp=(-471718-(-23323))+(-821540+1270155)tp=U(Kp,Mp,Ip)zp=-974664-(-974914)Ip=(K)[t(M({571942-571940,-205967-(-690537+484569),z(685027+-703062),z(-897399+879005)}),12302148681774-511760)]U=(K)[t(M({(94639-289048)-(-194410);455071+-455069;z((210779-(-313835))+((649968-607070)-584559)),z((1810193-844211)-982841)}),24579507046668-(471943+-1321685))]Mp=(I)[Ip]Ip=(K)[t(M({(47803-(-795909))+-843711;-495170-(-554478+59306);z(-308460-(-290646)),z(-832286-(-814784))}),6499131112207-(-533027))]Kp=(Mp)[Ip]Ip=1044263-1044013 Mp=Kp(Ip,zp,bp)e={[R]=B;[p]=D;[T]=Y;[W]=F;[X]=h,[P]=tp;[U]=Mp}B=(K)[t(M({-515872+515874;-481951+481952,z(-728951+(1443826-732360)),z(-15004-943)}),-372537+(-681288+35176950015255))]R=(K)[t(z(-665084+647095),27708418245007-(-885690))]W=(K)[t(M({-102412-(-102414),-937850+(-458722+1396573);z(103502-120943),z(643222+-658942)}),100303+(600240+6183151987129))]D=(I)[W]sp=(K)[t(M({(20861+(1059666-219075))+(99411+-960860),-971851-(-971853);((155056-290307)+574299)+-439047,z(586095-602225);z(999632+(251560+-1265978));z(-867935+850078)}),462588746560-121280)]W=(K)[t(M({-199511+199513;-56337+(808312+-751974);z((1085262-956188)+(-945223+797953)),z(702163-718372)}),14586661796338-805600)]Ip=682107-682057 T=(D)[W]tp=12332+-12162 cp=(K)[t(M({950188+-950187;886317-886312,718573+-718569;((-275692+814077)+-1568286)-(-1029904);(563184+-347531)-215651;z((943338+-1819618)+858290),z(157338+-174485),z((-658600+1486035)-845984),z((-350127-(-631958))+-298266);z(625209-643014)}),(867144+(29058341673856-(-393964)))-1004713)]U=-32545-(-32785)X=937972-(1649941-712134)Y=13564+-13399 W=-168627-(-168687)D=T(W,Y,X)F=-343229-(-1014552-(-671293))T=(K)[t(M({148128+-148126;-265806+265809;(-237263+(680291+-76705))+-366322;z(-753268+735125),z(100961-118718),z((-558882-(-628977))-85558)}),-1021919+16502461535739)]X=(K)[t(M({98690-98689,-166706+166708,z(279304-297745);z((923223-966168)-(-25160))}),-278128+18375175475843)]h=62800-62560 Y=(I)[X]P=924076-924046 X=(K)[t(M({95477-95475,-528706+528707;z(427787+-443117);z((-553822+332282)+205196)}),-160901+2484954241381)]W=(Y)[X]X=344401+-344371 kp=(K)[t(M({-345949+345951,103657+(-780919+677267);128383-128379,-156339-(-156342),120548+-120547,z(1028670+-1047043),z(926759-943668),z(1030800+-1047108);z(-775794-(-449104+-307944)),z(20452-36306)}),-584848+16281459304829)]Y=W(X,F,P)Mp=(418990-(342160+(129441+-218026)))-165365 Zp=(K)[t(M({(1090433-(47614+320314))+-722502;-633038+633040,-529589-((280607-(642921-(-83110)))-84166);z(953424+-969152),z(-166205-(-147469));z(-126316+107710)}),24232762386457-(-271849))]W=(K)[t(z((-667490-245179)+896972),26703322263367-(-302339))]P=(K)[t(M({(202879+226934)+-429812,531192+(-455776+-75414),z(264538+-281990),z((-995319+1441931)+((217438+-1702048)-(-1019285)))}),3129+26389068813628)]F=(I)[P]P=(K)[t(M({-882426-(-882428),(-586171+232278)-(-353894),z((110116-636294)+510472);z(-368998-(-353428))}),-557669+7639243583474)]Kp=250106-249936 X=(F)[P]P=-9447+9687 F=X(P,h,U)X=(K)[t(M({215532-215530;((-894584+84424)-(-346983))+463178;z(-733904+((-1263758-(-977921))+1001339)),z(235045-253245)}),(-259247+((30304801734721-1006857)-(-258234)))-(-523056))]U=(K)[t(M({-813303+813304,15710+-15708;z(-263383-(-909362-(-663091))),z((335133+-437566)+85593)}),479657+12075483963626)]h=(I)[U]U=(K)[t(M({204411-204410;-1830+1832,z(-57144+39486),z((-1734193-(-777564))-(-941379))}),(672818+102360191595)-(-944743))]P=(h)[U]U=687021+-686851 h=P(U,tp,Kp)P=(K)[t(M({-525978+((-1293638-((1481690-702963)+-1592299))-(-1006046)),668863-668862,z(((79033+(-634181+1094087))+190141)+-745685),z(-257465+238980)}),27321803597194-(94668-(-210453)))]vp=(K)[t(M({-95798-(-95803),-421567+421571,251784-(1270028-1018246),(((-243283+719886)-(556866-(-379922)))+1258510)-798322,275431-275430;z(-729709+(139305+571597));z(-512242+493578),z(162328-180748);z(-971044+955812),z(-691715+674889)}),4018748485463-(-136205))]Kp=(K)[t(M({324865+(-867858-(-454644+(-855127-(-262437+-504340))));598414+-598412,z(-213502+197938),z(43024-(-373124+434881))}),374682015713-888544)]tp=(I)[Kp]Kp=(K)[t(M({-772748+772750,536379+(59848+-596226);z((-88235+321742)-(-748786-(-998183)));z(921889-((-28423+(((-553039+128405)-(-863080))+288540))-(-242092)))}),227575+6960799261043)]U=(tp)[Kp]Np=(K)[t(M({885438+-885436,(-221154+((757976-((-734534-(-721605))-(-48747)))+-1159779))+658778;(605778-987158)+381381;-265314+265319,142538+-142534,z(465598+-483914),z(-640575+625782),z(((-966004+2002938)+-868681)-186765);z(652470+-671309),z(-470611+455419)}),1028406+1729068244378)]Kp=615846+-615796 bp=-41121+41166 tp=U(Kp,Mp,Ip)U=(K)[t(M({-415886-(-415887),(-87612+(106840-140973))-(-121747),z(847258-866034),z(-799813+784872)}),7241903337247-400335)]Ip=(K)[t(M({-775335-(-775336),504026+-504024,z(((261280-(-698886+188238))-943758)+154979);z(-999642-(-981948))}),22650+14306606574089)]Mp=(I)[Ip]Ip=(K)[t(M({-489951-(-489952);884290+-884288;z(-471521+453074),z((-147295+503335)+-373144)}),(1819180-851644)+34088348644477)]Kp=(Mp)[Ip]zp=593539-593494 Ip=-990485+((503198-(-276650+-258302))+-47620)Mp=Kp(Ip,zp,bp)Ip=(K)[t(M({962433+(790664+-1753095);667676+(-1679495-(-1011822)),-844393-(-844394),z(379278-395532);z(250733-266383);z(884817+-900527)}),31090697709248-976840)]p={[B]=D,[T]=Y;[W]=F;[X]=h;[P]=tp,[U]=Mp}X=(K)[t(M({-306873-(-306875);-229738-(-229739);791473-((-96973+1839751)-951308);z(-518857-(-500923)),z((284082+-1239274)-(-46949-((-217534+824503)-(-284446))));z(984408+-1002819)}),14812770731944-151573)]bp=(K)[t(M({932173-932170,599264-599263;-218210+218212;z(970094+-988527);z(-458917-(-443614));z(-949173-(-1561018-(-627830)))}),(31856240475123-(-1033657))-(-139688))]W=(K)[t(M({722143+-722140,((1145861-189385)+-1997871)-(-1041397),-983631+(306781-(-676851)),z(991783-1009513);z(264188+-280369),z(224078-242364)}),22818428371569-(-313445))]b={[v]=f,[E]=e;[R]=p}E=(K)[t(M({692691-692688;-540371-(-540373);271832-271827,998185+-998184,(116788+-741046)-(-624262),z(56710-74475);z(-506348-(-490329)),z(831627+-847628),z(641757+-656544),z(-162070-(-143639))}),276683+2936089616912)]T=(K)[t(M({(-911437-(-328330))-(-583110);((-728446+-120420)-(-277137))-(-571730),(867601+-1267091)-(-399492);z(773751-791440),z(-813104-(-794554));z((370060-591316)-(-203921))}),22369915370847-(-673433))]e=(K)[t(M({-96484-(-96487);598245+(356779-955022),(218895+-958551)+(-189853+929510);z(365096+-381415),z(462439+-477614),z(991339-1009161)}),8102201341733-((-917007+852476)-498237))]v=(K)[t(M({(334756-(-111319))-446074;-858841-(-858843),-884888+884891;z(45124-(361960+-301208));z(402776+-418316);z((-717376+(843858+671085))+-814563)}),650970+30659986144887)]P=(K)[t(M({-812499-(-812501);375580+-375577;(978591+-1102413)-(755148+-878971);z(-409850+391667);z(-555445-(-537724));z(-433458-(-417176))}),15332573614193-(-283916))]D=(K)[t(M({-646558+646560,-298912-(-298917),-1005197-(-1864614-(-859413));442258+-442257;(365220+((724511-(963946-(-734897-(-762222))))+829738))+-982845;z(-939994+923591),z((-959617-(-344431))+597802),z(83498-98853),z(775735-(738753-(433620+-486293))),z(103900+-119459)}),32150828117883-1031877)]p=(K)[t(M({(19308-225902)-(-206597),(-832546+(360159-(-785574)))-313185,-204762-(242960-447723),z(559544-577737);z(-507913+492308);z(-660594+642448)}),((236475-(-562846))+25446132975221)-(1093740-339893))]U=(K)[t(M({-408701+408704,-51011-(-51013);107653-107652,z(-745913+(-437850+1166204));z(-831746+816706),z((336365-(-551157))-(490315-(-415503)))}),((-491145-(-600048))+188189)+30721760634679)]h=(K)[t(M({960349+-960344,805340+-805336;682370-((-19941-712271)+1414581),(285557-279040)+-6515;-311265-(-311268);z((-351005-693579)+1026074);z(127292-143452),z(715182+-730326),z(465340-482348);z(773504-(410374-(-379711)))}),34864372515154-327599)]Mp=(K)[t(M({(1197342-547507)-649832,(((475689+-1516126)+86329)+282639)-(-671473);-941623-(-941628),928999-928998,-6214-(-6216);z(-224270-(-208129)),z(1004345-1021298),z(133661+-150164),z((-805788+(-84609+1160340))+-287714);z(-71837+53165)}),(20939125314412-559053)-42006)]jp=(K)[t(M({-973478-(-973479),693611+(-563733+-129876);-603363-(-603366);z(-251182+(190359-(-44601)));z(-247923+230729),z(-449066+430749)}),21998553203473-(134423-(-340773)))]zp=(K)[t(M({-608418+608423;-178897+178899;-522299+(723086+-200783),759456-759455;528794+-528791;z(-588069+570453);z(923129+-939415);z(51486+-68794);z(-78890-(-60325)),z(535001-(603491-52024))}),32870600061949-(-955621))]f=b wp=(K)[t(M({968346-968344;-942880-(-942884);(335009-661283)-(-326275),967343+-967340;z(-744698-(-729206)),z(743717-761883);z(938769+-956676),z(557829+(815226+(((-1018430+(870232+-1256302))-(-446590))+(-974450-(-544458)))))}),-642549+27665387912610)]Kp=(K)[t(M({82531+-82528,495579+-495577;590887+-590886;z(-233179-(-217701));z(354810-(879415-507504)),z(994416+(-206807-802736))}),31336186568306-807837)]B=(K)[t(M({639536+-639531,(-203180-(-217335))+-14154,424581+(371201+-795778);((-314799-(568339+-1410084))-(-614443+(283605-(-53995+(82561+-551193)))))+-335154;403176+-403174;z(970671-988619);z(-471060-(-454737));z((-1185548-(-700589))+(1051050-((-896506+1439172)+(245187-206594)))),z(156445+-174771),z(865014-883347)}),436099+6009761287855)]R=(K)[t(M({-985348+985350,(-164714-83578)+248296,-91205+(-353378-(-444584));221900+-221897,113654+-113649,z(-616228+597568),z((22821-18164)+-22572),z(603712-620556),z(681045+-699629);z(-12796+-4798)}),530928+7920918470005)]tp=(K)[t(M({-108939-(-108944);375324-(-575532-(-950852));92229+-92226,(818573-751564)+-67007;-62539+62540;z(-846507-(-829323));z(-471963+454296);z(625570+-644130);z(-985239+966424);z((883366+(-569788+-738435))+(876632-(-87848-(-555263))))}),527230+6893257539214)]F=(K)[t(M({(-453451-92588)+(((1115954-790968)+-193355)+414411);-490966+490967,(868515+-778111)+-90402,(1290989-(-404907-(-730874)))-(273473+691544),838218-838214,z(502845-520259);z(19939+-35621);z(237427-255660);z(-783219-(-767989)),z(-880801+863583)}),-833082+6212283063064)]Y=(K)[t(M({(-214734-(-127254))+87481;(-649236-(-386944))-(-262295),-499683+499688,323769-323767;603849-603845,z(-939389-(-922391)),z((619618+-1554508)-(-918230)),z(233611-250698),z(-64320-(-130113-(260290+-341834)));z((635146+315538)+-968172)}),25918634357490-(-495913))]b={[v]=E,[e]=R,[p]=B;[T]=D,[W]=Y;[X]=F,[P]=h;[U]=tp;[Kp]=Mp,[Ip]=zp;[bp]=Np,[jp]=kp;[np]=cp;[xp]=Op,[yp]=vp;[sp]=qp,[ip]=Qp;[Ap]=up;[wp]=Gp,[mp]=gp,[ap]=dp,[Zp]=Jp;[Lp]=lp}E=x();(y)[E]=b b=A(14044197-124726,{})e=(K)[t(M({110356-110353;-216187-(-216188),964897-964895,z(924850+-942478);z(714586+-730806),z(-1037374+1021256)}),652418+21474463763499)]v=(y)[C];(v)[e]=b v=(y)[C]b=u(-886844+15187350,{})e=(K)[t(z(820857-836619),4573006754839-(-970860))];(v)[e]=b e=(K)[t(M({-758863-(-758865),-817956-(-817957);z(333084+-350717),z(912902+-928558)}),-369208+(14736571115854-(-702991)))]v=(y)[C]b=u(446555+3791530,{E});(v)[e]=b e=(K)[t(M({-179365+179368;314059+-314057,-146368+(-667290+813659),z((-645453+1038458)+-411576);z((386880+-1327311)+(829004+96062)),z(45060+-62455)}),-469870+20304805012534)]b=m(-869541+13629432,{r;q,H,E,L;C})v=(y)[C];(v)[e]=b b=Z(974727+(502263+(9290414-(301707+-1054231))),{r,l;C})v=(y)[C]e=(K)[t(M({(798139-1021910)-(-718462-(-494689)),-241866-(-241867);z(96149+-111091),z(392167+-409482)}),803750+28933522550268)];(v)[e]=b v=(y)[C]e=(K)[t(M({443797+-443796;-1000591+1000593;z(533326+-550164),z(-683815-(-666988))}),4020841504754-(-341755))]b=a(-829264+7494172,{r;C});(v)[e]=b v=(y)[C]b=u(-801061+9277429,{r;l})e=(K)[t(M({847244-847243,(-276102-(-277761))+-1657,z(((-255879+631240)-(-198716))+-589650),z(510813-528366)}),774077+(3864057462364-((-668581+-7682)+1445785)))];(v)[e]=b b=d(10486391-923484,{r;l})v=(y)[C]e=(K)[t(M({635199-635197,277675+-277674;z(-28000+11759);z(543896-560671)}),(-479193+34344474104657)-(-610450))];(v)[e]=b e=(K)[t(M({-733912-(-733913);-751105-(-751107),z(-879701-((-1303972-(234593+-58183))-(-616444))),z(-857789-(-842071))}),-723073+2756715254615)]b=m(8466162-868919,{r,C,l;V;L})v=(y)[C];(v)[e]=b e=(K)[t(M({-1032877-(-1602363-(-569485)),400487-400485,z(751362-769835),z(-667452+651094)}),6570842980699-691674)]v=(y)[C]b=m(5012602-431684,{r});(v)[e]=b v=(y)[C]e=(K)[t(M({(-432389+-36344)-(-468735);-110710+110711;-812950+812953;z(-905964-(-888137)),z(-382775+(269595-(-97715)));z((-48717+-964309)+995534)}),-769957+3373303699879)]b=a(((-1006312+293226)-(-941111))+9141204,{r;E,l});(v)[e]=b b=u(-622193+16376262,{r})e=(K)[t(M({-687189+687191;404363+-404362,z(860471+-875443);z(492895+-510932)}),(976855+-531375)+35111838740395)]v=(y)[C];(v)[e]=b e=(K)[t(M({623769-623768;503812+-503810,z(398106+-415953);z(982154-((466529+(321934+762024))-551444))}),1033525+476091840595)]v=(y)[C]b=m(-339394+964618,{});(v)[e]=b e=(K)[t(M({-35181-(-35182);(-442071+633158)+-191085,z(717466-((304738-(-100568))-(-330935)));z(-344476-(-329293))}),31207079598230-1012785)]b=a(16150937-136069,{r})v=(y)[C];(v)[e]=b v=(K)[t(M({(587529+-345957)+-241571;482074-482072,z(977026-994686),z(-17407-(-1583))}),(((-998044+3830812955425)-(-792881+316218))-(1284893-(-992089+1521653)))-155416)]b=(I)[v]b=b and 10769181-(-433402)or 7276328-(-546775)end end else if b<15386108-(-647581+(-690482+819137))then if b<15980653-211137 then O=(j)[-23975+23976]q=(K)[t(z((358307+-496255)+122479),(1019244+-235348)+24056292712633)]s=(j)[(-972041-60673)+1032716]i=(K)[t(M({(581279-718291)+137013;((656424+-20468)+-1071951)-(-1320417-(-884420)),z(-833669+818520);z(222104-(-691204-(-929596)))}),-349805+((-928379+1338422)+13639698559777))]v=(I)[q]q=(K)[t(z(-744496-(-728502)),(1047511-279293)+25386918928271)]b=(v)[q]q=(O)[i]v=b(q,s)b=v and-248104+(206849+(3794975-588993))or((-252164-(-153092))+12320836)-(-368194-((1187278-605947)+-1064072))else b=V V={b(H)}o=(V)[273586-(134704-((-876153-77676)+814950))]l=(V)[245803+-245801]L=(V)[70225+-70224]b=492273+9460489 end else H=(y)[(k)[-1003757+1003758]]S=(K)[t(M({34666-34665,(-639007+((822170-(-742543))-387581))-538123;z(588465-((-192717+-213705)-(-1013195))),z(-88258-(73178-(-109109+253871)))}),26898546474858-760149)]V=(K)[t(M({956792-956790,-244439+244440,z(574023+-591595);z((140286+-952631)-(-793747))}),-455700+14582929153466)]v=(H)[V]V=(L)[S]S=w(9725246-(-891273-(-173602)),{(k)[639503-639501];i;(k)[-88031-(-88032)]})H=v(V,S)S=(K)[t(M({-10141+10143,-350061+(-523087-(-873149));z(-169664+151648),z((-1074320-(-201712))+856997)}),18613366488210-191745)]H=(y)[(k)[(399667+(-256092+-812560))-(-668986)]]b=(I)[(K)[t(M({869540+-869537;-159445-(-159446),536125+(776507+-1312630);z(-652291-(-636553)),z(-43441-(-28034)),z(629860+-647700)}),23130149415511-985855)]]V=(K)[t(M({(558701+-978939)+(-174527-(-594766));47901-47899,z(198976+-217048);z(-781548-(-763142))}),27253507554035-(-930170))]v=(H)[V]V=(L)[S]S=g(-425602+2362676,{(k)[-795664+(166313-(-1231835-(-602482)))];i;(k)[359450-359449]})H=v(V,S)S=(K)[t(M({765814-765811;(54289+818455)+(-488011-384732),494058-494056;-952712+952716;z(-640448+622825);z(-840545+825595);z(735017-750725);z(-147682+131487)}),-677459+25306842310723)]H=(y)[(k)[-818260-(-818261)]]V=(K)[t(M({-976829+976830;866114+-866112,z(-14798+-1076);z(-245516-(-227592))}),(3645856917910-209724)-617635)]v=(H)[V]V=(L)[S]S=w((5664594-(-639547))-970501,{O;q})H=v(V,S)v=(y)[i]v={v}end end else if b<-161168+16544450 then if b<16893382-878380 then if b<(379899-(-39866))+15583765 then Y=491562-491582 F=(224702-788817)+564126 f=(K)[t(M({96762-(-744580-(-841339));-301592-(-301593);814200+(1043973+(-733864+-1124307));z(-931607-(772075+-1687314)),z(((-829421-(575144+-621021))+788202)+-21734);z(-862569+845851)}),428704+24822972960444)]E=(K)[t(z(541973+((-661834+-145985)+249101)),15366076693560-(-564888))]B=(K)[t(z(-877931+859695),29382424034655-(((189316+((11244+(-625428+-1613865))-(-1028803)))+1604899)+-1330541))]H=(K)[t(z(705803-721197),(-168461+-521818)+1872470023778)]o=(y)[(k)[-861522+861523]]v=(o)[H]r=(y)[q]H=(K)[t(M({-435812+435814,-778699-(((-1792-(-818944+1292877))+190235)-(659263-(-971936+1137989)));z(-121936-(-104217));z(1038851+-1055475)}),5762757129783-129022)]C=(r)[f]r=(K)[t(M({-859835+(-137686+997522);-611643-(-898968-(-287323));z(673905+(287262-977943));z(367060+(704653+-1086876))}),5490407485286-(-831587))]f=(113802+-175640)+61849 p=(I)[B]B=(K)[t(z(973165+-989024),(33193299154002-198161)-(-165564))]W=(K)[t(z(694865+(308614+-1020652)),17085908306227-(-25473))]R=(p)[B]D=(K)[t(z(149916-165265),22117+919290013407)]X=834872-834872 p=(K)[t(M({604001-603999;923108-(-991584+1914691);z(-228225-(-211525)),z(-120219+104149)}),128194232633-410012)]e=(R)[p]S=(K)[t(z(592877+(856719+(-2212309-(-746446)))),1518388699948-529708)]R=(K)[t(M({-765343+765346;387018-387017,388184-388182;z(322109+-339543),z(498536-515891),z((-1558723-(-840528))+701844)}),8202065037821-(-559937))]U=(K)[t(M({376272-376271;85329-85327;z((90491+-1115389)+1008431);z((-1252487-(-1005238))-(-230095))}),28850+16631410087727)]T=(I)[D]D=(K)[t(M({59697-59696;(1407325-1040019)-367304,215822+-215819,z(570243+-587817),z(197113+-211964),z(-638629-(-620240))}),210341+5568270405586)]B=(T)[D]T=(K)[t(z(1027784-(1723946-679328)),13166345733005-375965)]p=(B)[T]B=(K)[t(z(-967776+951992),15015801375062-(-718231))]D=(I)[W]W=(K)[t(z(-206878+190155),768367+25086759805177)]T=(D)[W]W=842809-842808 D=T(W,Y,X,F)T=(K)[t(M({879819+-879817;145660-145659;z(794090-811726),z(-473286-(-456629))}),747336238833-(-889052))]F=-324787+(-567301-(-892112))X=(K)[t(z(-819553+802403),(5094534669314-(-935483-(-911835)))-(-10205+-670818))]Y=(I)[X]X=(K)[t(M({(57559+-444080)-(-386522),(323126-(-7871))-330995;z(273213+-291618),z(233450-(-384428-(-635382)))}),(147548-44135)+18287910175815)]W=(Y)[X]X=1033704+(-396739+(68602-705557))Y=W(X,F)X=729261+-729260 P=(K)[t(M({196465-196463,943977-943976,z(-91036-(270583+(-257243+(-876835-(-288729+-499734))))),z(460335-477532)}),-309063+(22791474493988-712976))]F=(K)[t(M({(1201468-((-654307+1031129)-(-312498)))-512146,-805957+805958;z(-584216+568973);z(-118860+100195)}),9932579547662-(-556026-50095))]W=(K)[t(M({642790-642788,((329828-788677)+569641)+-110791,892446+-892442,-228596-(-228599);-853994-(-853999);z(-114004-(((778771-441757)+588013)+-1023719));z(-526736+508692);z(-759435+743523),z((1706131-665186)+-1059240),z(575448+(-299279-292925))}),((1454108-865850)+1248095421168)-(-313492))]tp=(K)[t(M({-851662+851664,456188+-456187,z((1335146-356321)-995500);z(-570010-(-551438))}),28986255668132-940346)]h={[U]=tp}V={[S]=C,[r]=f;[E]=e;[R]=p,[B]=D,[T]=Y,[W]=X,[F]=l;[P]=h}b=7374218-402918 o=v(H,V)else v=(K)[t(M({-564677+564678;476001-(986733+-510734);z(510779+-527526),z(394628+-411517)}),75748+2133063617678)]O=(j)[-497245-(-497246)]b=(O)[v]b=b and-73883+231086 or(963595+1472863)-839040 end else if b<16211362-((-1423124-(-648272))+841830)then o=(K)[t(M({(892404+-124529)+-767874,278968+-278966;z((-691002-(((-16176+-426391)-524510)-(-773996)))-(-482481)),z(-152145-(837908+-971733))}),34707461418622-222619)]l=(K)[t(M({(-480881-(-9056-1037078))-565252,208182+-208179;-827184-((58500+(71045-460865))+-495866);z((-98069-499698)+581515),z(-195797+(-926144+(879420-(-224106))));z(39551-((-179309+-858310)+(429228-(-665119))))}),11522468524869-447250)]L=(y)[(k)[-75967-(-75968)]]b=(L)[l]l=(s)[o]L=b(i,l)b=2495867-(-719251)else s=(K)[t(M({636652+-636650;(-251569-(-1028903+1443382))+666049,z((208672-(-494019))+(-1638729-(-919079))),z(-83517+((728855+-782418)+119055))}),-176291+30554588659139)]v=(I)[s]O=(j)[-899793-(-899794)]q=(y)[(k)[-558296-(-558297)]]i=(K)[t(z(-90356+73956),34748592430443-(-224103))]s=(q)[i]b=(v)[s]s=b v=s b=s and 993667+1191328 or((895016+13297790)-386412)-(474453+-1225127)end end else if b<216256+16337046 then if b<(17405677-293082)-624022 then B=(K)[t(z(35279-51305),33119308343862-(-215986))]R=(K)[t(z(-632117-(-616171)),886106253971-(-595188))]f=(y)[(k)[491351-491350]]E=(K)[t(z(-79196+61657),-6779+20308411588255)]U=(K)[t(z(-816823-(-801302)),628814+(32484448137775-(927574+51388)))]S=(f)[E]p=(i)[B]B=(K)[t(M({(775196-665609)+-109586,710163-(389923+320238),z((-834498+1012195)-193058);z((-780557-117269)-(-882590))}),20637926050100-(-1048417))]E=(K)[t(M({-151374+151375,-715579+715581;z(736000+-753523);z(947283-(1808179-(761828+(-645000+727858))))}),14746112522458-(-255951))]F=(K)[t(z((-814330+537215)-(-260904)),861801+5273815677801)]h=(K)[t(z(865810+-881330),18343361648605-(-284791))]T=-917273+917286 X=(I)[F]zp=29111-29135 D=(K)[t(z(110053+-128307),14804678305349-557195)]Kp=b F=(K)[t(z(-308554+292426),-1021375+9746528538087)]Y=(X)[F]X=(K)[t(M({-187103+187105;37512+-37511;978739+-978736;z(210182-(433232-207872));z(301198+(-627931+309042));z(-956362-(-938258))}),20066201725169-(-159891))]Kp=(-232150-(-19378-(-251826)))+464599 W=(Y)[X]P=(I)[h]Y=(K)[t(M({-1027421-(-1027424);-250374-(-250375);955997+-955995;z(-704061-(-687544));z(942569+-957482);z(59468-76217)}),-920403+2993547122772)]h=(K)[t(M({-261294-(-261296),-269571+269572,-853611-(-508063+-345551);z(-853696+837197),z(408281-423847),z(-81594+64519)}),-366922+((382787+561480)+26398673914703))]F=(P)[h]P=(K)[t(z((148345-(-83222))-247649),983489+29781539709204)]X=(F)[P]F=(K)[t(z(856928-(1467430-(-403819-(-999027)))),26294488977272-(-405644))]h=(I)[U]U=(K)[t(z((518887-100786)-434390),2788330017099-270087)]Mp=o and zp P=(h)[U]U=-647901+647902 Ip=b Ip=-225422+225422 tp=Mp or Ip Mp=(226279+-139187)+-87092 h=P(U,tp,Kp,Mp)tp=(K)[t(M({(((-611286+897795)+-639545)+986297)+-633260;783787-783785,z(802560+-818354),z(85686+-104323)}),13666560428670-(-320733))]P=(K)[t(M({-905834-(-905839);978243+-978239,-813577-(-813578);(-41472-(-782713))-741239,-636218-(-636221);z(-296331-(-281494));z(249750+-268454);z(91246-108795);z(-742640+724589);z(-412212-(-394459))}),9750377518084-(-171181-(-455543)))]Ip=(K)[t(M({-934881-(-569762+-365121),169603+((39827+379959)-(1629501-1040113));z(-352521+(-736313+(-227134+((-60823-709833)+2068697)))),z(-315751-(-300131))}),(81920-(-546102))+24723656153110)]U=559589+-559588 Kp=(K)[t(M({-330054+330056,75174-75173;z(201378-217621),z(-82735+66566)}),-905651+(-320325+6387524841501))]zp=(K)[t(z(443520-460025),-255441+(25401572617312-(916376-379963)))]Mp={[Ip]=zp}e={[R]=p,[B]=T;[D]=W;[Y]=X;[F]=h;[P]=U;[tp]=C;[Kp]=Mp}jp=(K)[t(M({-203950+203951;253620+-253616,-788186+788188,(568580-255363)+-313214,z((840530-687856)-167860);z(59687-(-449437-(-525684)));z(966580+-985217);z(858916-876442)}),6021327456301-262175)]P=(K)[t(M({750486-750485;548607-548605;z(788784-806470),z(85511+-101128)}),407567+957872958115)]h=(-959298+(75329-(-679210+-314786)))+(-529201-(-419274))W=(K)[t(z(127339-(475082-331695)),(373920-(-333742))+1621020239984)]f=S(E,e)f=(K)[t(M({-680106-(-680108),465054+-465053;z(149273+-166757);z(123901+((991346+-121023)-(785043-(-1216757-(-989482)))))}),6048087940208-423219)]S=(y)[H]e=(y)[(k)[(860713+-1240280)+(1057915-678347)]]B=(K)[t(z(724964+-743469),755175+17798992032481)]R=(K)[t(z(-526609+509647),642125+28356868058924)]E=(e)[R]D=(I)[W]W=(K)[t(M({208031+(173773-(891187+(-459417-49968)));(1438063-409291)-(860745-(-168026)),z((-477301+956324)+(516479-1011025));z(88808-105860)}),32879129446267-(-247413))]Ip=(K)[t(z(264853+(-345990+62822)),15823658433863-41871)]tp=(K)[t(M({-124782-(-124784),963164+-963163;z(-1001406+983103),z(-1044725+1028895)}),6469651953313-((34033+587475)+((821097+-1018865)+181423)))]R=(K)[t(M({-907915+(1888015-980097),-211796-(-211798),(-1072839-(-708906))+363934,z(-567243-(824669+-1374401));z((-1344322-(-629276))-((-394548+576557)-880193));z((-524964-(-258566))-(533356+-783840))}),3914803100258-(-775740))]T=(D)[W]Y=181274-181273 W=885675-885674 D=T(W,Y)F=(I)[P]U=(368637+(236+-536794))-(-168021)T=(K)[t(M({-1008550+1008552;741805+(340698+-1082498);-704774-(-704777),524780+-524776,(669992-(-271464))+-941455,z(148853+-164766);z(211286-227787),z((-157522-171424)-(1043187+-1356054)),z(21591-39719),z(((-489962-206516)+310051)-(-370902))}),3725680827532-(-814390+722675))]W=-597477-((((((-189480-161177)+(-964828+-530140))-(-1024508))+1105106)-(-837846-(247286+-653213)))+(-1648834-(-335448)))P=(K)[t(M({-213432+213434,-352122+352123;z(-276630+258003),z((-105760+313223)+(333356+-557807))}),25409932904562-(47624-837268))]zp=(-388860-(-1036043))-647183 Y=(K)[t(M({(-27612-(-218198))-190585;-441811+441813,404603-404599;-320757-(-320760),z(467889-485532),z(-962734-((887928+(-296752+-533853))-1003589));z(-402495-(-386823));z(662286-680930)}),-266395+2477863787082)]X=(F)[P]P=302905-(887754+-584949)F=X(P,h,U)h=(K)[t(M({-653710+653711,335630+-335627,18323-18321,-386734+386738,z(1033163+-1050692),z((967243-575782)+(-687766+280687));z(651105+-667477);z(448025+-464503)}),55066+26337416588477)]Mp=(I)[Ip]U=625930-625926 X=(K)[t(M({(-1033310-(-917214))-(-116099);413703+-413699;853897+-853891,-641999+642001;600066-600061;694542+-694541;z(((-512936+(((-768569-(-792756))+967786)+(-325288-(-420158))))-770188)+178253),z(-654172+638866),z((-596811-(545177-583571))-(-540556)),z(145382-162266);z(-774559-(-758165));z((-180721+62593)+(578918-476972))}),31522700047606-112086)]Ip=(K)[t(M({584533-584532,((-358882-((897327-281327)-(-71799)))-(-265243))-(-781440),z(-408842-(-393129));z((-1446561-(-769147))+659768)}),-735851+12506683990110)]Kp=(Mp)[Ip]P=.9 Ip=-235234+235234 Mp=Kp(Ip,zp)Kp=(K)[t(M({578261+-578260,-143061+143063,z(984657+-1001964);z((97830+-227010)-(-111261))}),-688992+9370120895534)]zp=(K)[t(M({169697-169696;-623149+623151;z((-1403178-(-579958))-(-807328));z(((152971-(-403435))+-170053)+-404492)}),(((-148754+-2662589)-(-934548))-(-909217))+8082458301467)]Np=(y)[L]Ip=false bp=(Np)[jp]p={[B]=D,[T]=W;[Y]=F;[X]=P,[h]=U,[tp]=Mp;[Kp]=Ip;[zp]=bp}D=(y)[(k)[679096+(-1093695-(-414600))]]W=(K)[t(z((-1928150-(-932001))+981008),24839249205942-515338)]Kp=(K)[t(z(-65660+49125),929020+3122029930244)]T=(D)[W]h=(K)[t(z((232106-(-956932-(((516880-585722)+-269575)-(-57476+(955115+-854080)))))+-822293),((-1863505-(-941045))+1281546)+13358792808553)]P=(I)[h]X=(K)[t(M({518573+-518572;-15780+((-258888+(387862-(-767455)))-(1529180-648533));z(400438+-417901),z(-986544-(-1463105-(-493676)))}),860358+30725339872752)]W=(K)[t(M({((-569972+-261064)+(1060964-(39198+842610)))+651881,491457+-491454,(375160+-1372978)-(-997820),z(((236596+-560968)-(-499550))+-193369),z(690607-706862),z(372541-390685)}),(832179+-1716545)+32020847838842)]h=(K)[t(z(977650+-994597),(-343662-(-479119))+17411336900461)]F=(P)[h]U=24573+-24567 h=-578014-(-578014)P=F(h,U)tp=(I)[Kp]Kp=(K)[t(M({764300-764299;-661751+(-8051-(-1091442-((-1138099-(-392337-487446))-163322)));z(-531301-(-844725+(1097578-((429020-87022)-(-426233))))),z(312049+-329115)}),173704+7332571542398)]U=(tp)[Kp]tp=(K)[t(M({-463798-(-463800);-29264-(-29267);(284251+((-349633-1000230)-(-132954)))+932659,z(-162732+147081),z((-410076-103223)-(-496427));z(-225997-(-210437))}),-296464+33534230521755)]F=(K)[t(M({206362-(1254172-1047811),683859+(-1668618-(-984761));z(-524947-(-507183)),z(775752+(272172+-1064551))}),(1958625-966396)+24443246920479)]h=(U)[tp]Y={[X]=P,[F]=h}D=T(W,Y)U=(K)[t(z(646861+-663353),475807+(763008+11975337361583))]Y=(K)[t(z(-399868-(-383083)),(27059816908593-(-778479))-(504755-763740))]W=(y)[(k)[24253+-24252]]T=(W)[Y]F=(K)[t(M({642219+-642218,606106+-606103;((((183269-426378)+753976)+-1159751)+(1323156-(-153251)))-(((-127073+1197448)-(-270849))-513703),z(233263-250415),z(((659905-808166)-(-540788))-410795),z(791601+-806661)}),13466145621766-((826839+-134174)+(-452518-859010)))]Kp=(K)[t(z(964478+-982738),-160817+2074508154960)]Y=(K)[t(M({-514335-(1007033+-1521370),780526-(641956+(-794059-(-932628)));z(((-1732899-(-734284+(616723-569229)))+210385)+819242),z(-851638+835539)}),-931376+8637085240419)]h=(I)[U]U=(K)[t(z(-873116+855747),13132134584417-268809)]P=(h)[U]tp=805083-805077 U=169732-169732 h=P(U,tp)Mp=-894673-(-355573+-539110)tp=(I)[Kp]P=(K)[t(M({-740261-(-740264);776635+-776633;-517658-(-517659),z((-489449+1042891)+-571733);z(-715379+697277),z(-467572+448871)}),(21611525214499-(-722016))-10338)]Kp=(K)[t(z(-124980+110082),431295+4960952220180)]U=(tp)[Kp]Kp=-848940+848940 tp=U(Kp,Mp)X={[F]=h,[P]=tp}W={T(Y,X)}B={D,N(W)}e=E(R,p,B);(S)[f]=e e=(K)[t(M({-732635+732636;227805-(-233109+460912),z(((-151190+732130)+-1332200)+734295),z(((912104-644707)+568552)+-851288)}),((1147324-(540934+142101))-421380)+21398186420691)]E=(K)[t(M({47047+(484541-531586);45775+-45774,z(103978-120499),z((-1318900-(-918534))-(980839+(-365493+-999847)))}),-523042+16699664832336)]f=(y)[H]R=(K)[t(M({(387137+195875)-583009;-461919+461924;558757-558755;-752612-(-1234905-(-482289)),-852749+(1727089-874339);z(111038+-128107),z(-420349-(-405391));z(195075+-209941);z(-1038909-(-1022843));z(550074+-567125)}),-729275+(930673+24542164711802))]B=(K)[t(M({-1025256-(-1025257);(-198101+79490)-(-118613);z(610711-626190);z(8841-(938293-911689))}),-1035306+26856734770114)]S=(f)[E]E=(K)[t(M({735087-735085;((-1337940-(-196616))-(-553439))-(-587886);562776-562773,z(291217+-309602),z((((741656+496112)-516957)+-1072587)-(-333164));z((-1161705-(-1000803))+145413)}),(864746+5528459435112)-(-44430))]f=(K)[t(M({(88551+537618)-626168;-721906+721909;1001985-1001981;-143664+143669,126150+((-43695+1085712)+-1168165),z(543047-561459);z(921598-939507);z(973532-989061),z(874135+-891340);z(215441+-231471)}),529882+21396135532262)]f=(S)[f]f=f(S,E)p=(K)[t(M({-314240-(849096+-1163337),-1025587-(-1025590);-20028+20032,(501558-(-165317))-666873;z(-278256+261914);z(((197340-154627)+-671665)+611598);z(631569+-647884);z(-681544+664384)}),-728278+(-1043800+11831148887634))]S=x();(y)[S]=f E=(y)[(k)[-82291-(-82292)]]f=(E)[e]e=(y)[S]R=(e)[R]R=R(e,p)e=m(14264325-(-821095),{H,S})E=f(R,e)e=(K)[t(M({(-1574383-(-694422))-(-879962),683817+-683815;z((442457-950021)+(944074+-453386));z(254860-270975)}),(((-612804+6481)-(-328481))+31644566971185)-(413915-(-197997-(-823733-(-254446)))))]E=(y)[(k)[-804210-(-804211)]]f=(E)[e]p=(y)[H]R=(p)[B]p=(K)[t(M({-867985-(-867987);-908887-(42202+-951093);801533+-801532;(540891+407814)+-948702,z(-71887-(-55699)),z(988278-1006395);z(977536+-992673);z(886929-905206)}),658774+1156389567871)]e=(R)[p]R=w(5870341-(537526-(-479924)),{L;(k)[152191+-152189],H})E=f(e,R)p=(K)[t(z(279119-294167),28668574388120-389603)]R=(y)[L]e=(R)[p]E=#e e=(-720372+585268)+135104 f=E==e b=f and 3970960-868660 or((1139039-629618)+259132)+6063533 else b=(y)[(k)[676582-676581]]q=(K)[t(M({687853+-687851,-623790-(-623791);z(768695+-784492),z(4550+-21929)}),((-292519+582912)-(-590096))+10471011632158)]s=(y)[(k)[312961-(962834-649875)]]O=(s)[q]q=(y)[(k)[-771999+(-454564+1226566)]]i=(K)[t(z(358114+-373774),-971738+4468785908464)]s=(q)[i]v=(K)[t(M({680223-680220;(1532802-965094)-((272890+581948)-287131),-280495+280497,z(73456-90646),z(583932-602586);z((-28820-(-84314))-71519)}),13678430007619-(563274-917500))]v=(b)[v]v=v(b,O,s)v={}b=(I)[(K)[t(M({652851+-652849;272981-272978,(80779+-143444)+62666,z(-742406-(-724829)),z(762338-777509);z(-276143-(-489703+230319))}),8072167450797-(-481717))]]end else b=v and 13753842-(-579193)or((-1269023-(-447257))+619342)+9519670 end end end end end end end end b=#n return N(v)end,function(t,K,...)local M=q(K)local I=function(I,z,N,j,k,n,...)return b(t,{I;z;N,j,k;n},K,M)end return I end,function(I,...)for t=581322+-581321,#I,-820898-(-1462687-(-641788))do(O)[(I)[t]]=(706111-706110)+(O)[(I)[t]]end if j then local b=j(true)local N=n(b);(N)[(K)[t(M({(906048+-1011366)-(-105320),240737+-240736;z(-743184-(-724806));z((-93767+796940)+-721636)}),10186405637047-84255)]],(N)[(K)[t(z(918047-933093),-892208+19606944254058)]],(N)[(K)[t(z(499383-517982),951171+956123698248)]]=I,i,function(...)return-1847809-181306 end return b else return k({},{[(K)[t(z((899078+-330427)-586651),11220262309115-(-727311+904160))]]=i;[(K)[t(M({796381+-796380,57774-57772;z(1031595+-1046443);z(960592-(714509+262845))}),9667+(((883578-14483)+((803327+-1589161)-(-599183)))+18366431896375))]]=I,[(K)[t(z(268096+((-539091+1204044)+-947992)),-414935+2021286633564)]]=function(...)return-2593284-(-564169)end})end end return(A(15584284-(-89974),{}))(N(v))end)(getfenv and getfenv()or _ENV,unpack or(table)[(K)[t(M({205175-205174,((1202977-(((-458014-(-83414))+197011)+751522))-101054)+-527988,z(-958332-(-939983)),z((957456+-1830042)+856570)}),5095077070835-385516)]],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+
+
+local a, b = {
+	{
+		1,
+		'ModuleScript',
+		{
+			'MainModule'
+		},
+		{
+			{
+				18,
+				'ModuleScript',
+				{
+					'Creator'
+				}
+			},
+			{
+				28,
+				'ModuleScript',
+				{
+					'Icons'
+				}
+			},
+			{
+				47,
+				'ModuleScript',
+				{
+					'Themes'
+				},
+				{
+					{
+						50,
+						'ModuleScript',
+						{
+							'Dark'
+						}
+					},
+					{
+						52,
+						'ModuleScript',
+						{
+							'Light'
+						}
+					},
+					{
+						51,
+						'ModuleScript',
+						{
+							'Darker'
+						}
+					},
+					{
+						53,
+						'ModuleScript',
+						{
+							'Rose'
+						}
+					},
+					{
+						49,
+						'ModuleScript',
+						{
+							'Aqua'
+						}
+					},
+					{
+						48,
+						'ModuleScript',
+						{
+							'Amethyst'
+						}
+					}
+				}
+			},
+			{
+				19,
+				'ModuleScript',
+				{
+					'Elements'
+				},
+				{
+					{
+						21,
+						'ModuleScript',
+						{
+							'Colorpicker'
+						}
+					},
+					{
+						27,
+						'ModuleScript',
+						{
+							'Toggle'
+						}
+					},
+					{
+						23,
+						'ModuleScript',
+						{
+							'Input'
+						}
+					},
+					{
+						20,
+						'ModuleScript',
+						{
+							'Button'
+						}
+					},
+					{
+						25,
+						'ModuleScript',
+						{
+							'Paragraph'
+						}
+					},
+					{
+						22,
+						'ModuleScript',
+						{
+							'Dropdown'
+						}
+					},
+					{
+						26,
+						'ModuleScript',
+						{
+							'Slider'
+						}
+					},
+					{
+						24,
+						'ModuleScript',
+						{
+							'Keybind'
+						}
+					}
+				}
+			},
+			{
+				29,
+				'Folder',
+				{
+					'Packages'
+				},
+				{
+					{
+						30,
+						'ModuleScript',
+						{
+							'Flipper'
+						},
+						{
+							{
+								33,
+								'ModuleScript',
+								{
+									'GroupMotor'
+								}
+							},
+							{
+								46,
+								'ModuleScript',
+								{
+									'isMotor.spec'
+								}
+							},
+							{
+								39,
+								'ModuleScript',
+								{
+									'Signal'
+								}
+							},
+							{
+								40,
+								'ModuleScript',
+								{
+									'Signal.spec'
+								}
+							},
+							{
+								45,
+								'ModuleScript',
+								{
+									'isMotor'
+								}
+							},
+							{
+								36,
+								'ModuleScript',
+								{
+									'Instant.spec'
+								}
+							},
+							{
+								44,
+								'ModuleScript',
+								{
+									'Spring.spec'
+								}
+							},
+							{
+								42,
+								'ModuleScript',
+								{
+									'SingleMotor.spec'
+								}
+							},
+							{
+								38,
+								'ModuleScript',
+								{
+									'Linear.spec'
+								}
+							},
+							{
+								31,
+								'ModuleScript',
+								{
+									'BaseMotor'
+								}
+							},
+							{
+								43,
+								'ModuleScript',
+								{
+									'Spring'
+								}
+							},
+							{
+								35,
+								'ModuleScript',
+								{
+									'Instant'
+								}
+							},
+							{
+								37,
+								'ModuleScript',
+								{
+									'Linear'
+								}
+							},
+							{
+								41,
+								'ModuleScript',
+								{
+									'SingleMotor'
+								}
+							},
+							{
+								34,
+								'ModuleScript',
+								{
+									'GroupMotor.spec'
+								}
+							},
+							{
+								32,
+								'ModuleScript',
+								{
+									'BaseMotor.spec'
+								}
+							}
+						}
+					}
+				}
+			},
+			{
+				2,
+				'ModuleScript',
+				{
+					'Acrylic'
+				},
+				{
+					{
+						3,
+						'ModuleScript',
+						{
+							'AcrylicBlur'
+						}
+					},
+					{
+						5,
+						'ModuleScript',
+						{
+							'CreateAcrylic'
+						}
+					},
+					{
+						6,
+						'ModuleScript',
+						{
+							'Utils'
+						}
+					},
+					{
+						4,
+						'ModuleScript',
+						{
+							'AcrylicPaint'
+						}
+					}
+				}
+			},
+			{
+				7,
+				'Folder',
+				{
+					'Components'
+				},
+				{
+					{
+						9,
+						'ModuleScript',
+						{
+							'Button'
+						}
+					},
+					{
+						12,
+						'ModuleScript',
+						{
+							'Notification'
+						}
+					},
+					{
+						13,
+						'ModuleScript',
+						{
+							'Section'
+						}
+					},
+					{
+						17,
+						'ModuleScript',
+						{
+							'Window'
+						}
+					},
+					{
+						14,
+						'ModuleScript',
+						{
+							'Tab'
+						}
+					},
+					{
+						10,
+						'ModuleScript',
+						{
+							'Dialog'
+						}
+					},
+					{
+						8,
+						'ModuleScript',
+						{
+							'Assets'
+						}
+					},
+					{
+						16,
+						'ModuleScript',
+						{
+							'TitleBar'
+						}
+					},
+					{
+						15,
+						'ModuleScript',
+						{
+							'Textbox'
+						}
+					},
+					{
+						11,
+						'ModuleScript',
+						{
+							'Element'
+						}
+					}
+				}
+			}
+		}
+	}
+}
+local aa = {
+	function()
+		local c, d, e, f, g = b(1)
+		local h, i, j, k, l, m = game:GetService'Lighting', game:GetService'RunService', game:GetService'Players'.LocalPlayer, game:GetService'UserInputService', game:GetService'TweenService', game:GetService'Workspace'.CurrentCamera
+		local n, o = j:GetMouse(), d
+		local p, q, r, s = e(o.Creator), e(o.Elements), e(o.Acrylic), o.Components
+		local t, u, v = e(s.Notification), p.New, protectgui or (syn and syn.protect_gui) or function()
+		end
+		local w = u('ScreenGui', {
+			Parent = i:IsStudio() and j.PlayerGui or game:GetService'CoreGui'
+		})
+		v(w)
+		t:Init(w)
+		local x = {
+			Version = '1.0.0',
+			OpenFrames = {},
+			Options = {},
+			Themes = e(o.Themes).Names,
+			Window = nil,
+			WindowFrame = nil,
+			Unloaded = false,
+			Theme = 'Dark',
+			DialogOpen = false,
+			UseAcrylic = false,
+			Acrylic = false,
+			Transparency = true,
+			MinimizeKeybind = nil,
+			MinimizeKey = Enum.KeyCode.LeftControl,
+			GUI = w
+		}
+		function x.SafeCallback(y, z, ...)
+			if not z then
+				return
+			end
+			local A, B = pcall(z, ...)
+			if not A then
+				local C, D = B:find':%d+: '
+				if not D then
+					return x:Notify{
+						Title = 'Interface',
+						Content = 'Callback error',
+						SubContent = B,
+						Duration = 5
+					}
+				end
+				return x:Notify{
+					Title = 'Interface',
+					Content = 'Callback error',
+					SubContent = B:sub(D + 1),
+					Duration = 5
+				}
+			end
+		end
+		function x.Round(y, z, A)
+			if A == 0 then
+				return math.floor(z)
+			end
+			z = tostring(z)
+			return z:find'%.' and tonumber(z:sub(1, z:find'%.' + A)) or z
+		end
+		local y = e(o.Icons).assets
+		function x.GetIcon(z, A)
+			if A ~= nil and y['lucide-' .. A] then
+				return y['lucide-' .. A]
+			end
+			return nil
+		end
+		local z = {}
+		z.__index = z
+		z.__namecall = function(A, B, ...)
+			return z[B](...)
+		end
+		for A, B in ipairs(q) do
+			z['Add' .. B.__type] = function(C, D, E)
+				B.Container = C.Container
+				B.Type = C.Type
+				B.ScrollFrame = C.ScrollFrame
+				B.Library = x
+				return B:New(D, E)
+			end
+		end
+		x.Elements = z
+		function x.CreateWindow(C, D)
+			assert(D.Title, 'Window - Missing Title')
+			if x.Window then
+				print'You cannot create more than one window.'
+				return
+			end
+			x.MinimizeKey = D.MinimizeKey
+			x.UseAcrylic = D.Acrylic
+			if D.Acrylic then
+				r.init()
+			end
+			local E = e(s.Window){
+				Parent = w,
+				Size = D.Size,
+				Title = D.Title,
+				SubTitle = D.SubTitle,
+				TabWidth = D.TabWidth
+			}
+			x.Window = E
+			x:SetTheme(D.Theme)
+			return E
+		end
+		function x.SetTheme(C, D)
+			if x.Window and table.find(x.Themes, D) then
+				x.Theme = D
+				p.UpdateTheme()
+			end
+		end
+		function x.Destroy(C)
+			if x.Window then
+				x.Unloaded = true
+				if x.UseAcrylic then
+					x.Window.AcrylicPaint.Model:Destroy()
+				end
+				p.Disconnect()
+				x.GUI:Destroy()
+			end
+		end
+		function x.ToggleAcrylic(C, D)
+			if x.Window then
+				if x.UseAcrylic then
+					x.Acrylic = D
+					x.Window.AcrylicPaint.Model.Transparency = D and 0.98 or 1
+					if D then
+						r.Enable()
+					else
+						r.Disable()
+					end
+				end
+			end
+		end
+		function x.ToggleTransparency(C, D)
+			if x.Window then
+				x.Window.AcrylicPaint.Frame.Background.BackgroundTransparency = D and 0.35 or 0
+			end
+		end
+		function x.Notify(C, D)
+			return t:New(D)
+		end
+		if getgenv then
+			getgenv().Fluent = x
+		end
+		return x
+	end,
+	function()
+		local c, d, e, f, g = b(2)
+		local h = {
+			AcrylicBlur = e(d.AcrylicBlur),
+			CreateAcrylic = e(d.CreateAcrylic),
+			AcrylicPaint = e(d.AcrylicPaint)
+		}
+		function h.init()
+			local i = Instance.new'DepthOfFieldEffect'
+			i.FarIntensity = 0
+			i.InFocusRadius = 0.1
+			i.NearIntensity = 1
+			local j = {}
+			function h.Enable()
+				for k, l in pairs(j) do
+					l.Enabled = false
+				end
+				i.Parent = game:GetService'Lighting'
+			end
+			function h.Disable()
+				for k, l in pairs(j) do
+					l.Enabled = l.enabled
+				end
+				i.Parent = nil
+			end
+			local k = function()
+				local k = function(k)
+					if k:IsA'DepthOfFieldEffect' then
+						j[k] = {
+							enabled = k.Enabled
+						}
+					end
+				end
+				for l, m in pairs(game:GetService'Lighting':GetChildren()) do
+					k(m)
+				end
+				if game:GetService'Workspace'.CurrentCamera then
+					for n, o in pairs(game:GetService'Workspace'.CurrentCamera:GetChildren()) do
+						k(o)
+					end
+				end
+			end
+			k()
+			h.Enable()
+		end
+		return h
+	end,
+	function()
+		local c, d, e, f, g = b(3)
+		local h, i, j, k = e(d.Parent.Parent.Creator), e(d.Parent.CreateAcrylic), unpack(e(d.Parent.Utils))
+		local l = function(l)
+			local m = {}
+			l = l or 0.001
+			local n, o = {
+				topLeft = Vector2.new(),
+				topRight = Vector2.new(),
+				bottomRight = Vector2.new()
+			}, i()
+			o.Parent = workspace
+			local p, q = function(p, q)
+				n.topLeft = q
+				n.topRight = q + Vector2.new(p.X, 0)
+				n.bottomRight = q + p
+			end, function()
+				local p = game:GetService'Workspace'.CurrentCamera
+				if p then
+					p = p.CFrame
+				end
+				local q = p
+				if not q then
+					q = CFrame.new()
+				end
+				local r, s, t, u = q, n.topLeft, n.topRight, n.bottomRight
+				local v, w, x = j(s, l), j(t, l), j(u, l)
+				local y, z = (w - v).Magnitude, (w - x).Magnitude
+				o.CFrame = CFrame.fromMatrix((v + x) / 2, r.XVector, r.YVector, r.ZVector)
+				o.Mesh.Scale = Vector3.new(y, z, 0)
+			end
+			local r, s = function(r)
+				local s = k()
+				local t, u = r.AbsoluteSize - Vector2.new(s, s), r.AbsolutePosition + Vector2.new(s / 2, s / 2)
+				p(t, u)
+				task.spawn(q)
+			end, function()
+				local r = game:GetService'Workspace'.CurrentCamera
+				if not r then
+					return
+				end
+				table.insert(m, r:GetPropertyChangedSignal'CFrame':Connect(q))
+				table.insert(m, r:GetPropertyChangedSignal'ViewportSize':Connect(q))
+				table.insert(m, r:GetPropertyChangedSignal'FieldOfView':Connect(q))
+				task.spawn(q)
+			end
+			o.Destroying:Connect(function()
+				for t, u in m do
+					pcall(function()
+						u:Disconnect()
+					end)
+				end
+			end)
+			s()
+			return r, o
+		end
+		return function(m)
+			local n, o, p = {}, l(m)
+			local q = h.New('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.fromScale(1, 1)
+			})
+			h.AddSignal(q:GetPropertyChangedSignal'AbsolutePosition', function()
+				o(q)
+			end)
+			h.AddSignal(q:GetPropertyChangedSignal'AbsoluteSize', function()
+				o(q)
+			end)
+			n.AddParent = function(r)
+				h.AddSignal(r:GetPropertyChangedSignal'Visible', function()
+					n.SetVisibility(r.Visible)
+				end)
+			end
+			n.SetVisibility = function(r)
+				p.Transparency = r and 0.98 or 1
+			end
+			n.Frame = q
+			n.Model = p
+			return n
+		end
+	end,
+	function()
+		local c, d, e, f, g = b(4)
+		local h, i = e(d.Parent.Parent.Creator), e(d.Parent.AcrylicBlur)
+		local j = h.New
+		return function(k)
+			local l = {}
+			l.Frame = j('Frame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 0.9,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BorderSizePixel = 0
+			}, {
+				j('ImageLabel', {
+					Image = 'rbxassetid://8992230677',
+					ScaleType = 'Slice',
+					SliceCenter = Rect.new(Vector2.new(99, 99), Vector2.new(99, 99)),
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					Size = UDim2.new(1, 120, 1, 116),
+					Position = UDim2.new(0.5, 0, 0.5, 0),
+					BackgroundTransparency = 1,
+					ImageColor3 = Color3.fromRGB(0, 0, 0),
+					ImageTransparency = 0.7
+				}),
+				j('UICorner', {
+					CornerRadius = UDim.new(0, 8)
+				}),
+				j('Frame', {
+					BackgroundTransparency = 0.45,
+					Size = UDim2.fromScale(1, 1),
+					Name = 'Background',
+					ThemeTag = {
+						BackgroundColor3 = 'AcrylicMain'
+					}
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					})
+				}),
+				j('Frame', {
+					BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+					BackgroundTransparency = 0.4,
+					Size = UDim2.fromScale(1, 1)
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					}),
+					j('UIGradient', {
+						Rotation = 90,
+						ThemeTag = {
+							Color = 'AcrylicGradient'
+						}
+					})
+				}),
+				j('ImageLabel', {
+					Image = 'rbxassetid://9968344105',
+					ImageTransparency = 0.98,
+					ScaleType = Enum.ScaleType.Tile,
+					TileSize = UDim2.new(0, 128, 0, 128),
+					Size = UDim2.fromScale(1, 1),
+					BackgroundTransparency = 1
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					})
+				}),
+				j('ImageLabel', {
+					Image = 'rbxassetid://9968344227',
+					ImageTransparency = 0.9,
+					ScaleType = Enum.ScaleType.Tile,
+					TileSize = UDim2.new(0, 128, 0, 128),
+					Size = UDim2.fromScale(1, 1),
+					BackgroundTransparency = 1,
+					ThemeTag = {
+						ImageTransparency = 'AcrylicNoise'
+					}
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					})
+				}),
+				j('Frame', {
+					BackgroundTransparency = 1,
+					Size = UDim2.fromScale(1, 1),
+					ZIndex = 2
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					}),
+					j('UIStroke', {
+						Transparency = 0.5,
+						Thickness = 1,
+						ThemeTag = {
+							Color = 'AcrylicBorder'
+						}
+					})
+				})
+			})
+			local m
+			if e(d.Parent.Parent).UseAcrylic then
+				m = i()
+				m.Frame.Parent = l.Frame
+				l.Model = m.Model
+				l.AddParent = m.AddParent
+				l.SetVisibility = m.SetVisibility
+			end
+			return l
+		end
+	end,
+	function()
+		local c, d, e, f, g = b(5)
+		local h = d.Parent.Parent
+		local i = e(h.Creator)
+		local j = function()
+			local j = i.New('Part', {
+				Name = 'Body',
+				Color = Color3.new(0, 0, 0),
+				Material = Enum.Material.Glass,
+				Size = Vector3.new(1, 1, 0),
+				Anchored = true,
+				CanCollide = false,
+				Locked = true,
+				CastShadow = false,
+				Transparency = 0.98
+			}, {
+				i.New('SpecialMesh', {
+					MeshType = Enum.MeshType.Brick,
+					Offset = Vector3.new(0, 0, -1E-6)
+				})
+			})
+			return j
+		end
+		return j
+	end,
+	function()
+		local c, d, e, f, g = b(6)
+		local h, i = function(h, i, j, k, l)
+			return (h - i) * (l - k) / (j - i) + k
+		end, function(h, i)
+			local j = game:GetService'Workspace'.CurrentCamera:ScreenPointToRay(h.X, h.Y)
+			return j.Origin + j.Direction * i
+		end
+		local j = function()
+			local j = game:GetService'Workspace'.CurrentCamera.ViewportSize.Y
+			return h(j, 0, 2560, 8, 56)
+		end
+		return {
+			i,
+			j
+		}
+	end,
+	[8] = function()
+		local c, d, e, f, g = b(8)
+		return {
+			Close = 'rbxassetid://9886659671',
+			Min = 'rbxassetid://9886659276',
+			Max = 'rbxassetid://9886659406',
+			Restore = 'rbxassetid://9886659001'
+		}
+	end,
+	[9] = function()
+		local c, d, e, f, g = b(9)
+		local h = d.Parent.Parent
+		local i, j = e(h.Packages.Flipper), e(h.Creator)
+		local k, l = j.New, i.Spring.new
+		return function(m, n, o)
+			o = o or false
+			local p = {}
+			p.Title = k('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextSize = 14,
+				TextWrapped = true,
+				TextXAlignment = Enum.TextXAlignment.Center,
+				TextYAlignment = Enum.TextYAlignment.Center,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundTransparency = 1,
+				Size = UDim2.fromScale(1, 1),
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			p.HoverFrame = k('Frame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					BackgroundColor3 = 'Hover'
+				}
+			}, {
+				k('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				})
+			})
+			p.Frame = k('TextButton', {
+				Size = UDim2.new(0, 0, 0, 32),
+				Parent = n,
+				ThemeTag = {
+					BackgroundColor3 = 'DialogButton'
+				}
+			}, {
+				k('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				}),
+				k('UIStroke', {
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					Transparency = 0.65,
+					ThemeTag = {
+						Color = 'DialogButtonBorder'
+					}
+				}),
+				p.HoverFrame,
+				p.Title
+			})
+			local q, r = j.SpringMotor(1, p.HoverFrame, 'BackgroundTransparency', o)
+			j.AddSignal(p.Frame.MouseEnter, function()
+				r(0.97)
+			end)
+			j.AddSignal(p.Frame.MouseLeave, function()
+				r(1)
+			end)
+			j.AddSignal(p.Frame.MouseButton1Down, function()
+				r(1)
+			end)
+			j.AddSignal(p.Frame.MouseButton1Up, function()
+				r(0.97)
+			end)
+			return p
+		end
+	end,
+	[10] = function()
+		local c, d, e, f, g = b(10)
+		local h, i, j, k = game:GetService'UserInputService', game:GetService'Players'.LocalPlayer:GetMouse(), game:GetService'Workspace'.CurrentCamera, d.Parent.Parent
+		local l, m = e(k.Packages.Flipper), e(k.Creator)
+		local n, o, p, q = l.Spring.new, l.Instant.new, m.New, {
+			Window = nil
+		}
+		function q.Init(r, s)
+			q.Window = s
+			return q
+		end
+		function q.Create(r)
+			local s = {
+				Buttons = 0
+			}
+			s.TintFrame = p('TextButton', {
+				Text = '',
+				Size = UDim2.fromScale(1, 1),
+				BackgroundColor3 = Color3.fromRGB(0, 0, 0),
+				BackgroundTransparency = 1,
+				Parent = q.Window.Root
+			}, {
+				p('UICorner', {
+					CornerRadius = UDim.new(0, 8)
+				})
+			})
+			local t, u = m.SpringMotor(1, s.TintFrame, 'BackgroundTransparency', true)
+			s.ButtonHolder = p('Frame', {
+				Size = UDim2.new(1, -40, 1, -40),
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				Position = UDim2.fromScale(0.5, 0.5),
+				BackgroundTransparency = 1
+			}, {
+				p('UIListLayout', {
+					Padding = UDim.new(0, 10),
+					FillDirection = Enum.FillDirection.Horizontal,
+					HorizontalAlignment = Enum.HorizontalAlignment.Center,
+					SortOrder = Enum.SortOrder.LayoutOrder
+				})
+			})
+			s.ButtonHolderFrame = p('Frame', {
+				Size = UDim2.new(1, 0, 0, 70),
+				Position = UDim2.new(0, 0, 1, -70),
+				ThemeTag = {
+					BackgroundColor3 = 'DialogHolder'
+				}
+			}, {
+				p('Frame', {
+					Size = UDim2.new(1, 0, 0, 1),
+					ThemeTag = {
+						BackgroundColor3 = 'DialogHolderLine'
+					}
+				}),
+				s.ButtonHolder
+			})
+			s.Title = p('TextLabel', {
+				FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.SemiBold, Enum.FontStyle.Normal),
+				Text = 'Dialog',
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 22,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				Size = UDim2.new(1, 0, 0, 22),
+				Position = UDim2.fromOffset(20, 25),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			s.Scale = p('UIScale', {
+				Scale = 1
+			})
+			local v, w = m.SpringMotor(1.1, s.Scale, 'Scale')
+			s.Root = p('CanvasGroup', {
+				Size = UDim2.fromOffset(300, 165),
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				Position = UDim2.fromScale(0.5, 0.5),
+				GroupTransparency = 1,
+				Parent = s.TintFrame,
+				ThemeTag = {
+					BackgroundColor3 = 'Dialog'
+				}
+			}, {
+				p('UICorner', {
+					CornerRadius = UDim.new(0, 8)
+				}),
+				p('UIStroke', {
+					Transparency = 0.5,
+					ThemeTag = {
+						Color = 'DialogBorder'
+					}
+				}),
+				s.Scale,
+				s.Title,
+				s.ButtonHolderFrame
+			})
+			local x, y = m.SpringMotor(1, s.Root, 'GroupTransparency')
+			function s.Open(z)
+				e(k).DialogOpen = true
+				s.Scale.Scale = 1.1
+				u(0.75)
+				y(0)
+				w(1)
+			end
+			function s.Close(z)
+				e(k).DialogOpen = false
+				u(1)
+				y(1)
+				w(1.1)
+				s.Root.UIStroke:Destroy()
+				task.wait(0.15)
+				s.TintFrame:Destroy()
+			end
+			function s.Button(z, A, B)
+				s.Buttons = s.Buttons + 1
+				A = A or 'Button'
+				B = B or function()
+				end
+				local C = e(k.Components.Button)('', s.ButtonHolder, true)
+				C.Title.Text = A
+				for D, E in next, s.ButtonHolder:GetChildren() do
+					if E:IsA'TextButton' then
+						E.Size = UDim2.new(1 / s.Buttons, -(((s.Buttons - 1) * 10) / s.Buttons), 0, 32)
+					end
+				end
+				m.AddSignal(C.Frame.MouseButton1Click, function()
+					e(k):SafeCallback(B)
+					pcall(function()
+						s:Close()
+					end)
+				end)
+				return C
+			end
+			return s
+		end
+		return q
+	end,
+	[11] = function()
+		local c, d, e, f, g = b(11)
+		local h = d.Parent.Parent
+		local i, j = e(h.Packages.Flipper), e(h.Creator)
+		local k, l = j.New, i.Spring.new
+		return function(m, n, o, p)
+			local q = {}
+			q.TitleLabel = k('TextLabel', {
+				FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Medium, Enum.FontStyle.Normal),
+				Text = m,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 13,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				Size = UDim2.new(1, 0, 0, 14),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			q.DescLabel = k('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				Text = n,
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextSize = 12,
+				TextWrapped = true,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 0, 14),
+				ThemeTag = {
+					TextColor3 = 'SubText'
+				}
+			})
+			q.LabelHolder = k('Frame', {
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				Position = UDim2.fromOffset(10, 0),
+				Size = UDim2.new(1, -28, 0, 0)
+			}, {
+				k('UIListLayout', {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					VerticalAlignment = Enum.VerticalAlignment.Center
+				}),
+				k('UIPadding', {
+					PaddingBottom = UDim.new(0, 13),
+					PaddingTop = UDim.new(0, 13)
+				}),
+				q.TitleLabel,
+				q.DescLabel
+			})
+			q.Border = k('UIStroke', {
+				Transparency = 0.5,
+				ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+				Color = Color3.fromRGB(0, 0, 0),
+				ThemeTag = {
+					Color = 'ElementBorder'
+				}
+			})
+			q.Frame = k('TextButton', {
+				Size = UDim2.new(1, 0, 0, 0),
+				BackgroundTransparency = 0.89,
+				BackgroundColor3 = Color3.fromRGB(130, 130, 130),
+				Parent = o,
+				AutomaticSize = Enum.AutomaticSize.Y,
+				Text = '',
+				LayoutOrder = 7,
+				ThemeTag = {
+					BackgroundColor3 = 'Element',
+					BackgroundTransparency = 'ElementTransparency'
+				}
+			}, {
+				k('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				}),
+				q.Border,
+				q.LabelHolder
+			})
+			function q.SetTitle(r, s)
+				q.TitleLabel.Text = s
+			end
+			function q.SetDesc(r, s)
+				if s == nil then
+					s = ''
+				end
+				if s == '' then
+					q.DescLabel.Visible = false
+				else
+					q.DescLabel.Visible = true
+				end
+				q.DescLabel.Text = s
+			end
+			function q.Destroy(r)
+				q.Frame:Destroy()
+			end
+			q:SetTitle(m)
+			q:SetDesc(n)
+			if p then
+				local r, s, t = h.Themes, j.SpringMotor(j.GetThemeProperty'ElementTransparency', q.Frame, 'BackgroundTransparency', false, true)
+				j.AddSignal(q.Frame.MouseEnter, function()
+					t(j.GetThemeProperty'ElementTransparency' - j.GetThemeProperty'HoverChange')
+				end)
+				j.AddSignal(q.Frame.MouseLeave, function()
+					t(j.GetThemeProperty'ElementTransparency')
+				end)
+				j.AddSignal(q.Frame.MouseButton1Down, function()
+					t(j.GetThemeProperty'ElementTransparency' + j.GetThemeProperty'HoverChange')
+				end)
+				j.AddSignal(q.Frame.MouseButton1Up, function()
+					t(j.GetThemeProperty'ElementTransparency' - j.GetThemeProperty'HoverChange')
+				end)
+			end
+			return q
+		end
+	end,
+	[12] = function()
+		local c, d, e, f, g = b(12)
+		local h = d.Parent.Parent
+		local i, j, k = e(h.Packages.Flipper), e(h.Creator), e(h.Acrylic)
+		local l, m, n, o = i.Spring.new, i.Instant.new, j.New, {}
+		function o.Init(p, q)
+			o.Holder = n('Frame', {
+				Position = UDim2.new(1, -30, 1, -30),
+				Size = UDim2.new(0, 310, 1, -30),
+				AnchorPoint = Vector2.new(1, 1),
+				BackgroundTransparency = 1,
+				Parent = q
+			}, {
+				n('UIListLayout', {
+					HorizontalAlignment = Enum.HorizontalAlignment.Center,
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					VerticalAlignment = Enum.VerticalAlignment.Bottom,
+					Padding = UDim.new(0, 20)
+				})
+			})
+		end
+		function o.New(p, q)
+			q.Title = q.Title or 'Title'
+			q.Content = q.Content or 'Content'
+			q.SubContent = q.SubContent or ''
+			q.Duration = q.Duration or nil
+			q.Buttons = q.Buttons or {}
+			local r = {
+				Closed = false
+			}
+			r.AcrylicPaint = k.AcrylicPaint()
+			r.Title = n('TextLabel', {
+				Position = UDim2.new(0, 14, 0, 17),
+				Text = q.Title,
+				RichText = true,
+				TextColor3 = Color3.fromRGB(255, 255, 255),
+				TextTransparency = 0,
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				TextSize = 13,
+				TextXAlignment = 'Left',
+				TextYAlignment = 'Center',
+				Size = UDim2.new(1, -12, 0, 12),
+				TextWrapped = true,
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			r.ContentLabel = n('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				Text = q.Content,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				AutomaticSize = Enum.AutomaticSize.Y,
+				Size = UDim2.new(1, 0, 0, 14),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				TextWrapped = true,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			r.SubContentLabel = n('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				Text = q.SubContent,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				AutomaticSize = Enum.AutomaticSize.Y,
+				Size = UDim2.new(1, 0, 0, 14),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				TextWrapped = true,
+				ThemeTag = {
+					TextColor3 = 'SubText'
+				}
+			})
+			r.LabelHolder = n('Frame', {
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				Position = UDim2.fromOffset(14, 40),
+				Size = UDim2.new(1, -28, 0, 0)
+			}, {
+				n('UIListLayout', {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					VerticalAlignment = Enum.VerticalAlignment.Center,
+					Padding = UDim.new(0, 3)
+				}),
+				r.ContentLabel,
+				r.SubContentLabel
+			})
+			r.CloseButton = n('TextButton', {
+				Text = '',
+				Position = UDim2.new(1, -14, 0, 13),
+				Size = UDim2.fromOffset(20, 20),
+				AnchorPoint = Vector2.new(1, 0),
+				BackgroundTransparency = 1
+			}, {
+				n('ImageLabel', {
+					Image = e(d.Parent.Assets).Close,
+					Size = UDim2.fromOffset(16, 16),
+					Position = UDim2.fromScale(0.5, 0.5),
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					ThemeTag = {
+						ImageColor3 = 'Text'
+					}
+				})
+			})
+			r.Root = n('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 1, 0),
+				Position = UDim2.fromScale(1, 0)
+			}, {
+				r.AcrylicPaint.Frame,
+				r.Title,
+				r.CloseButton,
+				r.LabelHolder
+			})
+			if q.Content == '' then
+				r.ContentLabel.Visible = false
+			end
+			if q.SubContent == '' then
+				r.SubContentLabel.Visible = false
+			end
+			r.Holder = n('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 0, 200),
+				Parent = o.Holder
+			}, {
+				r.Root
+			})
+			local s = i.GroupMotor.new{
+				Scale = 1,
+				Offset = 60
+			}
+			s:onStep(function(t)
+				r.Root.Position = UDim2.new(t.Scale, t.Offset, 0, 0)
+			end)
+			j.AddSignal(r.CloseButton.MouseButton1Click, function()
+				r:Close()
+			end)
+			function r.Open(t)
+				local u = r.LabelHolder.AbsoluteSize.Y
+				r.Holder.Size = UDim2.new(1, 0, 0, 58 + u)
+				s:setGoal{
+					Scale = l(0, {
+						frequency = 5
+					}),
+					Offset = l(0, {
+						frequency = 5
+					})
+				}
+			end
+			function r.Close(t)
+				if not r.Closed then
+					r.Closed = true
+					task.spawn(function()
+						s:setGoal{
+							Scale = l(1, {
+								frequency = 5
+							}),
+							Offset = l(60, {
+								frequency = 5
+							})
+						}
+						task.wait(0.4)
+						if e(h).UseAcrylic then
+							r.AcrylicPaint.Model:Destroy()
+						end
+						r.Holder:Destroy()
+					end)
+				end
+			end
+			r:Open()
+			if q.Duration then
+				task.delay(q.Duration, function()
+					r:Close()
+				end)
+			end
+			return r
+		end
+		return o
+	end,
+	[13] = function()
+		local c, d, e, f, g = b(13)
+		local h = d.Parent.Parent
+		local i = e(h.Creator)
+		local j = i.New
+		return function(k, l)
+			local m = {}
+			m.Layout = j('UIListLayout', {
+				Padding = UDim.new(0, 5)
+			})
+			m.Container = j('Frame', {
+				Size = UDim2.new(1, 0, 0, 26),
+				Position = UDim2.fromOffset(0, 24),
+				BackgroundTransparency = 1
+			}, {
+				m.Layout
+			})
+			m.Root = j('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 0, 26),
+				LayoutOrder = 7,
+				Parent = l
+			}, {
+				j('TextLabel', {
+					RichText = true,
+					Text = k,
+					TextTransparency = 0,
+					FontFace = Font.new('rbxassetid://12187365364', Enum.FontWeight.SemiBold, Enum.FontStyle.Normal),
+					TextSize = 18,
+					TextXAlignment = 'Left',
+					TextYAlignment = 'Center',
+					Size = UDim2.new(1, -16, 0, 18),
+					Position = UDim2.fromOffset(0, 2),
+					ThemeTag = {
+						TextColor3 = 'Text'
+					}
+				}),
+				m.Container
+			})
+			i.AddSignal(m.Layout:GetPropertyChangedSignal'AbsoluteContentSize', function()
+				m.Container.Size = UDim2.new(1, 0, 0, m.Layout.AbsoluteContentSize.Y)
+				m.Root.Size = UDim2.new(1, 0, 0, m.Layout.AbsoluteContentSize.Y + 25)
+			end)
+			return m
+		end
+	end,
+	[14] = function()
+		local c, d, e, f, g = b(14)
+		local h = d.Parent.Parent
+		local i, j = e(h.Packages.Flipper), e(h.Creator)
+		local k, l, m, n, o = j.New, i.Spring.new, i.Instant.new, h.Components, {
+			Window = nil,
+			Tabs = {},
+			Containers = {},
+			SelectedTab = 0,
+			TabCount = 0
+		}
+		function o.Init(p, q)
+			o.Window = q
+			return o
+		end
+		function o.GetCurrentTabPos(p)
+			local q, r = o.Window.TabHolder.AbsolutePosition.Y, o.Tabs[o.SelectedTab].Frame.AbsolutePosition.Y
+			return r - q
+		end
+		function o.New(p, q, r, s)
+			local t, u = e(h), o.Window
+			local v = t.Elements
+			o.TabCount = o.TabCount + 1
+			local w, x = o.TabCount, {
+				Selected = false,
+				Name = q,
+				Type = 'Tab'
+			}
+			if t:GetIcon(r) then
+				r = t:GetIcon(r)
+			end
+			if r == '' or nil then
+				r = nil
+			end
+			x.Frame = k('TextButton', {
+				Size = UDim2.new(1, 0, 0, 34),
+				BackgroundTransparency = 1,
+				Parent = s,
+				ThemeTag = {
+					BackgroundColor3 = 'Tab'
+				}
+			}, {
+				k('UICorner', {
+					CornerRadius = UDim.new(0, 6)
+				}),
+				k('TextLabel', {
+					AnchorPoint = Vector2.new(0, 0.5),
+					Position = r and UDim2.new(0, 30, 0.5, 0) or UDim2.new(0, 12, 0.5, 0),
+					Text = q,
+					RichText = true,
+					TextColor3 = Color3.fromRGB(255, 255, 255),
+					TextTransparency = 0,
+					FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+					TextSize = 12,
+					TextXAlignment = 'Left',
+					TextYAlignment = 'Center',
+					Size = UDim2.new(1, -12, 1, 0),
+					BackgroundTransparency = 1,
+					ThemeTag = {
+						TextColor3 = 'Text'
+					}
+				}),
+				k('ImageLabel', {
+					AnchorPoint = Vector2.new(0, 0.5),
+					Size = UDim2.fromOffset(16, 16),
+					Position = UDim2.new(0, 8, 0.5, 0),
+					BackgroundTransparency = 1,
+					Image = r and r or nil,
+					ThemeTag = {
+						ImageColor3 = 'Text'
+					}
+				})
+			})
+			local y = k('UIListLayout', {
+				Padding = UDim.new(0, 5),
+				SortOrder = Enum.SortOrder.LayoutOrder
+			})
+			x.ContainerFrame = k('ScrollingFrame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 1,
+				Parent = u.ContainerHolder,
+				Visible = false,
+				BottomImage = 'rbxassetid://6889812791',
+				MidImage = 'rbxassetid://6889812721',
+				TopImage = 'rbxassetid://6276641225',
+				ScrollBarImageColor3 = Color3.fromRGB(255, 255, 255),
+				ScrollBarImageTransparency = 0.95,
+				ScrollBarThickness = 3,
+				BorderSizePixel = 0,
+				CanvasSize = UDim2.fromScale(0, 0),
+				ScrollingDirection = Enum.ScrollingDirection.Y
+			}, {
+				y,
+				k('UIPadding', {
+					PaddingRight = UDim.new(0, 10),
+					PaddingLeft = UDim.new(0, 1),
+					PaddingTop = UDim.new(0, 1),
+					PaddingBottom = UDim.new(0, 1)
+				})
+			})
+			j.AddSignal(y:GetPropertyChangedSignal'AbsoluteContentSize', function()
+				x.ContainerFrame.CanvasSize = UDim2.new(0, 0, 0, y.AbsoluteContentSize.Y + 2)
+			end)
+			x.Motor, x.SetTransparency = j.SpringMotor(1, x.Frame, 'BackgroundTransparency')
+			j.AddSignal(x.Frame.MouseEnter, function()
+				x.SetTransparency(x.Selected and 0.85 or 0.89)
+			end)
+			j.AddSignal(x.Frame.MouseLeave, function()
+				x.SetTransparency(x.Selected and 0.89 or 1)
+			end)
+			j.AddSignal(x.Frame.MouseButton1Down, function()
+				x.SetTransparency(0.92)
+			end)
+			j.AddSignal(x.Frame.MouseButton1Up, function()
+				x.SetTransparency(x.Selected and 0.85 or 0.89)
+			end)
+			j.AddSignal(x.Frame.MouseButton1Click, function()
+				o:SelectTab(w)
+			end)
+			o.Containers[w] = x.ContainerFrame
+			o.Tabs[w] = x
+			x.Container = x.ContainerFrame
+			x.ScrollFrame = x.Container
+			function x.AddSection(z, A)
+				local B, C = {
+					Type = 'Section'
+				}, e(n.Section)(A, x.Container)
+				B.Container = C.Container
+				B.ScrollFrame = x.Container
+				setmetatable(B, v)
+				return B
+			end
+			setmetatable(x, v)
+			return x
+		end
+		function o.SelectTab(p, q)
+			local r = o.Window
+			o.SelectedTab = q
+			for s, t in next, o.Tabs do
+				t.SetTransparency(1)
+				t.Selected = false
+			end
+			o.Tabs[q].SetTransparency(0.89)
+			o.Tabs[q].Selected = true
+			r.TabDisplay.Text = o.Tabs[q].Name
+			r.SelectorPosMotor:setGoal(l(o:GetCurrentTabPos(), {
+				frequency = 6
+			}))
+			task.spawn(function()
+				r.ContainerPosMotor:setGoal(l(110, {
+					frequency = 10
+				}))
+				r.ContainerBackMotor:setGoal(l(1, {
+					frequency = 10
+				}))
+				task.wait(0.15)
+				for u, v in next, o.Containers do
+					v.Visible = false
+				end
+				o.Containers[q].Visible = true
+				r.ContainerPosMotor:setGoal(l(94, {
+					frequency = 5
+				}))
+				r.ContainerBackMotor:setGoal(l(0, {
+					frequency = 8
+				}))
+			end)
+		end
+		return o
+	end,
+	[15] = function()
+		local c, d, e, f, g = b(15)
+		local h, i = game:GetService'TextService', d.Parent.Parent
+		local j, k = e(i.Packages.Flipper), e(i.Creator)
+		local l = k.New
+		return function(m, n)
+			n = n or false
+			local o = {}
+			o.Input = l('TextBox', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				TextYAlignment = Enum.TextYAlignment.Center,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundTransparency = 1,
+				Size = UDim2.fromScale(1, 1),
+				Position = UDim2.fromOffset(10, 0),
+				ThemeTag = {
+					TextColor3 = 'Text',
+					PlaceholderColor3 = 'SubText'
+				}
+			})
+			o.Container = l('Frame', {
+				BackgroundTransparency = 1,
+				ClipsDescendants = true,
+				Position = UDim2.new(0, 6, 0, 0),
+				Size = UDim2.new(1, -12, 1, 0)
+			}, {
+				o.Input
+			})
+			o.Indicator = l('Frame', {
+				Size = UDim2.new(1, -4, 0, 1),
+				Position = UDim2.new(0, 2, 1, 0),
+				AnchorPoint = Vector2.new(0, 1),
+				BackgroundTransparency = n and 0.5 or 0,
+				ThemeTag = {
+					BackgroundColor3 = n and 'InputIndicator' or 'DialogInputLine'
+				}
+			})
+			o.Frame = l('Frame', {
+				Size = UDim2.new(0, 0, 0, 30),
+				BackgroundTransparency = n and 0.9 or 0,
+				Parent = m,
+				ThemeTag = {
+					BackgroundColor3 = n and 'Input' or 'DialogInput'
+				}
+			}, {
+				l('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				}),
+				l('UIStroke', {
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					Transparency = n and 0.5 or 0.65,
+					ThemeTag = {
+						Color = n and 'InElementBorder' or 'DialogButtonBorder'
+					}
+				}),
+				o.Indicator,
+				o.Container
+			})
+			local p = function()
+				local p, q = 2, o.Container.AbsoluteSize.X
+				if not o.Input:IsFocused() or o.Input.TextBounds.X <= q - 2 * p then
+					o.Input.Position = UDim2.new(0, p, 0, 0)
+				else
+					local r = o.Input.CursorPosition
+					if r ~= -1 then
+						local s = string.sub(o.Input.Text, 1, r - 1)
+						local t = h:GetTextSize(s, o.Input.TextSize, o.Input.Font, Vector2.new(math.huge, math.huge)).X
+						local u = o.Input.Position.X.Offset + t
+						if u < p then
+							o.Input.Position = UDim2.fromOffset(p - t, 0)
+						elseif u > q - p - 1 then
+							o.Input.Position = UDim2.fromOffset(q - t - p - 1, 0)
+						end
+					end
+				end
+			end
+			task.spawn(p)
+			k.AddSignal(o.Input:GetPropertyChangedSignal'Text', p)
+			k.AddSignal(o.Input:GetPropertyChangedSignal'CursorPosition', p)
+			k.AddSignal(o.Input.Focused, function()
+				p()
+				o.Indicator.Size = UDim2.new(1, -2, 0, 2)
+				o.Indicator.Position = UDim2.new(0, 1, 1, 0)
+				o.Indicator.BackgroundTransparency = 0
+				k.OverrideTag(o.Frame, {
+					BackgroundColor3 = n and 'InputFocused' or 'DialogHolder'
+				})
+				k.OverrideTag(o.Indicator, {
+					BackgroundColor3 = 'Accent'
+				})
+			end)
+			k.AddSignal(o.Input.FocusLost, function()
+				p()
+				o.Indicator.Size = UDim2.new(1, -4, 0, 1)
+				o.Indicator.Position = UDim2.new(0, 2, 1, 0)
+				o.Indicator.BackgroundTransparency = 0.5
+				k.OverrideTag(o.Frame, {
+					BackgroundColor3 = n and 'Input' or 'DialogInput'
+				})
+				k.OverrideTag(o.Indicator, {
+					BackgroundColor3 = n and 'InputIndicator' or 'DialogInputLine'
+				})
+			end)
+			return o
+		end
+	end,
+	[16] = function()
+		local c, d, e, f, g = b(16)
+		local h, i = d.Parent.Parent, e(d.Parent.Assets)
+		local j, k = e(h.Creator), e(h.Packages.Flipper)
+		local l, m = j.New, j.AddSignal
+		return function(n)
+			local o, p, q = {}, e(h), function(o, p, q, r)
+				local s = {
+					Callback = r or function()
+					end
+				}
+				s.Frame = l('TextButton', {
+					Size = UDim2.new(0, 34, 1, -8),
+					AnchorPoint = Vector2.new(1, 0),
+					BackgroundTransparency = 1,
+					Parent = q,
+					Position = p,
+					Text = '',
+					ThemeTag = {
+						BackgroundColor3 = 'Text'
+					}
+				}, {
+					l('UICorner', {
+						CornerRadius = UDim.new(0, 7)
+					}),
+					l('ImageLabel', {
+						Image = o,
+						Size = UDim2.fromOffset(16, 16),
+						Position = UDim2.fromScale(0.5, 0.5),
+						AnchorPoint = Vector2.new(0.5, 0.5),
+						BackgroundTransparency = 1,
+						Name = 'Icon',
+						ThemeTag = {
+							ImageColor3 = 'Text'
+						}
+					})
+				})
+				local t, u = j.SpringMotor(1, s.Frame, 'BackgroundTransparency')
+				m(s.Frame.MouseEnter, function()
+					u(0.94)
+				end)
+				m(s.Frame.MouseLeave, function()
+					u(1, true)
+				end)
+				m(s.Frame.MouseButton1Down, function()
+					u(0.96)
+				end)
+				m(s.Frame.MouseButton1Up, function()
+					u(0.94)
+				end)
+				m(s.Frame.MouseButton1Click, s.Callback)
+				s.SetCallback = function(v)
+					s.Callback = v
+				end
+				return s
+			end
+			o.Frame = l('Frame', {
+				Size = UDim2.new(1, 0, 0, 42),
+				BackgroundTransparency = 1,
+				Parent = n.Parent
+			}, {
+				l('Frame', {
+					Size = UDim2.new(1, -16, 1, 0),
+					Position = UDim2.new(0, 16, 0, 0),
+					BackgroundTransparency = 1
+				}, {
+					l('UIListLayout', {
+						Padding = UDim.new(0, 5),
+						FillDirection = Enum.FillDirection.Horizontal,
+						SortOrder = Enum.SortOrder.LayoutOrder
+					}),
+					l('TextLabel', {
+						RichText = true,
+						Text = n.Title,
+						FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+						TextSize = 12,
+						TextXAlignment = 'Left',
+						TextYAlignment = 'Center',
+						Size = UDim2.fromScale(0, 1),
+						AutomaticSize = Enum.AutomaticSize.X,
+						BackgroundTransparency = 1,
+						ThemeTag = {
+							TextColor3 = 'Text'
+						}
+					}),
+					l('TextLabel', {
+						RichText = true,
+						Text = n.SubTitle,
+						TextTransparency = 0.4,
+						FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+						TextSize = 12,
+						TextXAlignment = 'Left',
+						TextYAlignment = 'Center',
+						Size = UDim2.fromScale(0, 1),
+						AutomaticSize = Enum.AutomaticSize.X,
+						BackgroundTransparency = 1,
+						ThemeTag = {
+							TextColor3 = 'Text'
+						}
+					})
+				}),
+				l('Frame', {
+					BackgroundTransparency = 0.5,
+					Size = UDim2.new(1, 0, 0, 1),
+					Position = UDim2.new(0, 0, 1, 0),
+					ThemeTag = {
+						BackgroundColor3 = 'TitleBarLine'
+					}
+				})
+			})
+			o.CloseButton = q(i.Close, UDim2.new(1, -4, 0, 4), o.Frame, function()
+				p.Window:Dialog{
+					Title = 'Close',
+					Content = 'Are you sure you want to unload the interface?',
+					Buttons = {
+						{
+							Title = 'Yes',
+							Callback = function()
+								p:Destroy()
+							end
+						},
+						{
+							Title = 'No'
+						}
+					}
+				}
+			end)
+			o.MaxButton = q(i.Max, UDim2.new(1, -40, 0, 4), o.Frame, function()
+				n.Window.Maximize(not n.Window.Maximized)
+			end)
+			o.MinButton = q(i.Min, UDim2.new(1, -80, 0, 4), o.Frame, function()
+				p.Window:Minimize()
+			end)
+			return o
+		end
+	end,
+	[17] = function()
+		local c, d, e, f, g = b(17)
+		local h, i, j, k = game:GetService'UserInputService', game:GetService'Players'.LocalPlayer:GetMouse(), game:GetService'Workspace'.CurrentCamera, d.Parent.Parent
+		local l, m, n, o, p = e(k.Packages.Flipper), e(k.Creator), e(k.Acrylic), e(d.Parent.Assets), d.Parent
+		local q, r, s = l.Spring.new, l.Instant.new, m.New
+		return function(t)
+			local u, v, w, x, y, z = e(k), {
+				Minimized = false,
+				Maximized = false,
+				Size = t.Size,
+				CurrentPos = 0,
+				Position = UDim2.fromOffset(j.ViewportSize.X / 2 - t.Size.X.Offset / 2, j.ViewportSize.Y / 2 - t.Size.Y.Offset / 2)
+			}, false
+			local A, B = false
+			local C = false
+			v.AcrylicPaint = n.AcrylicPaint()
+			local D, E = s('Frame', {
+				Size = UDim2.fromOffset(4, 0),
+				BackgroundColor3 = Color3.fromRGB(76, 194, 255),
+				Position = UDim2.fromOffset(0, 17),
+				AnchorPoint = Vector2.new(0, 0.5),
+				ThemeTag = {
+					BackgroundColor3 = 'Accent'
+				}
+			}, {
+				s('UICorner', {
+					CornerRadius = UDim.new(0, 2)
+				})
+			}), s('Frame', {
+				Size = UDim2.fromOffset(20, 20),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -20, 1, -20)
+			})
+			v.TabHolder = s('ScrollingFrame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 1,
+				ScrollBarImageTransparency = 1,
+				ScrollBarThickness = 0,
+				BorderSizePixel = 0,
+				CanvasSize = UDim2.fromScale(0, 0),
+				ScrollingDirection = Enum.ScrollingDirection.Y
+			}, {
+				s('UIListLayout', {
+					Padding = UDim.new(0, 4)
+				})
+			})
+			local F = s('Frame', {
+				Size = UDim2.new(0, t.TabWidth, 1, -66),
+				Position = UDim2.new(0, 12, 0, 54),
+				BackgroundTransparency = 1,
+				ClipsDescendants = true
+			}, {
+				v.TabHolder,
+				D
+			})
+			v.TabDisplay = s('TextLabel', {
+				RichText = true,
+				Text = 'Tab',
+				TextTransparency = 0,
+				FontFace = Font.new('rbxassetid://12187365364', Enum.FontWeight.SemiBold, Enum.FontStyle.Normal),
+				TextSize = 28,
+				TextXAlignment = 'Left',
+				TextYAlignment = 'Center',
+				Size = UDim2.new(1, -16, 0, 28),
+				Position = UDim2.fromOffset(t.TabWidth + 26, 56),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			v.ContainerHolder = s('CanvasGroup', {
+				Size = UDim2.new(1, -t.TabWidth - 32, 1, -102),
+				Position = UDim2.fromOffset(t.TabWidth + 26, 90),
+				BackgroundTransparency = 1
+			})
+			v.Root = s('Frame', {
+				BackgroundTransparency = 1,
+				Size = v.Size,
+				Position = v.Position,
+				Parent = t.Parent
+			}, {
+				v.AcrylicPaint.Frame,
+				v.TabDisplay,
+				v.ContainerHolder,
+				F,
+				E
+			})
+			v.TitleBar = e(d.Parent.TitleBar){
+				Title = t.Title,
+				SubTitle = t.SubTitle,
+				Parent = v.Root,
+				Window = v
+			}
+			if e(k).UseAcrylic then
+				v.AcrylicPaint.AddParent(v.Root)
+			end
+			local G, H = l.GroupMotor.new{
+				X = v.Size.X.Offset,
+				Y = v.Size.Y.Offset
+			}, l.GroupMotor.new{
+				X = v.Position.X.Offset,
+				Y = v.Position.Y.Offset
+			}
+			v.SelectorPosMotor = l.SingleMotor.new(17)
+			v.SelectorSizeMotor = l.SingleMotor.new(0)
+			v.ContainerBackMotor = l.SingleMotor.new(0)
+			v.ContainerPosMotor = l.SingleMotor.new(94)
+			G:onStep(function(I)
+				v.Root.Size = UDim2.new(0, I.X, 0, I.Y)
+			end)
+			H:onStep(function(I)
+				v.Root.Position = UDim2.new(0, I.X, 0, I.Y)
+			end)
+			local I, J = 0, 0
+			v.SelectorPosMotor:onStep(function(K)
+				D.Position = UDim2.new(0, 0, 0, K + 17)
+				local L = tick()
+				local M = L - J
+				if I ~= nil then
+					v.SelectorSizeMotor:setGoal(q((math.abs(K - I) / (M * 60)) + 16))
+					I = K
+				end
+				J = L
+			end)
+			v.SelectorSizeMotor:onStep(function(K)
+				D.Size = UDim2.new(0, 4, 0, K)
+			end)
+			v.ContainerBackMotor:onStep(function(K)
+				v.ContainerHolder.GroupTransparency = K
+			end)
+			v.ContainerPosMotor:onStep(function(K)
+				v.ContainerHolder.Position = UDim2.fromOffset(t.TabWidth + 26, K)
+			end)
+			local K, L
+			v.Maximize = function(M, N, O)
+				v.Maximized = M
+				v.TitleBar.MaxButton.Frame.Icon.Image = M and o.Restore or o.Max
+				if M then
+					K = v.Size.X.Offset
+					L = v.Size.Y.Offset
+				end
+				local P, Q = M and j.ViewportSize.X or K, M and j.ViewportSize.Y or L
+				G:setGoal{
+					X = l[O and 'Instant' or 'Spring'].new(P, {
+						frequency = 6
+					}),
+					Y = l[O and 'Instant' or 'Spring'].new(Q, {
+						frequency = 6
+					})
+				}
+				v.Size = UDim2.fromOffset(P, Q)
+				if not N then
+					H:setGoal{
+						X = q(M and 0 or v.Position.X.Offset, {
+							frequency = 6
+						}),
+						Y = q(M and 0 or v.Position.Y.Offset, {
+							frequency = 6
+						})
+					}
+				end
+			end
+			m.AddSignal(v.TitleBar.Frame.InputBegan, function(M)
+				if M.UserInputType == Enum.UserInputType.MouseButton1 or M.UserInputType == Enum.UserInputType.Touch then
+					w = true
+					y = M.Position
+					z = v.Root.Position
+					if v.Maximized then
+						z = UDim2.fromOffset(i.X - (i.X * ((K - 100) / v.Root.AbsoluteSize.X)), i.Y - (i.Y * (L / v.Root.AbsoluteSize.Y)))
+					end
+					M.Changed:Connect(function()
+						if M.UserInputState == Enum.UserInputState.End then
+							w = false
+						end
+					end)
+				end
+			end)
+			m.AddSignal(v.TitleBar.Frame.InputChanged, function(M)
+				if M.UserInputType == Enum.UserInputType.MouseMovement or M.UserInputType == Enum.UserInputType.Touch then
+					x = M
+				end
+			end)
+			m.AddSignal(E.InputBegan, function(M)
+				if M.UserInputType == Enum.UserInputType.MouseButton1 or M.UserInputType == Enum.UserInputType.Touch then
+					A = true
+					B = M.Position
+				end
+			end)
+			m.AddSignal(h.InputChanged, function(M)
+				if M == x and w then
+					local N = M.Position - y
+					v.Position = UDim2.fromOffset(z.X.Offset + N.X, z.Y.Offset + N.Y)
+					H:setGoal{
+						X = r(v.Position.X.Offset),
+						Y = r(v.Position.Y.Offset)
+					}
+					if v.Maximized then
+						v.Maximize(false, true, true)
+					end
+				end
+				if (M.UserInputType == Enum.UserInputType.MouseMovement or M.UserInputType == Enum.UserInputType.Touch) and A then
+					local N, O = M.Position - B, v.Size
+					local P = Vector3.new(O.X.Offset, O.Y.Offset, 0) + Vector3.new(1, 1, 0) * N
+					local Q = Vector2.new(math.clamp(P.X, 470, 2048), math.clamp(P.Y, 380, 2048))
+					G:setGoal{
+						X = l.Instant.new(Q.X),
+						Y = l.Instant.new(Q.Y)
+					}
+				end
+			end)
+			m.AddSignal(h.InputEnded, function(M)
+				if A == true or M.UserInputType == Enum.UserInputType.Touch then
+					A = false
+					v.Size = UDim2.fromOffset(G:getValue().X, G:getValue().Y)
+				end
+			end)
+			m.AddSignal(v.TabHolder.UIListLayout:GetPropertyChangedSignal'AbsoluteContentSize', function()
+				v.TabHolder.CanvasSize = UDim2.new(0, 0, 0, v.TabHolder.UIListLayout.AbsoluteContentSize.Y)
+			end)
+			m.AddSignal(h.InputBegan, function(M)
+				if type(u.MinimizeKeybind) == 'table' and u.MinimizeKeybind.Type == 'Keybind' and not h:GetFocusedTextBox() then
+					if M.KeyCode.Name == u.MinimizeKeybind.Value then
+						v:Minimize()
+					end
+				elseif M.KeyCode == u.MinimizeKey and not h:GetFocusedTextBox() then
+					v:Minimize()
+				end
+			end)
+			function v.Minimize(M)
+				v.Minimized = not v.Minimized
+				v.Root.Visible = not v.Minimized
+				if not C then
+					C = true
+					local N = u.MinimizeKeybind and u.MinimizeKeybind.Value or u.MinimizeKey.Name
+					u:Notify{
+						Title = 'Interface',
+						Content = 'Press ' .. N .. ' to toggle the inteface.',
+						Duration = 6
+					}
+				end
+			end
+			function v.Destroy(M)
+				if e(k).UseAcrylic then
+					v.AcrylicPaint.Model:Destroy()
+				end
+				v.Root:Destroy()
+			end
+			local M = e(p.Dialog):Init(v)
+			function v.Dialog(N, O)
+				local P = M:Create()
+				P.Title.Text = O.Title
+				local Q = s('TextLabel', {
+					FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+					Text = O.Content,
+					TextColor3 = Color3.fromRGB(240, 240, 240),
+					TextSize = 14,
+					TextXAlignment = Enum.TextXAlignment.Left,
+					TextYAlignment = Enum.TextYAlignment.Top,
+					Size = UDim2.new(1, -40, 1, 0),
+					Position = UDim2.fromOffset(20, 60),
+					BackgroundTransparency = 1,
+					Parent = P.Root,
+					ClipsDescendants = false,
+					ThemeTag = {
+						TextColor3 = 'Text'
+					}
+				})
+				s('UISizeConstraint', {
+					MinSize = Vector2.new(300, 165),
+					MaxSize = Vector2.new(620, math.huge),
+					Parent = P.Root
+				})
+				P.Root.Size = UDim2.fromOffset(Q.TextBounds.X + 40, 165)
+				if Q.TextBounds.X + 40 > v.Size.X.Offset - 120 then
+					P.Root.Size = UDim2.fromOffset(v.Size.X.Offset - 120, 165)
+					Q.TextWrapped = true
+					P.Root.Size = UDim2.fromOffset(v.Size.X.Offset - 120, Q.TextBounds.Y + 150)
+				end
+				for R, S in next, O.Buttons do
+					P:Button(S.Title, S.Callback)
+				end
+				P:Open()
+			end
+			local N = e(p.Tab):Init(v)
+			function v.AddTab(O, P)
+				return N:New(P.Title, P.Icon, v.TabHolder)
+			end
+			function v.SelectTab(O, P)
+				N:SelectTab(1)
+			end
+			m.AddSignal(v.TabHolder:GetPropertyChangedSignal'CanvasPosition', function()
+				I = N:GetCurrentTabPos() + 16
+				J = 0
+				v.SelectorPosMotor:setGoal(r(N:GetCurrentTabPos()))
+			end)
+			return v
+		end
+	end,
+	[18] = function()
+		local c, d, e, f, g = b(18)
+		local h = d.Parent
+		local i, j, k = e(h.Themes), e(h.Packages.Flipper), {
+			Registry = {},
+			Signals = {},
+			TransparencyMotors = {},
+			DefaultProperties = {
+				ScreenGui = {
+					ResetOnSpawn = false,
+					ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+				},
+				Frame = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					BorderSizePixel = 0
+				},
+				ScrollingFrame = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					ScrollBarImageColor3 = Color3.new(0, 0, 0)
+				},
+				TextLabel = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					Font = Enum.Font.SourceSans,
+					Text = '',
+					TextColor3 = Color3.new(0, 0, 0),
+					BackgroundTransparency = 1,
+					TextSize = 14
+				},
+				TextButton = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					AutoButtonColor = false,
+					Font = Enum.Font.SourceSans,
+					Text = '',
+					TextColor3 = Color3.new(0, 0, 0),
+					TextSize = 14
+				},
+				TextBox = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					ClearTextOnFocus = false,
+					Font = Enum.Font.SourceSans,
+					Text = '',
+					TextColor3 = Color3.new(0, 0, 0),
+					TextSize = 14
+				},
+				ImageLabel = {
+					BackgroundTransparency = 1,
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					BorderSizePixel = 0
+				},
+				ImageButton = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					AutoButtonColor = false
+				},
+				CanvasGroup = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					BorderSizePixel = 0
+				}
+			}
+		}
+		local l = function(l, m)
+			if m.ThemeTag then
+				k.AddThemeObject(l, m.ThemeTag)
+			end
+		end
+		function k.AddSignal(m, n)
+			table.insert(k.Signals, m:Connect(n))
+		end
+		function k.Disconnect()
+			for m = #k.Signals, 1, -1 do
+				local n = table.remove(k.Signals, m)
+				n:Disconnect()
+			end
+		end
+		function k.GetThemeProperty(m)
+			if i[e(h).Theme][m] then
+				return i[e(h).Theme][m]
+			end
+			return i.Dark[m]
+		end
+		function k.UpdateTheme()
+			for m, n in next, k.Registry do
+				for o, p in next, n.Properties do
+					m[o] = k.GetThemeProperty(p)
+				end
+			end
+			for o, p in next, k.TransparencyMotors do
+				p:setGoal(j.Instant.new(k.GetThemeProperty'ElementTransparency'))
+			end
+		end
+		function k.AddThemeObject(m, n)
+			local o = #k.Registry + 1
+			local p = {
+				Object = m,
+				Properties = n,
+				Idx = o
+			}
+			k.Registry[m] = p
+			k.UpdateTheme()
+			return m
+		end
+		function k.OverrideTag(m, n)
+			k.Registry[m].Properties = n
+			k.UpdateTheme()
+		end
+		function k.New(m, n, o)
+			local p = Instance.new(m)
+			for q, r in next, k.DefaultProperties[m] or {} do
+				p[q] = r
+			end
+			for s, t in next, n or {} do
+				if s ~= 'ThemeTag' then
+					p[s] = t
+				end
+			end
+			for u, v in next, o or {} do
+				v.Parent = p
+			end
+			l(p, n)
+			return p
+		end
+		function k.SpringMotor(m, n, o, p, s)
+			p = p or false
+			s = s or false
+			local t = j.SingleMotor.new(m)
+			t:onStep(function(u)
+				n[o] = u
+			end)
+			if s then
+				table.insert(k.TransparencyMotors, t)
+			end
+			local u = function(u, v)
+				v = v or false
+				if not p then
+					if not v then
+						if o == 'BackgroundTransparency' and e(h).DialogOpen then
+							return
+						end
+					end
+				end
+				t:setGoal(j.Spring.new(u, {
+					frequency = 8
+				}))
+			end
+			return t, u
+		end
+		return k
+	end,
+	[19] = function()
+		local c, d, e, f, g = b(19)
+		local h = {}
+		for i, j in next, d:GetChildren() do
+			table.insert(h, e(j))
+		end
+		return h
+	end,
+	[20] = function()
+		local c, d, e, f, g = b(20)
+		local h = d.Parent.Parent
+		local i = e(h.Creator)
+		local j, k, l = i.New, h.Components, {}
+		l.__index = l
+		l.__type = 'Button'
+		function l.New(m, n)
+			assert(n.Title, 'Button - Missing Title')
+			n.Callback = n.Callback or function()
+			end
+			local o = e(k.Element)(n.Title, n.Description, m.Container, true)
+			local p = j('ImageLabel', {
+				Image = 'rbxassetid://10709791437',
+				Size = UDim2.fromOffset(16, 16),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				BackgroundTransparency = 1,
+				Parent = o.Frame,
+				ThemeTag = {
+					ImageColor3 = 'Text'
+				}
+			})
+			i.AddSignal(o.Frame.MouseButton1Click, function()
+				m.Library:SafeCallback(n.Callback)
+			end)
+			return o
+		end
+		return l
+	end,
+	[21] = function()
+		local c, d, e, f, g = b(21)
+		local h, i, j, k = game:GetService'UserInputService', game:GetService'TouchInputService', game:GetService'RunService', game:GetService'Players'
+		local l, m = j.RenderStepped, k.LocalPlayer
+		local n, o = m:GetMouse(), d.Parent.Parent
+		local p = e(o.Creator)
+		local s, t, u = p.New, o.Components, {}
+		u.__index = u
+		u.__type = 'Colorpicker'
+		function u.New(v, w, x)
+			local y = v.Library
+			assert(x.Title, 'Colorpicker - Missing Title')
+			assert(x.Default, 'AddColorPicker: Missing default value.')
+			local z = {
+				Value = x.Default,
+				Transparency = x.Transparency or 0,
+				Type = 'Colorpicker',
+				Title = type(x.Title) == 'string' and x.Title or 'Colorpicker',
+				Callback = x.Callback or function(z)
+				end
+			}
+			function z.SetHSVFromRGB(A, B)
+				local C, D, E = Color3.toHSV(B)
+				z.Hue = C
+				z.Sat = D
+				z.Vib = E
+			end
+			z:SetHSVFromRGB(z.Value)
+			local A = e(t.Element)(x.Title, x.Description, v.Container, true)
+			z.SetTitle = A.SetTitle
+			z.SetDesc = A.SetDesc
+			local B = s('Frame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundColor3 = z.Value,
+				Parent = A.Frame
+			}, {
+				s('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				})
+			})
+			local aa, ab = s('ImageLabel', {
+				Size = UDim2.fromOffset(26, 26),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Parent = A.Frame,
+				Image = 'http://www.roblox.com/asset/?id=14204231522',
+				ImageTransparency = 0.45,
+				ScaleType = Enum.ScaleType.Tile,
+				TileSize = UDim2.fromOffset(40, 40)
+			}, {
+				s('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				}),
+				B
+			}), function()
+				local C = e(t.Dialog):Create()
+				C.Title.Text = z.Title
+				C.Root.Size = UDim2.fromOffset(430, 330)
+				local D, E, F, G, H, I = z.Hue, z.Sat, z.Vib, z.Transparency, function()
+					local D = e(t.Textbox)()
+					D.Frame.Parent = C.Root
+					D.Frame.Size = UDim2.new(0, 90, 0, 32)
+					return D
+				end, function(D, E)
+					return s('TextLabel', {
+						FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Medium, Enum.FontStyle.Normal),
+						Text = D,
+						TextColor3 = Color3.fromRGB(240, 240, 240),
+						TextSize = 13,
+						TextXAlignment = Enum.TextXAlignment.Left,
+						Size = UDim2.new(1, 0, 0, 32),
+						Position = E,
+						BackgroundTransparency = 1,
+						Parent = C.Root,
+						ThemeTag = {
+							TextColor3 = 'Text'
+						}
+					})
+				end
+				local J, K = function()
+					local J = Color3.fromHSV(D, E, F)
+					return {
+						R = math.floor(J.r * 255),
+						G = math.floor(J.g * 255),
+						B = math.floor(J.b * 255)
+					}
+				end, s('ImageLabel', {
+					Size = UDim2.new(0, 18, 0, 18),
+					ScaleType = Enum.ScaleType.Fit,
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Image = 'http://www.roblox.com/asset/?id=4805639000'
+				})
+				local L, M = s('ImageLabel', {
+					Size = UDim2.fromOffset(180, 160),
+					Position = UDim2.fromOffset(20, 55),
+					Image = 'rbxassetid://4155801252',
+					BackgroundColor3 = z.Value,
+					BackgroundTransparency = 0,
+					Parent = C.Root
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					}),
+					K
+				}), s('Frame', {
+					BackgroundColor3 = z.Value,
+					Size = UDim2.fromScale(1, 1),
+					BackgroundTransparency = z.Transparency
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					})
+				})
+				local N, O = s('ImageLabel', {
+					Image = 'http://www.roblox.com/asset/?id=14204231522',
+					ImageTransparency = 0.45,
+					ScaleType = Enum.ScaleType.Tile,
+					TileSize = UDim2.fromOffset(40, 40),
+					BackgroundTransparency = 1,
+					Position = UDim2.fromOffset(112, 220),
+					Size = UDim2.fromOffset(88, 24),
+					Parent = C.Root
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					}),
+					s('UIStroke', {
+						Thickness = 2,
+						Transparency = 0.75
+					}),
+					M
+				}), s('Frame', {
+					BackgroundColor3 = z.Value,
+					Size = UDim2.fromScale(1, 1),
+					BackgroundTransparency = 0
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					})
+				})
+				local P, Q = s('ImageLabel', {
+					Image = 'http://www.roblox.com/asset/?id=14204231522',
+					ImageTransparency = 0.45,
+					ScaleType = Enum.ScaleType.Tile,
+					TileSize = UDim2.fromOffset(40, 40),
+					BackgroundTransparency = 1,
+					Position = UDim2.fromOffset(20, 220),
+					Size = UDim2.fromOffset(88, 24),
+					Parent = C.Root
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					}),
+					s('UIStroke', {
+						Thickness = 2,
+						Transparency = 0.75
+					}),
+					O
+				}), {}
+				for R = 0, 1, 0.1 do
+					table.insert(Q, ColorSequenceKeypoint.new(R, Color3.fromHSV(R, 1, 1)))
+				end
+				local R, S = s('UIGradient', {
+					Color = ColorSequence.new(Q),
+					Rotation = 90
+				}), s('Frame', {
+					Size = UDim2.new(1, 0, 1, -10),
+					Position = UDim2.fromOffset(0, 5),
+					BackgroundTransparency = 1
+				})
+				local T, U, V = s('ImageLabel', {
+					Size = UDim2.fromOffset(14, 14),
+					Image = 'http://www.roblox.com/asset/?id=12266946128',
+					Parent = S,
+					ThemeTag = {
+						ImageColor3 = 'DialogInput'
+					}
+				}), s('Frame', {
+					Size = UDim2.fromOffset(12, 190),
+					Position = UDim2.fromOffset(210, 55),
+					Parent = C.Root
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(1, 0)
+					}),
+					R,
+					S
+				}), H()
+				V.Frame.Position = UDim2.fromOffset(x.Transparency and 260 or 240, 55)
+				I('Hex', UDim2.fromOffset(x.Transparency and 360 or 340, 55))
+				local W = H()
+				W.Frame.Position = UDim2.fromOffset(x.Transparency and 260 or 240, 95)
+				I('Red', UDim2.fromOffset(x.Transparency and 360 or 340, 95))
+				local X = H()
+				X.Frame.Position = UDim2.fromOffset(x.Transparency and 260 or 240, 135)
+				I('Green', UDim2.fromOffset(x.Transparency and 360 or 340, 135))
+				local Y = H()
+				Y.Frame.Position = UDim2.fromOffset(x.Transparency and 260 or 240, 175)
+				I('Blue', UDim2.fromOffset(x.Transparency and 360 or 340, 175))
+				local Z
+				if x.Transparency then
+					Z = H()
+					Z.Frame.Position = UDim2.fromOffset(260, 215)
+					I('Alpha', UDim2.fromOffset(360, 215))
+				end
+				local _, aa, ab
+				if x.Transparency then
+					local ac = s('Frame', {
+						Size = UDim2.new(1, 0, 1, -10),
+						Position = UDim2.fromOffset(0, 5),
+						BackgroundTransparency = 1
+					})
+					aa = s('ImageLabel', {
+						Size = UDim2.fromOffset(14, 14),
+						Image = 'http://www.roblox.com/asset/?id=12266946128',
+						Parent = ac,
+						ThemeTag = {
+							ImageColor3 = 'DialogInput'
+						}
+					})
+					ab = s('Frame', {
+						Size = UDim2.fromScale(1, 1)
+					}, {
+						s('UIGradient', {
+							Transparency = NumberSequence.new{
+								NumberSequenceKeypoint.new(0, 0),
+								NumberSequenceKeypoint.new(1, 1)
+							},
+							Rotation = 270
+						}),
+						s('UICorner', {
+							CornerRadius = UDim.new(1, 0)
+						})
+					})
+					_ = s('Frame', {
+						Size = UDim2.fromOffset(12, 190),
+						Position = UDim2.fromOffset(230, 55),
+						Parent = C.Root,
+						BackgroundTransparency = 1
+					}, {
+						s('UICorner', {
+							CornerRadius = UDim.new(1, 0)
+						}),
+						s('ImageLabel', {
+							Image = 'http://www.roblox.com/asset/?id=14204231522',
+							ImageTransparency = 0.45,
+							ScaleType = Enum.ScaleType.Tile,
+							TileSize = UDim2.fromOffset(40, 40),
+							BackgroundTransparency = 1,
+							Size = UDim2.fromScale(1, 1),
+							Parent = C.Root
+						}, {
+							s('UICorner', {
+								CornerRadius = UDim.new(1, 0)
+							})
+						}),
+						ab,
+						ac
+					})
+				end
+				local ac = function()
+					L.BackgroundColor3 = Color3.fromHSV(D, 1, 1)
+					T.Position = UDim2.new(0, -1, D, -6)
+					K.Position = UDim2.new(E, 0, 1 - F, 0)
+					O.BackgroundColor3 = Color3.fromHSV(D, E, F)
+					V.Input.Text = '#' .. Color3.fromHSV(D, E, F):ToHex()
+					W.Input.Text = J().R
+					X.Input.Text = J().G
+					Y.Input.Text = J().B
+					if x.Transparency then
+						ab.BackgroundColor3 = Color3.fromHSV(D, E, F)
+						O.BackgroundTransparency = G
+						aa.Position = UDim2.new(0, -1, 1 - G, -6)
+						Z.Input.Text = e(o):Round((1 - G) * 100, 0) .. '%'
+					end
+				end
+				p.AddSignal(V.Input.FocusLost, function(ad)
+					if ad then
+						local ae, af = pcall(Color3.fromHex, V.Input.Text)
+						if ae and typeof(af) == 'Color3' then
+							D, E, F = Color3.toHSV(af)
+						end
+					end
+					ac()
+				end)
+				p.AddSignal(W.Input.FocusLost, function(ad)
+					if ad then
+						local ae = J()
+						local af, ag = pcall(Color3.fromRGB, W.Input.Text, ae.G, ae.B)
+						if af and typeof(ag) == 'Color3' then
+							if tonumber(W.Input.Text) <= 255 then
+								D, E, F = Color3.toHSV(ag)
+							end
+						end
+					end
+					ac()
+				end)
+				p.AddSignal(X.Input.FocusLost, function(ad)
+					if ad then
+						local ae = J()
+						local af, ag = pcall(Color3.fromRGB, ae.R, X.Input.Text, ae.B)
+						if af and typeof(ag) == 'Color3' then
+							if tonumber(X.Input.Text) <= 255 then
+								D, E, F = Color3.toHSV(ag)
+							end
+						end
+					end
+					ac()
+				end)
+				p.AddSignal(Y.Input.FocusLost, function(ad)
+					if ad then
+						local ae = J()
+						local af, ag = pcall(Color3.fromRGB, ae.R, ae.G, Y.Input.Text)
+						if af and typeof(ag) == 'Color3' then
+							if tonumber(Y.Input.Text) <= 255 then
+								D, E, F = Color3.toHSV(ag)
+							end
+						end
+					end
+					ac()
+				end)
+				if x.Transparency then
+					p.AddSignal(Z.Input.FocusLost, function(ad)
+						if ad then
+							pcall(function()
+								local ae = tonumber(Z.Input.Text)
+								if ae >= 0 and ae <= 100 then
+									G = 1 - ae * 0.01
+								end
+							end)
+						end
+						ac()
+					end)
+				end
+				p.AddSignal(L.InputBegan, function(ad)
+					if ad.UserInputType == Enum.UserInputType.MouseButton1 or ad.UserInputType == Enum.UserInputType.Touch then
+						while h:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+							local ae = L.AbsolutePosition.X
+							local af = ae + L.AbsoluteSize.X
+							local ag, ah = math.clamp(n.X, ae, af), L.AbsolutePosition.Y
+							local ai = ah + L.AbsoluteSize.Y
+							local aj = math.clamp(n.Y, ah, ai)
+							E = (ag - ae) / (af - ae)
+							F = 1 - ((aj - ah) / (ai - ah))
+							ac()
+							l:Wait()
+						end
+					end
+				end)
+				p.AddSignal(U.InputBegan, function(ad)
+					if ad.UserInputType == Enum.UserInputType.MouseButton1 or ad.UserInputType == Enum.UserInputType.Touch then
+						while h:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+							local ae = U.AbsolutePosition.Y
+							local af = ae + U.AbsoluteSize.Y
+							local ag = math.clamp(n.Y, ae, af)
+							D = ((ag - ae) / (af - ae))
+							ac()
+							l:Wait()
+						end
+					end
+				end)
+				if x.Transparency then
+					p.AddSignal(_.InputBegan, function(ad)
+						if ad.UserInputType == Enum.UserInputType.MouseButton1 then
+							while h:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+								local ae = _.AbsolutePosition.Y
+								local af = ae + _.AbsoluteSize.Y
+								local ag = math.clamp(n.Y, ae, af)
+								G = 1 - ((ag - ae) / (af - ae))
+								ac()
+								l:Wait()
+							end
+						end
+					end)
+				end
+				ac()
+				C:Button('Done', function()
+					z:SetValue({
+						D,
+						E,
+						F
+					}, G)
+				end)
+				C:Button'Cancel'
+				C:Open()
+			end
+			function z.Display(ac)
+				z.Value = Color3.fromHSV(z.Hue, z.Sat, z.Vib)
+				B.BackgroundColor3 = z.Value
+				B.BackgroundTransparency = z.Transparency
+				u.Library:SafeCallback(z.Callback, z.Value)
+				u.Library:SafeCallback(z.Changed, z.Value)
+			end
+			function z.SetValue(ac, ad, ae)
+				local af = Color3.fromHSV(ad[1], ad[2], ad[3])
+				z.Transparency = ae or 0
+				z:SetHSVFromRGB(af)
+				z:Display()
+			end
+			function z.SetValueRGB(ac, ad, ae)
+				z.Transparency = ae or 0
+				z:SetHSVFromRGB(ad)
+				z:Display()
+			end
+			function z.OnChanged(ac, ad)
+				z.Changed = ad
+				ad(z.Value)
+			end
+			function z.Destroy(ac)
+				A:Destroy()
+				y.Options[w] = nil
+			end
+			p.AddSignal(A.Frame.MouseButton1Click, function()
+				ab()
+			end)
+			z:Display()
+			y.Options[w] = z
+			return z
+		end
+		return u
+	end,
+	[22] = function()
+		local aa, ab, ac, ad, ae = b(22)
+		local af, ag, ah, ai, aj = game:GetService'TweenService', game:GetService'UserInputService', game:GetService'Players'.LocalPlayer:GetMouse(), game:GetService'Workspace'.CurrentCamera, ab.Parent.Parent
+		local c, d = ac(aj.Creator), ac(aj.Packages.Flipper)
+		local e, f, g = c.New, aj.Components, {}
+		g.__index = g
+		g.__type = 'Dropdown'
+		function g.New(h, i, j)
+			local k, l, m = h.Library, {
+				Values = j.Values,
+				Value = j.Default,
+				Multi = j.Multi,
+				Buttons = {},
+				Opened = false,
+				Type = 'Dropdown',
+				Callback = j.Callback or function()
+				end
+			}, ac(f.Element)(j.Title, j.Description, h.Container, false)
+			m.DescLabel.Size = UDim2.new(1, -170, 0, 14)
+			l.SetTitle = m.SetTitle
+			l.SetDesc = m.SetDesc
+			local n, o = e('TextLabel', {
+				FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+				Text = 'Value',
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 13,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				Size = UDim2.new(1, -30, 0, 14),
+				Position = UDim2.new(0, 8, 0.5, 0),
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				TextTruncate = Enum.TextTruncate.AtEnd,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			}), e('ImageLabel', {
+				Image = 'rbxassetid://10709790948',
+				Size = UDim2.fromOffset(16, 16),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Position = UDim2.new(1, -8, 0.5, 0),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					ImageColor3 = 'SubText'
+				}
+			})
+			local p, s = e('TextButton', {
+				Size = UDim2.fromOffset(160, 30),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				AnchorPoint = Vector2.new(1, 0.5),
+				BackgroundTransparency = 0.9,
+				Parent = m.Frame,
+				ThemeTag = {
+					BackgroundColor3 = 'DropdownFrame'
+				}
+			}, {
+				e('UICorner', {
+					CornerRadius = UDim.new(0, 5)
+				}),
+				e('UIStroke', {
+					Transparency = 0.5,
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					ThemeTag = {
+						Color = 'InElementBorder'
+					}
+				}),
+				o,
+				n
+			}), e('UIListLayout', {
+				Padding = UDim.new(0, 3)
+			})
+			local t = e('ScrollingFrame', {
+				Size = UDim2.new(1, -5, 1, -10),
+				Position = UDim2.fromOffset(5, 5),
+				BackgroundTransparency = 1,
+				BottomImage = 'rbxassetid://6889812791',
+				MidImage = 'rbxassetid://6889812721',
+				TopImage = 'rbxassetid://6276641225',
+				ScrollBarImageColor3 = Color3.fromRGB(255, 255, 255),
+				ScrollBarImageTransparency = 0.95,
+				ScrollBarThickness = 4,
+				BorderSizePixel = 0,
+				CanvasSize = UDim2.fromScale(0, 0)
+			}, {
+				s
+			})
+			local u = e('Frame', {
+				Size = UDim2.fromScale(1, 0.6),
+				ThemeTag = {
+					BackgroundColor3 = 'DropdownHolder'
+				}
+			}, {
+				t,
+				e('UICorner', {
+					CornerRadius = UDim.new(0, 7)
+				}),
+				e('UIStroke', {
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					ThemeTag = {
+						Color = 'DropdownBorder'
+					}
+				}),
+				e('ImageLabel', {
+					BackgroundTransparency = 1,
+					Image = 'http://www.roblox.com/asset/?id=5554236805',
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(23, 23, 277, 277),
+					Size = UDim2.fromScale(1, 1) + UDim2.fromOffset(30, 30),
+					Position = UDim2.fromOffset(-15, -15),
+					ImageColor3 = Color3.fromRGB(0, 0, 0),
+					ImageTransparency = 0.1
+				})
+			})
+			local v = e('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.fromOffset(170, 300),
+				Parent = h.Library.GUI,
+				Visible = false
+			}, {
+				u,
+				e('UISizeConstraint', {
+					MinSize = Vector2.new(170, 0)
+				})
+			})
+			table.insert(k.OpenFrames, v)
+			local w, x = function()
+				local w = 0
+				if ai.ViewportSize.Y - p.AbsolutePosition.Y < v.AbsoluteSize.Y - 5 then
+					w = v.AbsoluteSize.Y - 5 - (ai.ViewportSize.Y - p.AbsolutePosition.Y) + 40
+				end
+				v.Position = UDim2.fromOffset(p.AbsolutePosition.X - 1, p.AbsolutePosition.Y - 5 - w)
+			end, 0
+			local y, z = function()
+				if #l.Values > 10 then
+					v.Size = UDim2.fromOffset(x, 392)
+				else
+					v.Size = UDim2.fromOffset(x, s.AbsoluteContentSize.Y + 10)
+				end
+			end, function()
+				t.CanvasSize = UDim2.fromOffset(0, s.AbsoluteContentSize.Y)
+			end
+			w()
+			y()
+			c.AddSignal(p:GetPropertyChangedSignal'AbsolutePosition', w)
+			c.AddSignal(p.MouseButton1Click, function()
+				l:Open()
+			end)
+			c.AddSignal(ag.InputBegan, function(A)
+				if A.UserInputType == Enum.UserInputType.MouseButton1 or A.UserInputType == Enum.UserInputType.Touch then
+					local B, C = u.AbsolutePosition, u.AbsoluteSize
+					if ah.X < B.X or ah.X > B.X + C.X or ah.Y < (B.Y - 20 - 1) or ah.Y > B.Y + C.Y then
+						l:Close()
+					end
+				end
+			end)
+			local A = h.ScrollFrame
+			function l.Open(B)
+				l.Opened = true
+				A.ScrollingEnabled = false
+				v.Visible = true
+				af:Create(u, TweenInfo.new(0.2, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {
+					Size = UDim2.fromScale(1, 1)
+				}):Play()
+			end
+			function l.Close(B)
+				l.Opened = false
+				A.ScrollingEnabled = true
+				u.Size = UDim2.fromScale(1, 0.6)
+				v.Visible = false
+			end
+			function l.Display(B)
+				local C, D = l.Values, ''
+				if j.Multi then
+					for E, F in next, C do
+						if l.Value[F] then
+							D = D .. F .. ', '
+						end
+					end
+					D = D:sub(1, #D - 2)
+				else
+					D = l.Value or ''
+				end
+				n.Text = (D == '' and '--' or D)
+			end
+			function l.GetActiveValues(B)
+				if j.Multi then
+					local C = {}
+					for D, E in next, l.Value do
+						table.insert(C, D)
+					end
+					return C
+				else
+					return l.Value and 1 or 0
+				end
+			end
+			function l.BuildDropdownList(B)
+				local C, D = l.Values, {}
+				for E, F in next, t:GetChildren() do
+					if not F:IsA'UIListLayout' then
+						F:Destroy()
+					end
+				end
+				local G = 0
+				for H, I in next, C do
+					local J = {}
+					G = G + 1
+					local K, L = e('Frame', {
+						Size = UDim2.fromOffset(4, 14),
+						BackgroundColor3 = Color3.fromRGB(76, 194, 255),
+						Position = UDim2.fromOffset(-1, 16),
+						AnchorPoint = Vector2.new(0, 0.5),
+						ThemeTag = {
+							BackgroundColor3 = 'Accent'
+						}
+					}, {
+						e('UICorner', {
+							CornerRadius = UDim.new(0, 2)
+						})
+					}), e('TextLabel', {
+						FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+						Text = I,
+						TextColor3 = Color3.fromRGB(200, 200, 200),
+						TextSize = 13,
+						TextXAlignment = Enum.TextXAlignment.Left,
+						BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+						AutomaticSize = Enum.AutomaticSize.Y,
+						BackgroundTransparency = 1,
+						Size = UDim2.fromScale(1, 1),
+						Position = UDim2.fromOffset(10, 0),
+						Name = 'ButtonLabel',
+						ThemeTag = {
+							TextColor3 = 'Text'
+						}
+					})
+					local M, N = (e('TextButton', {
+						Size = UDim2.new(1, -5, 0, 32),
+						BackgroundTransparency = 1,
+						ZIndex = 23,
+						Text = '',
+						Parent = t,
+						ThemeTag = {
+							BackgroundColor3 = 'DropdownOption'
+						}
+					}, {
+						K,
+						L,
+						e('UICorner', {
+							CornerRadius = UDim.new(0, 6)
+						})
+					}))
+					if j.Multi then
+						N = l.Value[I]
+					else
+						N = l.Value == I
+					end
+					local O, P = c.SpringMotor(1, M, 'BackgroundTransparency')
+					local Q, R = c.SpringMotor(1, K, 'BackgroundTransparency')
+					local S = d.SingleMotor.new(6)
+					S:onStep(function(T)
+						K.Size = UDim2.new(0, 4, 0, T)
+					end)
+					c.AddSignal(M.MouseEnter, function()
+						P(N and 0.85 or 0.89)
+					end)
+					c.AddSignal(M.MouseLeave, function()
+						P(N and 0.89 or 1)
+					end)
+					c.AddSignal(M.MouseButton1Down, function()
+						P(0.92)
+					end)
+					c.AddSignal(M.MouseButton1Up, function()
+						P(N and 0.85 or 0.89)
+					end)
+					function J.UpdateButton(T)
+						if j.Multi then
+							N = l.Value[I]
+							if N then
+								P(0.89)
+							end
+						else
+							N = l.Value == I
+							P(N and 0.89 or 1)
+						end
+						S:setGoal(d.Spring.new(N and 14 or 6, {
+							frequency = 6
+						}))
+						R(N and 0 or 1)
+					end
+					L.InputBegan:Connect(function(T)
+						if T.UserInputType == Enum.UserInputType.MouseButton1 or T.UserInputType == Enum.UserInputType.Touch then
+							local U = not N
+							if l:GetActiveValues() == 1 and not U and not j.AllowNull then
+							else
+								if j.Multi then
+									N = U
+									l.Value[I] = N and true or nil
+								else
+									N = U
+									l.Value = N and I or nil
+									for V, W in next, D do
+										W:UpdateButton()
+									end
+								end
+								J:UpdateButton()
+								l:Display()
+								k:SafeCallback(l.Callback, l.Value)
+								k:SafeCallback(l.Changed, l.Value)
+							end
+						end
+					end)
+					J:UpdateButton()
+					l:Display()
+					D[M] = J
+				end
+				x = 0
+				for J, K in next, D do
+					if J.ButtonLabel then
+						if J.ButtonLabel.TextBounds.X > x then
+							x = J.ButtonLabel.TextBounds.X
+						end
+					end
+				end
+				x = x + 30
+				z()
+				y()
+			end
+			function l.SetValues(B, C)
+				if C then
+					l.Values = C
+				end
+				l:BuildDropdownList()
+			end
+			function l.OnChanged(B, C)
+				l.Changed = C
+				C(l.Value)
+			end
+			function l.SetValue(B, C)
+				if l.Multi then
+					local D = {}
+					for E, F in next, C do
+						if table.find(l.Values, E) then
+							D[E] = true
+						end
+					end
+					l.Value = D
+				else
+					if not C then
+						l.Value = nil
+					elseif table.find(l.Values, C) then
+						l.Value = C
+					end
+				end
+				l:BuildDropdownList()
+				k:SafeCallback(l.Callback, l.Value)
+				k:SafeCallback(l.Changed, l.Value)
+			end
+			function l.Destroy(B)
+				m:Destroy()
+				k.Options[i] = nil
+			end
+			l:BuildDropdownList()
+			l:Display()
+			local B = {}
+			if type(j.Default) == 'string' then
+				local C = table.find(l.Values, j.Default)
+				if C then
+					table.insert(B, C)
+				end
+			elseif type(j.Default) == 'table' then
+				for C, D in next, j.Default do
+					local E = table.find(l.Values, D)
+					if E then
+						table.insert(B, E)
+					end
+				end
+			elseif type(j.Default) == 'number' and l.Values[j.Default] ~= nil then
+				table.insert(B, j.Default)
+			end
+			if next(B) then
+				for C = 1, #B do
+					local D = B[C]
+					if j.Multi then
+						l.Value[l.Values[D]] = true
+					else
+						l.Value = l.Values[D]
+					end
+					if not j.Multi then
+						break
+					end
+				end
+				l:BuildDropdownList()
+				l:Display()
+			end
+			k.Options[i] = l
+			return l
+		end
+		return g
+	end,
+	[23] = function()
+		local aa, ab, ac, ad, ae = b(23)
+		local af = ab.Parent.Parent
+		local ag = ac(af.Creator)
+		local ah, ai, aj, c = ag.New, ag.AddSignal, af.Components, {}
+		c.__index = c
+		c.__type = 'Input'
+		function c.New(d, e, f)
+			local g = d.Library
+			assert(f.Title, 'Input - Missing Title')
+			f.Callback = f.Callback or function()
+			end
+			local h, i = {
+				Value = f.Default or '',
+				Numeric = f.Numeric or false,
+				Finished = f.Finished or false,
+				Callback = f.Callback or function(h)
+				end,
+				Type = 'Input'
+			}, ac(aj.Element)(f.Title, f.Description, d.Container, false)
+			h.SetTitle = i.SetTitle
+			h.SetDesc = i.SetDesc
+			local j = ac(aj.Textbox)(i.Frame, true)
+			j.Frame.Position = UDim2.new(1, -10, 0.5, 0)
+			j.Frame.AnchorPoint = Vector2.new(1, 0.5)
+			j.Frame.Size = UDim2.fromOffset(160, 30)
+			j.Input.Text = f.Default or ''
+			j.Input.PlaceholderText = f.Placeholder or ''
+			local k = j.Input
+			function h.SetValue(l, m)
+				if f.MaxLength and #m > f.MaxLength then
+					m = m:sub(1, f.MaxLength)
+				end
+				if h.Numeric then
+					if (not tonumber(m)) and m:len() > 0 then
+						m = h.Value
+					end
+				end
+				h.Value = m
+				k.Text = m
+				g:SafeCallback(h.Callback, h.Value)
+				g:SafeCallback(h.Changed, h.Value)
+			end
+			if h.Finished then
+				ai(k.FocusLost, function(l)
+					if not l then
+						return
+					end
+					h:SetValue(k.Text)
+				end)
+			else
+				ai(k:GetPropertyChangedSignal'Text', function()
+					h:SetValue(k.Text)
+				end)
+			end
+			function h.OnChanged(l, m)
+				h.Changed = m
+				m(h.Value)
+			end
+			function h.Destroy(l)
+				i:Destroy()
+				g.Options[e] = nil
+			end
+			g.Options[e] = h
+			return h
+		end
+		return c
+	end,
+	[24] = function()
+		local aa, ab, ac, ad, ae = b(24)
+		local af, ag = game:GetService'UserInputService', ab.Parent.Parent
+		local ah = ac(ag.Creator)
+		local ai, aj, c = ah.New, ag.Components, {}
+		c.__index = c
+		c.__type = 'Keybind'
+		function c.New(d, e, f)
+			local g = d.Library
+			assert(f.Title, 'KeyBind - Missing Title')
+			assert(f.Default, 'KeyBind - Missing default value.')
+			local h, i, j = {
+				Value = f.Default,
+				Toggled = false,
+				Mode = f.Mode or 'Toggle',
+				Type = 'Keybind',
+				Callback = f.Callback or function(h)
+				end,
+				ChangedCallback = f.ChangedCallback or function(h)
+				end
+			}, false, ac(aj.Element)(f.Title, f.Description, d.Container, true)
+			h.SetTitle = j.SetTitle
+			h.SetDesc = j.SetDesc
+			local k = ai('TextLabel', {
+				FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+				Text = f.Default,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 13,
+				TextXAlignment = Enum.TextXAlignment.Center,
+				Size = UDim2.new(0, 0, 0, 14),
+				Position = UDim2.new(0, 0, 0.5, 0),
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				AutomaticSize = Enum.AutomaticSize.X,
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			local l = ai('TextButton', {
+				Size = UDim2.fromOffset(0, 30),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				AnchorPoint = Vector2.new(1, 0.5),
+				BackgroundTransparency = 0.9,
+				Parent = j.Frame,
+				AutomaticSize = Enum.AutomaticSize.X,
+				ThemeTag = {
+					BackgroundColor3 = 'Keybind'
+				}
+			}, {
+				ai('UICorner', {
+					CornerRadius = UDim.new(0, 5)
+				}),
+				ai('UIPadding', {
+					PaddingLeft = UDim.new(0, 8),
+					PaddingRight = UDim.new(0, 8)
+				}),
+				ai('UIStroke', {
+					Transparency = 0.5,
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					ThemeTag = {
+						Color = 'InElementBorder'
+					}
+				}),
+				k
+			})
+			function h.GetState(m)
+				if af:GetFocusedTextBox() and h.Mode ~= 'Always' then
+					return false
+				end
+				if h.Mode == 'Always' then
+					return true
+				elseif h.Mode == 'Hold' then
+					if h.Value == 'None' then
+						return false
+					end
+					local n = h.Value
+					if n == 'MouseLeft' or n == 'MouseRight' then
+						return n == 'MouseLeft' and af:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) or n == 'MouseRight' and af:IsMouseButtonPressed(Enum.UserInputType.MouseButton2)
+					else
+						return af:IsKeyDown(Enum.KeyCode[h.Value])
+					end
+				else
+					return h.Toggled
+				end
+			end
+			function h.SetValue(m, n, o)
+				n = n or h.Key
+				o = o or h.Mode
+				k.Text = n
+				h.Value = n
+				h.Mode = o
+			end
+			function h.OnClick(m, n)
+				h.Clicked = n
+			end
+			function h.OnChanged(m, n)
+				h.Changed = n
+				n(h.Value)
+			end
+			function h.DoClick(m)
+				g:SafeCallback(h.Callback, h.Toggled)
+				g:SafeCallback(h.Clicked, h.Toggled)
+			end
+			function h.Destroy(m)
+				j:Destroy()
+				g.Options[e] = nil
+			end
+			ah.AddSignal(l.InputBegan, function(m)
+				if m.UserInputType == Enum.UserInputType.MouseButton1 or m.UserInputType == Enum.UserInputType.Touch then
+					i = true
+					k.Text = '...'
+					wait(0.2)
+					local n
+					n = af.InputBegan:Connect(function(o)
+						local p
+						if o.UserInputType == Enum.UserInputType.Keyboard then
+							p = o.KeyCode.Name
+						elseif o.UserInputType == Enum.UserInputType.MouseButton1 then
+							p = 'MouseLeft'
+						elseif o.UserInputType == Enum.UserInputType.MouseButton2 then
+							p = 'MouseRight'
+						end
+						local s
+						s = af.InputEnded:Connect(function(t)
+							if t.KeyCode.Name == p or p == 'MouseLeft' and t.UserInputType == Enum.UserInputType.MouseButton1 or p == 'MouseRight' and t.UserInputType == Enum.UserInputType.MouseButton2 then
+								i = false
+								k.Text = p
+								h.Value = p
+								g:SafeCallback(h.ChangedCallback, t.KeyCode or t.UserInputType)
+								g:SafeCallback(h.Changed, t.KeyCode or t.UserInputType)
+								n:Disconnect()
+								s:Disconnect()
+							end
+						end)
+					end)
+				end
+			end)
+			ah.AddSignal(af.InputBegan, function(m)
+				if not i and not af:GetFocusedTextBox() then
+					if h.Mode == 'Toggle' then
+						local n = h.Value
+						if n == 'MouseLeft' or n == 'MouseRight' then
+							if n == 'MouseLeft' and m.UserInputType == Enum.UserInputType.MouseButton1 or n == 'MouseRight' and m.UserInputType == Enum.UserInputType.MouseButton2 then
+								h.Toggled = not h.Toggled
+								h:DoClick()
+							end
+						elseif m.UserInputType == Enum.UserInputType.Keyboard then
+							if m.KeyCode.Name == n then
+								h.Toggled = not h.Toggled
+								h:DoClick()
+							end
+						end
+					end
+				end
+			end)
+			g.Options[e] = h
+			return h
+		end
+		return c
+	end,
+	[25] = function()
+		local aa, ab, ac, ad, ae = b(25)
+		local af = ab.Parent.Parent
+		local ag, ah, ai, aj = af.Components, ac(af.Packages.Flipper), ac(af.Creator), {}
+		aj.__index = aj
+		aj.__type = 'Paragraph'
+		function aj.New(c, d)
+			assert(d.Title, 'Paragraph - Missing Title')
+			d.Content = d.Content or ''
+			local e = ac(ag.Element)(d.Title, d.Content, aj.Container, false)
+			e.Frame.BackgroundTransparency = 0.92
+			e.Border.Transparency = 0.6
+			return e
+		end
+		return aj
+	end,
+	[26] = function()
+		local aa, ab, ac, ad, ae = b(26)
+		local af, ag = game:GetService'UserInputService', ab.Parent.Parent
+		local ah = ac(ag.Creator)
+		local ai, aj, c = ah.New, ag.Components, {}
+		c.__index = c
+		c.__type = 'Slider'
+		function c.New(d, e, f)
+			local g = d.Library
+			assert(f.Title, 'Slider - Missing Title.')
+			assert(f.Default, 'Slider - Missing default value.')
+			assert(f.Min, 'Slider - Missing minimum value.')
+			assert(f.Max, 'Slider - Missing maximum value.')
+			assert(f.Rounding, 'Slider - Missing rounding value.')
+			local h, i, j = {
+				Value = nil,
+				Min = f.Min,
+				Max = f.Max,
+				Rounding = f.Rounding,
+				Callback = f.Callback or function(h)
+				end,
+				Type = 'Slider'
+			}, false, ac(aj.Element)(f.Title, f.Description, d.Container, false)
+			j.DescLabel.Size = UDim2.new(1, -170, 0, 14)
+			h.SetTitle = j.SetTitle
+			h.SetDesc = j.SetDesc
+			local k = ai('ImageLabel', {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Position = UDim2.new(0, -7, 0.5, 0),
+				Size = UDim2.fromOffset(14, 14),
+				Image = 'http://www.roblox.com/asset/?id=12266946128',
+				ThemeTag = {
+					ImageColor3 = 'Accent'
+				}
+			})
+			local l, m, n = ai('Frame', {
+				BackgroundTransparency = 1,
+				Position = UDim2.fromOffset(7, 0),
+				Size = UDim2.new(1, -14, 1, 0)
+			}, {
+				k
+			}), ai('Frame', {
+				Size = UDim2.new(0, 0, 1, 0),
+				ThemeTag = {
+					BackgroundColor3 = 'Accent'
+				}
+			}, {
+				ai('UICorner', {
+					CornerRadius = UDim.new(1, 0)
+				})
+			}), ai('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				Text = 'Value',
+				TextSize = 12,
+				TextWrapped = true,
+				TextXAlignment = Enum.TextXAlignment.Right,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				Size = UDim2.new(0, 100, 0, 14),
+				Position = UDim2.new(0, -4, 0.5, 0),
+				AnchorPoint = Vector2.new(1, 0.5),
+				ThemeTag = {
+					TextColor3 = 'SubText'
+				}
+			})
+			local o = ai('Frame', {
+				Size = UDim2.new(1, 0, 0, 4),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				BackgroundTransparency = 0.4,
+				Parent = j.Frame,
+				ThemeTag = {
+					BackgroundColor3 = 'SliderRail'
+				}
+			}, {
+				ai('UICorner', {
+					CornerRadius = UDim.new(1, 0)
+				}),
+				ai('UISizeConstraint', {
+					MaxSize = Vector2.new(150, math.huge)
+				}),
+				n,
+				m,
+				l
+			})
+			ah.AddSignal(k.InputBegan, function(p)
+				if p.UserInputType == Enum.UserInputType.MouseButton1 or p.UserInputType == Enum.UserInputType.Touch then
+					i = true
+				end
+			end)
+			ah.AddSignal(k.InputEnded, function(p)
+				if p.UserInputType == Enum.UserInputType.MouseButton1 or p.UserInputType == Enum.UserInputType.Touch then
+					i = false
+				end
+			end)
+			ah.AddSignal(af.InputChanged, function(p)
+				if i and (p.UserInputType == Enum.UserInputType.MouseMovement or p.UserInputType == Enum.UserInputType.Touch) then
+					local s = math.clamp((p.Position.X - l.AbsolutePosition.X) / l.AbsoluteSize.X, 0, 1)
+					h:SetValue(h.Min + ((h.Max - h.Min) * s))
+				end
+			end)
+			function h.OnChanged(p, s)
+				h.Changed = s
+				s(h.Value)
+			end
+			function h.SetValue(p, s)
+				p.Value = g:Round(math.clamp(s, h.Min, h.Max), h.Rounding)
+				k.Position = UDim2.new((p.Value - h.Min) / (h.Max - h.Min), -7, 0.5, 0)
+				m.Size = UDim2.fromScale((p.Value - h.Min) / (h.Max - h.Min), 1)
+				n.Text = tostring(p.Value)
+				g:SafeCallback(h.Callback, p.Value)
+				g:SafeCallback(h.Changed, p.Value)
+			end
+			function h.Destroy(p)
+				j:Destroy()
+				g.Options[e] = nil
+			end
+			h:SetValue(f.Default)
+			g.Options[e] = h
+			return h
+		end
+		return c
+	end,
+	[27] = function()
+		local aa, ab, ac, ad, ae = b(27)
+		local af, ag = game:GetService'TweenService', ab.Parent.Parent
+		local ah = ac(ag.Creator)
+		local ai, aj, c = ah.New, ag.Components, {}
+		c.__index = c
+		c.__type = 'Toggle'
+		function c.New(d, e, f)
+			local g = d.Library
+			assert(f.Title, 'Toggle - Missing Title')
+			local h, i = {
+				Value = f.Default or false,
+				Callback = f.Callback or function(h)
+				end,
+				Type = 'Toggle'
+			}, ac(aj.Element)(f.Title, f.Description, d.Container, true)
+			i.DescLabel.Size = UDim2.new(1, -54, 0, 14)
+			h.SetTitle = i.SetTitle
+			h.SetDesc = i.SetDesc
+			local j, k = ai('ImageLabel', {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.fromOffset(14, 14),
+				Position = UDim2.new(0, 2, 0.5, 0),
+				Image = 'http://www.roblox.com/asset/?id=12266946128',
+				ImageTransparency = 0.5,
+				ThemeTag = {
+					ImageColor3 = 'ToggleSlider'
+				}
+			}), ai('UIStroke', {
+				Transparency = 0.5,
+				ThemeTag = {
+					Color = 'ToggleSlider'
+				}
+			})
+			local l = ai('Frame', {
+				Size = UDim2.fromOffset(36, 18),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				Parent = i.Frame,
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					BackgroundColor3 = 'Accent'
+				}
+			}, {
+				ai('UICorner', {
+					CornerRadius = UDim.new(0, 9)
+				}),
+				k,
+				j
+			})
+			function h.OnChanged(m, n)
+				h.Changed = n
+				n(h.Value)
+			end
+			function h.SetValue(m, n)
+				n = not not n
+				h.Value = n
+				ah.OverrideTag(k, {
+					Color = h.Value and 'Accent' or 'ToggleSlider'
+				})
+				ah.OverrideTag(j, {
+					ImageColor3 = h.Value and 'ToggleToggled' or 'ToggleSlider'
+				})
+				af:Create(j, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
+					Position = UDim2.new(0, h.Value and 19 or 2, 0.5, 0)
+				}):Play()
+				af:Create(l, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
+					BackgroundTransparency = h.Value and 0 or 1
+				}):Play()
+				j.ImageTransparency = h.Value and 0 or 0.5
+				g:SafeCallback(h.Callback, h.Value)
+				g:SafeCallback(h.Changed, h.Value)
+			end
+			function h.Destroy(m)
+				i:Destroy()
+				g.Options[e] = nil
+			end
+			ah.AddSignal(i.Frame.MouseButton1Click, function()
+				h:SetValue(not h.Value)
+			end)
+			h:SetValue(h.Value)
+			g.Options[e] = h
+			return h
+		end
+		return c
+	end,
+	[28] = function()
+		local aa, ab, ac, ad, ae = b(28)
+		return {
+			assets = {['lucide-accessibility'] = 'rbxassetid://10709751939',['lucide-activity'] = 'rbxassetid://10709752035',['lucide-air-vent'] = 'rbxassetid://10709752131',['lucide-airplay'] = 'rbxassetid://10709752254',['lucide-alarm-check'] = 'rbxassetid://10709752405',['lucide-alarm-clock'] = 'rbxassetid://10709752630',['lucide-alarm-clock-off'] = 'rbxassetid://10709752508',['lucide-alarm-minus'] = 'rbxassetid://10709752732',['lucide-alarm-plus'] = 'rbxassetid://10709752825',['lucide-album'] = 'rbxassetid://10709752906',['lucide-alert-circle'] = 'rbxassetid://10709752996',['lucide-alert-octagon'] = 'rbxassetid://10709753064',['lucide-alert-triangle'] = 'rbxassetid://10709753149',['lucide-align-center'] = 'rbxassetid://10709753570',['lucide-align-center-horizontal'] = 'rbxassetid://10709753272',['lucide-align-center-vertical'] = 'rbxassetid://10709753421',['lucide-align-end-horizontal'] = 'rbxassetid://10709753692',['lucide-align-end-vertical'] = 'rbxassetid://10709753808',['lucide-align-horizontal-distribute-center'] = 'rbxassetid://10747779791',['lucide-align-horizontal-distribute-end'] = 'rbxassetid://10747784534',['lucide-align-horizontal-distribute-start'] = 'rbxassetid://10709754118',['lucide-align-horizontal-justify-center'] = 'rbxassetid://10709754204',['lucide-align-horizontal-justify-end'] = 'rbxassetid://10709754317',['lucide-align-horizontal-justify-start'] = 'rbxassetid://10709754436',['lucide-align-horizontal-space-around'] = 'rbxassetid://10709754590',['lucide-align-horizontal-space-between'] = 'rbxassetid://10709754749',['lucide-align-justify'] = 'rbxassetid://10709759610',['lucide-align-left'] = 'rbxassetid://10709759764',['lucide-align-right'] = 'rbxassetid://10709759895',['lucide-align-start-horizontal'] = 'rbxassetid://10709760051',['lucide-align-start-vertical'] = 'rbxassetid://10709760244',['lucide-align-vertical-distribute-center'] = 'rbxassetid://10709760351',['lucide-align-vertical-distribute-end'] = 'rbxassetid://10709760434',['lucide-align-vertical-distribute-start'] = 'rbxassetid://10709760612',['lucide-align-vertical-justify-center'] = 'rbxassetid://10709760814',['lucide-align-vertical-justify-end'] = 'rbxassetid://10709761003',['lucide-align-vertical-justify-start'] = 'rbxassetid://10709761176',['lucide-align-vertical-space-around'] = 'rbxassetid://10709761324',['lucide-align-vertical-space-between'] = 'rbxassetid://10709761434',['lucide-anchor'] = 'rbxassetid://10709761530',['lucide-angry'] = 'rbxassetid://10709761629',['lucide-annoyed'] = 'rbxassetid://10709761722',['lucide-aperture'] = 'rbxassetid://10709761813',['lucide-apple'] = 'rbxassetid://10709761889',['lucide-archive'] = 'rbxassetid://10709762233',['lucide-archive-restore'] = 'rbxassetid://10709762058',['lucide-armchair'] = 'rbxassetid://10709762327',['lucide-arrow-big-down'] = 'rbxassetid://10747796644',['lucide-arrow-big-left'] = 'rbxassetid://10709762574',['lucide-arrow-big-right'] = 'rbxassetid://10709762727',['lucide-arrow-big-up'] = 'rbxassetid://10709762879',['lucide-arrow-down'] = 'rbxassetid://10709767827',['lucide-arrow-down-circle'] = 'rbxassetid://10709763034',['lucide-arrow-down-left'] = 'rbxassetid://10709767656',['lucide-arrow-down-right'] = 'rbxassetid://10709767750',['lucide-arrow-left'] = 'rbxassetid://10709768114',['lucide-arrow-left-circle'] = 'rbxassetid://10709767936',['lucide-arrow-left-right'] = 'rbxassetid://10709768019',['lucide-arrow-right'] = 'rbxassetid://10709768347',['lucide-arrow-right-circle'] = 'rbxassetid://10709768226',['lucide-arrow-up'] = 'rbxassetid://10709768939',['lucide-arrow-up-circle'] = 'rbxassetid://10709768432',['lucide-arrow-up-down'] = 'rbxassetid://10709768538',['lucide-arrow-up-left'] = 'rbxassetid://10709768661',['lucide-arrow-up-right'] = 'rbxassetid://10709768787',['lucide-asterisk'] = 'rbxassetid://10709769095',['lucide-at-sign'] = 'rbxassetid://10709769286',['lucide-award'] = 'rbxassetid://10709769406',['lucide-axe'] = 'rbxassetid://10709769508',['lucide-axis-3d'] = 'rbxassetid://10709769598',['lucide-baby'] = 'rbxassetid://10709769732',['lucide-backpack'] = 'rbxassetid://10709769841',['lucide-baggage-claim'] = 'rbxassetid://10709769935',['lucide-banana'] = 'rbxassetid://10709770005',['lucide-banknote'] = 'rbxassetid://10709770178',['lucide-bar-chart'] = 'rbxassetid://10709773755',['lucide-bar-chart-2'] = 'rbxassetid://10709770317',['lucide-bar-chart-3'] = 'rbxassetid://10709770431',['lucide-bar-chart-4'] = 'rbxassetid://10709770560',['lucide-bar-chart-horizontal'] = 'rbxassetid://10709773669',['lucide-barcode'] = 'rbxassetid://10747360675',['lucide-baseline'] = 'rbxassetid://10709773863',['lucide-bath'] = 'rbxassetid://10709773963',['lucide-battery'] = 'rbxassetid://10709774640',['lucide-battery-charging'] = 'rbxassetid://10709774068',['lucide-battery-full'] = 'rbxassetid://10709774206',['lucide-battery-low'] = 'rbxassetid://10709774370',['lucide-battery-medium'] = 'rbxassetid://10709774513',['lucide-beaker'] = 'rbxassetid://10709774756',['lucide-bed'] = 'rbxassetid://10709775036',['lucide-bed-double'] = 'rbxassetid://10709774864',['lucide-bed-single'] = 'rbxassetid://10709774968',['lucide-beer'] = 'rbxassetid://10709775167',['lucide-bell'] = 'rbxassetid://10709775704',['lucide-bell-minus'] = 'rbxassetid://10709775241',['lucide-bell-off'] = 'rbxassetid://10709775320',['lucide-bell-plus'] = 'rbxassetid://10709775448',['lucide-bell-ring'] = 'rbxassetid://10709775560',['lucide-bike'] = 'rbxassetid://10709775894',['lucide-binary'] = 'rbxassetid://10709776050',['lucide-bitcoin'] = 'rbxassetid://10709776126',['lucide-bluetooth'] = 'rbxassetid://10709776655',['lucide-bluetooth-connected'] = 'rbxassetid://10709776240',['lucide-bluetooth-off'] = 'rbxassetid://10709776344',['lucide-bluetooth-searching'] = 'rbxassetid://10709776501',['lucide-bold'] = 'rbxassetid://10747813908',['lucide-bomb'] = 'rbxassetid://10709781460',['lucide-bone'] = 'rbxassetid://10709781605',['lucide-book'] = 'rbxassetid://10709781824',['lucide-book-open'] = 'rbxassetid://10709781717',['lucide-bookmark'] = 'rbxassetid://10709782154',['lucide-bookmark-minus'] = 'rbxassetid://10709781919',['lucide-bookmark-plus'] = 'rbxassetid://10709782044',['lucide-bot'] = 'rbxassetid://10709782230',['lucide-box'] = 'rbxassetid://10709782497',['lucide-box-select'] = 'rbxassetid://10709782342',['lucide-boxes'] = 'rbxassetid://10709782582',['lucide-briefcase'] = 'rbxassetid://10709782662',['lucide-brush'] = 'rbxassetid://10709782758',['lucide-bug'] = 'rbxassetid://10709782845',['lucide-building'] = 'rbxassetid://10709783051',['lucide-building-2'] = 'rbxassetid://10709782939',['lucide-bus'] = 'rbxassetid://10709783137',['lucide-cake'] = 'rbxassetid://10709783217',['lucide-calculator'] = 'rbxassetid://10709783311',['lucide-calendar'] = 'rbxassetid://10709789505',['lucide-calendar-check'] = 'rbxassetid://10709783474',['lucide-calendar-check-2'] = 'rbxassetid://10709783392',['lucide-calendar-clock'] = 'rbxassetid://10709783577',['lucide-calendar-days'] = 'rbxassetid://10709783673',['lucide-calendar-heart'] = 'rbxassetid://10709783835',['lucide-calendar-minus'] = 'rbxassetid://10709783959',['lucide-calendar-off'] = 'rbxassetid://10709788784',['lucide-calendar-plus'] = 'rbxassetid://10709788937',['lucide-calendar-range'] = 'rbxassetid://10709789053',['lucide-calendar-search'] = 'rbxassetid://10709789200',['lucide-calendar-x'] = 'rbxassetid://10709789407',['lucide-calendar-x-2'] = 'rbxassetid://10709789329',['lucide-camera'] = 'rbxassetid://10709789686',['lucide-camera-off'] = 'rbxassetid://10747822677',['lucide-car'] = 'rbxassetid://10709789810',['lucide-carrot'] = 'rbxassetid://10709789960',['lucide-cast'] = 'rbxassetid://10709790097',['lucide-charge'] = 'rbxassetid://10709790202',['lucide-check'] = 'rbxassetid://10709790644',['lucide-check-circle'] = 'rbxassetid://10709790387',['lucide-check-circle-2'] = 'rbxassetid://10709790298',['lucide-check-square'] = 'rbxassetid://10709790537',['lucide-chef-hat'] = 'rbxassetid://10709790757',['lucide-cherry'] = 'rbxassetid://10709790875',['lucide-chevron-down'] = 'rbxassetid://10709790948',['lucide-chevron-first'] = 'rbxassetid://10709791015',['lucide-chevron-last'] = 'rbxassetid://10709791130',['lucide-chevron-left'] = 'rbxassetid://10709791281',['lucide-chevron-right'] = 'rbxassetid://10709791437',['lucide-chevron-up'] = 'rbxassetid://10709791523',['lucide-chevrons-down'] = 'rbxassetid://10709796864',['lucide-chevrons-down-up'] = 'rbxassetid://10709791632',['lucide-chevrons-left'] = 'rbxassetid://10709797151',['lucide-chevrons-left-right'] = 'rbxassetid://10709797006',['lucide-chevrons-right'] = 'rbxassetid://10709797382',['lucide-chevrons-right-left'] = 'rbxassetid://10709797274',['lucide-chevrons-up'] = 'rbxassetid://10709797622',['lucide-chevrons-up-down'] = 'rbxassetid://10709797508',['lucide-chrome'] = 'rbxassetid://10709797725',['lucide-circle'] = 'rbxassetid://10709798174',['lucide-circle-dot'] = 'rbxassetid://10709797837',['lucide-circle-ellipsis'] = 'rbxassetid://10709797985',['lucide-circle-slashed'] = 'rbxassetid://10709798100',['lucide-citrus'] = 'rbxassetid://10709798276',['lucide-clapperboard'] = 'rbxassetid://10709798350',['lucide-clipboard'] = 'rbxassetid://10709799288',['lucide-clipboard-check'] = 'rbxassetid://10709798443',['lucide-clipboard-copy'] = 'rbxassetid://10709798574',['lucide-clipboard-edit'] = 'rbxassetid://10709798682',['lucide-clipboard-list'] = 'rbxassetid://10709798792',['lucide-clipboard-signature'] = 'rbxassetid://10709798890',['lucide-clipboard-type'] = 'rbxassetid://10709798999',['lucide-clipboard-x'] = 'rbxassetid://10709799124',['lucide-clock'] = 'rbxassetid://10709805144',['lucide-clock-1'] = 'rbxassetid://10709799535',['lucide-clock-10'] = 'rbxassetid://10709799718',['lucide-clock-11'] = 'rbxassetid://10709799818',['lucide-clock-12'] = 'rbxassetid://10709799962',['lucide-clock-2'] = 'rbxassetid://10709803876',['lucide-clock-3'] = 'rbxassetid://10709803989',['lucide-clock-4'] = 'rbxassetid://10709804164',['lucide-clock-5'] = 'rbxassetid://10709804291',['lucide-clock-6'] = 'rbxassetid://10709804435',['lucide-clock-7'] = 'rbxassetid://10709804599',['lucide-clock-8'] = 'rbxassetid://10709804784',['lucide-clock-9'] = 'rbxassetid://10709804996',['lucide-cloud'] = 'rbxassetid://10709806740',['lucide-cloud-cog'] = 'rbxassetid://10709805262',['lucide-cloud-drizzle'] = 'rbxassetid://10709805371',['lucide-cloud-fog'] = 'rbxassetid://10709805477',['lucide-cloud-hail'] = 'rbxassetid://10709805596',['lucide-cloud-lightning'] = 'rbxassetid://10709805727',['lucide-cloud-moon'] = 'rbxassetid://10709805942',['lucide-cloud-moon-rain'] = 'rbxassetid://10709805838',['lucide-cloud-off'] = 'rbxassetid://10709806060',['lucide-cloud-rain'] = 'rbxassetid://10709806277',['lucide-cloud-rain-wind'] = 'rbxassetid://10709806166',['lucide-cloud-snow'] = 'rbxassetid://10709806374',['lucide-cloud-sun'] = 'rbxassetid://10709806631',['lucide-cloud-sun-rain'] = 'rbxassetid://10709806475',['lucide-cloudy'] = 'rbxassetid://10709806859',['lucide-clover'] = 'rbxassetid://10709806995',['lucide-code'] = 'rbxassetid://10709810463',['lucide-code-2'] = 'rbxassetid://10709807111',['lucide-codepen'] = 'rbxassetid://10709810534',['lucide-codesandbox'] = 'rbxassetid://10709810676',['lucide-coffee'] = 'rbxassetid://10709810814',['lucide-cog'] = 'rbxassetid://10709810948',['lucide-coins'] = 'rbxassetid://10709811110',['lucide-columns'] = 'rbxassetid://10709811261',['lucide-command'] = 'rbxassetid://10709811365',['lucide-compass'] = 'rbxassetid://10709811445',['lucide-component'] = 'rbxassetid://10709811595',['lucide-concierge-bell'] = 'rbxassetid://10709811706',['lucide-connection'] = 'rbxassetid://10747361219',['lucide-contact'] = 'rbxassetid://10709811834',['lucide-contrast'] = 'rbxassetid://10709811939',['lucide-cookie'] = 'rbxassetid://10709812067',['lucide-copy'] = 'rbxassetid://10709812159',['lucide-copyleft'] = 'rbxassetid://10709812251',['lucide-copyright'] = 'rbxassetid://10709812311',['lucide-corner-down-left'] = 'rbxassetid://10709812396',['lucide-corner-down-right'] = 'rbxassetid://10709812485',['lucide-corner-left-down'] = 'rbxassetid://10709812632',['lucide-corner-left-up'] = 'rbxassetid://10709812784',['lucide-corner-right-down'] = 'rbxassetid://10709812939',['lucide-corner-right-up'] = 'rbxassetid://10709813094',['lucide-corner-up-left'] = 'rbxassetid://10709813185',['lucide-corner-up-right'] = 'rbxassetid://10709813281',['lucide-cpu'] = 'rbxassetid://10709813383',['lucide-croissant'] = 'rbxassetid://10709818125',['lucide-crop'] = 'rbxassetid://10709818245',['lucide-cross'] = 'rbxassetid://10709818399',['lucide-crosshair'] = 'rbxassetid://10709818534',['lucide-crown'] = 'rbxassetid://10709818626',['lucide-cup-soda'] = 'rbxassetid://10709818763',['lucide-curly-braces'] = 'rbxassetid://10709818847',['lucide-currency'] = 'rbxassetid://10709818931',['lucide-database'] = 'rbxassetid://10709818996',['lucide-delete'] = 'rbxassetid://10709819059',['lucide-diamond'] = 'rbxassetid://10709819149',['lucide-dice-1'] = 'rbxassetid://10709819266',['lucide-dice-2'] = 'rbxassetid://10709819361',['lucide-dice-3'] = 'rbxassetid://10709819508',['lucide-dice-4'] = 'rbxassetid://10709819670',['lucide-dice-5'] = 'rbxassetid://10709819801',['lucide-dice-6'] = 'rbxassetid://10709819896',['lucide-dices'] = 'rbxassetid://10723343321',['lucide-diff'] = 'rbxassetid://10723343416',['lucide-disc'] = 'rbxassetid://10723343537',['lucide-divide'] = 'rbxassetid://10723343805',['lucide-divide-circle'] = 'rbxassetid://10723343636',['lucide-divide-square'] = 'rbxassetid://10723343737',['lucide-dollar-sign'] = 'rbxassetid://10723343958',['lucide-download'] = 'rbxassetid://10723344270',['lucide-download-cloud'] = 'rbxassetid://10723344088',['lucide-droplet'] = 'rbxassetid://10723344432',['lucide-droplets'] = 'rbxassetid://10734883356',['lucide-drumstick'] = 'rbxassetid://10723344737',['lucide-edit'] = 'rbxassetid://10734883598',['lucide-edit-2'] = 'rbxassetid://10723344885',['lucide-edit-3'] = 'rbxassetid://10723345088',['lucide-egg'] = 'rbxassetid://10723345518',['lucide-egg-fried'] = 'rbxassetid://10723345347',['lucide-electricity'] = 'rbxassetid://10723345749',['lucide-electricity-off'] = 'rbxassetid://10723345643',['lucide-equal'] = 'rbxassetid://10723345990',['lucide-equal-not'] = 'rbxassetid://10723345866',['lucide-eraser'] = 'rbxassetid://10723346158',['lucide-euro'] = 'rbxassetid://10723346372',['lucide-expand'] = 'rbxassetid://10723346553',['lucide-external-link'] = 'rbxassetid://10723346684',['lucide-eye'] = 'rbxassetid://10723346959',['lucide-eye-off'] = 'rbxassetid://10723346871',['lucide-factory'] = 'rbxassetid://10723347051',['lucide-fan'] = 'rbxassetid://10723354359',['lucide-fast-forward'] = 'rbxassetid://10723354521',['lucide-feather'] = 'rbxassetid://10723354671',['lucide-figma'] = 'rbxassetid://10723354801',['lucide-file'] = 'rbxassetid://10723374641',['lucide-file-archive'] = 'rbxassetid://10723354921',['lucide-file-audio'] = 'rbxassetid://10723355148',['lucide-file-audio-2'] = 'rbxassetid://10723355026',['lucide-file-axis-3d'] = 'rbxassetid://10723355272',['lucide-file-badge'] = 'rbxassetid://10723355622',['lucide-file-badge-2'] = 'rbxassetid://10723355451',['lucide-file-bar-chart'] = 'rbxassetid://10723355887',['lucide-file-bar-chart-2'] = 'rbxassetid://10723355746',['lucide-file-box'] = 'rbxassetid://10723355989',['lucide-file-check'] = 'rbxassetid://10723356210',['lucide-file-check-2'] = 'rbxassetid://10723356100',['lucide-file-clock'] = 'rbxassetid://10723356329',['lucide-file-code'] = 'rbxassetid://10723356507',['lucide-file-cog'] = 'rbxassetid://10723356830',['lucide-file-cog-2'] = 'rbxassetid://10723356676',['lucide-file-diff'] = 'rbxassetid://10723357039',['lucide-file-digit'] = 'rbxassetid://10723357151',['lucide-file-down'] = 'rbxassetid://10723357322',['lucide-file-edit'] = 'rbxassetid://10723357495',['lucide-file-heart'] = 'rbxassetid://10723357637',['lucide-file-image'] = 'rbxassetid://10723357790',['lucide-file-input'] = 'rbxassetid://10723357933',['lucide-file-json'] = 'rbxassetid://10723364435',['lucide-file-json-2'] = 'rbxassetid://10723364361',['lucide-file-key'] = 'rbxassetid://10723364605',['lucide-file-key-2'] = 'rbxassetid://10723364515',['lucide-file-line-chart'] = 'rbxassetid://10723364725',['lucide-file-lock'] = 'rbxassetid://10723364957',['lucide-file-lock-2'] = 'rbxassetid://10723364861',['lucide-file-minus'] = 'rbxassetid://10723365254',['lucide-file-minus-2'] = 'rbxassetid://10723365086',['lucide-file-output'] = 'rbxassetid://10723365457',['lucide-file-pie-chart'] = 'rbxassetid://10723365598',['lucide-file-plus'] = 'rbxassetid://10723365877',['lucide-file-plus-2'] = 'rbxassetid://10723365766',['lucide-file-question'] = 'rbxassetid://10723365987',['lucide-file-scan'] = 'rbxassetid://10723366167',['lucide-file-search'] = 'rbxassetid://10723366550',['lucide-file-search-2'] = 'rbxassetid://10723366340',['lucide-file-signature'] = 'rbxassetid://10723366741',['lucide-file-spreadsheet'] = 'rbxassetid://10723366962',['lucide-file-symlink'] = 'rbxassetid://10723367098',['lucide-file-terminal'] = 'rbxassetid://10723367244',['lucide-file-text'] = 'rbxassetid://10723367380',['lucide-file-type'] = 'rbxassetid://10723367606',['lucide-file-type-2'] = 'rbxassetid://10723367509',['lucide-file-up'] = 'rbxassetid://10723367734',['lucide-file-video'] = 'rbxassetid://10723373884',['lucide-file-video-2'] = 'rbxassetid://10723367834',['lucide-file-volume'] = 'rbxassetid://10723374172',['lucide-file-volume-2'] = 'rbxassetid://10723374030',['lucide-file-warning'] = 'rbxassetid://10723374276',['lucide-file-x'] = 'rbxassetid://10723374544',['lucide-file-x-2'] = 'rbxassetid://10723374378',['lucide-files'] = 'rbxassetid://10723374759',['lucide-film'] = 'rbxassetid://10723374981',['lucide-filter'] = 'rbxassetid://10723375128',['lucide-fingerprint'] = 'rbxassetid://10723375250',['lucide-flag'] = 'rbxassetid://10723375890',['lucide-flag-off'] = 'rbxassetid://10723375443',['lucide-flag-triangle-left'] = 'rbxassetid://10723375608',['lucide-flag-triangle-right'] = 'rbxassetid://10723375727',['lucide-flame'] = 'rbxassetid://10723376114',['lucide-flashlight'] = 'rbxassetid://10723376471',['lucide-flashlight-off'] = 'rbxassetid://10723376365',['lucide-flask-conical'] = 'rbxassetid://10734883986',['lucide-flask-round'] = 'rbxassetid://10723376614',['lucide-flip-horizontal'] = 'rbxassetid://10723376884',['lucide-flip-horizontal-2'] = 'rbxassetid://10723376745',['lucide-flip-vertical'] = 'rbxassetid://10723377138',['lucide-flip-vertical-2'] = 'rbxassetid://10723377026',['lucide-flower'] = 'rbxassetid://10747830374',['lucide-flower-2'] = 'rbxassetid://10723377305',['lucide-focus'] = 'rbxassetid://10723377537',['lucide-folder'] = 'rbxassetid://10723387563',['lucide-folder-archive'] = 'rbxassetid://10723384478',['lucide-folder-check'] = 'rbxassetid://10723384605',['lucide-folder-clock'] = 'rbxassetid://10723384731',['lucide-folder-closed'] = 'rbxassetid://10723384893',['lucide-folder-cog'] = 'rbxassetid://10723385213',['lucide-folder-cog-2'] = 'rbxassetid://10723385036',['lucide-folder-down'] = 'rbxassetid://10723385338',['lucide-folder-edit'] = 'rbxassetid://10723385445',['lucide-folder-heart'] = 'rbxassetid://10723385545',['lucide-folder-input'] = 'rbxassetid://10723385721',['lucide-folder-key'] = 'rbxassetid://10723385848',['lucide-folder-lock'] = 'rbxassetid://10723386005',['lucide-folder-minus'] = 'rbxassetid://10723386127',['lucide-folder-open'] = 'rbxassetid://10723386277',['lucide-folder-output'] = 'rbxassetid://10723386386',['lucide-folder-plus'] = 'rbxassetid://10723386531',['lucide-folder-search'] = 'rbxassetid://10723386787',['lucide-folder-search-2'] = 'rbxassetid://10723386674',['lucide-folder-symlink'] = 'rbxassetid://10723386930',['lucide-folder-tree'] = 'rbxassetid://10723387085',['lucide-folder-up'] = 'rbxassetid://10723387265',['lucide-folder-x'] = 'rbxassetid://10723387448',['lucide-folders'] = 'rbxassetid://10723387721',['lucide-form-input'] = 'rbxassetid://10723387841',['lucide-forward'] = 'rbxassetid://10723388016',['lucide-frame'] = 'rbxassetid://10723394389',['lucide-framer'] = 'rbxassetid://10723394565',['lucide-frown'] = 'rbxassetid://10723394681',['lucide-fuel'] = 'rbxassetid://10723394846',['lucide-function-square'] = 'rbxassetid://10723395041',['lucide-gamepad'] = 'rbxassetid://10723395457',['lucide-gamepad-2'] = 'rbxassetid://10723395215',['lucide-gauge'] = 'rbxassetid://10723395708',['lucide-gavel'] = 'rbxassetid://10723395896',['lucide-gem'] = 'rbxassetid://10723396000',['lucide-ghost'] = 'rbxassetid://10723396107',['lucide-gift'] = 'rbxassetid://10723396402',['lucide-gift-card'] = 'rbxassetid://10723396225',['lucide-git-branch'] = 'rbxassetid://10723396676',['lucide-git-branch-plus'] = 'rbxassetid://10723396542',['lucide-git-commit'] = 'rbxassetid://10723396812',['lucide-git-compare'] = 'rbxassetid://10723396954',['lucide-git-fork'] = 'rbxassetid://10723397049',['lucide-git-merge'] = 'rbxassetid://10723397165',['lucide-git-pull-request'] = 'rbxassetid://10723397431',['lucide-git-pull-request-closed'] = 'rbxassetid://10723397268',['lucide-git-pull-request-draft'] = 'rbxassetid://10734884302',['lucide-glass'] = 'rbxassetid://10723397788',['lucide-glass-2'] = 'rbxassetid://10723397529',['lucide-glass-water'] = 'rbxassetid://10723397678',['lucide-glasses'] = 'rbxassetid://10723397895',['lucide-globe'] = 'rbxassetid://10723404337',['lucide-globe-2'] = 'rbxassetid://10723398002',['lucide-grab'] = 'rbxassetid://10723404472',['lucide-graduation-cap'] = 'rbxassetid://10723404691',['lucide-grape'] = 'rbxassetid://10723404822',['lucide-grid'] = 'rbxassetid://10723404936',['lucide-grip-horizontal'] = 'rbxassetid://10723405089',['lucide-grip-vertical'] = 'rbxassetid://10723405236',['lucide-hammer'] = 'rbxassetid://10723405360',['lucide-hand'] = 'rbxassetid://10723405649',['lucide-hand-metal'] = 'rbxassetid://10723405508',['lucide-hard-drive'] = 'rbxassetid://10723405749',['lucide-hard-hat'] = 'rbxassetid://10723405859',['lucide-hash'] = 'rbxassetid://10723405975',['lucide-haze'] = 'rbxassetid://10723406078',['lucide-headphones'] = 'rbxassetid://10723406165',['lucide-heart'] = 'rbxassetid://10723406885',['lucide-heart-crack'] = 'rbxassetid://10723406299',['lucide-heart-handshake'] = 'rbxassetid://10723406480',['lucide-heart-off'] = 'rbxassetid://10723406662',['lucide-heart-pulse'] = 'rbxassetid://10723406795',['lucide-help-circle'] = 'rbxassetid://10723406988',['lucide-hexagon'] = 'rbxassetid://10723407092',['lucide-highlighter'] = 'rbxassetid://10723407192',['lucide-history'] = 'rbxassetid://10723407335',['lucide-home'] = 'rbxassetid://10723407389',['lucide-hourglass'] = 'rbxassetid://10723407498',['lucide-ice-cream'] = 'rbxassetid://10723414308',['lucide-image'] = 'rbxassetid://10723415040',['lucide-image-minus'] = 'rbxassetid://10723414487',['lucide-image-off'] = 'rbxassetid://10723414677',['lucide-image-plus'] = 'rbxassetid://10723414827',['lucide-import'] = 'rbxassetid://10723415205',['lucide-inbox'] = 'rbxassetid://10723415335',['lucide-indent'] = 'rbxassetid://10723415494',['lucide-indian-rupee'] = 'rbxassetid://10723415642',['lucide-infinity'] = 'rbxassetid://10723415766',['lucide-info'] = 'rbxassetid://10723415903',['lucide-inspect'] = 'rbxassetid://10723416057',['lucide-italic'] = 'rbxassetid://10723416195',['lucide-japanese-yen'] = 'rbxassetid://10723416363',['lucide-joystick'] = 'rbxassetid://10723416527',['lucide-key'] = 'rbxassetid://10723416652',['lucide-keyboard'] = 'rbxassetid://10723416765',['lucide-lamp'] = 'rbxassetid://10723417513',['lucide-lamp-ceiling'] = 'rbxassetid://10723416922',['lucide-lamp-desk'] = 'rbxassetid://10723417016',['lucide-lamp-floor'] = 'rbxassetid://10723417131',['lucide-lamp-wall-down'] = 'rbxassetid://10723417240',['lucide-lamp-wall-up'] = 'rbxassetid://10723417356',['lucide-landmark'] = 'rbxassetid://10723417608',['lucide-languages'] = 'rbxassetid://10723417703',['lucide-laptop'] = 'rbxassetid://10723423881',['lucide-laptop-2'] = 'rbxassetid://10723417797',['lucide-lasso'] = 'rbxassetid://10723424235',['lucide-lasso-select'] = 'rbxassetid://10723424058',['lucide-laugh'] = 'rbxassetid://10723424372',['lucide-layers'] = 'rbxassetid://10723424505',['lucide-layout'] = 'rbxassetid://10723425376',['lucide-layout-dashboard'] = 'rbxassetid://10723424646',['lucide-layout-grid'] = 'rbxassetid://10723424838',['lucide-layout-list'] = 'rbxassetid://10723424963',['lucide-layout-template'] = 'rbxassetid://10723425187',['lucide-leaf'] = 'rbxassetid://10723425539',['lucide-library'] = 'rbxassetid://10723425615',['lucide-life-buoy'] = 'rbxassetid://10723425685',['lucide-lightbulb'] = 'rbxassetid://10723425852',['lucide-lightbulb-off'] = 'rbxassetid://10723425762',['lucide-line-chart'] = 'rbxassetid://10723426393',['lucide-link'] = 'rbxassetid://10723426722',['lucide-link-2'] = 'rbxassetid://10723426595',['lucide-link-2-off'] = 'rbxassetid://10723426513',['lucide-list'] = 'rbxassetid://10723433811',['lucide-list-checks'] = 'rbxassetid://10734884548',['lucide-list-end'] = 'rbxassetid://10723426886',['lucide-list-minus'] = 'rbxassetid://10723426986',['lucide-list-music'] = 'rbxassetid://10723427081',['lucide-list-ordered'] = 'rbxassetid://10723427199',['lucide-list-plus'] = 'rbxassetid://10723427334',['lucide-list-start'] = 'rbxassetid://10723427494',['lucide-list-video'] = 'rbxassetid://10723427619',['lucide-list-x'] = 'rbxassetid://10723433655',['lucide-loader'] = 'rbxassetid://10723434070',['lucide-loader-2'] = 'rbxassetid://10723433935',['lucide-locate'] = 'rbxassetid://10723434557',['lucide-locate-fixed'] = 'rbxassetid://10723434236',['lucide-locate-off'] = 'rbxassetid://10723434379',['lucide-lock'] = 'rbxassetid://10723434711',['lucide-log-in'] = 'rbxassetid://10723434830',['lucide-log-out'] = 'rbxassetid://10723434906',['lucide-luggage'] = 'rbxassetid://10723434993',['lucide-magnet'] = 'rbxassetid://10723435069',['lucide-mail'] = 'rbxassetid://10734885430',['lucide-mail-check'] = 'rbxassetid://10723435182',['lucide-mail-minus'] = 'rbxassetid://10723435261',['lucide-mail-open'] = 'rbxassetid://10723435342',['lucide-mail-plus'] = 'rbxassetid://10723435443',['lucide-mail-question'] = 'rbxassetid://10723435515',['lucide-mail-search'] = 'rbxassetid://10734884739',['lucide-mail-warning'] = 'rbxassetid://10734885015',['lucide-mail-x'] = 'rbxassetid://10734885247',['lucide-mails'] = 'rbxassetid://10734885614',['lucide-map'] = 'rbxassetid://10734886202',['lucide-map-pin'] = 'rbxassetid://10734886004',['lucide-map-pin-off'] = 'rbxassetid://10734885803',['lucide-maximize'] = 'rbxassetid://10734886735',['lucide-maximize-2'] = 'rbxassetid://10734886496',['lucide-medal'] = 'rbxassetid://10734887072',['lucide-megaphone'] = 'rbxassetid://10734887454',['lucide-megaphone-off'] = 'rbxassetid://10734887311',['lucide-meh'] = 'rbxassetid://10734887603',['lucide-menu'] = 'rbxassetid://10734887784',['lucide-message-circle'] = 'rbxassetid://10734888000',['lucide-message-square'] = 'rbxassetid://10734888228',['lucide-mic'] = 'rbxassetid://10734888864',['lucide-mic-2'] = 'rbxassetid://10734888430',['lucide-mic-off'] = 'rbxassetid://10734888646',['lucide-microscope'] = 'rbxassetid://10734889106',['lucide-microwave'] = 'rbxassetid://10734895076',['lucide-milestone'] = 'rbxassetid://10734895310',['lucide-minimize'] = 'rbxassetid://10734895698',['lucide-minimize-2'] = 'rbxassetid://10734895530',['lucide-minus'] = 'rbxassetid://10734896206',['lucide-minus-circle'] = 'rbxassetid://10734895856',['lucide-minus-square'] = 'rbxassetid://10734896029',['lucide-monitor'] = 'rbxassetid://10734896881',['lucide-monitor-off'] = 'rbxassetid://10734896360',['lucide-monitor-speaker'] = 'rbxassetid://10734896512',['lucide-moon'] = 'rbxassetid://10734897102',['lucide-more-horizontal'] = 'rbxassetid://10734897250',['lucide-more-vertical'] = 'rbxassetid://10734897387',['lucide-mountain'] = 'rbxassetid://10734897956',['lucide-mountain-snow'] = 'rbxassetid://10734897665',['lucide-mouse'] = 'rbxassetid://10734898592',['lucide-mouse-pointer'] = 'rbxassetid://10734898476',['lucide-mouse-pointer-2'] = 'rbxassetid://10734898194',['lucide-mouse-pointer-click'] = 'rbxassetid://10734898355',['lucide-move'] = 'rbxassetid://10734900011',['lucide-move-3d'] = 'rbxassetid://10734898756',['lucide-move-diagonal'] = 'rbxassetid://10734899164',['lucide-move-diagonal-2'] = 'rbxassetid://10734898934',['lucide-move-horizontal'] = 'rbxassetid://10734899414',['lucide-move-vertical'] = 'rbxassetid://10734899821',['lucide-music'] = 'rbxassetid://10734905958',['lucide-music-2'] = 'rbxassetid://10734900215',['lucide-music-3'] = 'rbxassetid://10734905665',['lucide-music-4'] = 'rbxassetid://10734905823',['lucide-navigation'] = 'rbxassetid://10734906744',['lucide-navigation-2'] = 'rbxassetid://10734906332',['lucide-navigation-2-off'] = 'rbxassetid://10734906144',['lucide-navigation-off'] = 'rbxassetid://10734906580',['lucide-network'] = 'rbxassetid://10734906975',['lucide-newspaper'] = 'rbxassetid://10734907168',['lucide-octagon'] = 'rbxassetid://10734907361',['lucide-option'] = 'rbxassetid://10734907649',['lucide-outdent'] = 'rbxassetid://10734907933',['lucide-package'] = 'rbxassetid://10734909540',['lucide-package-2'] = 'rbxassetid://10734908151',['lucide-package-check'] = 'rbxassetid://10734908384',['lucide-package-minus'] = 'rbxassetid://10734908626',['lucide-package-open'] = 'rbxassetid://10734908793',['lucide-package-plus'] = 'rbxassetid://10734909016',['lucide-package-search'] = 'rbxassetid://10734909196',['lucide-package-x'] = 'rbxassetid://10734909375',['lucide-paint-bucket'] = 'rbxassetid://10734909847',['lucide-paintbrush'] = 'rbxassetid://10734910187',['lucide-paintbrush-2'] = 'rbxassetid://10734910030',['lucide-palette'] = 'rbxassetid://10734910430',['lucide-palmtree'] = 'rbxassetid://10734910680',['lucide-paperclip'] = 'rbxassetid://10734910927',['lucide-party-popper'] = 'rbxassetid://10734918735',['lucide-pause'] = 'rbxassetid://10734919336',['lucide-pause-circle'] = 'rbxassetid://10735024209',['lucide-pause-octagon'] = 'rbxassetid://10734919143',['lucide-pen-tool'] = 'rbxassetid://10734919503',['lucide-pencil'] = 'rbxassetid://10734919691',['lucide-percent'] = 'rbxassetid://10734919919',['lucide-person-standing'] = 'rbxassetid://10734920149',['lucide-phone'] = 'rbxassetid://10734921524',['lucide-phone-call'] = 'rbxassetid://10734920305',['lucide-phone-forwarded'] = 'rbxassetid://10734920508',['lucide-phone-incoming'] = 'rbxassetid://10734920694',['lucide-phone-missed'] = 'rbxassetid://10734920845',['lucide-phone-off'] = 'rbxassetid://10734921077',['lucide-phone-outgoing'] = 'rbxassetid://10734921288',['lucide-pie-chart'] = 'rbxassetid://10734921727',['lucide-piggy-bank'] = 'rbxassetid://10734921935',['lucide-pin'] = 'rbxassetid://10734922324',['lucide-pin-off'] = 'rbxassetid://10734922180',['lucide-pipette'] = 'rbxassetid://10734922497',['lucide-pizza'] = 'rbxassetid://10734922774',['lucide-plane'] = 'rbxassetid://10734922971',['lucide-play'] = 'rbxassetid://10734923549',['lucide-play-circle'] = 'rbxassetid://10734923214',['lucide-plus'] = 'rbxassetid://10734924532',['lucide-plus-circle'] = 'rbxassetid://10734923868',['lucide-plus-square'] = 'rbxassetid://10734924219',['lucide-podcast'] = 'rbxassetid://10734929553',['lucide-pointer'] = 'rbxassetid://10734929723',['lucide-pound-sterling'] = 'rbxassetid://10734929981',['lucide-power'] = 'rbxassetid://10734930466',['lucide-power-off'] = 'rbxassetid://10734930257',['lucide-printer'] = 'rbxassetid://10734930632',['lucide-puzzle'] = 'rbxassetid://10734930886',['lucide-quote'] = 'rbxassetid://10734931234',['lucide-radio'] = 'rbxassetid://10734931596',['lucide-radio-receiver'] = 'rbxassetid://10734931402',['lucide-rectangle-horizontal'] = 'rbxassetid://10734931777',['lucide-rectangle-vertical'] = 'rbxassetid://10734932081',['lucide-recycle'] = 'rbxassetid://10734932295',['lucide-redo'] = 'rbxassetid://10734932822',['lucide-redo-2'] = 'rbxassetid://10734932586',['lucide-refresh-ccw'] = 'rbxassetid://10734933056',['lucide-refresh-cw'] = 'rbxassetid://10734933222',['lucide-refrigerator'] = 'rbxassetid://10734933465',['lucide-regex'] = 'rbxassetid://10734933655',['lucide-repeat'] = 'rbxassetid://10734933966',['lucide-repeat-1'] = 'rbxassetid://10734933826',['lucide-reply'] = 'rbxassetid://10734934252',['lucide-reply-all'] = 'rbxassetid://10734934132',['lucide-rewind'] = 'rbxassetid://10734934347',['lucide-rocket'] = 'rbxassetid://10734934585',['lucide-rocking-chair'] = 'rbxassetid://10734939942',['lucide-rotate-3d'] = 'rbxassetid://10734940107',['lucide-rotate-ccw'] = 'rbxassetid://10734940376',['lucide-rotate-cw'] = 'rbxassetid://10734940654',['lucide-rss'] = 'rbxassetid://10734940825',['lucide-ruler'] = 'rbxassetid://10734941018',['lucide-russian-ruble'] = 'rbxassetid://10734941199',['lucide-sailboat'] = 'rbxassetid://10734941354',['lucide-save'] = 'rbxassetid://10734941499',['lucide-scale'] = 'rbxassetid://10734941912',['lucide-scale-3d'] = 'rbxassetid://10734941739',['lucide-scaling'] = 'rbxassetid://10734942072',['lucide-scan'] = 'rbxassetid://10734942565',['lucide-scan-face'] = 'rbxassetid://10734942198',['lucide-scan-line'] = 'rbxassetid://10734942351',['lucide-scissors'] = 'rbxassetid://10734942778',['lucide-screen-share'] = 'rbxassetid://10734943193',['lucide-screen-share-off'] = 'rbxassetid://10734942967',['lucide-scroll'] = 'rbxassetid://10734943448',['lucide-search'] = 'rbxassetid://10734943674',['lucide-send'] = 'rbxassetid://10734943902',['lucide-separator-horizontal'] = 'rbxassetid://10734944115',['lucide-separator-vertical'] = 'rbxassetid://10734944326',['lucide-server'] = 'rbxassetid://10734949856',['lucide-server-cog'] = 'rbxassetid://10734944444',['lucide-server-crash'] = 'rbxassetid://10734944554',['lucide-server-off'] = 'rbxassetid://10734944668',['lucide-settings'] = 'rbxassetid://10734950309',['lucide-settings-2'] = 'rbxassetid://10734950020',['lucide-share'] = 'rbxassetid://10734950813',['lucide-share-2'] = 'rbxassetid://10734950553',['lucide-sheet'] = 'rbxassetid://10734951038',['lucide-shield'] = 'rbxassetid://10734951847',['lucide-shield-alert'] = 'rbxassetid://10734951173',['lucide-shield-check'] = 'rbxassetid://10734951367',['lucide-shield-close'] = 'rbxassetid://10734951535',['lucide-shield-off'] = 'rbxassetid://10734951684',['lucide-shirt'] = 'rbxassetid://10734952036',['lucide-shopping-bag'] = 'rbxassetid://10734952273',['lucide-shopping-cart'] = 'rbxassetid://10734952479',['lucide-shovel'] = 'rbxassetid://10734952773',['lucide-shower-head'] = 'rbxassetid://10734952942',['lucide-shrink'] = 'rbxassetid://10734953073',['lucide-shrub'] = 'rbxassetid://10734953241',['lucide-shuffle'] = 'rbxassetid://10734953451',['lucide-sidebar'] = 'rbxassetid://10734954301',['lucide-sidebar-close'] = 'rbxassetid://10734953715',['lucide-sidebar-open'] = 'rbxassetid://10734954000',['lucide-sigma'] = 'rbxassetid://10734954538',['lucide-signal'] = 'rbxassetid://10734961133',['lucide-signal-high'] = 'rbxassetid://10734954807',['lucide-signal-low'] = 'rbxassetid://10734955080',['lucide-signal-medium'] = 'rbxassetid://10734955336',['lucide-signal-zero'] = 'rbxassetid://10734960878',['lucide-siren'] = 'rbxassetid://10734961284',['lucide-skip-back'] = 'rbxassetid://10734961526',['lucide-skip-forward'] = 'rbxassetid://10734961809',['lucide-skull'] = 'rbxassetid://10734962068',['lucide-slack'] = 'rbxassetid://10734962339',['lucide-slash'] = 'rbxassetid://10734962600',['lucide-slice'] = 'rbxassetid://10734963024',['lucide-sliders'] = 'rbxassetid://10734963400',['lucide-sliders-horizontal'] = 'rbxassetid://10734963191',['lucide-smartphone'] = 'rbxassetid://10734963940',['lucide-smartphone-charging'] = 'rbxassetid://10734963671',['lucide-smile'] = 'rbxassetid://10734964441',['lucide-smile-plus'] = 'rbxassetid://10734964188',['lucide-snowflake'] = 'rbxassetid://10734964600',['lucide-sofa'] = 'rbxassetid://10734964852',['lucide-sort-asc'] = 'rbxassetid://10734965115',['lucide-sort-desc'] = 'rbxassetid://10734965287',['lucide-speaker'] = 'rbxassetid://10734965419',['lucide-sprout'] = 'rbxassetid://10734965572',['lucide-square'] = 'rbxassetid://10734965702',['lucide-star'] = 'rbxassetid://10734966248',['lucide-star-half'] = 'rbxassetid://10734965897',['lucide-star-off'] = 'rbxassetid://10734966097',['lucide-stethoscope'] = 'rbxassetid://10734966384',['lucide-sticker'] = 'rbxassetid://10734972234',['lucide-sticky-note'] = 'rbxassetid://10734972463',['lucide-stop-circle'] = 'rbxassetid://10734972621',['lucide-stretch-horizontal'] = 'rbxassetid://10734972862',['lucide-stretch-vertical'] = 'rbxassetid://10734973130',['lucide-strikethrough'] = 'rbxassetid://10734973290',['lucide-subscript'] = 'rbxassetid://10734973457',['lucide-sun'] = 'rbxassetid://10734974297',['lucide-sun-dim'] = 'rbxassetid://10734973645',['lucide-sun-medium'] = 'rbxassetid://10734973778',['lucide-sun-moon'] = 'rbxassetid://10734973999',['lucide-sun-snow'] = 'rbxassetid://10734974130',['lucide-sunrise'] = 'rbxassetid://10734974522',['lucide-sunset'] = 'rbxassetid://10734974689',['lucide-superscript'] = 'rbxassetid://10734974850',['lucide-swiss-franc'] = 'rbxassetid://10734975024',['lucide-switch-camera'] = 'rbxassetid://10734975214',['lucide-sword'] = 'rbxassetid://10734975486',['lucide-swords'] = 'rbxassetid://10734975692',['lucide-syringe'] = 'rbxassetid://10734975932',['lucide-table'] = 'rbxassetid://10734976230',['lucide-table-2'] = 'rbxassetid://10734976097',['lucide-tablet'] = 'rbxassetid://10734976394',['lucide-tag'] = 'rbxassetid://10734976528',['lucide-tags'] = 'rbxassetid://10734976739',['lucide-target'] = 'rbxassetid://10734977012',['lucide-tent'] = 'rbxassetid://10734981750',['lucide-terminal'] = 'rbxassetid://10734982144',['lucide-terminal-square'] = 'rbxassetid://10734981995',['lucide-text-cursor'] = 'rbxassetid://10734982395',['lucide-text-cursor-input'] = 'rbxassetid://10734982297',['lucide-thermometer'] = 'rbxassetid://10734983134',['lucide-thermometer-snowflake'] = 'rbxassetid://10734982571',['lucide-thermometer-sun'] = 'rbxassetid://10734982771',['lucide-thumbs-down'] = 'rbxassetid://10734983359',['lucide-thumbs-up'] = 'rbxassetid://10734983629',['lucide-ticket'] = 'rbxassetid://10734983868',['lucide-timer'] = 'rbxassetid://10734984606',['lucide-timer-off'] = 'rbxassetid://10734984138',['lucide-timer-reset'] = 'rbxassetid://10734984355',['lucide-toggle-left'] = 'rbxassetid://10734984834',['lucide-toggle-right'] = 'rbxassetid://10734985040',['lucide-tornado'] = 'rbxassetid://10734985247',['lucide-toy-brick'] = 'rbxassetid://10747361919',['lucide-train'] = 'rbxassetid://10747362105',['lucide-trash'] = 'rbxassetid://10747362393',['lucide-trash-2'] = 'rbxassetid://10747362241',['lucide-tree-deciduous'] = 'rbxassetid://10747362534',['lucide-tree-pine'] = 'rbxassetid://10747362748',['lucide-trees'] = 'rbxassetid://10747363016',['lucide-trending-down'] = 'rbxassetid://10747363205',['lucide-trending-up'] = 'rbxassetid://10747363465',['lucide-triangle'] = 'rbxassetid://10747363621',['lucide-trophy'] = 'rbxassetid://10747363809',['lucide-truck'] = 'rbxassetid://10747364031',['lucide-tv'] = 'rbxassetid://10747364593',['lucide-tv-2'] = 'rbxassetid://10747364302',['lucide-type'] = 'rbxassetid://10747364761',['lucide-umbrella'] = 'rbxassetid://10747364971',['lucide-underline'] = 'rbxassetid://10747365191',['lucide-undo'] = 'rbxassetid://10747365484',['lucide-undo-2'] = 'rbxassetid://10747365359',['lucide-unlink'] = 'rbxassetid://10747365771',['lucide-unlink-2'] = 'rbxassetid://10747397871',['lucide-unlock'] = 'rbxassetid://10747366027',['lucide-upload'] = 'rbxassetid://10747366434',['lucide-upload-cloud'] = 'rbxassetid://10747366266',['lucide-usb'] = 'rbxassetid://10747366606',['lucide-user'] = 'rbxassetid://10747373176',['lucide-user-check'] = 'rbxassetid://10747371901',['lucide-user-cog'] = 'rbxassetid://10747372167',['lucide-user-minus'] = 'rbxassetid://10747372346',['lucide-user-plus'] = 'rbxassetid://10747372702',['lucide-user-x'] = 'rbxassetid://10747372992',['lucide-users'] = 'rbxassetid://10747373426',['lucide-utensils'] = 'rbxassetid://10747373821',['lucide-utensils-crossed'] = 'rbxassetid://10747373629',['lucide-venetian-mask'] = 'rbxassetid://10747374003',['lucide-verified'] = 'rbxassetid://10747374131',['lucide-vibrate'] = 'rbxassetid://10747374489',['lucide-vibrate-off'] = 'rbxassetid://10747374269',['lucide-video'] = 'rbxassetid://10747374938',['lucide-video-off'] = 'rbxassetid://10747374721',['lucide-view'] = 'rbxassetid://10747375132',['lucide-voicemail'] = 'rbxassetid://10747375281',['lucide-volume'] = 'rbxassetid://10747376008',['lucide-volume-1'] = 'rbxassetid://10747375450',['lucide-volume-2'] = 'rbxassetid://10747375679',['lucide-volume-x'] = 'rbxassetid://10747375880',['lucide-wallet'] = 'rbxassetid://10747376205',['lucide-wand'] = 'rbxassetid://10747376565',['lucide-wand-2'] = 'rbxassetid://10747376349',['lucide-watch'] = 'rbxassetid://10747376722',['lucide-waves'] = 'rbxassetid://10747376931',['lucide-webcam'] = 'rbxassetid://10747381992',['lucide-wifi'] = 'rbxassetid://10747382504',['lucide-wifi-off'] = 'rbxassetid://10747382268',['lucide-wind'] = 'rbxassetid://10747382750',['lucide-wrap-text'] = 'rbxassetid://10747383065',['lucide-wrench'] = 'rbxassetid://10747383470',['lucide-x'] = 'rbxassetid://10747384394',['lucide-x-circle'] = 'rbxassetid://10747383819',['lucide-x-octagon'] = 'rbxassetid://10747384037',['lucide-x-square'] = 'rbxassetid://10747384217',['lucide-zoom-in'] = 'rbxassetid://10747384552',['lucide-zoom-out'] = 'rbxassetid://10747384679'}
+		}
+	end,
+	[30] = function()
+		local aa, ab, ac, ad, ae = b(30)
+		local af = {
+			SingleMotor = ac(ab.SingleMotor),
+			GroupMotor = ac(ab.GroupMotor),
+			Instant = ac(ab.Instant),
+			Linear = ac(ab.Linear),
+			Spring = ac(ab.Spring),
+			isMotor = ac(ab.isMotor)
+		}
+		return af
+	end,
+	[31] = function()
+		local aa, ab, ac, ad, ae = b(31)
+		local af, ag, ah, ai = game:GetService'RunService', ac(ab.Parent.Signal), function()
+		end, {}
+		ai.__index = ai
+		function ai.new()
+			return setmetatable({
+				_onStep = ag.new(),
+				_onStart = ag.new(),
+				_onComplete = ag.new()
+			}, ai)
+		end
+		function ai.onStep(aj, c)
+			return aj._onStep:connect(c)
+		end
+		function ai.onStart(aj, c)
+			return aj._onStart:connect(c)
+		end
+		function ai.onComplete(aj, c)
+			return aj._onComplete:connect(c)
+		end
+		function ai.start(aj)
+			if not aj._connection then
+				aj._connection = af.RenderStepped:Connect(function(c)
+					aj:step(c)
+				end)
+			end
+		end
+		function ai.stop(aj)
+			if aj._connection then
+				aj._connection:Disconnect()
+				aj._connection = nil
+			end
+		end
+		ai.destroy = ai.stop
+		ai.step = ah
+		ai.getValue = ah
+		ai.setGoal = ah
+		function ai.__tostring(aj)
+			return 'Motor'
+		end
+		return ai
+	end,
+	[32] = function()
+		local aa, ab, ac, ad, ae = b(32)
+		return function()
+			local af, ag = game:GetService'RunService', ac(ab.Parent.BaseMotor)
+			describe('connection management', function()
+				local ah = ag.new()
+				it('should hook up connections on :start()', function()
+					ah:start()
+					expect(typeof(ah._connection)).to.equal'RBXScriptConnection'
+				end)
+				it('should remove connections on :stop() or :destroy()', function()
+					ah:stop()
+					expect(ah._connection).to.equal(nil)
+				end)
+			end)
+			it('should call :step() with deltaTime', function()
+				local ah, ai = (ag.new())
+				function ah.step(aj, ...)
+					ai = {
+						...
+					}
+					ah:stop()
+				end
+				ah:start()
+				local aj = af.RenderStepped:Wait()
+				af.RenderStepped:Wait()
+				expect(ai).to.be.ok()
+				expect(ai[1]).to.equal(aj)
+			end)
+		end
+	end,
+	[33] = function()
+		local aa, ab, ac, ad, ae = b(33)
+		local af, ag, ah = ac(ab.Parent.BaseMotor), ac(ab.Parent.SingleMotor), ac(ab.Parent.isMotor)
+		local ai = setmetatable({}, af)
+		ai.__index = ai
+		local aj = function(aj)
+			if ah(aj) then
+				return aj
+			end
+			local c = typeof(aj)
+			if c == 'number' then
+				return ag.new(aj, false)
+			elseif c == 'table' then
+				return ai.new(aj, false)
+			end
+			error(('Unable to convert %q to motor; type %s is unsupported'):format(aj, c), 2)
+		end
+		function ai.new(c, d)
+			assert(c, 'Missing argument #1: initialValues')
+			assert(typeof(c) == 'table', 'initialValues must be a table!')
+			assert(not c.step, [[initialValues contains disallowed property "step". Did you mean to put a table of values here?]])
+			local e = setmetatable(af.new(), ai)
+			if d ~= nil then
+				e._useImplicitConnections = d
+			else
+				e._useImplicitConnections = true
+			end
+			e._complete = true
+			e._motors = {}
+			for f, g in pairs(c) do
+				e._motors[f] = aj(g)
+			end
+			return e
+		end
+		function ai.step(c, d)
+			if c._complete then
+				return true
+			end
+			local e = true
+			for f, g in pairs(c._motors) do
+				local h = g:step(d)
+				if not h then
+					e = false
+				end
+			end
+			c._onStep:fire(c:getValue())
+			if e then
+				if c._useImplicitConnections then
+					c:stop()
+				end
+				c._complete = true
+				c._onComplete:fire()
+			end
+			return e
+		end
+		function ai.setGoal(c, d)
+			assert(not d.step, [[goals contains disallowed property "step". Did you mean to put a table of goals here?]])
+			c._complete = false
+			c._onStart:fire()
+			for e, f in pairs(d) do
+				local g = assert(c._motors[e], ('Unknown motor for key %s'):format(e))
+				g:setGoal(f)
+			end
+			if c._useImplicitConnections then
+				c:start()
+			end
+		end
+		function ai.getValue(c)
+			local d = {}
+			for e, f in pairs(c._motors) do
+				d[e] = f:getValue()
+			end
+			return d
+		end
+		function ai.__tostring(c)
+			return 'Motor(Group)'
+		end
+		return ai
+	end,
+	[34] = function()
+		local aa, ab, ac, ad, ae = b(34)
+		return function()
+			local af, ag, ah = ac(ab.Parent.GroupMotor), ac(ab.Parent.Instant), ac(ab.Parent.Spring)
+			it('should complete when all child motors are complete', function()
+				local ai = af.new({
+					A = 1,
+					B = 2
+				}, false)
+				expect(ai._complete).to.equal(true)
+				ai:setGoal{
+					A = ag.new(3),
+					B = ah.new(4, {
+						frequency = 7.5,
+						dampingRatio = 1
+					})
+				}
+				expect(ai._complete).to.equal(false)
+				ai:step(1.6666666666666665E-2)
+				expect(ai._complete).to.equal(false)
+				for aj = 1, 30 do
+					ai:step(1.6666666666666665E-2)
+				end
+				expect(ai._complete).to.equal(true)
+			end)
+			it('should start when the goal is set', function()
+				local ai, aj = af.new({
+					A = 0
+				}, false), false
+				ai:onStart(function()
+					aj = not aj
+				end)
+				ai:setGoal{
+					A = ag.new(1)
+				}
+				expect(aj).to.equal(true)
+				ai:setGoal{
+					A = ag.new(1)
+				}
+				expect(aj).to.equal(false)
+			end)
+			it('should properly return all values', function()
+				local ai = af.new({
+					A = 1,
+					B = 2
+				}, false)
+				local aj = ai:getValue()
+				expect(aj.A).to.equal(1)
+				expect(aj.B).to.equal(2)
+			end)
+			it('should error when a goal is given to GroupMotor.new', function()
+				local ai = pcall(function()
+					af.new(ag.new(0))
+				end)
+				expect(ai).to.equal(false)
+			end)
+			it([[should error when a single goal is provided to GroupMotor:step]], function()
+				local ai = pcall(function()
+					af.new{
+						a = 1
+					}:setGoal(ag.new(0))
+				end)
+				expect(ai).to.equal(false)
+			end)
+		end
+	end,
+	[35] = function()
+		local aa, ab, ac, ad, ae = b(35)
+		local af = {}
+		af.__index = af
+		function af.new(ag)
+			return setmetatable({
+				_targetValue = ag
+			}, af)
+		end
+		function af.step(ag)
+			return {
+				complete = true,
+				value = ag._targetValue
+			}
+		end
+		return af
+	end,
+	[36] = function()
+		local aa, ab, ac, ad, ae = b(36)
+		return function()
+			local af = ac(ab.Parent.Instant)
+			it('should return a completed state with the provided value', function()
+				local ag = af.new(1.23)
+				local ah = ag:step(0.1, {
+					value = 0,
+					complete = false
+				})
+				expect(ah.complete).to.equal(true)
+				expect(ah.value).to.equal(1.23)
+			end)
+		end
+	end,
+	[37] = function()
+		local aa, ab, ac, ad, ae = b(37)
+		local af = {}
+		af.__index = af
+		function af.new(ag, ah)
+			assert(ag, 'Missing argument #1: targetValue')
+			ah = ah or {}
+			return setmetatable({
+				_targetValue = ag,
+				_velocity = ah.velocity or 1
+			}, af)
+		end
+		function af.step(ag, ah, ai)
+			local aj, c, d = ah.value, ag._velocity, ag._targetValue
+			local e = ai * c
+			local f = e >= math.abs(d - aj)
+			aj = aj + e * (d > aj and 1 or -1)
+			if f then
+				aj = ag._targetValue
+				c = 0
+			end
+			return {
+				complete = f,
+				value = aj,
+				velocity = c
+			}
+		end
+		return af
+	end,
+	[38] = function()
+		local aa, ab, ac, ad, ae = b(38)
+		return function()
+			local af, ag = ac(ab.Parent.SingleMotor), ac(ab.Parent.Linear)
+			describe('completed state', function()
+				local ah, ai = af.new(0, false), ag.new(1, {
+					velocity = 1
+				})
+				ah:setGoal(ai)
+				for aj = 1, 60 do
+					ah:step(1.6666666666666665E-2)
+				end
+				it('should complete', function()
+					expect(ah._state.complete).to.equal(true)
+				end)
+				it('should be exactly the goal value when completed', function()
+					expect(ah._state.value).to.equal(1)
+				end)
+			end)
+			describe('uncompleted state', function()
+				local ah, ai = af.new(0, false), ag.new(1, {
+					velocity = 1
+				})
+				ah:setGoal(ai)
+				for aj = 1, 59 do
+					ah:step(1.6666666666666665E-2)
+				end
+				it('should be uncomplete', function()
+					expect(ah._state.complete).to.equal(false)
+				end)
+			end)
+			describe('negative velocity', function()
+				local ah, ai = af.new(1, false), ag.new(0, {
+					velocity = 1
+				})
+				ah:setGoal(ai)
+				for aj = 1, 60 do
+					ah:step(1.6666666666666665E-2)
+				end
+				it('should complete', function()
+					expect(ah._state.complete).to.equal(true)
+				end)
+				it('should be exactly the goal value when completed', function()
+					expect(ah._state.value).to.equal(0)
+				end)
+			end)
+		end
+	end,
+	[39] = function()
+		local aa, ab, ac, ad, ae = b(39)
+		local af = {}
+		af.__index = af
+		function af.new(ag, ah)
+			return setmetatable({
+				signal = ag,
+				connected = true,
+				_handler = ah
+			}, af)
+		end
+		function af.disconnect(ag)
+			if ag.connected then
+				ag.connected = false
+				for ah, ai in pairs(ag.signal._connections) do
+					if ai == ag then
+						table.remove(ag.signal._connections, ah)
+						return
+					end
+				end
+			end
+		end
+		local ag = {}
+		ag.__index = ag
+		function ag.new()
+			return setmetatable({
+				_connections = {},
+				_threads = {}
+			}, ag)
+		end
+		function ag.fire(ah, ...)
+			for ai, aj in pairs(ah._connections) do
+				aj._handler(...)
+			end
+			for c, d in pairs(ah._threads) do
+				coroutine.resume(d, ...)
+			end
+			ah._threads = {}
+		end
+		function ag.connect(ah, aj)
+			local c = af.new(ah, aj)
+			table.insert(ah._connections, c)
+			return c
+		end
+		function ag.wait(ah)
+			table.insert(ah._threads, coroutine.running())
+			return coroutine.yield()
+		end
+		return ag
+	end,
+	[40] = function()
+		local aa, ab, ac, ad, ae = b(40)
+		return function()
+			local af = ac(ab.Parent.Signal)
+			it('should invoke all connections, instantly', function()
+				local ag, ah, aj = (af.new())
+				ag:connect(function(c)
+					ah = c
+				end)
+				ag:connect(function(c)
+					aj = c
+				end)
+				ag:fire'hello'
+				expect(ah).to.equal'hello'
+				expect(aj).to.equal'hello'
+			end)
+			it('should return values when :wait() is called', function()
+				local ag = af.new()
+				spawn(function()
+					ag:fire(123, 'hello')
+				end)
+				local ah, aj = ag:wait()
+				expect(ah).to.equal(123)
+				expect(aj).to.equal'hello'
+			end)
+			it('should properly handle disconnections', function()
+				local ag, ah = af.new(), false
+				local aj = ag:connect(function()
+					ah = true
+				end)
+				aj:disconnect()
+				ag:fire()
+				expect(ah).to.equal(false)
+			end)
+		end
+	end,
+	[41] = function()
+		local aa, ab, ac, ad, ae = b(41)
+		local af = ac(ab.Parent.BaseMotor)
+		local ag = setmetatable({}, af)
+		ag.__index = ag
+		function ag.new(ah, aj)
+			assert(ah, 'Missing argument #1: initialValue')
+			assert(typeof(ah) == 'number', 'initialValue must be a number!')
+			local c = setmetatable(af.new(), ag)
+			if aj ~= nil then
+				c._useImplicitConnections = aj
+			else
+				c._useImplicitConnections = true
+			end
+			c._goal = nil
+			c._state = {
+				complete = true,
+				value = ah
+			}
+			return c
+		end
+		function ag.step(ah, aj)
+			if ah._state.complete then
+				return true
+			end
+			local c = ah._goal:step(ah._state, aj)
+			ah._state = c
+			ah._onStep:fire(c.value)
+			if c.complete then
+				if ah._useImplicitConnections then
+					ah:stop()
+				end
+				ah._onComplete:fire()
+			end
+			return c.complete
+		end
+		function ag.getValue(ah)
+			return ah._state.value
+		end
+		function ag.setGoal(ah, aj)
+			ah._state.complete = false
+			ah._goal = aj
+			ah._onStart:fire()
+			if ah._useImplicitConnections then
+				ah:start()
+			end
+		end
+		function ag.__tostring(ah)
+			return 'Motor(Single)'
+		end
+		return ag
+	end,
+	[42] = function()
+		local aa, ab, ac, ad, ae = b(42)
+		return function()
+			local af, ag = ac(ab.Parent.SingleMotor), ac(ab.Parent.Instant)
+			it('should assign new state on step', function()
+				local ah = af.new(0, false)
+				ah:setGoal(ag.new(5))
+				ah:step(1.6666666666666665E-2)
+				expect(ah._state.complete).to.equal(true)
+				expect(ah._state.value).to.equal(5)
+			end)
+			it([[should invoke onComplete listeners when the goal is completed]], function()
+				local ah, aj = af.new(0, false), false
+				ah:onComplete(function()
+					aj = true
+				end)
+				ah:setGoal(ag.new(5))
+				ah:step(1.6666666666666665E-2)
+				expect(aj).to.equal(true)
+			end)
+			it('should start when the goal is set', function()
+				local ah, aj = af.new(0, false), false
+				ah:onStart(function()
+					aj = not aj
+				end)
+				ah:setGoal(ag.new(5))
+				expect(aj).to.equal(true)
+				ah:setGoal(ag.new(5))
+				expect(aj).to.equal(false)
+			end)
+		end
+	end,
+	[43] = function()
+		local aa, ab, ac, ad, ae = b(43)
+		local af, ag, ah, aj = 0.001, 0.001, 0.0001, {}
+		aj.__index = aj
+		function aj.new(c, d)
+			assert(c, 'Missing argument #1: targetValue')
+			d = d or {}
+			return setmetatable({
+				_targetValue = c,
+				_frequency = d.frequency or 4,
+				_dampingRatio = d.dampingRatio or 1
+			}, aj)
+		end
+		function aj.step(c, d, e)
+			local f, g, h, i, j = c._dampingRatio, c._frequency * 2 * math.pi, c._targetValue, d.value, d.velocity or 0
+			local k, l, m, n = i - h, (math.exp(-f * g * e))
+			if f == 1 then
+				m = (k * (1 + g * e) + j * e) * l + h
+				n = (j * (1 - g * e) - k * (g * g * e)) * l
+			elseif f < 1 then
+				local o = math.sqrt(1 - f * f)
+				local p, s, t = math.cos(g * o * e), (math.sin(g * o * e))
+				if o > ah then
+					t = s / o
+				else
+					local u = e * g
+					t = u + ((u * u) * (o * o) * (o * o) / 20 - o * o) * (u * u * u) / 6
+				end
+				local u
+				if g * o > ah then
+					u = s / (g * o)
+				else
+					local v = g * o
+					u = e + ((e * e) * (v * v) * (v * v) / 20 - v * v) * (e * e * e) / 6
+				end
+				m = (k * (p + f * t) + j * u) * l + h
+				n = (j * (p - t * f) - k * (t * g)) * l
+			else
+				local o = math.sqrt(f * f - 1)
+				local p, s = -g * (f - o), -g * (f + o)
+				local t = (j - k * p) / (2 * g * o)
+				local u = k - t
+				local v, w = u * math.exp(p * e), t * math.exp(s * e)
+				m = v + w + h
+				n = v * p + w * s
+			end
+			local o = math.abs(n) < af and math.abs(m - h) < ag
+			return {
+				complete = o,
+				value = o and h or m,
+				velocity = n
+			}
+		end
+		return aj
+	end,
+	[44] = function()
+		local aa, ab, ac, ad, ae = b(44)
+		return function()
+			local af, ag = ac(ab.Parent.SingleMotor), ac(ab.Parent.Spring)
+			describe('completed state', function()
+				local ah, aj = af.new(0, false), ag.new(1, {
+					frequency = 2,
+					dampingRatio = 0.75
+				})
+				ah:setGoal(aj)
+				for c = 1, 100 do
+					ah:step(1.6666666666666665E-2)
+				end
+				it('should complete', function()
+					expect(ah._state.complete).to.equal(true)
+				end)
+				it('should be exactly the goal value when completed', function()
+					expect(ah._state.value).to.equal(1)
+				end)
+			end)
+			it('should inherit velocity', function()
+				local ah = af.new(0, false)
+				ah._state = {
+					complete = false,
+					value = 0,
+					velocity = -5
+				}
+				local aj = ag.new(1, {
+					frequency = 2,
+					dampingRatio = 1
+				})
+				ah:setGoal(aj)
+				ah:step(1.6666666666666665E-2)
+				expect(ah._state.velocity < 0).to.equal(true)
+			end)
+		end
+	end,
+	[45] = function()
+		local aa, ab, ac, ad, ae = b(45)
+		local af = function(af)
+			local ag = tostring(af):match'^Motor%((.+)%)$'
+			if ag then
+				return true, ag
+			else
+				return false
+			end
+		end
+		return af
+	end,
+	[46] = function()
+		local aa, ab, ac, ad, ae = b(46)
+		return function()
+			local af, ag, ah = ac(ab.Parent.isMotor), ac(ab.Parent.SingleMotor), ac(ab.Parent.GroupMotor)
+			local aj, c = ag.new(0), ah.new{}
+			it('should properly detect motors', function()
+				expect(af(aj)).to.equal(true)
+				expect(af(c)).to.equal(true)
+			end)
+			it("shouldn't detect things that aren't motors", function()
+				expect(af{}).to.equal(false)
+			end)
+			it('should return the proper motor type', function()
+				local d, e = af(aj)
+				local f, g = af(c)
+				expect(e).to.equal'Single'
+				expect(g).to.equal'Group'
+			end)
+		end
+	end,
+	[47] = function()
+		local aa, ab, ac, ad, ae = b(47)
+		local af = {
+			Names = {
+				'Dark',
+				'Darker',
+				'Light',
+				'Aqua',
+				'Amethyst',
+				'Rose'
+			}
+		}
+		for ag, ah in next, ab:GetChildren() do
+			local aj = ac(ah)
+			af[aj.Name] = aj
+		end
+		return af
+	end,
+	[48] = function()
+		local aa, ab, ac, ad, ae = b(48)
+		return {
+			Name = 'Amethyst',
+			Accent = Color3.fromRGB(97, 62, 167),
+			AcrylicMain = Color3.fromRGB(20, 20, 20),
+			AcrylicBorder = Color3.fromRGB(110, 90, 130),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(85, 57, 139), Color3.fromRGB(40, 25, 65)),
+			AcrylicNoise = 0.92,
+			TitleBarLine = Color3.fromRGB(95, 75, 110),
+			Tab = Color3.fromRGB(160, 140, 180),
+			Element = Color3.fromRGB(140, 120, 160),
+			ElementBorder = Color3.fromRGB(60, 50, 70),
+			InElementBorder = Color3.fromRGB(100, 90, 110),
+			ElementTransparency = 0.87,
+			ToggleSlider = Color3.fromRGB(140, 120, 160),
+			ToggleToggled = Color3.fromRGB(0, 0, 0),
+			SliderRail = Color3.fromRGB(140, 120, 160),
+			DropdownFrame = Color3.fromRGB(170, 160, 200),
+			DropdownHolder = Color3.fromRGB(60, 45, 80),
+			DropdownBorder = Color3.fromRGB(50, 40, 65),
+			DropdownOption = Color3.fromRGB(140, 120, 160),
+			Keybind = Color3.fromRGB(140, 120, 160),
+			Input = Color3.fromRGB(140, 120, 160),
+			InputFocused = Color3.fromRGB(20, 10, 30),
+			InputIndicator = Color3.fromRGB(170, 150, 190),
+			Dialog = Color3.fromRGB(60, 45, 80),
+			DialogHolder = Color3.fromRGB(45, 30, 65),
+			DialogHolderLine = Color3.fromRGB(40, 25, 60),
+			DialogButton = Color3.fromRGB(60, 45, 80),
+			DialogButtonBorder = Color3.fromRGB(95, 80, 110),
+			DialogBorder = Color3.fromRGB(85, 70, 100),
+			DialogInput = Color3.fromRGB(70, 55, 85),
+			DialogInputLine = Color3.fromRGB(175, 160, 190),
+			Text = Color3.fromRGB(240, 240, 240),
+			SubText = Color3.fromRGB(170, 170, 170),
+			Hover = Color3.fromRGB(140, 120, 160),
+			HoverChange = 0.04
+		}
+	end,
+	[49] = function()
+		local aa, ab, ac, ad, ae = b(49)
+		return {
+			Name = 'Aqua',
+			Accent = Color3.fromRGB(60, 165, 165),
+			AcrylicMain = Color3.fromRGB(20, 20, 20),
+			AcrylicBorder = Color3.fromRGB(50, 100, 100),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(60, 140, 140), Color3.fromRGB(40, 80, 80)),
+			AcrylicNoise = 0.92,
+			TitleBarLine = Color3.fromRGB(60, 120, 120),
+			Tab = Color3.fromRGB(140, 180, 180),
+			Element = Color3.fromRGB(110, 160, 160),
+			ElementBorder = Color3.fromRGB(40, 70, 70),
+			InElementBorder = Color3.fromRGB(80, 110, 110),
+			ElementTransparency = 0.84,
+			ToggleSlider = Color3.fromRGB(110, 160, 160),
+			ToggleToggled = Color3.fromRGB(0, 0, 0),
+			SliderRail = Color3.fromRGB(110, 160, 160),
+			DropdownFrame = Color3.fromRGB(160, 200, 200),
+			DropdownHolder = Color3.fromRGB(40, 80, 80),
+			DropdownBorder = Color3.fromRGB(40, 65, 65),
+			DropdownOption = Color3.fromRGB(110, 160, 160),
+			Keybind = Color3.fromRGB(110, 160, 160),
+			Input = Color3.fromRGB(110, 160, 160),
+			InputFocused = Color3.fromRGB(20, 10, 30),
+			InputIndicator = Color3.fromRGB(130, 170, 170),
+			Dialog = Color3.fromRGB(40, 80, 80),
+			DialogHolder = Color3.fromRGB(30, 60, 60),
+			DialogHolderLine = Color3.fromRGB(25, 50, 50),
+			DialogButton = Color3.fromRGB(40, 80, 80),
+			DialogButtonBorder = Color3.fromRGB(80, 110, 110),
+			DialogBorder = Color3.fromRGB(50, 100, 100),
+			DialogInput = Color3.fromRGB(45, 90, 90),
+			DialogInputLine = Color3.fromRGB(130, 170, 170),
+			Text = Color3.fromRGB(240, 240, 240),
+			SubText = Color3.fromRGB(170, 170, 170),
+			Hover = Color3.fromRGB(110, 160, 160),
+			HoverChange = 0.04
+		}
+	end,
+	[50] = function()
+		local aa, ab, ac, ad, ae = b(50)
+		return {
+			Name = 'Dark',
+			Accent = Color3.fromRGB(96, 205, 255),
+			AcrylicMain = Color3.fromRGB(60, 60, 60),
+			AcrylicBorder = Color3.fromRGB(90, 90, 90),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(40, 40, 40), Color3.fromRGB(40, 40, 40)),
+			AcrylicNoise = 0.9,
+			TitleBarLine = Color3.fromRGB(75, 75, 75),
+			Tab = Color3.fromRGB(120, 120, 120),
+			Element = Color3.fromRGB(120, 120, 120),
+			ElementBorder = Color3.fromRGB(35, 35, 35),
+			InElementBorder = Color3.fromRGB(90, 90, 90),
+			ElementTransparency = 0.87,
+			ToggleSlider = Color3.fromRGB(120, 120, 120),
+			ToggleToggled = Color3.fromRGB(0, 0, 0),
+			SliderRail = Color3.fromRGB(120, 120, 120),
+			DropdownFrame = Color3.fromRGB(160, 160, 160),
+			DropdownHolder = Color3.fromRGB(45, 45, 45),
+			DropdownBorder = Color3.fromRGB(35, 35, 35),
+			DropdownOption = Color3.fromRGB(120, 120, 120),
+			Keybind = Color3.fromRGB(120, 120, 120),
+			Input = Color3.fromRGB(160, 160, 160),
+			InputFocused = Color3.fromRGB(10, 10, 10),
+			InputIndicator = Color3.fromRGB(150, 150, 150),
+			Dialog = Color3.fromRGB(45, 45, 45),
+			DialogHolder = Color3.fromRGB(35, 35, 35),
+			DialogHolderLine = Color3.fromRGB(30, 30, 30),
+			DialogButton = Color3.fromRGB(45, 45, 45),
+			DialogButtonBorder = Color3.fromRGB(80, 80, 80),
+			DialogBorder = Color3.fromRGB(70, 70, 70),
+			DialogInput = Color3.fromRGB(55, 55, 55),
+			DialogInputLine = Color3.fromRGB(160, 160, 160),
+			Text = Color3.fromRGB(240, 240, 240),
+			SubText = Color3.fromRGB(170, 170, 170),
+			Hover = Color3.fromRGB(120, 120, 120),
+			HoverChange = 0.07
+		}
+	end,
+	[51] = function()
+		local aa, ab, ac, ad, ae = b(51)
+		return {
+			Name = 'Darker',
+			Accent = Color3.fromRGB(72, 138, 182),
+			AcrylicMain = Color3.fromRGB(30, 30, 30),
+			AcrylicBorder = Color3.fromRGB(60, 60, 60),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(25, 25, 25), Color3.fromRGB(15, 15, 15)),
+			AcrylicNoise = 0.94,
+			TitleBarLine = Color3.fromRGB(65, 65, 65),
+			Tab = Color3.fromRGB(100, 100, 100),
+			Element = Color3.fromRGB(70, 70, 70),
+			ElementBorder = Color3.fromRGB(25, 25, 25),
+			InElementBorder = Color3.fromRGB(55, 55, 55),
+			ElementTransparency = 0.82,
+			DropdownFrame = Color3.fromRGB(120, 120, 120),
+			DropdownHolder = Color3.fromRGB(35, 35, 35),
+			DropdownBorder = Color3.fromRGB(25, 25, 25),
+			Dialog = Color3.fromRGB(35, 35, 35),
+			DialogHolder = Color3.fromRGB(25, 25, 25),
+			DialogHolderLine = Color3.fromRGB(20, 20, 20),
+			DialogButton = Color3.fromRGB(35, 35, 35),
+			DialogButtonBorder = Color3.fromRGB(55, 55, 55),
+			DialogBorder = Color3.fromRGB(50, 50, 50),
+			DialogInput = Color3.fromRGB(45, 45, 45),
+			DialogInputLine = Color3.fromRGB(120, 120, 120)
+		}
+	end,
+	[52] = function()
+		local aa, ab, ac, ad, ae = b(52)
+		return {
+			Name = 'Light',
+			Accent = Color3.fromRGB(0, 103, 192),
+			AcrylicMain = Color3.fromRGB(200, 200, 200),
+			AcrylicBorder = Color3.fromRGB(120, 120, 120),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(255, 255, 255), Color3.fromRGB(255, 255, 255)),
+			AcrylicNoise = 0.96,
+			TitleBarLine = Color3.fromRGB(160, 160, 160),
+			Tab = Color3.fromRGB(90, 90, 90),
+			Element = Color3.fromRGB(255, 255, 255),
+			ElementBorder = Color3.fromRGB(180, 180, 180),
+			InElementBorder = Color3.fromRGB(150, 150, 150),
+			ElementTransparency = 0.65,
+			ToggleSlider = Color3.fromRGB(40, 40, 40),
+			ToggleToggled = Color3.fromRGB(255, 255, 255),
+			SliderRail = Color3.fromRGB(40, 40, 40),
+			DropdownFrame = Color3.fromRGB(200, 200, 200),
+			DropdownHolder = Color3.fromRGB(240, 240, 240),
+			DropdownBorder = Color3.fromRGB(200, 200, 200),
+			DropdownOption = Color3.fromRGB(150, 150, 150),
+			Keybind = Color3.fromRGB(120, 120, 120),
+			Input = Color3.fromRGB(200, 200, 200),
+			InputFocused = Color3.fromRGB(100, 100, 100),
+			InputIndicator = Color3.fromRGB(80, 80, 80),
+			Dialog = Color3.fromRGB(255, 255, 255),
+			DialogHolder = Color3.fromRGB(240, 240, 240),
+			DialogHolderLine = Color3.fromRGB(228, 228, 228),
+			DialogButton = Color3.fromRGB(255, 255, 255),
+			DialogButtonBorder = Color3.fromRGB(190, 190, 190),
+			DialogBorder = Color3.fromRGB(140, 140, 140),
+			DialogInput = Color3.fromRGB(250, 250, 250),
+			DialogInputLine = Color3.fromRGB(160, 160, 160),
+			Text = Color3.fromRGB(0, 0, 0),
+			SubText = Color3.fromRGB(40, 40, 40),
+			Hover = Color3.fromRGB(50, 50, 50),
+			HoverChange = 0.16
+		}
+	end,
+	[53] = function()
+		local aa, ab, ac, ad, ae = b(53)
+		return {
+			Name = 'Rose',
+			Accent = Color3.fromRGB(180, 55, 90),
+			AcrylicMain = Color3.fromRGB(40, 40, 40),
+			AcrylicBorder = Color3.fromRGB(130, 90, 110),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(190, 60, 135), Color3.fromRGB(165, 50, 70)),
+			AcrylicNoise = 0.92,
+			TitleBarLine = Color3.fromRGB(140, 85, 105),
+			Tab = Color3.fromRGB(180, 140, 160),
+			Element = Color3.fromRGB(200, 120, 170),
+			ElementBorder = Color3.fromRGB(110, 70, 85),
+			InElementBorder = Color3.fromRGB(120, 90, 90),
+			ElementTransparency = 0.86,
+			ToggleSlider = Color3.fromRGB(200, 120, 170),
+			ToggleToggled = Color3.fromRGB(0, 0, 0),
+			SliderRail = Color3.fromRGB(200, 120, 170),
+			DropdownFrame = Color3.fromRGB(200, 160, 180),
+			DropdownHolder = Color3.fromRGB(120, 50, 75),
+			DropdownBorder = Color3.fromRGB(90, 40, 55),
+			DropdownOption = Color3.fromRGB(200, 120, 170),
+			Keybind = Color3.fromRGB(200, 120, 170),
+			Input = Color3.fromRGB(200, 120, 170),
+			InputFocused = Color3.fromRGB(20, 10, 30),
+			InputIndicator = Color3.fromRGB(170, 150, 190),
+			Dialog = Color3.fromRGB(120, 50, 75),
+			DialogHolder = Color3.fromRGB(95, 40, 60),
+			DialogHolderLine = Color3.fromRGB(90, 35, 55),
+			DialogButton = Color3.fromRGB(120, 50, 75),
+			DialogButtonBorder = Color3.fromRGB(155, 90, 115),
+			DialogBorder = Color3.fromRGB(100, 70, 90),
+			DialogInput = Color3.fromRGB(135, 55, 80),
+			DialogInputLine = Color3.fromRGB(190, 160, 180),
+			Text = Color3.fromRGB(240, 240, 240),
+			SubText = Color3.fromRGB(170, 170, 170),
+			Hover = Color3.fromRGB(200, 120, 170),
+			HoverChange = 0.04
+		}
+	end
+}
+do
+	local ab, ac, ad, ae, af, ag, ah, aj, c, e, f, g, h, i, j, k = task, setmetatable, error, newproxy, getmetatable, next, table, unpack, coroutine, script, type, require, pcall, getfenv, setfenv, rawget
+	local l, m, n, o, p, s, t, u, v, w, x = ah.insert, ah.remove, ah.freeze or function(l)
+		return l
+	end, ab and ab.defer or function(l, ...)
+		local m = c.create(l)
+		c.resume(m, ...)
+		return m
+	end, '0.0.0-venv', {}, {}, {}, {}, {}, {}
+	local y, z = {
+		GetChildren = function(y)
+			local z, A = x[y], {}
+			for B in ag, z do
+				l(A, B)
+			end
+			return A
+		end,
+		FindFirstChild = function(y, z)
+			if not z then
+				ad('Argument 1 missing or nil', 2)
+			end
+			for A in ag, x[y] do
+				if A.Name == z then
+					return A
+				end
+			end
+			return
+		end,
+		GetFullName = function(y)
+			local z, A = y.Name, y.Parent
+			while A do
+				z = A.Name .. '.' .. z
+				A = A.Parent
+			end
+			return 'VirtualEnv.' .. z
+		end
+	}, {}
+	for A, B in ag, y do
+		z[A] = function(C, ...)
+			if not x[C] then
+				ad("Expected ':' not '.' calling member function " .. A, 1)
+			end
+			return B(C, ...)
+		end
+	end
+	local C = function(C, D, E)
+		local F, G, H, I, J = ac({}, {
+			__mode = 'k'
+		}), function(F)
+			ad(F .. ' is not a valid (virtual) member of ' .. C .. ' "' .. D .. '"', 1)
+		end, function(F)
+			ad('Unable to assign (virtual) property ' .. F .. '. Property is read only', 1)
+		end, (ae(true))
+		local K = af(I)
+		K.__index = function(L, M)
+			if M == 'ClassName' then
+				return C
+			elseif M == 'Name' then
+				return D
+			elseif M == 'Parent' then
+				return E
+			elseif C == 'StringValue' and M == 'Value' then
+				return J
+			else
+				local N = z[M]
+				if N then
+					return N
+				end
+			end
+			for N in ag, F do
+				if N.Name == M then
+					return N
+				end
+			end
+			G(M)
+		end
+		K.__newindex = function(L, M, N)
+			if M == 'ClassName' then
+				H(M)
+			elseif M == 'Name' then
+				D = N
+			elseif M == 'Parent' then
+				if N == I then
+					return
+				end
+				if E ~= nil then
+					x[E][I] = nil
+				end
+				E = N
+				if N ~= nil then
+					x[N][I] = true
+				end
+			elseif C == 'StringValue' and M == 'Value' then
+				J = N
+			else
+				G(M)
+			end
+		end
+		K.__tostring = function()
+			return D
+		end
+		x[I] = F
+		if E ~= nil then
+			x[E][I] = true
+		end
+		return I
+	end
+	local function D(E, F)
+		local G, H, I, J = E[1], E[2], E[3], E[4]
+		local K = m(I, 1)
+		local L = C(H, K, F)
+		s[G] = L
+		if I then
+			for M, N in ag, I do
+				L[M] = N
+			end
+		end
+		if J then
+			for M, N in ag, J do
+				D(N, L)
+			end
+		end
+		return L
+	end
+	local E = {}
+	for F, G in ag, a do
+		l(E, D(G))
+	end
+	for H, I in ag, aa do
+		local J = s[H]
+		t[J] = I
+		local K = J.ClassName
+		if K == 'LocalScript' or K == 'Script' then
+			l(v, J)
+		end
+	end
+	local J = function(J)
+		local K, L = J.ClassName, u[J]
+		if L and K == 'ModuleScript' then
+			return aj(L)
+		end
+		local M = t[J]
+		if not M then
+			return
+		end
+		if K == 'LocalScript' or K == 'Script' then
+			M()
+			return
+		else
+			local N = {
+				M()
+			}
+			u[J] = N
+			return aj(N)
+		end
+	end
+	function b(K)
+		local L = s[K]
+		local M = t[L]
+		if not M then
+			return
+		end
+		local N, O, P, Q, R, S, T = false, n{
+			Version = p,
+			Script = e,
+			Shared = w,
+			GetScript = function()
+				return e
+			end,
+			GetShared = function()
+				return w
+			end
+		}, L, function(N, ...)
+			if x[N] and N.ClassName == 'ModuleScript' and t[N] then
+				return J(N)
+			end
+			return g(N, ...)
+		end
+		local U, V = function(U, ...)
+			if not N then
+				T()
+			end
+			if f(U) == 'number' and U >= 0 then
+				if U == 0 then
+					return S
+				else
+					U = U + 1
+					local V, W = h(i, U)
+					if V and W == R then
+						return S
+					end
+				end
+			end
+			return i(U, ...)
+		end, function(U, V, ...)
+			if not N then
+				T()
+			end
+			if f(U) == 'number' and U >= 0 then
+				if U == 0 then
+					return j(S, V)
+				else
+					U = U + 1
+					local W, X = h(i, U)
+					if W and X == R then
+						return j(S, V)
+					end
+				end
+			end
+			return j(U, V, ...)
+		end
+		function T()
+			R = i(0)
+			local W = {
+				maui = O,
+				script = P,
+				require = Q,
+				getfenv = U,
+				setfenv = V
+			}
+			S = ac({}, {
+				__index = function(X, Y)
+					local Z = k(S, Y)
+					if Z ~= nil then
+						return Z
+					end
+					local _ = W[Y]
+					if _ ~= nil then
+						return _
+					end
+					return R[Y]
+				end
+			})
+			j(M, S)
+			N = true
+		end
+		return O, P, Q, U, V
+	end
+	for K, L in ag, v do
+		o(J, L)
+	end
+	do
+		local M
+		for N, O in ag, E do
+			if O.ClassName == 'ModuleScript' and O.Name == 'MainModule' then
+				M = O
+				break
+			end
+		end
+		if M then
+			return J(M)
+		end
+	end
+end
