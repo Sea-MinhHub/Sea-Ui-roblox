@@ -1,546 +1,533 @@
 --[[
-    ╔═══════════════════════════════════════════════════════╗
-    ║       SEA MINH UI - HƯỚNG DẪN SỬ DỤNG ĐẦY ĐỦ         ║
-    ║              Complete Usage Guide v1.5                 ║
-    ╚═══════════════════════════════════════════════════════╝
+    ╔════════════════════════════════════════════════════════╗
+    ║    FULL TEST SCRIPT - SEA MINH UI v2.3.0              ║
+    ║    Testing ALL UI Elements & Features                 ║
+    ╚════════════════════════════════════════════════════════╝
 ]]--
 
--- ============================================================
--- BƯỚC 1: LOAD LIBRARY
--- ============================================================
-
-local SeaMinhUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sea-MinhHub/Sea-Ui-roblox/main/Main.lua"))()
+local SeaMinhUI = loadstring(game:HttpGet("https://github.com/sea-minhhub/seaminhui"))()
 
 -- ============================================================
--- BƯỚC 2: TẠO WINDOW (CỬA SỔ CHÍNH)
+-- CREATE MAIN WINDOW
 -- ============================================================
-
-local Window = SeaMinhUI:CreateWindow({
-    Title = "Sea Minh Hub",              -- Tiêu đề (BẮT BUỘC)
-    SubTitle = "Premium Script v2.0",    -- Phụ đề (TÙY CHỌN)
-    Size = UDim2.fromOffset(580, 460),   -- Kích thước (MẶC ĐỊNH: 580x460)
-    TabWidth = 150,                      -- Độ rộng tab (MẶC ĐỊNH: 150)
-    Theme = "Dark",                      -- Theme: Dark, Light, Aqua, etc (MẶC ĐỊNH: Dark)
-    Acrylic = true,                      -- Hiệu ứng nền mờ (MẶC ĐỊNH: false)
-    MinimizeKey = Enum.KeyCode.RightControl, -- Phím minimize (MẶC ĐỊNH: LeftControl)
-    
-    -- ICON (TÙY CHỌN)
-    Icon = "crown",                      -- Tên icon hoặc Asset ID
-    IconSize = 24                        -- Kích thước icon (MẶC ĐỊNH: 20)
+local window = SeaMinhUI:CreateWindow({
+    Title = "Sea Minh UI v2.3.0 - Complete Test",
+    Size = UDim2.fromOffset(700, 600),
+    Theme = "Dark"
 })
 
 -- ============================================================
--- BƯỚC 3: TẠO TAB (TRANG)
+-- TAB 1: BASIC ELEMENTS
 -- ============================================================
+local tab1 = window:AddTab({Title = "Basic Elements"})
 
-local MainTab = SeaMinhUI:AddTab(Window, {
-    Title = "Main",                      -- Tiêu đề tab (BẮT BUỘC)
-    Icon = "home"                        -- Icon tab (TÙY CHỌN)
+local section1 = tab1:AddSection("Buttons & Labels")
+
+section1:AddLabel({
+    Text = "📌 Welcome to Sea Minh UI v2.3.0!",
+    Bold = true,
+    Size = 15
 })
 
-local CombatTab = SeaMinhUI:AddTab(Window, {
-    Title = "Combat",
-    Icon = "sword"
+section1:AddLabel({
+    Text = "This is a complete test of all UI elements with SaveManager support.",
+    Color = "SubText"
 })
 
-local PlayerTab = SeaMinhUI:AddTab(Window, {
-    Title = "Player",
-    Icon = "user"
-})
+section1:AddDivider()
 
-local SettingsTab = SeaMinhUI:AddTab(Window, {
-    Title = "Settings",
-    Icon = "settings"
-})
-
--- ============================================================
--- BƯỚC 4: THÊM CÁC ELEMENTS
--- ============================================================
-
--- ───────────────────────────────────────────────────────────
--- 4.1: BUTTON (NÚT BẤM)
--- ───────────────────────────────────────────────────────────
-
-SeaMinhUI:AddButton(MainTab, {
-    Title = "Auto Farm",                 -- Tiêu đề (BẮT BUỘC)
-    Description = "Farm coins automatically", -- Mô tả (TÙY CHỌN)
+section1:AddButton({
+    Title = "Test Button",
+    Description = "Click to test button functionality",
     Callback = function()
-        print("Auto Farm activated!")
-        -- Code của bạn ở đây
+        print("✓ Button clicked!")
+        UI:Notify("Success", "Button works perfectly!", 2)
     end
 })
 
--- ───────────────────────────────────────────────────────────
--- 4.2: TOGGLE (CÔNG TẮC BẬT/TẮT)
--- ───────────────────────────────────────────────────────────
-
-local AutoFarmToggle = SeaMinhUI:AddToggle(MainTab, {
-    Title = "Auto Farm",                 -- Tiêu đề (BẮT BUỘC)
-    Description = "Enable auto farm",    -- Mô tả (TÙY CHỌN)
-    Default = false,                     -- Giá trị mặc định (MẶC ĐỊNH: false)
-    Callback = function(value)
-        print("Auto Farm:", value)
-        
-        if value then
-            print("Auto Farm enabled!")
-            -- Bật auto farm
-        else
-            print("Auto Farm disabled!")
-            -- Tắt auto farm
-        end
+section1:AddButton({
+    Title = "Print Current Time",
+    Callback = function()
+        print("Current time:", os.date("%H:%M:%S"))
     end
 })
 
--- Thay đổi giá trị Toggle từ code:
-AutoFarmToggle.SetValue(true)  -- Bật
-AutoFarmToggle.SetValue(false) -- Tắt
-
--- ───────────────────────────────────────────────────────────
--- 4.3: SLIDER (THANH TRƯỢT)
--- ───────────────────────────────────────────────────────────
-
-local SpeedSlider = SeaMinhUI:AddSlider(PlayerTab, {
-    Title = "Walk Speed",                -- Tiêu đề (BẮT BUỘC)
-    Description = "Adjust your speed",   -- Mô tả (TÙY CHỌN)
-    Min = 16,                           -- Giá trị nhỏ nhất (BẮT BUỘC)
-    Max = 100,                          -- Giá trị lớn nhất (BẮT BUỘC)
-    Default = 16,                       -- Giá trị mặc định (BẮT BUỘC)
-    Rounding = 0,                       -- Làm tròn (0 = số nguyên, 1 = 1 chữ số thập phân)
-    Callback = function(value)
-        print("Speed set to:", value)
-        
-        -- Set speed
-        local player = game.Players.LocalPlayer
-        if player.Character and player.Character:FindFirstChild("Humanoid") then
-            player.Character.Humanoid.WalkSpeed = value
-        end
-    end
+-- Button Row
+section1:AddButtonRow({
+    Buttons = {
+        {
+            Title = "Theme 1",
+            Callback = function()
+                UI:SetTheme("Dark")
+                print("✓ Theme: Dark")
+            end
+        },
+        {
+            Title = "Theme 2",
+            Callback = function()
+                UI:SetTheme("Light")
+                print("✓ Theme: Light")
+            end
+        },
+        {
+            Title = "Theme 3",
+            Callback = function()
+                UI:SetTheme("Aqua")
+                print("✓ Theme: Aqua")
+            end
+        }
+    }
 })
-
--- Thay đổi giá trị Slider từ code:
-SpeedSlider.SetValue(50)
-
--- ───────────────────────────────────────────────────────────
--- 4.4: INPUT (Ô NHẬP LIỆU)
--- ───────────────────────────────────────────────────────────
-
-local UsernameInput = SeaMinhUI:AddInput(SettingsTab, {
-    Title = "Target Username",           -- Tiêu đề (BẮT BUỘC)
-    Description = "Enter target name",   -- Mô tả (TÙY CHỌN)
-    Default = "",                        -- Giá trị mặc định (MẶC ĐỊNH: "")
-    Placeholder = "Type here...",        -- Placeholder (MẶC ĐỊNH: "Enter text...")
-    Callback = function(text)
-        print("Username entered:", text)
-        
-        -- Xử lý text
-        if text ~= "" then
-            print("Target set to:", text)
-        end
-    end
-})
-
--- Thay đổi giá trị Input từ code:
-UsernameInput.SetValue("NewUsername")
-
--- ───────────────────────────────────────────────────────────
--- 4.5: DROPDOWN (MENU THẢ XUỐNG)
--- ───────────────────────────────────────────────────────────
-
-local WeaponDropdown = SeaMinhUI:AddDropdown(CombatTab, {
-    Title = "Select Weapon",             -- Tiêu đề (BẮT BUỘC)
-    Description = "Choose your weapon",  -- Mô tả (TÙY CHỌN)
-    Values = {"Sword", "Gun", "Bow", "Magic Staff"}, -- Danh sách giá trị (BẮT BUỘC)
-    Default = "Sword",                   -- Giá trị mặc định (MẶC ĐỊNH: giá trị đầu tiên)
-    Callback = function(value)
-        print("Weapon selected:", value)
-        
-        -- Equip weapon
-        if value == "Sword" then
-            print("Equipped Sword!")
-        elseif value == "Gun" then
-            print("Equipped Gun!")
-        end
-    end
-})
-
--- Thay đổi giá trị Dropdown từ code:
-WeaponDropdown.SetValue("Gun")
 
 -- ============================================================
--- VÍ DỤ HOÀN CHỈNH: SCRIPT AUTO FARM
+-- TAB 2: TOGGLES & CHECKBOXES
 -- ============================================================
+local tab2 = window:AddTab({Title = "Toggles & Checks"})
 
--- Load UI
-local SeaMinhUI = loadstring(game:HttpGet("url"))()
+local section2 = tab2:AddSection("Toggle Switches")
 
--- Tạo Window
-local Window = SeaMinhUI:CreateWindow({
-    Title = "🌊 Sea Minh Farm Hub",
-    SubTitle = "Premium Edition v2.5",
-    Size = UDim2.fromOffset(600, 480),
-    TabWidth = 160,
-    Theme = "Aqua",
-    Acrylic = true,
-    MinimizeKey = Enum.KeyCode.RightControl,
-    Icon = "crown",
-    IconSize = 26
-})
-
--- ═══════════════════════════════════════════════════════════
--- TAB 1: FARMING
--- ═══════════════════════════════════════════════════════════
-
-local FarmTab = SeaMinhUI:AddTab(Window, {
-    Title = "⚡ Farming",
-    Icon = "zap"
-})
-
--- Variables
-local autoFarmEnabled = false
-local farmSpeed = 16
-local selectedMob = "Bandit"
-
--- Auto Farm Toggle
-local FarmToggle = SeaMinhUI:AddToggle(FarmTab, {
-    Title = "Auto Farm",
-    Description = "Automatically farm selected mob",
+local toggle1 = section2:AddToggle({
+    Title = "Enable Feature 1",
+    Description = "Toggle this feature on/off",
     Default = false,
     Callback = function(value)
-        autoFarmEnabled = value
-        
-        if value then
-            print("✅ Auto Farm Started!")
-            
-            -- Auto Farm Loop
-            spawn(function()
-                while autoFarmEnabled do
-                    -- Farming logic here
-                    print("Farming", selectedMob, "...")
-                    wait(1)
-                end
-            end)
-        else
-            print("❌ Auto Farm Stopped!")
-        end
+        print("✓ Toggle 1:", value and "ON" or "OFF")
     end
 })
 
--- Select Mob
-SeaMinhUI:AddDropdown(FarmTab, {
-    Title = "Select Mob",
-    Description = "Choose mob to farm",
-    Values = {"Bandit", "Boss", "Elite Guard", "Dragon"},
-    Default = "Bandit",
+local toggle2 = section2:AddToggle({
+    Title = "Auto Save",
+    Description = "Automatically save your settings",
+    Default = true,
     Callback = function(value)
-        selectedMob = value
-        print("🎯 Target:", value)
+        print("✓ Auto Save:", value and "ENABLED" or "DISABLED")
     end
 })
 
--- Farm Speed
-SeaMinhUI:AddSlider(FarmTab, {
-    Title = "Farm Speed",
-    Description = "How fast to farm",
-    Min = 1,
-    Max = 10,
-    Default = 5,
-    Rounding = 0,
+local toggle3 = section2:AddToggle({
+    Title = "Debug Mode",
     Callback = function(value)
-        farmSpeed = value
-        print("⚡ Speed:", value)
+        print("✓ Debug Mode:", value and "ON" or "OFF")
     end
 })
 
--- ═══════════════════════════════════════════════════════════
--- TAB 2: COMBAT
--- ═══════════════════════════════════════════════════════════
+section2:AddDivider()
 
-local CombatTab = SeaMinhUI:AddTab(Window, {
-    Title = "⚔️ Combat",
-    Icon = "sword"
+local checkSection = tab2:AddSection("Checkboxes")
+
+local check1 = checkSection:AddCheckbox({
+    Title = "Enable Notifications",
+    Default = true,
+    Callback = function(value)
+        print("✓ Notifications:", value and "ON" or "OFF")
+    end
 })
 
--- Kill Aura
-SeaMinhUI:AddToggle(CombatTab, {
-    Title = "Kill Aura",
-    Description = "Auto attack nearby enemies",
+local check2 = checkSection:AddCheckbox({
+    Title = "Show FPS Counter",
     Default = false,
     Callback = function(value)
-        print("Kill Aura:", value)
+        print("✓ FPS Counter:", value and "VISIBLE" or "HIDDEN")
     end
 })
 
--- Attack Range
-SeaMinhUI:AddSlider(CombatTab, {
-    Title = "Attack Range",
-    Description = "Range to attack enemies",
-    Min = 5,
-    Max = 50,
-    Default = 15,
-    Rounding = 0,
+local check3 = checkSection:AddCheckbox({
+    Title = "Enable Anti-AFK",
+    Default = false,
     Callback = function(value)
-        print("Attack Range:", value)
+        print("✓ Anti-AFK:", value and "ACTIVE" or "INACTIVE")
     end
 })
 
--- ═══════════════════════════════════════════════════════════
--- TAB 3: PLAYER
--- ═══════════════════════════════════════════════════════════
+-- ============================================================
+-- TAB 3: SLIDERS & INPUTS
+-- ============================================================
+local tab3 = window:AddTab({Title = "Sliders & Inputs"})
 
-local PlayerTab = SeaMinhUI:AddTab(Window, {
-    Title = "👤 Player",
-    Icon = "user"
-})
+local sliderSection = tab3:AddSection("Slider Controls")
 
--- Walk Speed
-local SpeedSlider = SeaMinhUI:AddSlider(PlayerTab, {
+local slider1 = sliderSection:AddSlider({
     Title = "Walk Speed",
-    Description = "Change your walking speed",
+    Description = "Adjust player walk speed",
     Min = 16,
-    Max = 200,
+    Max = 100,
     Default = 16,
-    Rounding = 0,
+    Rounding = 1,
     Callback = function(value)
-        local player = game.Players.LocalPlayer
-        if player.Character and player.Character:FindFirstChild("Humanoid") then
-            player.Character.Humanoid.WalkSpeed = value
-        end
+        print("✓ Walk Speed:", value)
     end
 })
 
--- Jump Power
-SeaMinhUI:AddSlider(PlayerTab, {
+local slider2 = sliderSection:AddSlider({
     Title = "Jump Power",
-    Description = "Change your jump height",
+    Description = "Adjust player jump power",
     Min = 50,
     Max = 200,
     Default = 50,
-    Rounding = 0,
     Callback = function(value)
-        local player = game.Players.LocalPlayer
-        if player.Character and player.Character:FindFirstChild("Humanoid") then
-            player.Character.Humanoid.JumpPower = value
-        end
+        print("✓ Jump Power:", value)
     end
 })
 
--- God Mode
-SeaMinhUI:AddToggle(PlayerTab, {
-    Title = "God Mode",
-    Description = "Take no damage",
+local slider3 = sliderSection:AddSlider({
+    Title = "FOV",
+    Description = "Field of View (degrees)",
+    Min = 70,
+    Max = 120,
+    Default = 90,
+    Callback = function(value)
+        print("✓ FOV:", value)
+    end
+})
+
+local inputSection = tab3:AddSection("Text Inputs")
+
+local input1 = inputSection:AddInput({
+    Title = "Player Name",
+    Description = "Enter your display name",
+    Placeholder = "Enter name...",
+    Default = "Player",
+    Callback = function(value)
+        print("✓ Name:", value)
+    end
+})
+
+local input2 = inputSection:AddInput({
+    Title = "Custom Message",
+    Placeholder = "Type something...",
+    Callback = function(value)
+        print("✓ Message:", value)
+    end
+})
+
+-- Multiline TextBox
+inputSection:AddTextBox({
+    Title = "Notes",
+    Placeholder = "Type your notes here...\nSupports multiple lines!",
+    Default = "",
+    Callback = function(value)
+        print("✓ Notes saved:", value)
+    end
+})
+
+-- ============================================================
+-- TAB 4: DROPDOWNS & COLORS
+-- ============================================================
+local tab4 = window:AddTab({Title = "Dropdowns & Colors"})
+
+local dropSection = tab4:AddSection("Dropdown Menus")
+
+local dropdown1 = dropSection:AddDropdown({
+    Title = "Select Game Mode",
+    Description = "Choose your preferred mode",
+    Values = {"Solo", "Duo", "Squad", "Arena"},
+    Default = "Solo",
+    Callback = function(value)
+        print("✓ Game Mode:", value)
+    end
+})
+
+local dropdown2 = dropSection:AddDropdown({
+    Title = "Select Weapon",
+    Description = "Choose your weapon type",
+    Values = {"Sword", "Axe", "Bow", "Staff", "Dagger"},
+    Default = "Sword",
+    Callback = function(value)
+        print("✓ Weapon:", value)
+    end
+})
+
+local dropdown3 = dropSection:AddDropdown({
+    Title = "Select Region",
+    Values = {"North America", "Europe", "Asia", "South America", "Oceania"},
+    Default = "Asia",
+    Callback = function(value)
+        print("✓ Region:", value)
+    end
+})
+
+local colorSection = tab4:AddSection("Color Pickers")
+
+colorSection:AddLabel({
+    Text = "Click on color boxes to randomize (demo feature)",
+    Color = "SubText"
+})
+
+local color1 = colorSection:AddColorPicker({
+    Title = "Primary Color",
+    Default = Color3.fromRGB(96, 205, 255),
+    Callback = function(color)
+        print("✓ Primary Color:", color)
+    end
+})
+
+local color2 = colorSection:AddColorPicker({
+    Title = "Secondary Color",
+    Default = Color3.fromRGB(255, 100, 100),
+    Callback = function(color)
+        print("✓ Secondary Color:", color)
+    end
+})
+
+local color3 = colorSection:AddColorPicker({
+    Title = "Accent Color",
+    Default = Color3.fromRGB(100, 255, 100),
+    Callback = function(color)
+        print("✓ Accent Color:", color)
+    end
+})
+
+-- ============================================================
+-- TAB 5: KEYBINDS & ADVANCED
+-- ============================================================
+local tab5 = window:AddTab({Title = "Keybinds & More"})
+
+local keybindSection = tab5:AddSection("Keybind Settings")
+
+keybindSection:AddLabel({
+    Text = "Click on a keybind button and press any key to rebind",
+    Color = "SubText"
+})
+
+local keybind1 = keybindSection:AddKeybind({
+    Title = "Toggle UI",
+    Default = Enum.KeyCode.RightControl,
+    Callback = function(key)
+        print("✓ UI Toggle key:", key.Name)
+    end,
+    OnPress = function()
+        print("✓ UI Toggle pressed!")
+    end
+})
+
+local keybind2 = keybindSection:AddKeybind({
+    Title = "Fly Mode",
+    Default = Enum.KeyCode.F,
+    Callback = function(key)
+        print("✓ Fly key:", key.Name)
+    end,
+    OnPress = function()
+        print("✓ Fly mode toggled!")
+    end
+})
+
+local keybind3 = keybindSection:AddKeybind({
+    Title = "Speed Boost",
+    Default = Enum.KeyCode.X,
+    Callback = function(key)
+        print("✓ Speed key:", key.Name)
+    end,
+    OnPress = function()
+        print("✓ Speed boost activated!")
+    end
+})
+
+local advancedSection = tab5:AddSection("Advanced Options")
+
+advancedSection:AddLabel({
+    Text = "🔥 Advanced Features",
+    Bold = true,
+    Size = 14
+})
+
+advancedSection:AddToggle({
+    Title = "Enable Experimental Features",
+    Description = "Use at your own risk",
     Default = false,
     Callback = function(value)
-        local player = game.Players.LocalPlayer
-        if player.Character and player.Character:FindFirstChild("Humanoid") then
-            if value then
-                player.Character.Humanoid.MaxHealth = math.huge
-                player.Character.Humanoid.Health = math.huge
-            else
-                player.Character.Humanoid.MaxHealth = 100
-                player.Character.Humanoid.Health = 100
-            end
-        end
+        print("✓ Experimental:", value and "ON" or "OFF")
     end
 })
 
--- ═══════════════════════════════════════════════════════════
--- TAB 4: TELEPORT
--- ═══════════════════════════════════════════════════════════
-
-local TeleportTab = SeaMinhUI:AddTab(Window, {
-    Title = "🚀 Teleport",
-    Icon = "rocket"
-})
-
--- Teleport to locations
-local locations = {
-    ["Spawn"] = Vector3.new(0, 10, 0),
-    ["Shop"] = Vector3.new(100, 10, 100),
-    ["Boss Area"] = Vector3.new(-200, 50, -200),
-    ["Safe Zone"] = Vector3.new(500, 20, 500)
-}
-
-for name, position in pairs(locations) do
-    SeaMinhUI:AddButton(TeleportTab, {
-        Title = "Teleport to " .. name,
-        Description = "Click to teleport",
-        Callback = function()
-            local player = game.Players.LocalPlayer
-            if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
-                player.Character.HumanoidRootPart.CFrame = CFrame.new(position)
-                print("✈️ Teleported to", name)
-            end
-        end
-    })
-end
-
--- ═══════════════════════════════════════════════════════════
--- TAB 5: SETTINGS
--- ═══════════════════════════════════════════════════════════
-
-local SettingsTab = SeaMinhUI:AddTab(Window, {
-    Title = "⚙️ Settings",
-    Icon = "settings"
-})
-
--- Theme Selection
-SeaMinhUI:AddDropdown(SettingsTab, {
-    Title = "UI Theme",
-    Description = "Change the UI theme",
-    Values = {"Dark", "Light", "Aqua", "Amethyst", "Rose", "Darker"},
-    Default = "Aqua",
+advancedSection:AddToggle({
+    Title = "Performance Mode",
+    Description = "Reduce visual effects for better FPS",
+    Default = false,
     Callback = function(value)
-        SeaMinhUI:SetTheme(value)
-        print("🎨 Theme changed to:", value)
+        print("✓ Performance Mode:", value and "ON" or "OFF")
     end
 })
 
--- Discord Username
-SeaMinhUI:AddInput(SettingsTab, {
-    Title = "Discord Username",
-    Description = "Enter your Discord username",
-    Default = "",
-    Placeholder = "username#1234",
-    Callback = function(text)
-        print("Discord:", text)
-    end
+advancedSection:AddDivider()
+
+advancedSection:AddButtonRow({
+    Buttons = {
+        {
+            Title = "Save",
+            Callback = function()
+                SaveManager:Save()
+                print("✓ Settings saved!")
+            end
+        },
+        {
+            Title = "Reset",
+            Callback = function()
+                SaveManager.Data = {}
+                SaveManager:Save()
+                print("✓ Settings reset!")
+            end
+        }
+    }
 })
 
--- Save Config
-SeaMinhUI:AddButton(SettingsTab, {
-    Title = "Save Configuration",
-    Description = "Save current settings",
+-- ============================================================
+-- TAB 6: INFORMATION & TESTING
+-- ============================================================
+local tab6 = window:AddTab({Title = "Info & Testing"})
+
+local infoSection = tab6:AddSection("Information")
+
+infoSection:AddLabel({
+    Text = "📊 Sea Minh UI v2.3.0",
+    Bold = true,
+    Size = 16
+})
+
+infoSection:AddLabel({
+    Text = "Created with love by Sea Minh Team",
+    Color = "SubText"
+})
+
+infoSection:AddLabel({
+    Text = "Discord: discord.gg/kJqB7R242H",
+    Color = "Accent"
+})
+
+infoSection:AddDivider()
+
+infoSection:AddLabel({
+    Text = "✨ Features:",
+    Bold = true
+})
+
+infoSection:AddLabel({
+    Text = "• Buttons, Toggles, Checkboxes",
+    Color = "SubText"
+})
+
+infoSection:AddLabel({
+    Text = "• Sliders, Inputs, TextBoxes",
+    Color = "SubText"
+})
+
+infoSection:AddLabel({
+    Text = "• Dropdowns, Color Pickers",
+    Color = "SubText"
+})
+
+infoSection:AddLabel({
+    Text = "• Keybinds, Button Rows",
+    Color = "SubText"
+})
+
+infoSection:AddLabel({
+    Text = "• Auto-Save with SaveManager",
+    Color = "SubText"
+})
+
+infoSection:AddLabel({
+    Text = "• 3 Themes (Dark, Light, Aqua)",
+    Color = "SubText"
+})
+
+local testSection = tab6:AddSection("Testing Tools")
+
+testSection:AddButton({
+    Title = "Print All Saved Data",
+    Description = "View all saved settings",
     Callback = function()
-        print("💾 Configuration saved!")
-        SeaMinhUI:Notify({
-            Title = "Sea Minh UI",
-            Content = "Configuration saved!",
-            Duration = 3
-        })
+        print("\n━━━━━━━ SAVED DATA ━━━━━━━")
+        for key, value in pairs(SaveManager.Data) do
+            print(key, "=", value)
+        end
+        print("━━━━━━━━━━━━━━━━━━━━━━━━\n")
     end
 })
 
--- Destroy UI
-SeaMinhUI:AddButton(SettingsTab, {
-    Title = "Unload UI",
-    Description = "Destroy the UI",
+testSection:AddButton({
+    Title = "Print All Current Values",
+    Description = "View all element values",
     Callback = function()
-        SeaMinhUI:Destroy()
-        print("🗑️ UI destroyed!")
+        print("\n━━━━━━━ CURRENT VALUES ━━━━━━━")
+        print("Toggle 1:", toggle1:GetValue())
+        print("Toggle 2:", toggle2:GetValue())
+        print("Check 1:", check1:GetValue())
+        print("Check 2:", check2:GetValue())
+        print("Slider 1:", slider1:GetValue())
+        print("Slider 2:", slider2:GetValue())
+        print("Input 1:", input1:GetValue())
+        print("Dropdown 1:", dropdown1:GetValue())
+        print("Keybind 1:", keybind1:GetKey().Name)
+        print("Color 1:", color1:GetColor())
+        print("━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
     end
 })
 
--- ============================================================
--- NOTIFICATION EXAMPLES
--- ============================================================
-
--- Simple notification
-SeaMinhUI:Notify({
-    Title = "Welcome!",
-    Content = "Sea Minh UI loaded successfully!",
-    Duration = 5
+testSection:AddButton({
+    Title = "Test All Animations",
+    Description = "Trigger hover effects",
+    Callback = function()
+        print("✓ All animations working!")
+        UI:Notify("Success", "Animations tested!", 2)
+    end
 })
 
--- Notification with subcontent
-SeaMinhUI:Notify({
-    Title = "Auto Farm",
-    Content = "Started farming",
-    SubContent = "Target: Bandit",
-    Duration = 3
-})
+testSection:AddDivider()
 
--- ============================================================
--- THEME EXAMPLES
--- ============================================================
-
--- Change theme anytime
-SeaMinhUI:SetTheme("Dark")      -- Theme tối
-SeaMinhUI:SetTheme("Light")     -- Theme sáng
-SeaMinhUI:SetTheme("Aqua")      -- Theme xanh nước
-SeaMinhUI:SetTheme("Amethyst")  -- Theme tím
-SeaMinhUI:SetTheme("Rose")      -- Theme hồng
-SeaMinhUI:SetTheme("Darker")    -- Theme tối hơn
-
--- ============================================================
--- ICON EXAMPLES
--- ============================================================
-
---[[
-    DANH SÁCH ICONS CÓ SẴN:
-    
-    🏠 General:
-    - home, settings, search, activity, airplay
-    
-    👤 Users:
-    - user, users
-    
-    ⭐ Badges:
-    - star, crown, trophy, shield, gem
-    
-    ❤️ Emotions:
-    - heart
-    
-    🎮 Gaming:
-    - gamepad, sword
-    
-    ⚡ Effects:
-    - zap (sét)
-    
-    🚀 Others:
-    - rocket
-    
-    ✅ UI:
-    - check, x (đóng), minus (minimize), chevron-down
-]]--
-
--- Dùng icon trong Window
-local Window = SeaMinhUI:CreateWindow({
-    Title = "My Hub",
-    Icon = "crown",          -- Icon vương miện
-    IconSize = 24
-})
-
--- Dùng icon trong Tab
-local Tab = SeaMinhUI:AddTab(Window, {
-    Title = "Home",
-    Icon = "home"            -- Icon nhà
-})
-
--- Dùng Asset ID riêng
-local Window2 = SeaMinhUI:CreateWindow({
-    Title = "Custom Hub",
-    Icon = "rbxassetid://123456789",
-    IconSize = 22
+testSection:AddButtonRow({
+    Buttons = {
+        {
+            Title = "Destroy UI",
+            Callback = function()
+                print("✓ Destroying UI...")
+                UI:Destroy(window)
+            end
+        }
+    }
 })
 
 -- ============================================================
--- LƯU Ý QUAN TRỌNG
+-- STATUS MESSAGES
 -- ============================================================
-
---[[
-    ✅ TIPS:
-    
-    1. Luôn lưu reference của Toggle/Slider/Input/Dropdown
-       nếu bạn muốn thay đổi giá trị từ code
-    
-    2. Dùng Description để giải thích rõ chức năng
-    
-    3. Theme tốt nhất: Dark, Aqua, Amethyst
-    
-    4. MinimizeKey mặc định: LeftControl (Ctrl trái)
-    
-    5. Kích thước Window tốt nhất: 580x460 đến 600x480
-    
-    6. TabWidth tốt nhất: 150-170
-    
-    7. Icon size tốt nhất: 20-28
-    
-    8. Callback sẽ chạy mỗi khi giá trị thay đổi
-    
-    9. Dùng spawn() hoặc task.spawn() cho các loops
-    
-    10. Luôn kiểm tra Character tồn tại trước khi modify
-]]--
-
-print("✅ Sea Minh UI đã load thành công!")
-print("📖 Xem hướng dẫn đầy đủ trong code")
+print("\n")
+print("╔════════════════════════════════════════════════╗")
+print("║   Sea Minh UI v2.3.0 - Full Test Active      ║")
+print("║   All UI Elements + SaveManager Ready         ║")
+print("╚════════════════════════════════════════════════╝")
+print("")
+print("✅ Window created successfully")
+print("✅ 6 Tabs loaded")
+print("✅ 20+ UI Elements ready:")
+print("   • Buttons & Button Rows")
+print("   • Toggles & Checkboxes")
+print("   • Sliders (with decimals)")
+print("   • Text Inputs & TextBoxes")
+print("   • Dropdowns (multi-option)")
+print("   • Color Pickers")
+print("   • Keybinds (with OnPress)")
+print("   • Labels & Dividers")
+print("   • Sections (nested elements)")
+print("")
+print("🎨 Theme System:")
+print("   • Dark (default)")
+print("   • Light")
+print("   • Aqua")
+print("")
+print("💾 SaveManager:")
+print("   • Auto-save every 3 seconds")
+print("   • Persistent data storage")
+print("   • Reload-safe settings")
+print("")
+print("🎮 Test everything:")
+print("   1. Click buttons & check console")
+print("   2. Toggle switches & checkboxes")
+print("   3. Drag sliders (smooth animations)")
+print("   4. Type in inputs & textboxes")
+print("   5. Select from dropdowns")
+print("   6. Click color pickers (randomize)")
+print("   7. Set keybinds & press them")
+print("   8. Change themes")
+print("   9. Close and reopen - data persists!")
+print("")
+print("Discord: discord.gg/kJqB7R242H")
+print("")
