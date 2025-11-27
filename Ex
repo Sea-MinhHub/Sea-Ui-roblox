@@ -5,7 +5,7 @@
     ╚════════════════════════════════════════════════════════╝
 ]]--
 
-local SeaMinhUI = loadstring(game:HttpGet("https://github.com/sea-minhhub/seaminhui"))()
+local SeaMinhUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sea-MinhHub/Sea-Ui-roblox/main/Main.lua"))()
 
 -- ============================================================
 -- CREATE MAIN WINDOW
