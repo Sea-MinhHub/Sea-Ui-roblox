@@ -1,462 +1,421 @@
 --[[
     ╔════════════════════════════════════════════════════════╗
-    ║    SEA MINH UI - TỪNG LỆNH RIÊNG BIỆT                 ║
-    ║    Copy từng đoạn code bạn cần                        ║
+    ║    SEA MINH UI v3.0.0 - FULL EXAMPLE                  ║
+    ║    With Notifications + Icons + All Features          ║
     ╚════════════════════════════════════════════════════════╝
 ]]--
 
--- ============================================================
--- 1. TẠO WINDOW CƠ BẢN
--- ============================================================
---[[ COPY ĐOẠN NÀY ĐỂ TẠO WINDOW ]]--
 local UI = SeaMinhUI
+
+-- ============================================================
+-- CREATE WINDOW
+-- ============================================================
 local window = UI:CreateWindow({
-    Title = "My Script",
-    Size = UDim2.fromOffset(600, 500)
+    Title = "Sea Minh UI v3.0",
+    SubTitle = "Full Featured Example",
+    Icon = "home",
+    Size = UDim2.fromOffset(600, 500),
+    MinimizeKey = Enum.KeyCode.RightControl
+})
+
+-- Welcome Notification
+UI:Notify({
+    Title = "Welcome!",
+    Content = "Sea Minh UI v3.0 loaded successfully!",
+    Duration = 4,
+    Type = "Success",
+    Icon = "check"
 })
 
 -- ============================================================
--- 2. TẠO WINDOW VỚI ICON VÀ SUBTITLE
+-- TAB 1: HOME
 -- ============================================================
---[[ WINDOW ĐẦY ĐỦ TÍNH NĂNG ]]--
-local window = UI:CreateWindow({
-    Title = "My Script Hub",
-    SubTitle = "Version 1.0.0",
-    Icon = "home", -- home, settings, user, star
-    Size = UDim2.fromOffset(650, 550),
-    MinimizeKey = Enum.KeyCode.RightControl, -- Phím ẩn/hiện UI
-    Center = true -- true = giữa màn hình, false = góc
+local homeTab = window:AddTab({
+    Title = "Home",
+    Icon = "home"
 })
 
--- ============================================================
--- 3. TẠO TAB CÓ ICON
--- ============================================================
---[[ TAB CƠ BẢN ]]--
-local tab1 = window:AddTab({
-    Title = "Home"
-})
+local welcomeSection = homeTab:AddSection("🎮 Welcome")
 
---[[ TAB CÓ ICON ]]--
-local tab2 = window:AddTab({
-    Title = "Settings",
-    Icon = "settings" -- home, settings, user, star, info, bell
-})
-
--- ============================================================
--- 4. TẠO SECTION (KHUNG NHÓM)
--- ============================================================
---[[ SECTION ĐỂ NHÓM CÁC NÚT LẠI ]]--
-local section1 = tab1:AddSection("My Section Title")
-
--- ============================================================
--- 5. NÚT BUTTON CƠ BẢN
--- ============================================================
---[[ BUTTON ĐỖN GIẢN ]]--
-tab1:AddButton({
-    Title = "Click Me",
-    Callback = function()
-        print("Button clicked!")
-    end
-})
-
---[[ BUTTON CÓ ICON ]]--
-tab1:AddButton({
-    Title = "Save Settings",
-    Icon = "check", -- check, x, home, settings, star
-    Callback = function()
-        print("Settings saved!")
-    end
-})
-
--- ============================================================
--- 6. TOGGLE (CÔNG TẮC BẬT/TẮT)
--- ============================================================
---[[ TOGGLE CƠ BẢN ]]--
-local myToggle = tab1:AddToggle({
-    Title = "Enable Feature",
-    Default = false, -- Trạng thái ban đầu
-    Callback = function(value)
-        print("Toggle:", value) -- true hoặc false
-    end
-})
-
---[[ SỬ DỤNG TOGGLE ]]--
--- Đọc giá trị
-local isEnabled = myToggle:GetValue()
-
--- Thay đổi giá trị
-myToggle:SetValue(true) -- Bật
-myToggle:SetValue(false) -- Tắt
-
--- ============================================================
--- 7. SLIDER (THANH KÉO)
--- ============================================================
---[[ SLIDER SỐ NGUYÊN ]]--
-local speedSlider = tab1:AddSlider({
-    Title = "Walk Speed",
-    Min = 16,
-    Max = 100,
-    Default = 16,
-    Rounding = 1, -- Làm tròn đến số nguyên
-    Callback = function(value)
-        print("Speed:", value)
-    end
-})
-
---[[ SLIDER SỐ THẬP PHÂN ]]--
-local volumeSlider = tab1:AddSlider({
-    Title = "Volume",
-    Min = 0,
-    Max = 1,
-    Default = 0.5,
-    Rounding = 0.1, -- Làm tròn 1 chữ số
-    Callback = function(value)
-        print("Volume:", value)
-    end
-})
-
---[[ SỬ DỤNG SLIDER ]]--
--- Đọc giá trị
-local speed = speedSlider:GetValue()
-
--- Thay đổi giá trị
-speedSlider:SetValue(50)
-
--- ============================================================
--- 8. INPUT (NHẬP TEXT)
--- ============================================================
---[[ INPUT CƠ BẢN ]]--
-local nameInput = tab1:AddInput({
-    Title = "Your Name",
-    Placeholder = "Enter your name...",
-    Default = "Player",
-    Callback = function(value)
-        print("Name:", value)
-    end
-})
-
---[[ SỬ DỤNG INPUT ]]--
--- Đọc text
-local playerName = nameInput:GetValue()
-
--- Thay đổi text
-nameInput:SetValue("NewName")
-
--- ============================================================
--- 9. DROPDOWN (MENU CHỌN)
--- ============================================================
---[[ DROPDOWN CƠ BẢN ]]--
-local modeDropdown = tab1:AddDropdown({
-    Title = "Select Mode",
-    Values = {"Easy", "Normal", "Hard", "Extreme"},
-    Default = "Normal",
-    Callback = function(value)
-        print("Selected:", value)
-    end
-})
-
---[[ SỬ DỤNG DROPDOWN ]]--
--- Đọc giá trị đã chọn
-local selectedMode = modeDropdown:GetValue()
-
--- Thay đổi lựa chọn
-modeDropdown:SetValue("Hard")
-
--- ============================================================
--- 10. COLOR PICKER (CHỌN MÀU)
--- ============================================================
---[[ COLOR PICKER ]]--
-local colorPicker = tab1:AddColorPicker({
-    Title = "Primary Color",
-    Default = Color3.fromRGB(255, 0, 0), -- Màu đỏ
-    Callback = function(color)
-        print("Color:", color)
-    end
-})
-
---[[ SỬ DỤNG COLOR PICKER ]]--
--- Đọc màu
-local currentColor = colorPicker:GetColor()
-
--- Thay đổi màu
-colorPicker:SetColor(Color3.fromRGB(0, 255, 0)) -- Màu xanh lá
-
--- ============================================================
--- 11. KEYBIND (CHỌN PHÍM)
--- ============================================================
---[[ KEYBIND CƠ BẢN ]]--
-local flyKeybind = tab1:AddKeybind({
-    Title = "Fly Mode",
-    Default = Enum.KeyCode.F,
-    Callback = function(key)
-        print("Key changed to:", key.Name)
-    end,
-    OnPress = function()
-        print("Fly key pressed!")
-        -- Code khi nhấn phím
-    end
-})
-
---[[ SỬ DỤNG KEYBIND ]]--
--- Đọc phím hiện tại
-local currentKey = flyKeybind:GetKey()
-
--- Thay đổi phím
-flyKeybind:SetKey(Enum.KeyCode.G)
-
--- ============================================================
--- 12. LABEL (HIỂN THỊ TEXT)
--- ============================================================
---[[ LABEL CƠ BẢN ]]--
-tab1:AddLabel({
-    Text = "This is a normal label"
-})
-
---[[ LABEL IN ĐẬM ]]--
-tab1:AddLabel({
-    Text = "This is bold text",
-    Bold = true
-})
-
---[[ LABEL CỠ CHỮ LỚN ]]--
-tab1:AddLabel({
-    Text = "Big title text",
+welcomeSection:AddLabel({
+    Text = "Sea Minh UI v3.0.0",
     Bold = true,
     Size = 16
 })
 
---[[ CẬP NHẬT LABEL ]]--
-local myLabel = tab1:AddLabel({
-    Text = "Initial text"
-})
-myLabel:SetText("Updated text")
-
--- ============================================================
--- 13. DIVIDER (ĐƯỜNG PHÂN CÁCH)
--- ============================================================
---[[ ĐƯỜNG PHÂN CÁCH ]]--
-tab1:AddDivider()
-
--- ============================================================
--- 14. THÔNG BÁO - SUCCESS (THÀNH CÔNG)
--- ============================================================
---[[ THÔNG BÁO THÀNH CÔNG - MÀU XANH LÁ ]]--
-UI:Notify({
-    Title = "Success!",
-    Content = "Operation completed successfully",
-    Duration = 3,
-    Type = "Success"
+welcomeSection:AddLabel({
+    Text = "Complete UI library with notifications, icons, and auto-save!"
 })
 
--- ============================================================
--- 15. THÔNG BÁO - INFO (THÔNG TIN)
--- ============================================================
---[[ THÔNG BÁO THÔNG TIN - MÀU XANH DƯƠNG ]]--
-UI:Notify({
-    Title = "Information",
-    Content = "This is an informational message",
-    Duration = 3,
-    Type = "Info"
-})
+welcomeSection:AddDivider()
 
--- ============================================================
--- 16. THÔNG BÁO - WARNING (CẢNH BÁO)
--- ============================================================
---[[ THÔNG BÁO CẢNH BÁO - MÀU VÀNG ]]--
-UI:Notify({
-    Title = "Warning!",
-    Content = "Please be careful with this action",
-    Duration = 4,
-    Type = "Warning"
-})
-
--- ============================================================
--- 17. THÔNG BÁO - ERROR (LỖI)
--- ============================================================
---[[ THÔNG BÁO LỖI - MÀU ĐỎ ]]--
-UI:Notify({
-    Title = "Error!",
-    Content = "Something went wrong",
-    Duration = 5,
-    Type = "Error"
-})
-
--- ============================================================
--- 18. THÔNG BÁO CÓ ICON
--- ============================================================
---[[ THÔNG BÁO VỚI ICON TÙY CHỈNH ]]--
-UI:Notify({
-    Title = "Custom Notification",
-    Content = "With custom icon",
-    Duration = 3,
-    Type = "Success",
-    Icon = "star" -- bell, check, x, star, home, settings
-})
-
--- ============================================================
--- 19. ĐIỀU KHIỂN WINDOW
--- ============================================================
---[[ ẨN WINDOW ]]--
-window:Minimize()
-
---[[ HIỆN WINDOW ]]--
-window:Restore()
-
---[[ BẬT/TẮT WINDOW ]]--
-window:Toggle()
-
---[[ ĐÓNG/XÓA WINDOW ]]--
-window:Destroy()
-
--- ============================================================
--- 20. LƯU VÀ TẢI SETTINGS
--- ============================================================
---[[ LƯU THỦ CÔNG ]]--
-SaveManager:Save()
-
---[[ ĐỌC DỮ LIỆU ]]--
-local savedValue = SaveManager:Get("myKey", "defaultValue")
-
---[[ GHI DỮ LIỆU ]]--
-SaveManager:Set("myKey", "myValue")
-
---[[ XÓA DỮ LIỆU ]]--
-SaveManager.Data = {}
-SaveManager:Save()
-
--- ============================================================
--- 21. VÍ DỤ HOÀN CHỈNH - TAB VỚI NHIỀU ELEMENTS
--- ============================================================
---[[ VÍ DỤ ĐẦY ĐỦ ]]--
-local window = UI:CreateWindow({
-    Title = "My Hub",
-    Icon = "home",
-    Size = UDim2.fromOffset(600, 500)
-})
-
-local mainTab = window:AddTab({
-    Title = "Main",
-    Icon = "home"
-})
-
-local section1 = mainTab:AddSection("Player Settings")
-
-section1:AddToggle({
-    Title = "Auto Farm",
-    Default = false,
-    Callback = function(value)
-        if value then
-            UI:Notify({
-                Title = "Enabled",
-                Content = "Auto Farm activated!",
-                Type = "Success"
-            })
-        else
-            UI:Notify({
-                Title = "Disabled",
-                Content = "Auto Farm deactivated",
-                Type = "Info"
-            })
-        end
-    end
-})
-
-section1:AddSlider({
-    Title = "Farm Speed",
-    Min = 1,
-    Max = 10,
-    Default = 5,
-    Callback = function(value)
-        print("Farm speed:", value)
-    end
-})
-
-local section2 = mainTab:AddSection("Actions")
-
-section2:AddButton({
-    Title = "Teleport to Boss",
-    Icon = "star",
+welcomeSection:AddButton({
+    Title = "Success Notification",
+    Icon = "check",
     Callback = function()
         UI:Notify({
-            Title = "Teleporting...",
-            Content = "Moving to boss location",
+            Title = "Success!",
+            Content = "This is a success notification",
+            Type = "Success",
+            Duration = 3
+        })
+    end
+})
+
+welcomeSection:AddButton({
+    Title = "Info Notification",
+    Icon = "bell",
+    Callback = function()
+        UI:Notify({
+            Title = "Information",
+            Content = "This is an info notification",
+            Type = "Info",
+            Duration = 3
+        })
+    end
+})
+
+welcomeSection:AddButton({
+    Title = "Warning Notification",
+    Icon = "alert",
+    Callback = function()
+        UI:Notify({
+            Title = "Warning!",
+            Content = "This is a warning notification",
+            Type = "Warning",
+            Duration = 3
+        })
+    end
+})
+
+welcomeSection:AddButton({
+    Title = "Error Notification",
+    Icon = "x",
+    Callback = function()
+        UI:Notify({
+            Title = "Error!",
+            Content = "This is an error notification",
+            Type = "Error",
+            Duration = 3
+        })
+    end
+})
+
+-- ============================================================
+-- TAB 2: SETTINGS
+-- ============================================================
+local settingsTab = window:AddTab({
+    Title = "Settings",
+    Icon = "settings"
+})
+
+local toggleSection = settingsTab:AddSection("⚙️ Toggle Options")
+
+local toggle1 = toggleSection:AddToggle({
+    Title = "Enable Feature",
+    Default = false,
+    Callback = function(value)
+        print("Feature:", value and "ON" or "OFF")
+        UI:Notify({
+            Title = "Toggle Changed",
+            Content = "Feature is now " .. (value and "enabled" or "disabled"),
             Type = "Info",
             Duration = 2
         })
     end
 })
 
-section2:AddButton({
-    Title = "Reset Character",
-    Icon = "x",
-    Callback = function()
+local toggle2 = toggleSection:AddToggle({
+    Title = "Auto Save",
+    Default = true,
+    Callback = function(value)
+        print("Auto Save:", value)
+    end
+})
+
+local toggle3 = toggleSection:AddToggle({
+    Title = "Show Notifications",
+    Default = true,
+    Callback = function(value)
+        print("Notifications:", value)
+    end
+})
+
+local sliderSection = settingsTab:AddSection("🎚️ Sliders")
+
+local slider1 = sliderSection:AddSlider({
+    Title = "Walk Speed",
+    Min = 16,
+    Max = 100,
+    Default = 16,
+    Callback = function(value)
+        print("Speed:", value)
+    end
+})
+
+local slider2 = sliderSection:AddSlider({
+    Title = "Jump Power",
+    Min = 50,
+    Max = 200,
+    Default = 50,
+    Callback = function(value)
+        print("Jump:", value)
+    end
+})
+
+-- ============================================================
+-- TAB 3: PLAYER
+-- ============================================================
+local playerTab = window:AddTab({
+    Title = "Player",
+    Icon = "user"
+})
+
+local inputSection = playerTab:AddSection("📝 Text Inputs")
+
+local input1 = inputSection:AddInput({
+    Title = "Player Name",
+    Placeholder = "Enter your name...",
+    Default = "Player",
+    Callback = function(value)
+        print("Name:", value)
         UI:Notify({
-            Title = "Reset!",
-            Content = "Character has been reset",
-            Type = "Warning",
+            Title = "Name Updated",
+            Content = "Your name is now: " .. value,
+            Type = "Success"
+        })
+    end
+})
+
+local input2 = inputSection:AddInput({
+    Title = "Custom Message",
+    Placeholder = "Type something...",
+    Callback = function(value)
+        print("Message:", value)
+    end
+})
+
+local dropdownSection = playerTab:AddSection("📋 Dropdowns")
+
+local dropdown1 = dropdownSection:AddDropdown({
+    Title = "Select Mode",
+    Values = {"Easy", "Normal", "Hard", "Extreme", "Nightmare"},
+    Default = "Normal",
+    Callback = function(value)
+        print("Mode:", value)
+        UI:Notify({
+            Title = "Mode Selected",
+            Content = "Difficulty: " .. value,
+            Type = "Info"
+        })
+    end
+})
+
+local dropdown2 = dropdownSection:AddDropdown({
+    Title = "Select Weapon",
+    Values = {"Sword", "Axe", "Bow", "Staff", "Dagger"},
+    Default = "Sword",
+    Callback = function(value)
+        print("Weapon:", value)
+    end
+})
+
+-- ============================================================
+-- TAB 4: CUSTOMIZATION
+-- ============================================================
+local customTab = window:AddTab({
+    Title = "Custom",
+    Icon = "star"
+})
+
+local colorSection = customTab:AddSection("🎨 Color Pickers")
+
+colorSection:AddLabel({
+    Text = "Click color boxes to randomize colors"
+})
+
+local color1 = colorSection:AddColorPicker({
+    Title = "Primary Color",
+    Default = Color3.fromRGB(96, 205, 255),
+    Callback = function(color)
+        print("Primary:", color)
+        UI:Notify({
+            Title = "Color Changed",
+            Content = "Primary color updated!",
+            Type = "Success"
+        })
+    end
+})
+
+local color2 = colorSection:AddColorPicker({
+    Title = "Accent Color",
+    Default = Color3.fromRGB(255, 100, 100),
+    Callback = function(color)
+        print("Accent:", color)
+    end
+})
+
+local keybindSection = customTab:AddSection("⌨️ Keybinds")
+
+keybindSection:AddLabel({
+    Text = "Click keybind button and press any key"
+})
+
+local keybind1 = keybindSection:AddKeybind({
+    Title = "Toggle Menu",
+    Default = Enum.KeyCode.E,
+    Callback = function(key)
+        print("Menu key:", key.Name)
+    end,
+    OnPress = function()
+        print("Menu toggled!")
+        UI:Notify({
+            Title = "Menu Toggled",
+            Content = "Press the key again to toggle",
+            Type = "Info"
+        })
+    end
+})
+
+local keybind2 = keybindSection:AddKeybind({
+    Title = "Fly Mode",
+    Default = Enum.KeyCode.F,
+    Callback = function(key)
+        print("Fly key:", key.Name)
+    end,
+    OnPress = function()
+        print("Fly activated!")
+    end
+})
+
+-- ============================================================
+-- TAB 5: INFO
+-- ============================================================
+local infoTab = window:AddTab({
+    Title = "Info",
+    Icon = "info"
+})
+
+local infoSection = infoTab:AddSection("ℹ️ Information")
+
+infoSection:AddLabel({
+    Text = "📊 Sea Minh UI v3.0.0",
+    Bold = true,
+    Size = 15
+})
+
+infoSection:AddLabel({
+    Text = "Created by Sea Minh Team"
+})
+
+infoSection:AddLabel({
+    Text = "Discord: discord.gg/kJqB7R242H"
+})
+
+infoSection:AddDivider()
+
+infoSection:AddLabel({
+    Text = "✨ New Features:",
+    Bold = true
+})
+
+infoSection:AddLabel({
+    Text = "• 🔔 Notification System (4 types)"
+})
+
+infoSection:AddLabel({
+    Text = "• 🎨 Icon Support (buttons, tabs, window)"
+})
+
+infoSection:AddLabel({
+    Text = "• ⌨️ Customizable Minimize Key"
+})
+
+infoSection:AddLabel({
+    Text = "• 🖱️ Draggable Window"
+})
+
+infoSection:AddLabel({
+    Text = "• 💾 Auto-Save Settings"
+})
+
+infoSection:AddLabel({
+    Text = "• 🎭 Smooth Animations"
+})
+
+local controlSection = infoTab:AddSection("🎮 Controls")
+
+controlSection:AddButton({
+    Title = "Minimize Window",
+    Icon = "minus",
+    Callback = function()
+        window:Minimize()
+        UI:Notify({
+            Title = "Window Minimized",
+            Content = "Press RightControl to restore",
+            Type = "Info",
             Duration = 2
         })
     end
 })
 
--- ============================================================
--- 22. ICONS CÓ SẴN
--- ============================================================
---[[
-    DANH SÁCH ICONS:
-    
-    ✅ "home" - Nhà
-    ⚙️ "settings" - Cài đặt
-    👤 "user" - Người dùng
-    ⭐ "star" - Ngôi sao
-    🔔 "bell" - Chuông thông báo
-    ℹ️ "info" - Thông tin
-    ⚠️ "alert" - Cảnh báo
-    🔍 "search" - Tìm kiếm
-    📦 "box" - Hộp
-    ✓ "check" - Dấu tick
-    ✕ "x" - Đóng
-    ➖ "minus" - Thu nhỏ
-    ▼ "chevron" - Mũi tên
-    
-    Hoặc dùng asset ID:
-    Icon = "rbxassetid://1234567890"
-]]--
+controlSection:AddButton({
+    Title = "Print All Values",
+    Icon = "search",
+    Callback = function()
+        print("\n━━━━━━━ VALUES ━━━━━━━")
+        print("Toggle 1:", toggle1:GetValue())
+        print("Toggle 2:", toggle2:GetValue())
+        print("Slider 1:", slider1:GetValue())
+        print("Input 1:", input1:GetValue())
+        print("Dropdown:", dropdown1:GetValue())
+        print("Color 1:", color1:GetColor())
+        print("Keybind 1:", keybind1:GetKey().Name)
+        print("━━━━━━━━━━━━━━━━━━━━━\n")
+        
+        UI:Notify({
+            Title = "Values Printed",
+            Content = "Check console (F9) for details",
+            Type = "Success"
+        })
+    end
+})
 
--- ============================================================
--- 23. MÀU CHO THEMES
--- ============================================================
---[[
-    CÁC MÀU CÓ SẴN:
-    
-    Color3.fromRGB(96, 205, 255)   -- Xanh dương sáng (Accent)
-    Color3.fromRGB(52, 211, 153)   -- Xanh lá (Success)
-    Color3.fromRGB(251, 191, 36)   -- Vàng (Warning)
-    Color3.fromRGB(239, 68, 68)    -- Đỏ (Error)
-    Color3.fromRGB(30, 30, 30)     -- Đen (Background)
-    Color3.fromRGB(240, 240, 240)  -- Trắng (Text)
-]]--
+controlSection:AddButton({
+    Title = "Save Settings",
+    Icon = "check",
+    Callback = function()
+        SaveManager:Save()
+        UI:Notify({
+            Title = "Saved!",
+            Content = "All settings have been saved",
+            Type = "Success",
+            Duration = 2
+        })
+        print("✓ Settings saved!")
+    end
+})
 
--- ============================================================
--- 24. PHÍM TẮT CÓ SẴN
--- ============================================================
---[[
-    CÁC PHÍM THƯỜNG DÙNG:
-    
-    Enum.KeyCode.E
-    Enum.KeyCode.F
-    Enum.KeyCode.G
-    Enum.KeyCode.Q
-    Enum.KeyCode.X
-    Enum.KeyCode.Z
-    Enum.KeyCode.LeftControl
-    Enum.KeyCode.RightControl
-    Enum.KeyCode.LeftShift
-    Enum.KeyCode.RightShift
-]]--
+controlSection:AddButton({
+    Title = "Reset Settings",
+    Icon = "x",
+    Callback = function()
+        SaveManager.Data = {}
+        SaveManager:Save()
+        UI:Notify({
+            Title = "Reset Complete",
+            Content = "All settings have been reset",
+            Type = "Warning",
+            Duration = 3
+        })
+        print("✓ Settings reset!")
+    end
+})
 
--- ============================================================
--- HẾT
--- ============================================================
-print("✅ Sea Minh UI Examples loaded!")
-print("📋 Copy đoạn code bạn cần từ file này")
+UI:Notify({
+    Title = "Success!",
+    Content = "Operation completed",
+    Duration = 3,
+    Type = "Success", -- Info, Success, Warning, Error
+    Icon = "check" -- Optional
+})
